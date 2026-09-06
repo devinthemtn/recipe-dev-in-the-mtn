@@ -1,3 +1,7 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+
+/* Dark mode is toggled by adding/removing .dark on <html> (see ThemeToggle.svelte),
+   rather than following the OS preference automatically. */
+@custom-variant dark (&:where(.dark, .dark *));

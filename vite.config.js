@@ -1,12 +1,14 @@
 /// <reference types="vitest/config" />
 import tailwindcss from '@tailwindcss/vite';
-import adapter from '@sveltejs/adapter-auto';
+import adapter from '@sveltejs/adapter-static';
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { storybookTest } from '@storybook/addon-vitest/vitest-plugin';
 import { playwright } from '@vitest/browser-playwright';
+import { mdsvex } from 'mdsvex';
+import rehypeExternalLinks from 'rehype-external-links';
 const dirname =
 	typeof __dirname !== 'undefined' ? __dirname : path.dirname(fileURLToPath(import.meta.url));
 
@@ -20,10 +22,26 @@ export default defineConfig({
 				runes: ({ filename }) =>
 					filename.split(/[/\\]/).includes('node_modules') ? undefined : true
 			},
-			// adapter-auto only supports some environments, see https://svelte.dev/docs/kit/adapter-auto for a list.
-			// If your environment is not supported, or you settled on a specific environment, switch out the adapter.
-			// See https://svelte.dev/docs/kit/adapters for more information about adapters.
-			adapter: adapter()
+			// Recipe and blog content is authored as markdown (.svx) with mdsvex.
+			extensions: ['.svelte', '.svx'],
+			preprocess: [
+				mdsvex({
+					extensions: ['.svx'],
+					// Recipe/blog links are always references out to other sites, so open them
+					// in a new tab instead of navigating away from the reader's place here.
+					rehypePlugins: [
+						[rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }]
+					]
+				})
+			],
+			// This is a fully static, prerendered site (see src/routes/+layout.js),
+			// so adapter-static can output plain HTML/CSS/JS with no server runtime.
+			adapter: adapter({
+				pages: 'build',
+				assets: 'build',
+				fallback: undefined,
+				precompress: false
+			})
 		})
 	],
 	test: {

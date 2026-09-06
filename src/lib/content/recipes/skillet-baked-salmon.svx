@@ -1,0 +1,38 @@
+---
+title: "Skillet-Baked Salmon with Lemon Butter"
+description: "A quick weeknight salmon dinner finished with a bright lemon butter pan sauce."
+date: "2026-08-20"
+tags: ["dinner", "seafood", "gluten-free", "weeknight"]
+prepTime: "10 min"
+cookTime: "20 min"
+totalTime: "30 min"
+servings: 4
+nutrition:
+  calories: 410
+  protein: "34g"
+  carbs: "6g"
+  fat: "27g"
+  fiber: "1g"
+  sugar: "2g"
+  sodium: "380mg"
+---
+
+## Ingredients
+
+- 4 salmon fillets (about 6 oz each), skin on
+- 2 tbsp olive oil
+- Salt and freshly ground black pepper
+- 3 tbsp unsalted butter
+- 2 cloves garlic, minced
+- 1 lemon, half juiced and half sliced
+- 2 tbsp chopped fresh parsley
+
+## Instructions
+
+1. Preheat the oven to 400°F (200°C).
+2. Pat the salmon fillets dry and season both sides with salt and pepper.
+3. Heat the olive oil in a large oven-safe skillet over medium-high heat. Sear the salmon skin-side down for 3-4 minutes, until the skin is crisp.
+4. Flip the fillets and transfer the skillet to the oven. Bake for 8-10 minutes, until the salmon flakes easily with a fork.
+5. Remove the skillet from the oven (careful, the handle is hot) and set the salmon aside on a plate.
+6. Return the skillet to low heat, melt the butter, and add the garlic. Cook for 30 seconds until fragrant, then stir in the lemon juice.
+7. Spoon the lemon butter sauce over the salmon, top with lemon slices and parsley, and serve.

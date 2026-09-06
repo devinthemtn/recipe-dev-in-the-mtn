@@ -1,0 +1,46 @@
+---
+title: "Cottage Cheese Cloud Rolls"
+description: "High Protein rolls"
+date: "2026-09-03"
+tags: ["vegetarian", "side"]
+prepTime: "10 min"
+cookTime: "5 min"
+totalTime: "40 min"
+servings: about 8
+nutrition:
+    sugar: "2g"
+    sodium: "180mg"
+    fat: "7g"
+    carbs: "3g"
+    fiber: "0g"
+    protein: "10g"
+
+---
+
+## Ingredients
+
+- 1 Cup cottage sheese (240g)
+- 4 large eggs
+- 1 Cup shredded cheese (cheddar, mozzarella or mix)
+- 1 Tsp baking powder
+- Salt & Pepper to taste
+
+Optional:
+
+- 1/2 Tsp garlic powder
+- 1/2 Tsp onion powder
+- italian seasoning
+- Chili flakes
+- parsley or chives
+
+
+## Instructions
+
+1. Preheat oven to 350°
+2. line a baking sheet with parchment paper
+3. add cottage cheese and eggs into a blender and blend until compleatly smooth
+4. pour mixture into bowl
+5. sit in shredded cheese, baking powder, salt, pepper, and optional seasonings
+6. mix until combined fully into a fluffy batter
+7. back for about 30 mins until lightly golden and puffed
+8. cool for about 10 mins before serving.

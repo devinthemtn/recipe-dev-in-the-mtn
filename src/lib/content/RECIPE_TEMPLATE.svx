@@ -1,0 +1,35 @@
+---
+# Copy this file into src/lib/content/recipes/ and rename it to a
+# lowercase-hyphenated slug, e.g. "garlic-roasted-potatoes.svx" — the
+# filename becomes the URL: /recipes/garlic-roasted-potatoes
+
+title: "Recipe Title"
+description: "One or two sentences describing the dish, shown on recipe cards."
+date: "2026-08-31"
+tags: ["dinner"] # e.g. breakfast, dinner, dessert, vegetarian, gluten-free, make-ahead
+prepTime: "10 min"
+cookTime: "20 min"
+totalTime: "30 min"
+servings: 4
+
+# All nutrition fields are optional — delete any you don't want to show.
+# Values are free-text strings so you can include units however you like.
+nutrition:
+  calories: 000
+  protein: "0g"
+  carbs: "0g"
+  fat: "0g"
+  fiber: "0g"
+  sugar: "0g"
+  sodium: "0mg"
+---
+
+## Ingredients
+
+- 1 ingredient
+- 2 ingredients
+
+## Instructions
+
+1. First step.
+2. Second step.

@@ -1,0 +1,28 @@
+---
+title: "Pancakes - made to be more diabetic healthy"
+description: "simple Pancakes for diabetics"
+date: "2026-09-01"
+tags: ["sauce", "vegetarian", "make-ahead"]
+prepTime: "10 min"
+cookTime: "5 min"
+totalTime: "15 min"
+servings: 5
+nutrition:
+---
+
+- 1 1/2 cups oat flour
+- 1 tsp baking powder
+- 1 tsp ground cinnamon
+- 1/4 tsp salt
+- 2 large eggs
+- 2 tsp Splenda
+- 3/4 cup unsweetened oat milk, coconut milk, or regular milk
+- 1 tbsp melted coconut oil or butter
+
+## Instructions
+
+1. Whisk the oat flour, baking powder, cinnamon, and salt in a bowl.
+2. In a separate bowl, beat the eggs and whisk in your chosen milk and melted oil/butter.
+3. Combine the wet and dry ingredients. Let the batter rest for 10 minutes so the oat flour can absorb the liquid properly.
+4. Cook over medium-low heat on a lightly greased skillet until bubbles form, flip, and cook until golden brown.
+5. Top with fresh berries or a dollop of Greek yogurt.

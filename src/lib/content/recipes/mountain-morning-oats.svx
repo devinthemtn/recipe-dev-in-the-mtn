@@ -1,0 +1,36 @@
+---
+title: "Mountain Morning Overnight Oats"
+description: "Make-ahead oats with maple, cinnamon, and toasted walnuts for cold mornings."
+date: "2026-08-10"
+tags: ["breakfast", "vegetarian", "make-ahead"]
+prepTime: "10 min"
+cookTime: "0 min"
+totalTime: "10 min plus overnight chilling"
+servings: 2
+nutrition:
+  calories: 340
+  protein: "12g"
+  carbs: "48g"
+  fat: "12g"
+  fiber: "8g"
+  sugar: "14g"
+  sodium: "95mg"
+---
+
+## Ingredients
+
+- 1 cup rolled oats
+- 1 cup milk (or oat milk)
+- 1/2 cup plain yogurt
+- 2 tbsp maple syrup
+- 1/2 tsp ground cinnamon
+- Pinch of salt
+- 1/4 cup toasted walnuts, chopped
+- Fresh berries, to serve
+
+## Instructions
+
+1. In a jar or container, combine the oats, milk, yogurt, maple syrup, cinnamon, and salt. Stir well.
+2. Cover and refrigerate overnight, or at least 4 hours.
+3. In the morning, stir the oats and thin with a splash of milk if needed.
+4. Top with toasted walnuts and fresh berries before serving.
