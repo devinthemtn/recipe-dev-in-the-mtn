@@ -35,7 +35,7 @@
 
 <h1 class="mb-6 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">Recipes</h1>
 
-<div class="mb-8 flex flex-wrap gap-2" role="group" aria-label="Filter recipes by tag">
+<div class="mb-8 flex flex-wrap gap-2 tag-list-search" role="group" aria-label="Filter recipes by tag">
 	<a
 		href={tagHref(null)}
 		aria-current={!activeTag ? 'true' : undefined}
@@ -54,7 +54,7 @@
 			class={`rounded-full border px-3 py-1 text-sm font-medium transition-colors ${
 				activeTag === tag
 					? 'border-stone-900 bg-stone-900 text-white dark:border-stone-50 dark:bg-stone-50 dark:text-stone-900'
-					: 'border-stone-200 text-stone-600 hover:border-stone-400 dark:border-stone-800 dark:text-stone-400 dark:hover:border-stone-600'
+					: 'tag-list-tag border-stone-200 text-stone-600 hover:border-stone-400 dark:border-stone-800 dark:text-stone-400 dark:hover:border-stone-600'
 			}`}
 		>
 			{tag} <span class="opacity-70">{count}</span>

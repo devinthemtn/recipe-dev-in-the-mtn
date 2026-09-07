@@ -20,9 +20,9 @@
 		<div class="mx-auto flex max-w-4xl items-center justify-between gap-4 px-4 py-4">
 			<a
 				href={resolve('/')}
-				class="flex items-center gap-2 text-lg font-bold tracking-tight text-stone-900 dark:text-stone-50"
+				class="flex items-center gap-2 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50"
 			>
-				<img src={favicon} alt="" class="h-6 w-6" />
+				<img src={favicon} alt="" class="h-8 w-8" />
 				Mountain Kitchen
 			</a>
 			<div class="flex items-center gap-6">

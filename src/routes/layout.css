@@ -5,3 +5,22 @@
 /* Dark mode is toggled by adding/removing .dark on <html> (see ThemeToggle.svelte),
    rather than following the OS preference automatically. */
 @custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+    --primary-rgb: 5, 5, 250;
+    --almost-black: 5, 5, 5;
+    --almost-white: 230, 230, 230;
+}
+.tag-list-search {
+    background-color: rgba(var(--primary-rgb),0.4);
+    padding: 1em;
+    border-radius: 10px ;
+}
+
+.tag-list-tag {
+    background-color: rgba(var(--almost-white), 0.5);
+}
+
+.dark .tag-list-tag {
+    background-color: rgba(var(--almost-black), 0.8);
+}
