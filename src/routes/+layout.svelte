@@ -3,6 +3,7 @@
 	import favicon from '$lib/assets/favicon.svg';
 	import { resolve } from '$app/paths';
 	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
+	import GoogleAnalytics from '$lib/components/GoogleAnalytics.svelte';
 
 	let { children } = $props();
 
@@ -14,6 +15,8 @@
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
+
+<GoogleAnalytics />
 
 <div class="flex min-h-screen flex-col bg-white text-stone-800 dark:bg-stone-950 dark:text-stone-200">
 	<header class="border-b border-stone-200 dark:border-stone-800">
