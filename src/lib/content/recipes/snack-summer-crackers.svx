@@ -1,0 +1,44 @@
+---
+title: "Summer Snack Crackers"
+description: "Quick fresh summer snack for hot days with fresh herbs"
+date: "2026-09-08"
+tags: ["snack", "vegetarian", "summer"]
+prepTime: "10 min"
+cookTime: "0 min"
+totalTime: "10 min"
+servings: about 10
+nutrition:
+---
+
+<script>
+	import previewIMG from '$lib/assets/freshCrackers.png';
+</script>
+
+<img src={previewIMG} alt="fresh summer cracker snack" class="w-48 rounded-lg" />
+
+## Ingredients
+
+- cherry tomatoes
+- fresh mint
+- fresh basil
+- snack crackers
+- soft cheese spread
+- good (robust) olive oil
+- balsamic vinegar drizzle
+
+## Instructions
+
+This is best made immediately before serving.
+
+1. In a small bowl add:
+    - cherry tomatoes that are quartered
+    - well chopped up fresh basil leaves
+    - well chopped up fresh mint leaves
+    - fresh minced garlic
+    - a pinch of salt (optional)
+    - good quality (robust) olive oil
+2. Mix well -- the mixture should be thick, not soupy.
+3. spread the cheese spread on the crackers
+4. use a small spoon to dish up the mixture and top on the cheese that's now on the crackers
+5. drizzle balsamic vinegar thinly over the topping
+6. serve.

@@ -1,6 +1,6 @@
 ---
-title: "Brakfast Quinoa"
-description: "High Protein rolls"
+title: "Breakfast Quinoa"
+description: "quinoa breakfast"
 date: "2026-09-04"
 tags: ["vegetarian", "breakfast"]
 prepTime: "5 min"

@@ -1,0 +1,46 @@
+---
+title: "Herb-Roasted Chicken Thighs with Broccoli & Cauliflower"
+description: "One-pan low-carb dinner pairing lean protein with fiber-rich non-starchy vegetables"
+date: "2026-09-07"
+draft: true
+tags: ["dinner", "diabetic-friendly", "gluten-free", "low-carb", "weeknight"]
+prepTime: "10 min"
+cookTime: "35 min"
+totalTime: "45 min"
+servings: 4
+nutrition:
+  calories: 360
+  carbs: "9g"
+  fiber: "3g"
+  sugar: "3g"
+  protein: "32g"
+  fat: "22g"
+  sodium: "340mg"
+---
+
+## Ingredients
+
+- 4 bone-in, skin-on chicken thighs
+- 2 Tbs olive oil, divided
+- 1 tsp dried thyme
+- 1 tsp dried rosemary
+- 1 tsp garlic powder
+- 1/2 tsp paprika
+- Salt and pepper, to taste
+- 3 cups broccoli florets
+- 2 cups cauliflower florets
+- 2 cloves garlic, minced
+- 1 lemon, sliced
+
+## Instructions
+
+1. Preheat oven to 425°F. Line a large sheet pan with parchment paper.
+2. Toss the broccoli and cauliflower with 1 Tbs olive oil, the minced garlic, salt, and pepper. Spread in an even layer on the sheet pan.
+3. Rub the chicken thighs with the remaining 1 Tbs olive oil, thyme, rosemary, garlic powder, paprika, salt, and pepper.
+4. Nestle the chicken thighs among the vegetables and top with lemon slices.
+5. Roast for 30-35 minutes, until the chicken reaches an internal temperature of 165°F and the vegetables are tender and lightly charred.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Broccoli and cauliflower are non-starchy vegetables — high in fiber and very low in carbohydrates — so a generous portion barely moves blood sugar. Roasting instead of breading or frying keeps the meal free of refined-carb coatings, and the lean protein from the chicken helps with satiety.
+- Serving size is 1 thigh with about 1 1/4 cups of vegetables.

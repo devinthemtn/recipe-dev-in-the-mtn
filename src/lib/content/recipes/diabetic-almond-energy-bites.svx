@@ -1,0 +1,45 @@
+---
+title: "Almond-Cinnamon Energy Bites"
+description: "No-added-sugar, nut-based energy bites that keep carbs low without giving up sweetness"
+date: "2026-09-07"
+draft: true
+tags: ["snack", "diabetic-friendly", "vegetarian", "gluten-free", "make-ahead", "no-added-sugar"]
+prepTime: "15 min"
+cookTime: "0 min"
+totalTime: "15 min plus 30 min chilling"
+servings: 6
+nutrition:
+  calories: 140
+  carbs: "8g"
+  fiber: "3g"
+  sugar: "2g"
+  protein: "5g"
+  fat: "11g"
+  sodium: "45mg"
+---
+
+## Ingredients
+
+- 1 cup almond flour
+- 1/4 cup natural almond butter, unsweetened
+- 2 Tbs chia seeds
+- 1 tsp ground cinnamon
+- 1/2 tsp vanilla extract
+- Pinch of salt
+- 2-3 Tbs unsweetened almond milk, as needed
+- 1/4 cup chopped almonds or walnuts
+- 10-12 drops liquid monk fruit or stevia, optional, to taste
+
+## Instructions
+
+1. In a bowl, stir together the almond flour, chia seeds, cinnamon, and salt.
+2. Add the almond butter, vanilla extract, and sweetener (if using), and mix until crumbly.
+3. Add the almond milk 1 Tbs at a time, mixing until the dough just holds together when pressed.
+4. Fold in the chopped almonds or walnuts.
+5. Roll the dough into 12 small balls (about 1 Tbs each).
+6. Refrigerate for at least 30 minutes to firm up. Store in an airtight container in the fridge for up to 1 week, or freeze for up to 3 months.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Unlike many energy-bite recipes that rely on oats and dried fruit — both of which add a lot of carbohydrate and natural sugar — these bites use almond flour and chia seeds as the base, keeping total carbs and sugar low while still providing fiber and healthy fats. Unsweetened almond butter and an optional sugar-free sweetener avoid added sugars entirely.
+- Serving size is 2 bites.

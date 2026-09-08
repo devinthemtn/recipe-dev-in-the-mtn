@@ -14,13 +14,16 @@ function slugFromPath(path) {
 /** @returns {Array<{ slug: string } & Record<string, any>>} */
 export function getAllRecipes() {
 	return Object.entries(metaModules)
+		.filter(([, mod]) => !mod.metadata.draft)
 		.map(([path, mod]) => ({ slug: slugFromPath(path), ...mod.metadata }))
-		.sort((a, b) => a.title.localeCompare(b.title));
+		.sort((a, b) => new Date(b.date) - new Date(a.date));
 }
 
 /** @returns {string[]} */
 export function getRecipeSlugs() {
-	return Object.keys(metaModules).map(slugFromPath);
+	return Object.entries(metaModules)
+		.filter(([, mod]) => !mod.metadata.draft)
+		.map(([path]) => slugFromPath(path));
 }
 
 /** @param {string} slug */
@@ -30,5 +33,7 @@ export async function loadRecipe(slug) {
 	if (!importModule) return null;
 
 	const mod = await importModule();
+	if (mod.metadata.draft) return null;
+
 	return { slug, meta: mod.metadata, Content: mod.default };
 }

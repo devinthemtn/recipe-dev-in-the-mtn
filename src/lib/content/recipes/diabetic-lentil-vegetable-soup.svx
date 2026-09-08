@@ -1,0 +1,50 @@
+---
+title: "Lentil & Vegetable Soup"
+description: "High-fiber, low glycemic-index soup built around lentils for blood sugar-friendly meals"
+date: "2026-09-07"
+draft: true
+tags: ["dinner", "lunch", "diabetic-friendly", "vegetarian", "gluten-free", "high-fiber", "make-ahead"]
+prepTime: "15 min"
+cookTime: "35 min"
+totalTime: "50 min"
+servings: 6
+nutrition:
+  calories: 190
+  carbs: "28g"
+  fiber: "9g"
+  sugar: "5g"
+  protein: "11g"
+  fat: "4g"
+  sodium: "480mg"
+---
+
+## Ingredients
+
+- 1 Tbs olive oil
+- 1 onion, diced
+- 2 carrots, diced
+- 2 celery stalks, diced
+- 3 cloves garlic, minced
+- 1 cup dried green or brown lentils, rinsed
+- 1 can (14.5 oz) diced tomatoes
+- 6 cups low-sodium vegetable broth
+- 2 cups chopped kale or spinach
+- 1 tsp ground cumin
+- 1 tsp smoked paprika
+- 1 bay leaf
+- Salt and pepper, to taste
+- Splash of red wine vinegar, to finish
+
+## Instructions
+
+1. Heat the olive oil in a large pot over medium heat. Add the onion, carrots, and celery, and cook until softened, about 5 minutes.
+2. Stir in the garlic and cook for 1 minute, until fragrant.
+3. Add the lentils, diced tomatoes, broth, cumin, smoked paprika, and bay leaf. Bring to a boil.
+4. Reduce heat and simmer, partially covered, for 25-30 minutes, until the lentils are tender.
+5. Stir in the kale or spinach and cook for another 5 minutes, until wilted.
+6. Remove the bay leaf, stir in a splash of red wine vinegar, and season with salt and pepper to taste.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Lentils are a low glycemic-index legume that's high in both fiber and plant protein — a food group the American Diabetes Association highlights as especially helpful for managing blood sugar. The olive oil adds a healthy fat that further slows digestion and carbohydrate absorption.
+- Freezes well for up to 3 months; a great meal-prep option for busy weeks.
