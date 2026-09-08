@@ -2,7 +2,7 @@
 title: "Stocking a Small Pantry for Real Weeknights"
 description: "The handful of staples that make weeknight cooking possible when the nearest store is 40 minutes away."
 date: "2026-08-05"
-author: "Devin"
+author: "DevInTheMtn"
 tags: ["essay", "pantry"]
 ---
 

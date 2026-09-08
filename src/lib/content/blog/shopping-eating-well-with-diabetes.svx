@@ -1,8 +1,8 @@
 ---
-title: "Shopping and Eating Well with Diabetes"
+title: "Diabetes: My stuggle with eatting well"
 description: "The unglamorous reality of grocery shopping and eating well with diabetes, and the shortcuts that actually help."
 date: "2026-09-07"
-author: "Devin"
+author: "DevInTheMtn"
 tags: ["essay", "diabetes", "pantry"]
 ---
 
@@ -22,18 +22,16 @@ The tricks below aren't about eating perfectly. They're about having a decent op
 
 ## Protein powder as a fast patch, not just a shake
 
-I don't drink protein shakes constantly, but I keep a container of unsweetened or low-sugar whey or plant protein on hand specifically to fix meals that are carb-heavy on their own. A scoop stirred into oatmeal or plain yogurt turns a carb-forward breakfast into something with enough protein to blunt the spike. It works the same way in baking — a scoop swapped into a pancake or muffin batter (see the [oatmeal chia bars](/recipes/oatmeal-bars) and the [veggie & egg breakfast muffins](/recipes/diabetic-veggie-egg-muffins) on this site) adds protein without adding meaningful carbs. Cheap, shelf-stable, and it turns "just carbs" into something that won't wreck the next two hours.
+I don't drink protein shakes constantly, but I keep a container of unsweetened or low-sugar whey protein on hand specifically to fix meals that are carb-heavy on their own. According to research i found that consuming protien before carbs helps a lot so often times I will take some protein before I go out to meet people so that i can join them for dinner or a snack without it being to bad for me or me being to annoyed at lack of healthy options. Along that same vain I  have Huel for the days there's genuinely no time or I just need a bit more nutrition for the day.
 
-## Huel for the days there's genuinely no time
-
-I was skeptical of meal-replacement shakes for a long time — they read as a gimmick. But on the days where the alternative is skipping a meal entirely or grabbing whatever's closest, having a couple of Huel bottles in the fridge or a shaker in the bag has been one of the more reliable tools. The appeal isn't that it's magic, it's that the macros are fixed and printed right on the label, so there's no guessing. I know exactly what a bottle costs me in carbs before I open it, which is more than I can say for most "grab and go" food. It's not a replacement for real meals, but it's a much better fallback than the vending machine.
+I was skeptical of meal-replacement shakes for a long time, thinking of them as a gimmick. But on the days where the alternative is skipping a meal entirely or grabbing whatever's closest, having a couple of Huel bottles in the fridge or a shaker in the bag has been one of the more reliable tools. The appeal isn't that it's magic, it's that the macros are fixed and printed right on the label, so there's no guessing. I know exactly what a bottle costs me in carbs before I open it, which is more than I can say for most "grab and go" food. It's not a replacement for real meals, but it's a much better fallback than the vending machine and truthfully the newish Huel Black is good tasting and decent for diabetics like myself.
 
 ## Supplementing, carefully
 
-This is the part I'll caveat the hardest: I'm not a doctor, and none of this is medical advice — check anything below with yours before changing routine, especially if you're on medication that interacts with it. That said, a few things have become a regular part of my routine after talking it through with my own doctor: vitamin D (a lot of us run low, especially through a mountain winter), magnesium, and a basic multivitamin to cover the gaps that come from eating a more restricted diet than most people. None of it replaces good food choices — it's filling in blind spots, not compensating for a bad diet.
+This is the part I'll caveat the hardest: I'm not a doctor, and none of this is medical advice — check anything below with yours before changing routine, especially if you're on medication that interacts with it. That said, a few things have become a regular part of my routine after talking it through with my own doctor: vitamin D (a lot of us run low, especially through a mountain winter), and fiber (maybe the most important according to recent research). None of it replaces good food choices — it's filling in blind spots, not compensating for a bad diet.
 
 ## What's still hard
 
-Eating out is still the roughest edge. Restaurant portions and hidden sugars in sauces make carb counting closer to a guess than a calculation, and there's no version of "just ask for the nutrition info" that doesn't feel a little awkward at a table with other people. Batch cooking on the calmer days — and leaning on a stocked pantry so a decent meal doesn't depend on a special trip to the store — has done more for the average week than any single trick. The [small-pantry staples](/blog/stocking-a-small-pantry) post covers most of what makes that possible.
+Eating out is still the roughest edge. Restaurant portions and hidden sugars in sauces make carb counting closer to a guess than a calculation, and there's no version of "just ask for the nutrition info" that doesn't feel a little awkward at a table with other people. Batch cooking on the calmer days — and leaning on a stocked pantry so a decent meal doesn't depend on a special trip to the store — has done more for the average week than any single trick.
 
 None of this is solved. It's just a shorter list of bad days than it used to be.

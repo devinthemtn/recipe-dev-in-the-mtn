@@ -2,7 +2,7 @@
 title: "Starting a Kitchen in the Mountain Valley"
 description: "Why we started cooking seriously once we moved somewhere with real seasons."
 date: "2026-08-15"
-author: "Devin"
+author: "DevInTheMtn"
 tags: ["essay", "kitchen"]
 ---
 
