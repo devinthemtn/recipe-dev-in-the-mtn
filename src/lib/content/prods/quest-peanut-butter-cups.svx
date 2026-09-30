@@ -1,0 +1,19 @@
+---
+title: "Quest Peanut Butter Cups"
+description: "A protein-packed, low-sugar candy swap that still hits the peanut butter cup craving."
+date: "2026-09-13"
+tags: ["snack", "dessert", "protein"]
+brand: "Quest Nutrition"
+nutrition:
+  calories: 190
+  protein: "9g"
+  carbs: "13g"
+  fat: "13g"
+  fiber: "5g"
+  sugar: "1g"
+  sodium: "125mg"
+---
+
+These are my go-to when I want something sweet that doesn't wreck my blood sugar. They taste close enough to the real thing, and with 9g of protein and only 1g of sugar per pack, they hold me over a lot better than a regular candy bar would.
+
+Keep them in the fridge — they hold their texture better cold.

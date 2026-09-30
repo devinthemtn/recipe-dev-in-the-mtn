@@ -1,0 +1,15 @@
+---
+title: "Coconut Flour"
+description: "A low-carb, high-fiber flour swap for all-purpose flour in pancakes and baked goods."
+date: "2026-09-13"
+tags: ["flour", "baking", "gluten-free"]
+swapFor: "All-purpose flour"
+nutrition:
+  calories: 120
+  protein: "6g"
+  carbs: "18g"
+  fat: "4g"
+  fiber: "10g"
+---
+
+Coconut flour is very absorbent, so it isn't a straight 1:1 swap — it usually takes about 1/4 to 1/3 the amount of wheat flour plus extra egg or liquid to keep batter from drying out. It brings a lot more fiber to the table than all-purpose flour, with fewer net carbs per serving.

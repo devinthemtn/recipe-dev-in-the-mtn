@@ -1,0 +1,45 @@
+---
+title: "Oat-Cinnamon Energy Bites"
+description: "No-added-sugar energy bites made with oat flour that keep carbs modest without giving up sweetness"
+date: "2026-09-07"
+draft: true
+tags: ["snack", "diabetic-friendly", "vegetarian", "make-ahead", "no-added-sugar"]
+prepTime: "15 min"
+cookTime: "0 min"
+totalTime: "15 min plus 30 min chilling"
+servings: 6
+nutrition:
+  calories: 175
+  carbs: "14g"
+  fiber: "4g"
+  sugar: "2g"
+  protein: "7g"
+  fat: "11g"
+  sodium: "60mg"
+---
+
+## Ingredients
+
+- 1 cup oat flour
+- 1/4 cup natural sunflower seed butter, unsweetened
+- 2 Tbs chia seeds
+- 1 tsp ground cinnamon
+- 1/2 tsp vanilla extract
+- Pinch of salt
+- 2-3 Tbs unsweetened oat milk, as needed
+- 1/4 cup chopped walnuts or pumpkin seeds
+- 10-12 drops liquid monk fruit or stevia, optional, to taste
+
+## Instructions
+
+1. In a bowl, stir together the oat flour, chia seeds, cinnamon, and salt.
+2. Add the sunflower seed butter, vanilla extract, and sweetener (if using), and mix until crumbly.
+3. Add the oat milk 1 Tbs at a time, mixing until the dough just holds together when pressed.
+4. Fold in the chopped walnuts or pumpkin seeds.
+5. Roll the dough into 12 small balls (about 1 Tbs each).
+6. Refrigerate for at least 30 minutes to firm up. Store in an airtight container in the fridge for up to 1 week, or freeze for up to 3 months.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Oat flour has more carbs than a nut flour would, but paired with chia seeds and seed butter it brings enough fiber and healthy fat along for the ride to slow digestion and keep the carb load modest. Unsweetened sunflower seed butter and an optional sugar-free sweetener avoid added sugars entirely.
+- Serving size is 2 bites.

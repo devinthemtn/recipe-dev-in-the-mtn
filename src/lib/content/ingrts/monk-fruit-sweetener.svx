@@ -1,0 +1,15 @@
+---
+title: "Monk Fruit Sweetener"
+description: "A zero-calorie natural sweetener that swaps in for sugar without spiking blood sugar."
+date: "2026-09-13"
+tags: ["sweetener", "baking"]
+swapFor: "Granulated sugar"
+nutrition:
+  calories: 0
+  carbs: "0g"
+  sugar: "0g"
+---
+
+Monk fruit extract (often blended with erythritol to soften its sweetness) works cup-for-cup in place of sugar in most baking and coffee. It has no impact on blood sugar, which makes it one of the easiest swaps to keep in the pantry.
+
+A little goes a long way with the pure extract form — start with less than you think you need and adjust to taste.

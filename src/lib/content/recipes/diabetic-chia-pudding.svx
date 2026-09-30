@@ -9,13 +9,13 @@ cookTime: "0 min"
 totalTime: "5 min plus 4 hrs chilling"
 servings: 2
 nutrition:
-  calories: 210
-  carbs: "16g"
+  calories: 195
+  carbs: "17g"
   fiber: "10g"
   sugar: "4g"
-  protein: "8g"
-  fat: "13g"
-  sodium: "60mg"
+  protein: "7g"
+  fat: "9g"
+  sodium: "55mg"
 ---
 
 ## Ingredients
@@ -26,14 +26,14 @@ nutrition:
 - 1/4 tsp ground cinnamon
 - 5-10 drops liquid monk fruit or stevia, optional, to taste
 - 1/2 cup fresh mixed berries (blueberries, raspberries, or strawberries)
-- 1 Tbs chopped almonds
+- 1 Tbs toasted oats
 
 ## Instructions
 
 1. In a jar or container, whisk together the chia seeds, oat milk, vanilla, cinnamon, and sweetener (if using).
 2. Let sit for 10 minutes, then stir again to break up any clumps.
 3. Cover and refrigerate for at least 4 hours, or overnight, until thickened to a pudding consistency.
-4. Stir before serving. Top with fresh berries and chopped almonds.
+4. Stir before serving. Top with fresh berries and toasted oats.
 
 ## Notes
 

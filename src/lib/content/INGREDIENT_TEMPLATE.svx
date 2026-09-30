@@ -1,0 +1,24 @@
+---
+# Copy this file into src/lib/content/ingrts/ and rename it to a
+# lowercase-hyphenated slug, e.g. "monk-fruit-sweetener.svx" — the
+# filename becomes the URL: /ingrts/monk-fruit-sweetener
+
+title: "Ingredient Name"
+description: "One or two sentences describing the ingredient, shown on the ingredient card."
+date: "2026-09-13"
+tags: ["sweetener"] # e.g. sweetener, flour, dairy, grain, sauce
+swapFor: "What this replaces, e.g. Granulated sugar"
+
+# All nutrition fields are optional — delete any you don't want to show.
+# Values are free-text strings so you can include units however you like.
+nutrition:
+  calories: 000
+  protein: "0g"
+  carbs: "0g"
+  fat: "0g"
+  fiber: "0g"
+  sugar: "0g"
+  sodium: "0mg"
+---
+
+Why this ingredient works as a diabetic-friendly swap, how to use it, and anything to watch out for.

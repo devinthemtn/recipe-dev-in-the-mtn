@@ -54,3 +54,5 @@ pnpm storybook    # component explorer at :6006
 Copy `.env.example` to `.env` and set `PUBLIC_GA_MEASUREMENT_ID` to your GA4 Measurement ID (e.g. `G-XXXXXXXXXX`), then rebuild. Leaving it blank disables analytics.
 
 On a hosting platform (Netlify, Vercel, etc.), set `PUBLIC_GA_MEASUREMENT_ID` as a build-time environment variable instead of committing a `.env` file — it gets baked into the static build.
+
+Page views after the first load are tracked by GA4's enhanced measurement, not by the site's code. In the GA admin, under Data streams → your web stream → Enhanced measurement → Page views, leave "Page changes based on browser history events" turned on (it's on by default). If it's off, only the first page of each visit gets counted.

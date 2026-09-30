@@ -10,7 +10,7 @@ totalTime: "40 min"
 servings: 6
 nutrition:
   calories: 180
-  carbs: "4g"
+  carbs: "5g"
   fiber: "1g"
   sugar: "2g"
   protein: "14g"
@@ -21,7 +21,7 @@ nutrition:
 ## Ingredients
 
 - 8 large eggs
-- 1/4 cup unsweetened almond milk (or low-fat milk)
+- 1/4 cup unsweetened oat milk (or low-fat milk)
 - 1 cup chopped fresh spinach
 - 1/2 cup diced bell pepper
 - 1/4 cup diced onion
@@ -34,7 +34,7 @@ nutrition:
 ## Instructions
 
 1. Preheat oven to 350°F. Lightly coat a 12-cup muffin tin with olive oil spray.
-2. In a large bowl, whisk the eggs with the almond milk, garlic powder, salt, and pepper.
+2. In a large bowl, whisk the eggs with the oat milk, garlic powder, salt, and pepper.
 3. Divide the spinach, bell pepper, onion, cheese, and turkey sausage (if using) evenly among the muffin cups.
 4. Pour the egg mixture over the vegetables, filling each cup about 3/4 full.
 5. Bake for 20-25 minutes, until the eggs are set and a knife inserted in the center comes out clean.

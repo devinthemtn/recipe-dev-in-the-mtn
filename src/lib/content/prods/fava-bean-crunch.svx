@@ -1,0 +1,20 @@
+---
+title: "Crunchy fava beans"
+description: "A wonderful crunchy snack with great flavor that I find works when I need something crunchy or wanting chips"
+date: "2026-09-16"
+tags: ["snack", "dessert", "protein"]
+brand: "Three Farmers"
+nutrition:
+  calories: 100
+  protein: "8g"
+  carbs: "18g"
+  fat: "1g"
+  fiber: "7g"
+  sugar: "0g"
+  sodium: "105g"
+  calcium: "30mg"
+  iron: "1mg"
+  potassium: "285mg"
+---
+
+These are great shelf stable snacks that have a long life. They are also great to have while watching TV or bringing on a car trip.

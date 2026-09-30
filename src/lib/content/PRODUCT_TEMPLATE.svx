@@ -1,0 +1,24 @@
+---
+# Copy this file into src/lib/content/prods/ and rename it to a
+# lowercase-hyphenated slug, e.g. "quest-peanut-butter-cups.svx" — the
+# filename becomes the URL: /prods/quest-peanut-butter-cups
+
+title: "Product Name"
+description: "One or two sentences describing the product, shown on the product card."
+date: "2026-09-13"
+tags: ["snack"] # e.g. snack, dessert, protein, drink, condiment
+brand: "Brand Name"
+
+# All nutrition fields are optional — delete any you don't want to show.
+# Values are free-text strings so you can include units however you like.
+nutrition:
+  calories: 000
+  protein: "0g"
+  carbs: "0g"
+  fat: "0g"
+  fiber: "0g"
+  sugar: "0g"
+  sodium: "0mg"
+---
+
+Why I like this product, where to find it, and how it fits into a diabetic-friendly diet.

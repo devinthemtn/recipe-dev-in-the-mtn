@@ -1,0 +1,15 @@
+---
+title: "Teff Flour"
+description: "A low-carb, high-fiber flour that is nutrient-dense and naturally gluten-free"
+date: "2026-09-16"
+tags: ["flour", "baking", "gluten-free"]
+swapFor: ""
+nutrition:
+  calories: 366
+  protein: "13g"
+  carbs: "71g"
+  fat: "3.3g"
+  fiber: "12.2g"
+---
+
+Teff flour is very absorbent with a slight nutty earthy flavor. Can be used with more standard flour with 15% to 25% with some testing. I find that it works well mixed with oat flour for pancakes.  Teff flour doesn't contain any gluten so it often needs some help to be used as a binder.
