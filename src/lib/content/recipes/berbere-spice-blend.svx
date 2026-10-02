@@ -1,0 +1,58 @@
+---
+title: "Homemade Berbere Spice Blend"
+description: "The warm, fiery red spice blend at the heart of Ethiopian cooking, toasted and ground at home for wats, lentils, and roasted vegetables."
+date: "2026-10-02"
+draft: false
+tags: ["spice-blend", "vegan", "gluten-free", "no-added-sugar", "make-ahead"]
+prepTime: "10 min"
+cookTime: "5 min"
+totalTime: "20 min"
+servings: 24
+nutrition:
+  calories: 6
+  carbs: "1g"
+  fiber: "0.5g"
+  sugar: "0g"
+  protein: "0.3g"
+  fat: "0.3g"
+  sodium: "50mg"
+---
+
+## Ingredients
+
+**Whole spices (to toast)**
+
+- 1 tsp (2g) coriander seed
+- 1 tsp (4g) fenugreek seed
+- 1/2 tsp (1g) black peppercorns
+- 1/2 tsp (1g) green cardamom seeds (from about 8 pods)
+- 1/4 tsp (0.5g) allspice berries
+- 4 whole cloves
+- 1/2 tsp (1g) ajwain seed (optional)
+
+**Ground spices**
+
+- 1/4 cup (28g) sweet paprika
+- 1-2 tsp (2-4g) cayenne pepper, to taste
+- 1 tsp (2g) ground ginger
+- 1 tsp (3g) garlic powder
+- 1/2 tsp (1g) ground cinnamon
+- 1/4 tsp (0.5g) ground nutmeg
+- 1/2 tsp (3g) salt
+
+## Instructions
+
+1. Add the whole spices to a dry skillet over medium-low heat. Toast, shaking the pan often, for 2-4 minutes until fragrant and the fenugreek turns a shade darker. Don't let it go past light brown, or the fenugreek turns bitter.
+2. Tip the spices onto a plate and let them cool completely, about 5 minutes.
+3. Grind the cooled spices to a fine powder in a spice grinder or mortar and pestle.
+4. Add the ground spices and stir or shake until the color is even.
+5. Store in an airtight jar away from heat and light.
+
+## Notes
+
+- **Yield:** About 1/2 cup (60g), roughly 24 teaspoons. Nutrition is per 1 tsp.
+- **Heat:** 1 tsp cayenne gives a medium blend. Use 2 tsp for a hotter, more traditional berbere. For a smokier, fruitier version, swap 2 Tbs of the paprika for 2-3 dried New Mexico or guajillo chiles. Stem and seed them, toast them briefly with the whole spices, and grind them in.
+- **Cardamom:** Traditional berbere uses *korarima* (Ethiopian cardamom), which is smokier. Green cardamom is the easy substitute.
+- **Salt:** The salt here is light so you can season the dish itself. Leave it out entirely if you're watching sodium.
+- **Use it in:** [Misir Wat](/recipes/misir-wat), doro wat, rubs for chicken or salmon, roasted carrots or cauliflower, or a pinch stirred into hummus.
+- Keeps 6 months in a sealed jar. It's at its best in the first 2-3 months, after that the flavor fades.
