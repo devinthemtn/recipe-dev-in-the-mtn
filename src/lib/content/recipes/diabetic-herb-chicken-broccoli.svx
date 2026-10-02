@@ -2,7 +2,7 @@
 title: "Herb-Roasted Chicken Thighs with Broccoli & Cauliflower"
 description: "One-pan low-carb dinner pairing lean protein with fiber-rich non-starchy vegetables"
 date: "2026-09-07"
-draft: true
+draft: false
 tags: ["dinner", "diabetic-friendly", "gluten-free", "low-carb", "weeknight"]
 prepTime: "10 min"
 cookTime: "35 min"
@@ -20,17 +20,17 @@ nutrition:
 
 ## Ingredients
 
-- 4 bone-in, skin-on chicken thighs
-- 2 Tbs olive oil, divided
-- 1 tsp dried thyme
-- 1 tsp dried rosemary
-- 1 tsp garlic powder
-- 1/2 tsp paprika
+- 4 (about 680g) bone-in, skin-on chicken thighs
+- 2 Tbs (27g) olive oil, divided
+- 1 tsp (1g) dried thyme
+- 1 tsp (1g) dried rosemary
+- 1 tsp (3g) garlic powder
+- 1/2 tsp (1g) paprika
 - Salt and pepper, to taste
-- 3 cups broccoli florets
-- 2 cups cauliflower florets
-- 2 cloves garlic, minced
-- 1 lemon, sliced
+- 3 cups (270g) broccoli florets
+- 2 cups (210g) cauliflower florets
+- 2 cloves (6g) garlic, minced
+- 1 (100g) lemon, sliced
 
 ## Instructions
 

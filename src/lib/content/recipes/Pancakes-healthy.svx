@@ -2,22 +2,31 @@
 title: "Pancakes - made to be more diabetic healthy"
 description: "simple Pancakes for diabetics"
 date: "2026-09-01"
-tags: ["sauce", "vegetarian", "make-ahead"]
+tags: ["breakfast", "diabetic-friendly", "vegetarian"]
 prepTime: "10 min"
 cookTime: "5 min"
 totalTime: "15 min"
 servings: 5
 nutrition:
+  calories: 180
+  carbs: "21g"
+  fiber: "3g"
+  sugar: "1g"
+  protein: "7g"
+  fat: "8g"
+  sodium: "260mg"
 ---
 
-- 1 1/2 cups oat flour
-- 1 tsp baking powder
-- 1 tsp ground cinnamon
-- 1/4 tsp salt
-- 2 large eggs
-- 2 tsp Splenda
-- 3/4 cup unsweetened oat milk, coconut milk, or regular milk
-- 1 tbsp melted coconut oil or butter
+## Ingredients
+
+- 1 1/2 cups (135g) oat flour
+- 1 tsp (4g) baking powder
+- 1 tsp (3g) ground cinnamon
+- 1/4 tsp (1.5g) salt
+- 2 large (100g) eggs
+- 2 tsp (1g) Splenda
+- 3/4 cup (180g) unsweetened oat milk, coconut milk, or regular milk
+- 1 tbsp (14g) melted coconut oil or butter
 
 ## Instructions
 

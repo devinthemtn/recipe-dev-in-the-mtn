@@ -2,7 +2,7 @@
 title: "Lentil & Vegetable Soup"
 description: "High-fiber, low glycemic-index soup built around lentils for blood sugar-friendly meals"
 date: "2026-09-07"
-draft: true
+draft: false
 tags: ["dinner", "lunch", "diabetic-friendly", "vegetarian", "gluten-free", "high-fiber", "make-ahead"]
 prepTime: "15 min"
 cookTime: "35 min"
@@ -20,17 +20,17 @@ nutrition:
 
 ## Ingredients
 
-- 1 Tbs olive oil
-- 1 onion, diced
-- 2 carrots, diced
-- 2 celery stalks, diced
-- 3 cloves garlic, minced
-- 1 cup dried green or brown lentils, rinsed
-- 1 can (14.5 oz) diced tomatoes
-- 6 cups low-sodium vegetable broth
-- 2 cups chopped kale or spinach
-- 1 tsp ground cumin
-- 1 tsp smoked paprika
+- 1 Tbs (14g) olive oil
+- 1 (150g) onion, diced
+- 2 (120g) carrots, diced
+- 2 (80g) celery stalks, diced
+- 3 cloves (10g) garlic, minced
+- 1 cup (190g) dried green or brown lentils, rinsed
+- 1 can (14.5 oz / 411g) diced tomatoes
+- 6 cups (1420g) low-sodium vegetable broth
+- 2 cups (60g) chopped kale or spinach
+- 1 tsp (2g) ground cumin
+- 1 tsp (2g) smoked paprika
 - 1 bay leaf
 - Salt and pepper, to taste
 - Splash of red wine vinegar, to finish

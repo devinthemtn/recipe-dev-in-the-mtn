@@ -1,0 +1,94 @@
+---
+title: "Making Injera at Home: A Fast Version and the Real Thing"
+description: "Two ways to make Ethiopian flatbread in a home kitchen: a same-day version for weeknights, and a slow three-day fermented injera made only from teff and water."
+date: "2026-10-02"
+author: "DevInTheMtn"
+draft: false
+tags: ["how-to", "pantry", "bread", "diabetes"]
+---
+
+Injera flour was the last thing to make it onto my pantry list, and making injera has become the kitchen project I look forward to most. If you've never had it, injera is the big, spongy, slightly sour flatbread that Ethiopian and Eritrean food is served on. It works as both the plate and the utensil: you tear off a piece and use it to scoop up stews like [misir wat](/recipes/misir-wat).
+
+It's made from teff, a tiny whole grain native to the Ethiopian highlands. Teff has decent fiber and protein and a lot of iron, and it's naturally gluten-free. Real injera gets its sourness and its bubbly top from days of fermentation. That's the authentic way, and it's worth doing. Some nights you won't have three days, though, so I'll go through a fast version first.
+
+## What you need either way
+
+- **Teff flour.** Brown teff is the most common and easiest to find. Ivory teff makes a lighter, milder injera. Some stores sell a ready-made "injera flour" blend, which works fine in the fast version.
+- **A nonstick skillet with a lid.** A 10–12" pan is plenty. Traditionally injera is cooked on a big flat clay griddle called a *mitad*, but a good nonstick pan works well at home. The lid matters more than the pan, because injera is steamed on top, not flipped.
+- **A clean kitchen towel** to lay the finished injera on while they cool.
+
+## The fast version (about an hour)
+
+This isn't true injera, since there's no real fermentation. It gets close by using baking soda and sparkling water for the bubbles and a splash of vinegar for the tang. It's a good weeknight option and a low-stakes way to practice cooking them before you commit to a three-day batch.
+
+*Full recipe card: [Quick Same-Day Injera](/recipes/quick-injera)*
+
+**Makes about 6 injera, 10" each**
+
+- 1 1/2 cups teff flour
+- 1/2 cup whole wheat or all-purpose flour (or more teff to keep it gluten-free)
+- 1/2 tsp salt
+- 2 1/2 cups sparkling water or club soda, plus more as needed
+- 1 Tbs apple cider vinegar or lemon juice
+- 1/2 tsp baking soda
+
+1. Whisk the flours and salt together, then whisk in the sparkling water until smooth. The batter should be thin, about like crepe batter or heavy cream.
+2. Cover and let it sit at room temperature for 30–60 minutes so the teff hydrates. If you have time, a few hours gives it a little more flavor.
+3. Just before cooking, whisk in the vinegar and baking soda. It'll foam up a bit. Add a splash more water if it's thickened.
+4. Cook as described in **Cooking the injera** below.
+
+## The authentic version (2–4 days, mostly waiting)
+
+Traditional injera is just teff, water, and time. Wild yeast and bacteria from the flour and the air ferment the batter, which gives it the sour flavor and the famous "eyes," the little holes all over the top. It takes very little actual work, but you need some patience and a warm spot in the kitchen.
+
+*Full recipe card: [Fermented Teff Injera](/recipes/fermented-teff-injera)*
+
+**Makes about 8 injera, 10" each**
+
+- 3 cups (400g) teff flour
+- 3 1/2 cups water (filtered or dechlorinated if your tap water is heavily treated), plus more as needed
+- 1/2 tsp salt (optional)
+
+**Day 1: Mix and wait.**
+
+1. Stir the teff and water together in a large glass or ceramic bowl until there are no dry lumps. It'll look like a thin, muddy batter.
+2. Cover loosely with a towel or a plate (not airtight) and leave it at room temperature, ideally somewhere around 70–75°F.
+
+**Days 2–3: Let it ferment.**
+
+3. Leave it alone. Within a day or two you'll see bubbles, the batter will smell sour, and a layer of darker liquid will collect on top. That liquid is called *ersho* (sometimes spelled *irsho*).
+4. Once it smells clearly sour, usually after 2–3 days (longer in a cool mountain kitchen), it's ready. If you see fuzzy mold of any color, throw it out and start over. Bubbles, sourness, and the liquid on top are all normal.
+
+**Cook day: Pour off, optional absit, and cook.**
+
+5. Carefully pour off most of the liquid on top. **Save a few tablespoons of it** in a jar in the fridge. Stirring it into your next batch gets fermentation going faster and builds a more reliable flavor over time.
+6. *(Optional, but it helps the texture.)* Make an **absit**: whisk about 1/2 cup of the batter into 1 cup of water in a small pot and cook it over medium heat, stirring constantly, for a few minutes until it thickens like pudding. Let it cool until it's just warm, then stir it back into the main batter. Cover and wait 30 minutes to a couple of hours, until the batter is bubbly and slightly risen again. This step gives a softer injera and more eyes.
+7. Stir in the salt if you're using it, and thin the batter with water a little at a time until it's like crepe batter.
+8. Cook as described in **Cooking the injera** below.
+
+## Cooking the injera
+
+The method is the same for both versions.
+
+1. Heat the skillet over medium to medium-high heat. Don't add oil. If your pan isn't very nonstick, wipe it with a paper towel that has the barest bit of oil on it, then wipe that off.
+2. Pour about 1/2 cup of batter into the pan in a spiral, starting at the outside edge and working toward the middle. You can also pour it in all at once and quickly tilt the pan to spread it. Aim for a layer a little thicker than a crepe.
+3. Let it cook uncovered until holes form all over the surface, usually 30–60 seconds.
+4. Cover with the lid and cook another 1–2 minutes, until the top looks dry (not shiny or wet) and the edges start lifting from the pan.
+5. **Don't flip it.** Slide it out onto a clean towel or a large plate and let it cool in a single layer. Injera is sticky while it's hot, so let each one cool before stacking or they'll fuse together.
+6. Wipe the pan if needed and repeat. Let the pan come back to temperature between injera.
+
+**If something goes wrong:**
+- **No holes:** The batter is too thick, the pan is too cool, or the batter (in the authentic version) didn't ferment long enough. Thin it a little or turn the heat up.
+- **Gummy or raw on top:** Keep it covered a bit longer, or pour a thinner layer.
+- **Brown or crisp on the bottom:** The heat is too high. Injera should stay pale on the bottom and soft all the way through.
+- **Tears when you lift it:** It needs another 30 seconds, or it hasn't cooled enough to handle.
+
+## Storing it
+
+Wrap cooled injera in a towel or a bag and keep it at room temperature for a day or two, or in the fridge for up to a week. It firms up when cold, so warm it briefly in a covered pan or the microwave. It also freezes well with parchment between the layers.
+
+## A note on blood sugar
+
+Even though it's made from a whole grain, injera is still a starchy bread, and it doesn't get a free pass because it's teff. Research on injera's glycemic index is mixed, and some studies put it fairly high. What helps me is the same thing that helps with any carb: I keep the portion reasonable and pile it high with lentil stews, greens, and eggs, so there's plenty of protein and fiber. I also eat some of that first, before I tear into the bread. I'm glad to have injera on the menu again, and I just eat it the way I eat everything else now.
+
+If you only try one version, I'd start with the [fast one](/recipes/quick-injera) to get the feel for cooking them. Then I'd mix a bowl of teff and water on a Thursday, so you've got [real injera](/recipes/fermented-teff-injera) and a pot of [misir wat](/recipes/misir-wat) ready for the weekend.

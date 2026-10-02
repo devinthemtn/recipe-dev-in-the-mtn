@@ -2,7 +2,7 @@
 title: "Oat-Cinnamon Energy Bites"
 description: "No-added-sugar energy bites made with oat flour that keep carbs modest without giving up sweetness"
 date: "2026-09-07"
-draft: true
+draft: false
 tags: ["snack", "diabetic-friendly", "vegetarian", "make-ahead", "no-added-sugar"]
 prepTime: "15 min"
 cookTime: "0 min"
@@ -20,14 +20,14 @@ nutrition:
 
 ## Ingredients
 
-- 1 cup oat flour
-- 1/4 cup natural sunflower seed butter, unsweetened
-- 2 Tbs chia seeds
-- 1 tsp ground cinnamon
-- 1/2 tsp vanilla extract
+- 1 cup (90g) oat flour
+- 1/4 cup (64g) natural sunflower seed butter, unsweetened
+- 2 Tbs (20g) chia seeds
+- 1 tsp (3g) ground cinnamon
+- 1/2 tsp (2g) vanilla extract
 - Pinch of salt
-- 2-3 Tbs unsweetened oat milk, as needed
-- 1/4 cup chopped walnuts or pumpkin seeds
+- 2-3 Tbs (30-45g) unsweetened oat milk, as needed
+- 1/4 cup (30-35g) chopped walnuts or pumpkin seeds
 - 10-12 drops liquid monk fruit or stevia, optional, to taste
 
 ## Instructions

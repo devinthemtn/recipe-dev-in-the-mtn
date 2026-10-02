@@ -1,0 +1,59 @@
+---
+title: "Fermented Teff Injera (The Real Thing)"
+description: "Traditional Ethiopian injera made from only teff, water and a few days of natural fermentation, for a sour, spongy flatbread full of bubbles."
+date: "2026-10-02"
+tags: ["side", "bread", "vegan", "gluten-free", "high-fiber", "make-ahead"]
+prepTime: "15 min"
+cookTime: "25 min"
+totalTime: "2–4 days (mostly waiting)"
+servings: 8
+nutrition:
+  calories: 185
+  carbs: "37g"
+  fiber: "7g"
+  sugar: "0g"
+  protein: "7g"
+  fat: "2g"
+  sodium: "145mg"
+---
+
+## Ingredients
+
+- 3 cups (400g) teff flour
+- 3 1/2 cups (830g) water (filtered or dechlorinated if your tap water is heavily treated), plus more as needed
+- 1/2 tsp (3g) salt (optional)
+- A few tablespoons (30–45g) of saved liquid (*ersho*) from a previous batch (optional, speeds up fermentation)
+
+## Instructions
+
+**Day 1: Mix**
+
+1. Stir the teff and water together in a large glass or ceramic bowl until there are no dry lumps. It'll look like a thin, muddy batter. Stir in saved *ersho* if you have it.
+2. Cover loosely with a towel or a plate (not airtight) and leave it at room temperature, ideally around 70–75°F.
+
+**Days 2–3: Ferment**
+
+3. Leave it alone. Within a day or two you'll see bubbles, the batter will smell sour, and a layer of darker liquid (*ersho*) will collect on top.
+4. Once it smells clearly sour, usually after 2–3 days (longer in a cool kitchen), it's ready. If you see fuzzy mold of any color, throw it out and start over.
+
+**Cook day**
+
+5. Carefully pour off most of the liquid on top. Save a few tablespoons in a jar in the fridge for your next batch.
+6. *(Optional absit, for a softer texture and more holes.)* Whisk about 1/2 cup of the batter into 1 cup of water in a small pot. Cook over medium heat, stirring constantly, for a few minutes until it thickens like pudding. Cool until just warm, stir it back into the main batter, cover and wait 30 minutes to a couple of hours, until bubbly and slightly risen.
+7. Stir in the salt if using, and thin the batter with water a little at a time until it's like crepe batter.
+8. Heat a 10–12" nonstick skillet with a lid over medium to medium-high heat. Don't add oil.
+9. Pour about 1/2 cup of batter into the pan in a spiral, starting at the outside edge and working toward the middle, or pour it all at once and quickly tilt the pan to spread it.
+10. Cook uncovered until holes form all over the surface, usually 30–60 seconds.
+11. Cover and cook another 1–2 minutes, until the top looks dry (not shiny or wet) and the edges start lifting from the pan.
+12. **Don't flip it.** Slide it onto a clean towel and let it cool in a single layer before stacking, or they'll stick together. Let the pan come back to temperature and repeat.
+
+## Notes
+
+- **Normal vs. not:** Bubbles, a sour smell and dark liquid on top are all signs of healthy fermentation. Fuzzy mold is not.
+- **No holes:** The batter is too thick, the pan is too cool, or it didn't ferment long enough. Thin it a little or turn the heat up.
+- **Gummy on top:** Keep it covered a bit longer, or pour a thinner layer.
+- **Brown on the bottom:** The heat is too high. Injera should stay pale and soft.
+- **Short on time?** Try the [quick same-day injera](/recipes/quick-injera) instead.
+- **Blood sugar:** Injera is still a starchy bread, even made with teff. Keep the portion reasonable and serve it with plenty of protein and fiber, like [misir wat](/recipes/misir-wat), greens and eggs. Nutrition is approximate and per injera.
+- **Storage:** Keep wrapped at room temperature for a day or two, or in the fridge for up to a week. Warm briefly in a covered pan or the microwave. Freezes well with parchment between the layers.
+- More background in the blog post: [Making Injera at Home](/blog/making-injera-at-home).

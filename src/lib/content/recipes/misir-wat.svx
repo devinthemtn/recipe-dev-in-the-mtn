@@ -1,0 +1,50 @@
+---
+title: "Misir Wat (Ethiopian Red Lentil Stew)"
+description: "A deeply spiced berbere red lentil stew built on slow-cooked onions, made for scooping up with homemade injera."
+date: "2026-10-02"
+draft: false
+tags: ["dinner", "diabetic-friendly", "vegetarian", "gluten-free", "high-fiber", "make-ahead"]
+prepTime: "15 min"
+cookTime: "45 min"
+totalTime: "1 hr"
+servings: 6
+nutrition:
+  calories: 270
+  carbs: "38g"
+  fiber: "7g"
+  sugar: "5g"
+  protein: "13g"
+  fat: "7g"
+  sodium: "450mg"
+---
+
+## Ingredients
+
+- 2 large (600g) red or yellow onions, very finely chopped
+- 3 Tbs (40g) niter kibbeh (Ethiopian spiced butter), or olive oil
+- 4 cloves (15g) garlic, minced
+- 1 Tbs (6g) fresh ginger, grated
+- 2-3 Tbs (14-21g) berbere spice blend, to taste
+- 2 Tbs (32g) tomato paste
+- 1 1/2 cups (290g) dried red lentils, rinsed well
+- 4-5 cups (950-1200g) low-sodium vegetable broth or water
+- 1 tsp (6g) salt, plus more to taste
+- Squeeze of lemon, to finish (optional)
+
+## Instructions
+
+1. Add the chopped onions to a heavy pot over medium-low heat **with no oil**. Cook, stirring often, for 10-15 minutes until they've released their moisture, softened, and started to turn golden. Add a splash of water if they start to stick. This slow dry-cooking is the base of a good wat, so don't rush it.
+2. Add the niter kibbeh (or olive oil) and cook another 3-4 minutes.
+3. Stir in the garlic and ginger and cook for 1 minute, until fragrant.
+4. Add the berbere and tomato paste and stir constantly for 2-3 minutes so the spices toast and the paste darkens slightly. Add a spoonful of water if the spices start to scorch.
+5. Add the lentils and 4 cups of broth. Bring to a boil, then reduce to a low simmer.
+6. Simmer uncovered for 25-30 minutes, stirring every few minutes, until the lentils have broken down into a thick, spoonable stew. Add more broth as needed. It should be thicker than soup but still loose enough to scoop.
+7. Season with salt and finish with a squeeze of lemon if you like. Serve with injera, or over cauliflower rice or millet.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Red lentils bring a solid amount of plant protein and fiber, which slows down how fast the carbs hit. The slow-cooked onions add a lot of flavor without any sugar. Nutrition is for the stew alone. Injera made with teff flour has more fiber than wheat bread, but it's still a carb, so watch the portion and eat some of the wat or a protein side first.
+- **Make it a fuller meal:** Serve with hard-boiled eggs (a classic addition to Ethiopian stews), sautéed collards or spinach (gomen), or a simple tomato salad with red wine vinegar.
+- **Berbere:** Store-bought is fine. Heat varies a lot by brand, so start with 2 Tbs and taste. A quick homemade version: 2 Tbs paprika, 1 tsp cayenne, 1/2 tsp each ground ginger, coriander, and fenugreek, and 1/4 tsp each cardamom, cinnamon, allspice, and cloves.
+- **Niter kibbeh:** Melt 1/2 cup butter with a little chopped onion, garlic, ginger, a few cardamom pods, a pinch of fenugreek, and a cinnamon stick. Simmer gently for 20-30 minutes, then strain. It keeps for weeks in the fridge. Using olive oil instead makes the dish vegan.
+- Keeps 5 days in the fridge and freezes well for up to 3 months. It thickens as it sits, so loosen it with a little water when reheating.

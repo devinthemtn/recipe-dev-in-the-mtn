@@ -1,0 +1,48 @@
+---
+title: "Quick Same-Day Injera"
+description: "A weeknight shortcut to Ethiopian teff flatbread that uses sparkling water, baking soda and a splash of vinegar in place of days of fermentation."
+date: "2026-10-02"
+tags: ["side", "bread", "vegan", "weeknight"]
+prepTime: "5 min"
+cookTime: "20 min"
+totalTime: "1 hr"
+servings: 6
+nutrition:
+  calories: 155
+  carbs: "32g"
+  fiber: "6g"
+  sugar: "0g"
+  protein: "6g"
+  fat: "1g"
+  sodium: "300mg"
+---
+
+## Ingredients
+
+- 1 1/2 cups (200g) teff flour (or a store-bought "injera flour" blend)
+- 1/2 cup (60g) whole wheat or all-purpose flour (or more teff to keep it gluten-free)
+- 1/2 tsp (3g) salt
+- 2 1/2 cups (590g) sparkling water or club soda, plus more as needed
+- 1 Tbs (15g) apple cider vinegar or lemon juice
+- 1/2 tsp (3g) baking soda
+
+## Instructions
+
+1. Whisk the flours and salt together, then whisk in the sparkling water until smooth. The batter should be thin, about like crepe batter or heavy cream.
+2. Cover and let it sit at room temperature for 30–60 minutes so the teff hydrates. If you have time, a few hours gives it a little more flavor.
+3. Just before cooking, whisk in the vinegar and baking soda. It'll foam up a bit. Add a splash more water if it's thickened.
+4. Heat a 10–12" nonstick skillet with a lid over medium to medium-high heat. Don't add oil.
+5. Pour about 1/2 cup of batter into the pan in a spiral, starting at the outside edge and working toward the middle, or pour it all at once and quickly tilt the pan to spread it. Aim for a layer a little thicker than a crepe.
+6. Cook uncovered until holes form all over the surface, usually 30–60 seconds.
+7. Cover and cook another 1–2 minutes, until the top looks dry (not shiny or wet) and the edges start lifting from the pan.
+8. **Don't flip it.** Slide it onto a clean towel and let it cool in a single layer before stacking, or they'll stick together. Let the pan come back to temperature and repeat.
+
+## Notes
+
+- **This is a shortcut:** There's no real fermentation, so it's milder and less sour than traditional injera. It's a good way to practice the cooking technique. For the real thing, see the [fermented teff injera](/recipes/fermented-teff-injera).
+- **No holes:** The batter is too thick or the pan is too cool. Thin it a little or turn the heat up.
+- **Gummy on top:** Keep it covered a bit longer, or pour a thinner layer.
+- **Brown on the bottom:** The heat is too high. Injera should stay pale and soft.
+- **Blood sugar:** Injera is still a starchy bread, even made with teff. Keep the portion reasonable and serve it with plenty of protein and fiber, like [misir wat](/recipes/misir-wat), greens and eggs. Nutrition is approximate and per injera, made with whole wheat flour.
+- **Storage:** Keep wrapped at room temperature for a day or two, or in the fridge for up to a week. Warm briefly in a covered pan or the microwave. Freezes well with parchment between the layers.
+- More background in the blog post: [Making Injera at Home](/blog/making-injera-at-home).
