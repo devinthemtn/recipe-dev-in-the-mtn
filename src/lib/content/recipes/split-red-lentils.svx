@@ -1,0 +1,46 @@
+---
+title: "How to Cook Split Red Lentils"
+description: "A simple, no-soak method for cooking split red lentils, either soft and creamy for dal and stews or just-tender for salads and bowls."
+date: "2026-10-02"
+draft: false
+tags: ["side", "vegan", "gluten-free", "diabetic-friendly", "high-fiber", "no-added-sugar", "make-ahead"]
+prepTime: "5 min"
+cookTime: "15 min"
+totalTime: "20 min"
+servings: 4
+nutrition:
+  calories: 170
+  carbs: "29g"
+  fiber: "5g"
+  sugar: "1g"
+  protein: "11g"
+  fat: "1g"
+  sodium: "290mg"
+---
+
+## Ingredients
+
+- 1 cup (190g) dried split red lentils
+- 2 cups (475g) water or low-sodium broth (use 1 1/2 cups for firmer lentils)
+- 1/2 tsp (3g) salt, plus more to taste
+- 1 bay leaf, a smashed garlic clove, or a pinch of cumin (optional)
+
+## Instructions
+
+1. Put the lentils in a bowl or fine-mesh strainer and rinse under cold water, swishing them with your hand, until the water runs mostly clear. This takes 3-4 changes of water and washes off the starchy dust that makes them foam and stick.
+2. Add the lentils and water (or broth) to a saucepan, along with any aromatics you're using. Bring to a boil over medium-high heat.
+3. Reduce to a gentle simmer and skim off any foam that rises to the top.
+4. **For soft, creamy lentils** (dal, soups, purees): Simmer uncovered for 15-20 minutes, stirring now and then, until they've broken down into a thick porridge. Add a splash of water if it gets too thick.
+5. **For just-tender lentils** (salads, bowls): Use 1 1/2 cups water and simmer for 5-8 minutes. Start tasting at 5 minutes and pull them as soon as they're tender but still hold their shape. Drain any extra liquid right away, then spread them on a plate to cool so they stop cooking.
+6. Stir in the salt at the end, then taste and adjust. Remove the bay leaf or garlic if you used them.
+
+## Notes
+
+- **Yield:** About 2 1/2 cups (500g) cooked. Nutrition is per 2/3 cup serving, cooked in water.
+- **No soaking needed:** Split red lentils have no skins, so they cook fast and don't need soaking.
+- **They turn gold:** Red lentils lose their orange-red color as they cook and turn yellow-gold. That's normal.
+- **Salt at the end:** Adding salt early can make the lentils take a little longer to soften.
+- **Holding their shape:** Split red lentils go from tender to mushy fast, so watch the clock with the firmer method. If you want lentils that stay whole for salads, French green or black beluga lentils are more forgiving.
+- **Why it's diabetes-friendly:** Lentils are high in fiber and plant protein, which slows down how fast the carbs are absorbed. Pair them with vegetables and a little fat for a balanced plate.
+- **Use them in:** [Misir Wat](/recipes/misir-wat), [Lentil & Vegetable Soup](/recipes/diabetic-lentil-vegetable-soup), a quick dal with sautéed onion, garlic, and turmeric, or stirred into chili to stretch it.
+- Keeps 5 days in the fridge and freezes well for up to 3 months. Soft lentils thicken as they sit, so loosen them with a little water when reheating.
