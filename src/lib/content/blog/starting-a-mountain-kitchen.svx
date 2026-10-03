@@ -6,7 +6,7 @@ author: "DevInTheMtn"
 tags: ["essay", "kitchen"]
 ---
 
-Starting a kitchen farther from a major city has changed how i cook and shop.
+Starting a kitchen farther from a major city has changed how I cook and shop.
 
 The plan is simple: recipes that hold up in a small kitchen, and a blog where we write about what's actually working — the failed loaves, the chili that got better on day two, the produce swaps that make winter cooking less bleak.
 
