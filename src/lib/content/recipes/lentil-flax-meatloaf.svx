@@ -1,0 +1,70 @@
+---
+title: "Lentil & Flax Meatloaf"
+description: "A juicy beef and pork meatloaf that swaps the breadcrumbs for soft red lentils, ground flax, and chia, with a tangy tomato glaze."
+date: "2026-10-04"
+draft: false
+tags: ["dinner", "comfort-food", "gluten-free", "diabetic-friendly", "high-fiber", "make-ahead"]
+prepTime: "20 min"
+cookTime: "1 hr"
+totalTime: "1 hr 30 min"
+servings: 8
+nutrition:
+  calories: 285
+  carbs: "12g"
+  fiber: "3g"
+  sugar: "3g"
+  protein: "20g"
+  fat: "17g"
+  sodium: "330mg"
+---
+
+## Ingredients
+
+### Meatloaf
+
+- 1 cup (200g) soft-cooked (thick) [split red lentils](/recipes/split-red-lentils), cooled
+- 1/4 cup (60g) milk
+- 2 tbsp (14g) ground flaxseed
+- 1 tbsp (12g) chia seeds
+- 1 tsp (5g) olive oil
+- 1 medium (110g) onion, finely diced
+- 2 cloves (6g) garlic, minced
+- 1 large (50g) egg (use 2 eggs if small or having trouble with it holding shape)
+- 1 tbsp (17g) Worcestershire sauce
+- 1 tsp (1g) dried thyme or Italian seasoning
+- 1 tsp (2g) smoked paprika
+- 3/4 tsp (4.5g) salt
+- 1/2 tsp (1g) black pepper
+- 1 lb (454g) 85/15 ground beef
+- 1/2 lb (227g) ground pork
+
+### Glaze
+
+- 1/4 cup (65g) no-salt-added tomato paste OR (- 1/4 cup (65g) no-sugar added ketchup for a richer flavor)
+- 1 tbsp (15g) apple cider vinegar
+- 1 tsp (5g) Dijon mustard
+- 1 tsp (7g) honey (optional)
+
+## Instructions
+
+1. Heat the oven to 375°F (190°C). Line a rimmed baking sheet with parchment.
+2. In a large bowl, stir together the milk, ground flax, and chia seeds. Let it sit for 10 minutes to thicken into a gel. This takes the place of breadcrumbs and keeps the loaf moist.
+3. While that sits, heat the olive oil in a small skillet over medium heat. Cook the onion until soft, about 5 minutes, then add the garlic and cook 1 minute more. Let it cool for a few minutes.
+4. Add the lentils to the flax-chia gel and mash them a little with a fork. Stir in the cooled onion and garlic, egg, Worcestershire, thyme, smoked paprika, salt, and pepper.
+5. Add the beef and pork. Mix gently with your hands just until everything is evenly combined. Overmixing makes a dense, tough loaf.
+6. Turn the mixture out onto the baking sheet and shape it into a loaf about 9 x 5 inches and 2 inches tall.
+7. Bake for 40 minutes.
+8. While it bakes, whisk together the glaze ingredients.
+9. Spread the glaze over the top and sides of the loaf. Bake another 15-20 minutes, until the center reads 160°F (71°C) on an instant-read thermometer.
+10. Let it rest for 10 minutes before slicing so the juices settle and the slices hold together.
+
+## Notes
+
+- **Yield:** One loaf, 8 slices. Nutrition is per slice, estimated from raw ingredients. Some fat renders out during baking, so actual fat and calories run a little lower.
+- **Why lentils:** Soft-cooked split red lentils melt into the meat, so you won't notice them. They add fiber and plant protein, keep the loaf moist, and stretch 1 1/2 lb of meat into 8 servings. Cook them unsalted (or account for the salt) since the meatloaf is seasoned on its own. For more ways to use them, see [Stretching Meals with Lentils](/blog/stretching-meals-with-lentils).
+- **Why flax and chia:** Both form a gel when wet, which binds the loaf like breadcrumbs or oats would, with no gluten and almost no net carbs. You can use 3 tbsp ground flax and skip the chia, or the other way around.
+- **All beef works too:** Use 1 1/2 lb (680g) ground beef if you don't have pork. The pork adds fat and tenderness, so stick with 80/20 or 85/15 beef rather than lean.
+- **Loaf pan option:** You can bake it in a 9 x 5 inch loaf pan, but it will sit in its own fat and won't brown on the sides. Add about 10 minutes and pour off the fat before slicing.
+- **Diabetes-friendly glaze:** Most meatloaf glazes are mostly ketchup and brown sugar. This one uses tomato paste and vinegar for tang, with just 1 tsp of honey across the whole loaf. Leave it out or use a little [monk fruit sweetener](/ingrts/monk-fruit-sweetener) if you like.
+- **Make ahead:** Shape the loaf, cover, and refrigerate up to 1 day. Add 5-10 minutes to the first bake.
+- Leftovers keep 4 days in the fridge. Slices freeze well for up to 3 months. Cold meatloaf makes a great sandwich.
