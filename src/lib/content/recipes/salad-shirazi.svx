@@ -1,0 +1,45 @@
+---
+title: "Salad Shirazi (Persian Cucumber Tomato Salad)"
+description: "Finely diced cucumber, tomato, and red onion with lime and dried mint. The crunchy, refreshing side that goes with every Persian meal."
+date: "2026-10-04"
+draft: false
+tags: ["side", "salad", "persian", "diabetic-friendly", "low-carb", "vegan", "gluten-free"]
+prepTime: "15 min"
+cookTime: "0 min"
+totalTime: "15 min"
+servings: 4
+nutrition:
+  calories: 70
+  carbs: "9g"
+  fiber: "2g"
+  sugar: "4g"
+  protein: "2g"
+  fat: "4g"
+  sodium: "290mg"
+---
+
+## Ingredients
+
+- 3 (360g) Persian or mini cucumbers
+- 3 (300g) Roma tomatoes
+- 1/2 small (75g) red onion
+- 1/4 cup (10g) fresh mint or parsley, chopped
+- 1 Tbs (2g) dried mint
+- 3 Tbs (45g) fresh lime juice
+- 1 Tbs (13g) olive oil
+- 1/2 tsp (3g) salt
+- Black pepper, to taste
+
+## Instructions
+
+1. Dice the cucumbers, tomatoes, and red onion into small, even pieces, about 1/4 inch. The small, even dice is what makes it shirazi.
+2. Put the vegetables in a bowl with the fresh herbs.
+3. Rub the dried mint between your palms over the bowl to release its oils.
+4. Add the lime juice, olive oil, salt, and pepper, and toss. Taste and add more lime or salt as needed.
+5. Serve right away or chill for up to an hour. After that the cucumbers start to release water.
+
+## Notes
+
+- **Why it's diabetes-friendly:** It's all non-starchy vegetables. Eating a bowl at the start of a meal adds fiber and fills you up before any carbs.
+- **Sourness:** Traditional versions often use verjuice (ab-ghooreh) instead of lime. Lemon also works.
+- Great with [Joojeh Kabab](/recipes/joojeh-kabab), [Kabab Koobideh](/recipes/kabab-koobideh), or spooned over [Kuku Sabzi](/recipes/kuku-sabzi).

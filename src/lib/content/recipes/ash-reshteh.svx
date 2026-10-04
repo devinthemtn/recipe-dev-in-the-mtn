@@ -1,0 +1,63 @@
+---
+title: "Ash Reshteh (Persian Bean, Herb, and Noodle Soup)"
+description: "A thick Persian soup of beans, lentils, and a mountain of greens, topped with tangy kashk, crispy onions, and mint oil. This version uses much fewer noodles than usual."
+date: "2026-10-04"
+draft: false
+tags: ["dinner", "soup", "persian", "diabetic-friendly", "vegetarian", "high-fiber", "make-ahead"]
+prepTime: "30 min"
+cookTime: "1 hr 30 min"
+totalTime: "2 hr"
+servings: 8
+nutrition:
+  calories: 295
+  carbs: "38g"
+  fiber: "8g"
+  sugar: "4g"
+  protein: "12g"
+  fat: "10g"
+  sodium: "510mg"
+---
+
+## Ingredients
+
+**Soup**
+
+- 2 large (500g) onions, thinly sliced, divided
+- 5 Tbs (70g) olive oil, divided
+- 4 cloves (12g) garlic, minced
+- 1 tsp (2g) ground turmeric
+- 1/2 cup (100g) dried green or brown lentils, rinsed
+- 10 cups (2.4L) water or low-sodium vegetable broth
+- 1 can (15 oz / 240g drained) chickpeas, rinsed
+- 1 can (15 oz / 240g drained) kidney beans, rinsed
+- 2 cups (60g) flat-leaf parsley, finely chopped
+- 2 cups (60g) cilantro, finely chopped
+- 1 cup (30g) fresh dill, finely chopped
+- 1 bunch (100g) green onions, finely chopped
+- 10 oz (285g) fresh spinach, chopped
+- 3 oz (85g) reshteh noodles or linguine, broken in half (optional, see notes)
+- 1 1/2 tsp (9g) salt
+- 1/2 tsp (1g) black pepper
+
+**Toppings**
+
+- 1/2 cup (120g) kashk, or plain Greek yogurt mixed with 1 Tbs lemon juice
+- 2 Tbs (4g) dried mint
+
+## Instructions
+
+1. **Crispy onions:** Heat 3 Tbs oil in a skillet over medium heat. Add half the sliced onions and fry for 15-20 minutes, stirring often, until deep golden brown and crisp. Move them to a paper towel. Keep the oil in the skillet.
+2. **Soup base:** Heat 1 Tbs oil in a large soup pot over medium heat. Cook the rest of the onions for 8 minutes, until soft. Add the garlic and turmeric and cook for 1 minute.
+3. Add the lentils and water. Bring to a boil, then simmer for 30 minutes.
+4. Add the chickpeas, kidney beans, parsley, cilantro, dill, green onions, salt, and pepper. Simmer for 30 minutes, stirring occasionally.
+5. Add the spinach and noodles. Simmer for 10-15 minutes, until the noodles are tender and the soup is thick. Add water if it gets too thick to stir.
+6. **Kashk:** Thin the kashk with a few spoonfuls of hot water until it's pourable. Stir about a quarter of it into the soup.
+7. **Mint oil:** Warm the oil left in the onion skillet with the last 1 Tbs oil. Take it off the heat, stir in the dried mint, and let it sizzle for 30 seconds. Don't cook it longer or it turns bitter.
+8. Ladle into bowls and top each one with a swirl of kashk, crispy onions, and a drizzle of mint oil.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Ash reshteh is mostly beans, lentils, and greens, with a lot of fiber. The usual recipe uses a full package of noodles. This one uses about a third of that. Skip the noodles completely and each bowl drops to about 33g of carbs. It's still a moderate-carb meal, so pair it with a protein, like a boiled egg or some leftover chicken stirred in.
+- **Kashk:** A tangy fermented whey product sold in jars at Persian and Middle Eastern groceries. Greek yogurt with lemon is a milder substitute.
+- **Not gluten-free** because of the noodles. Without the noodles it is.
+- Keeps 5 days in the fridge and freezes well. Store the toppings separately and add them after reheating.

@@ -1,0 +1,46 @@
+---
+title: "Kabab Koobideh (Persian Ground Meat Kebabs)"
+description: "Juicy grilled ground beef kebabs seasoned simply with onion, saffron, and sumac. Persian street-food flavor without the rice."
+date: "2026-10-04"
+draft: false
+tags: ["dinner", "persian", "diabetic-friendly", "low-carb", "gluten-free", "high-protein"]
+prepTime: "20 min + chilling"
+cookTime: "10 min"
+totalTime: "1 hr 30 min"
+servings: 4
+nutrition:
+  calories: 470
+  carbs: "7g"
+  fiber: "2g"
+  sugar: "4g"
+  protein: "40g"
+  fat: "30g"
+  sodium: "730mg"
+---
+
+## Ingredients
+
+- 1 large (200g) onion
+- 2 lb (900g) ground beef (85/15), or half beef and half lamb
+- 1 tsp (6g) salt
+- 1 tsp (2g) black pepper
+- 1/2 tsp (1g) ground turmeric
+- 1/4 tsp (0.2g) saffron threads, ground and steeped in 2 Tbs hot water
+- 2 Tbs (28g) butter, melted
+- 4 (400g) Roma tomatoes, halved, for grilling
+- Ground sumac, for serving
+
+## Instructions
+
+1. Grate the onion on the fine side of a box grater. Put the pulp in a clean towel or cheesecloth and squeeze out as much juice as you can. **This step matters.** Wet onion makes the meat fall off the skewer. Discard the juice.
+2. In a large bowl, combine the ground meat, squeezed onion, salt, pepper, and turmeric. Knead with your hands for 3-5 minutes, until the mixture turns sticky and pasty. This is what holds the kebabs together.
+3. Cover and refrigerate for at least 1 hour, or overnight.
+4. Divide the meat into 8 portions. With damp hands, press each portion around a wide, flat metal skewer into a long, thin kebab about 1 inch thick. Pinch along its length to make ridges. Press the ends firmly onto the skewer.
+5. Heat a grill to high. Grill the kebabs for 6-8 minutes, turning every 1-2 minutes, until browned and just cooked through. Turning them often in the first couple of minutes helps them set and keeps them on the skewer. Grill the tomatoes at the same time.
+6. Stir the saffron water into the melted butter and brush it over the kebabs. Sprinkle with sumac and serve with the grilled tomatoes.
+
+## Notes
+
+- **Why it's diabetes-friendly:** It's meat and vegetables with no breadcrumbs or fillers, so the carbs come almost entirely from the onion and tomatoes. At a Persian restaurant it comes on a mountain of rice with lavash. At home, pair it with [Salad Shirazi](/recipes/salad-shirazi), [Mast-o-Khiar](/recipes/mast-o-khiar), and a plate of fresh herbs, radishes, and green onions (sabzi khordan).
+- **No flat skewers or no grill:** Shape the meat into 6-inch logs on a rack set over a foil-lined sheet pan. Broil 4-5 minutes per side.
+- Leftovers reheat well and are good crumbled into eggs the next morning.

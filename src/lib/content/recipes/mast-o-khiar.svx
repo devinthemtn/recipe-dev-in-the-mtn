@@ -1,0 +1,43 @@
+---
+title: "Mast-o-Khiar (Persian Cucumber Yogurt)"
+description: "Thick Greek yogurt with crunchy cucumber, garlic, and plenty of mint. A cool, high-protein side for kebabs and stews."
+date: "2026-10-04"
+draft: false
+tags: ["side", "dip", "persian", "diabetic-friendly", "low-carb", "vegetarian", "gluten-free", "high-protein"]
+prepTime: "10 min"
+cookTime: "0 min"
+totalTime: "10 min + 30 min chilling"
+servings: 6
+nutrition:
+  calories: 65
+  carbs: "5g"
+  fiber: "0g"
+  sugar: "4g"
+  protein: "8g"
+  fat: "2g"
+  sodium: "220mg"
+---
+
+## Ingredients
+
+- 2 cups (480g) plain Greek yogurt, 2% or whole
+- 2 (240g) Persian or mini cucumbers, finely diced
+- 1 small clove (3g) garlic, grated
+- 1 Tbs (2g) dried mint, plus more for topping
+- 1 Tbs (4g) fresh dill, chopped (optional)
+- 1/2 tsp (3g) salt
+- Black pepper, to taste
+- Dried rose petals, for topping (optional)
+
+## Instructions
+
+1. Stir together the yogurt, cucumbers, garlic, dried mint, dill, salt, and pepper.
+2. Cover and chill for at least 30 minutes so the flavors blend.
+3. Stir again, then top with a pinch of dried mint and crumbled rose petals if you have them.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Plain Greek yogurt has a lot of protein and very little sugar. A scoop next to a stew, or before the rest of the meal, is an easy way to eat protein first.
+- **Raisins:** Many Persian versions stir in raisins, and sometimes walnuts. I leave out the raisins to keep the sugar down. A tablespoon of chopped walnuts adds crunch.
+- Use regular plain yogurt for a thinner, more traditional texture. It has about half the protein of Greek yogurt.
+- Keeps 3 days in the fridge. Stir before serving, since the cucumbers release some water.

@@ -1,0 +1,52 @@
+---
+title: "Ghormeh Sabzi (Persian Herb Stew)"
+description: "Iran's beloved herb stew: beef, kidney beans, and tart dried limes simmered in a deep green sauce of slow-fried herbs. Lots of fiber, lots of flavor."
+date: "2026-10-04"
+draft: false
+tags: ["dinner", "persian", "diabetic-friendly", "gluten-free", "high-fiber", "make-ahead"]
+prepTime: "30 min"
+cookTime: "2 hr 45 min"
+totalTime: "3 hr 15 min"
+servings: 6
+nutrition:
+  calories: 385
+  carbs: "16g"
+  fiber: "5g"
+  sugar: "3g"
+  protein: "26g"
+  fat: "24g"
+  sodium: "500mg"
+---
+
+## Ingredients
+
+- 4 Tbs (55g) olive oil, divided
+- 1 large (200g) onion, finely chopped
+- 1 tsp (2g) ground turmeric
+- 1 1/2 lb (680g) beef chuck or lamb stew meat, cut into 1-inch cubes
+- 4 cups (950g) water
+- 4 (15g) dried limes (limoo amani)
+- 2 bunches (200g) flat-leaf parsley
+- 1 bunch (100g) cilantro
+- 1 bunch (100g) green onions or chives
+- 2 Tbs (4g) dried fenugreek leaves
+- 1 can (15 oz / 240g drained) low-sodium kidney beans, rinsed
+- 1 tsp (6g) salt
+- 1/2 tsp (1g) black pepper
+- 1/2 (25g) lemon, juiced (optional)
+
+## Instructions
+
+1. Heat 2 Tbs oil in a heavy pot over medium heat. Cook the onion for 8-10 minutes, until golden. Stir in the turmeric, add the meat, and brown on all sides, about 5 minutes.
+2. Pierce each dried lime a few times with a fork or knife tip and soak in hot water for 10 minutes. Add the limes, the 4 cups of water, salt, and pepper to the pot. Bring to a boil, cover, and simmer on low for 1 hour.
+3. While the meat simmers, wash and thoroughly dry the parsley, cilantro, and green onions, then chop them very finely.
+4. Heat the remaining 2 Tbs oil in a large skillet over medium heat. Add the chopped herbs and fry, stirring often, for 15-20 minutes, until they shrink down and turn a deep, dark green. Don't let them burn. Add the fenugreek for the last 2 minutes only, since it burns quickly and turns bitter.
+5. Add the fried herbs and kidney beans to the pot. Cover and simmer on low for 1 1/2 hours more, stirring occasionally, until the meat is very tender and a thin layer of oil rises to the top.
+6. Press the limes against the side of the pot with a spoon to release their juice. Taste and add lemon juice or salt if needed. Remove the limes before serving if you like, since biting into one is very sour and a little bitter.
+
+## Notes
+
+- **Why it's diabetes-friendly:** The sauce is almost entirely herbs, and the kidney beans add fiber and plant protein that slow down how fast the carbs hit. Nutrition is for the stew alone.
+- **Instead of rice:** Serve it over cauliflower rice, or have a small portion of regular rice after you've eaten some of the stew. Eating the protein first helps.
+- **Finding ingredients:** Dried limes are sold in Middle Eastern groceries and online. Dried fenugreek leaves are sold as *kasuri methi* in Indian groceries. Many Persian markets also sell bags of pre-chopped and fried ghormeh sabzi herbs, which saves a lot of chopping.
+- Like most khoresh, it's better on the second day. Keeps 5 days in the fridge and freezes for 3 months.

@@ -1,0 +1,53 @@
+---
+title: "Soup-e Jo (Persian Barley and Chicken Soup)"
+description: "A creamy, lemony barley soup with shredded chicken and carrots. A Persian comfort-food classic and a slower-burning alternative to rice."
+date: "2026-10-04"
+draft: false
+tags: ["dinner", "soup", "persian", "diabetic-friendly", "high-protein", "make-ahead"]
+prepTime: "15 min"
+cookTime: "1 hr 20 min"
+totalTime: "1 hr 35 min"
+servings: 6
+nutrition:
+  calories: 230
+  carbs: "19g"
+  fiber: "4g"
+  sugar: "3g"
+  protein: "19g"
+  fat: "8g"
+  sodium: "440mg"
+---
+
+## Ingredients
+
+- 1/2 cup (100g) pearl barley
+- 2 Tbs (27g) olive oil
+- 1 medium (150g) onion, finely chopped
+- 1 tsp (2g) ground turmeric
+- 1 lb (450g) boneless, skinless chicken thighs
+- 2 Tbs (32g) tomato paste
+- 2 medium (120g) carrots, diced small
+- 8 cups (1.9L) low-sodium chicken broth
+- 1/2 tsp (3g) salt, plus more to taste
+- 1/2 tsp (1g) black pepper
+- 1 (45g) lemon, juiced
+- 1/4 cup (10g) flat-leaf parsley, chopped
+
+## Instructions
+
+1. Rinse the barley until the water runs clear. Soak it in water for 30 minutes while you prep, then drain.
+2. Heat the olive oil in a large pot over medium heat. Cook the onion for 8 minutes, until golden. Stir in the turmeric.
+3. Add the whole chicken thighs and cook for 2 minutes per side.
+4. Stir in the tomato paste and cook for 1 minute, until it darkens slightly.
+5. Add the barley, carrots, broth, salt, and pepper. Bring to a boil, then cover and simmer on low for 1 hour, stirring occasionally so the barley doesn't stick.
+6. Take out the chicken, shred it with two forks, and return it to the pot.
+7. Simmer uncovered for another 15 minutes, until the barley is very soft and the soup is thick and creamy.
+8. Stir in the lemon juice and parsley. Taste and adjust the salt.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Barley has a lot of soluble fiber (beta-glucan) and raises blood sugar more slowly than white rice or pasta. It's not low-carb, but a bowl has plenty of chicken in it, so you get protein along with the carbs.
+- **More fiber:** Hulled barley has even more fiber than pearl barley but needs about 30 minutes longer to cook.
+- **Creamier:** Many Persian cooks finish soup-e jo with a splash of cream or milk. A spoonful of Greek yogurt in each bowl gives the same effect and adds a little protein.
+- **Not gluten-free:** Barley contains gluten.
+- Keeps 4 days in the fridge. It thickens a lot as it sits, so add broth or water when reheating.

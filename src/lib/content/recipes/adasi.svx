@@ -1,0 +1,48 @@
+---
+title: "Adasi (Persian Lentil Stew)"
+description: "A thick, cumin-scented brown lentil stew. It's a traditional Persian breakfast, but just as good for lunch with yogurt or a couple of eggs on top."
+date: "2026-10-04"
+draft: false
+tags: ["breakfast", "lunch", "persian", "diabetic-friendly", "vegan", "gluten-free", "high-fiber", "make-ahead", "budget"]
+prepTime: "10 min"
+cookTime: "50 min"
+totalTime: "1 hr"
+servings: 6
+nutrition:
+  calories: 220
+  carbs: "31g"
+  fiber: "6g"
+  sugar: "3g"
+  protein: "12g"
+  fat: "5g"
+  sodium: "390mg"
+---
+
+## Ingredients
+
+- 1 1/2 cups (290g) dried brown or green lentils
+- 2 Tbs (27g) olive oil, plus more for drizzling
+- 1 large (200g) onion, finely chopped
+- 1 tsp (2g) ground turmeric
+- 1 tsp (2g) ground cumin
+- 6 cups (1.4L) water
+- 1 tsp (6g) salt
+- 1/2 tsp (1g) black pepper
+- 1/2 tsp (1g) ground golpar (optional)
+- 1/2 (25g) lemon, juiced
+
+## Instructions
+
+1. Rinse the lentils and pick out any small stones.
+2. Heat the olive oil in a pot over medium heat. Cook the onion for 8-10 minutes, until golden.
+3. Stir in the turmeric and cumin and cook for 30 seconds.
+4. Add the lentils and water. Bring to a boil, then lower the heat and simmer uncovered for 35-45 minutes, until the lentils are very soft and starting to fall apart. Add more water if it gets too thick.
+5. Mash about a third of the lentils with a potato masher (or blend briefly with an immersion blender) for a thick, creamy texture.
+6. Season with salt, pepper, and lemon juice. Ladle into bowls and top with a pinch of golpar and a drizzle of olive oil.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Lentils bring a lot of fiber and plant protein, so they raise blood sugar more slowly than most starches. On its own a bowl is still a moderate-carb meal, so I eat it with a protein: a spoonful of Greek yogurt, a fried egg or two on top, or a slice of [Kuku Sabzi](/recipes/kuku-sabzi) first.
+- **Golpar:** Ground Persian hogweed seed, often mislabeled "angelica" in shops. It's earthy and slightly citrusy, and traditional on adasi, but the stew is still good without it.
+- Some versions add potato or a little flour to thicken the stew. Mashing some of the lentils does the same job without the extra starch.
+- Keeps 5 days in the fridge and freezes well. It thickens as it sits, so loosen it with water when reheating.

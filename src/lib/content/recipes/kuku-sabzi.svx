@@ -1,0 +1,53 @@
+---
+title: "Kuku Sabzi (Persian Herb Frittata)"
+description: "A deep green Persian frittata that's more herbs than egg. High in protein, very low in carbs, and just as good cold the next day."
+date: "2026-10-04"
+draft: false
+tags: ["breakfast", "lunch", "persian", "diabetic-friendly", "low-carb", "gluten-free", "vegetarian", "make-ahead"]
+prepTime: "25 min"
+cookTime: "30 min"
+totalTime: "55 min"
+servings: 6
+nutrition:
+  calories: 205
+  carbs: "4g"
+  fiber: "2g"
+  sugar: "1g"
+  protein: "10g"
+  fat: "17g"
+  sodium: "380mg"
+---
+
+## Ingredients
+
+- 2 bunches (100g) flat-leaf parsley, leaves and tender stems
+- 1 bunch (50g) cilantro, leaves and tender stems
+- 1 cup (30g) fresh dill, loosely packed
+- 4 (60g) green onions
+- 8 large (400g) eggs
+- 1 tsp (1g) dried fenugreek leaves (optional)
+- 1/2 tsp (1g) ground turmeric
+- 1/2 tsp (2g) baking powder
+- 3/4 tsp (4g) salt
+- 1/2 tsp (1g) black pepper
+- 1/3 cup (35g) walnuts, roughly chopped (optional)
+- 3 Tbs (40g) olive oil
+
+## Instructions
+
+1. Preheat the oven to 350°F.
+2. Wash the herbs and green onions, then dry them **very** well in a salad spinner or rolled up in a towel. Wet herbs make a soggy kuku.
+3. Finely chop the herbs and green onions by hand or pulse them in a food processor. You want them minced, not a paste. You should have about 4-5 packed cups.
+4. In a large bowl, whisk the eggs with the fenugreek, turmeric, baking powder, salt, and pepper.
+5. Fold in the chopped herbs and walnuts. The mixture should look much more green than yellow, with just enough egg to hold the herbs together.
+6. Heat the olive oil in a 10-inch oven-safe skillet (cast iron or nonstick) over medium heat. Pour in the egg mixture, smooth the top, and cook without stirring for 5-6 minutes, until the edges are set and the bottom is browned.
+7. Move the skillet to the oven and bake for 20-25 minutes, until the center is set and no longer jiggles.
+8. Let it cool for 5 minutes, then cut into 6 wedges. Serve warm, at room temperature, or cold.
+
+## Notes
+
+- **Why it's diabetes-friendly:** It's mostly eggs and leafy herbs, so a slice has about 4g of carbs and a good amount of protein. It's a solid protein-first breakfast, and you can keep it in the fridge as a grab-and-go option for busy days.
+- **Barberries:** Traditional kuku often has dried barberries (zereshk) folded in. They're tart but still a dried fruit, so I leave them out. A tablespoon spread across the whole kuku adds very little sugar per slice if you want them.
+- **Fenugreek:** Dried fenugreek leaves are sold as *kasuri methi* in Indian groceries. They give kuku its classic flavor, but a little goes a long way.
+- **Serve it with** [Mast-o-Khiar](/recipes/mast-o-khiar) and a [Salad Shirazi](/recipes/salad-shirazi), or wrap a slice in lettuce.
+- Keeps 4 days in the fridge.

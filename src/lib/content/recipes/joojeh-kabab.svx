@@ -1,0 +1,55 @@
+---
+title: "Joojeh Kabab (Saffron Yogurt Chicken Kebabs)"
+description: "Chicken thighs marinated in saffron, lemon, and yogurt, then grilled with tomatoes and peppers. A simple protein-first dinner with no rice needed."
+date: "2026-10-04"
+draft: false
+tags: ["dinner", "persian", "diabetic-friendly", "low-carb", "gluten-free", "high-protein"]
+prepTime: "20 min + marinating"
+cookTime: "15 min"
+totalTime: "35 min + 4 hr marinating"
+servings: 4
+nutrition:
+  calories: 355
+  carbs: "8g"
+  fiber: "2g"
+  sugar: "5g"
+  protein: "44g"
+  fat: "15g"
+  sodium: "580mg"
+---
+
+## Ingredients
+
+**Marinade**
+
+- 1/2 tsp (0.3g) saffron threads
+- 3 Tbs (45g) hot water
+- 1 cup (245g) plain Greek yogurt
+- 1 large (150g) onion, grated
+- 1 (45g) lemon, juiced
+- 2 Tbs (27g) olive oil
+- 1 tsp (6g) salt
+- 1/2 tsp (1g) ground turmeric
+- 1/2 tsp (1g) black pepper
+
+**Kebabs**
+
+- 2 lb (900g) boneless, skinless chicken thighs, cut into 1 1/2-inch pieces
+- 4 (400g) Roma tomatoes, halved
+- 2 (300g) bell peppers, cut into large pieces
+- 1 Tbs (14g) butter, melted, for brushing
+
+## Instructions
+
+1. Grind the saffron threads with a pinch of salt using a mortar and pestle (or crush them between two spoons). Pour in the hot water and let it steep for 10 minutes.
+2. In a large bowl, whisk together the yogurt, grated onion, lemon juice, olive oil, salt, turmeric, pepper, and **two-thirds** of the saffron water. Save the rest of the saffron water for later.
+3. Add the chicken and toss to coat. Cover and refrigerate for at least 4 hours, or up to 24 hours.
+4. Thread the chicken onto skewers, scraping off most of the marinade. If you're using wooden skewers, soak them in water for 30 minutes first. Thread the tomatoes and peppers onto separate skewers, since they cook at a different rate.
+5. Heat a grill to medium-high. Grill the chicken for 10-12 minutes, turning every few minutes, until it's charred in spots and reaches an internal temperature of 165°F. Grill the vegetables alongside until they're blistered and soft.
+6. Stir the remaining saffron water into the melted butter and brush it over the chicken right as it comes off the grill.
+
+## Notes
+
+- **Why it's diabetes-friendly:** This is almost entirely protein and non-starchy vegetables. Joojeh is usually served on a big plate of saffron rice. I serve it with grilled vegetables, [Salad Shirazi](/recipes/salad-shirazi), and [Mast-o-Khiar](/recipes/mast-o-khiar) instead. Nutrition assumes most of the marinade is scraped off.
+- **No grill:** Set the skewers (or loose pieces) on a rack over a foil-lined sheet pan and broil about 6 inches from the heat for 12-15 minutes, turning once halfway.
+- **Thighs vs. breast:** Thighs stay juicy on the grill. Breast works too, but pull it as soon as it reaches 165°F.

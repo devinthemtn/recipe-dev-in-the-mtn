@@ -1,0 +1,50 @@
+---
+title: "Khoresh Karafs (Persian Celery and Herb Stew)"
+description: "Tender beef slowly simmered with celery, parsley, and mint, finished with lemon. A bright, tangy stew made almost entirely from non-starchy vegetables."
+date: "2026-10-04"
+draft: false
+tags: ["dinner", "persian", "diabetic-friendly", "low-carb", "gluten-free", "make-ahead"]
+prepTime: "25 min"
+cookTime: "2 hr"
+totalTime: "2 hr 25 min"
+servings: 6
+nutrition:
+  calories: 310
+  carbs: "8g"
+  fiber: "3g"
+  sugar: "4g"
+  protein: "22g"
+  fat: "22g"
+  sodium: "520mg"
+---
+
+## Ingredients
+
+- 3 Tbs (40g) olive oil, divided
+- 1 large (200g) onion, finely chopped
+- 1 tsp (2g) ground turmeric
+- 1 1/2 lb (680g) beef chuck or lamb stew meat, cut into 1-inch cubes
+- 3 cups (710g) water
+- 1 bunch (500g) celery, cut into 1-inch pieces
+- 2 bunches (120g) flat-leaf parsley, finely chopped
+- 1 cup (30g) fresh mint, finely chopped, or 2 Tbs dried mint
+- 1/4 tsp (0.2g) saffron threads, ground and steeped in 2 Tbs hot water
+- 1-2 (45-90g) lemons, juiced
+- 1 tsp (6g) salt
+- 1/2 tsp (1g) black pepper
+
+## Instructions
+
+1. Heat 2 Tbs oil in a heavy pot over medium heat. Add the onion and cook for 8-10 minutes, until golden.
+2. Stir in the turmeric, then add the meat. Cook for 5 minutes, turning, until browned on all sides.
+3. Add the water, salt, and pepper. Bring to a boil, then cover and simmer on low for 1 hour.
+4. While the meat simmers, heat the remaining 1 Tbs oil in a large skillet over medium heat. Sauté the celery for 8-10 minutes, until it starts to soften and brown at the edges. Add the parsley and mint and cook for another 5 minutes, until the herbs darken and smell fragrant.
+5. Add the celery, herbs, and saffron water to the pot. Cover and simmer for 45-60 minutes more, until the meat is very tender and the celery is soft.
+6. Stir in the juice of 1 lemon, simmer 10 minutes, then taste. Add more lemon and salt as needed. It should taste distinctly tangy.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Apart from the meat, it's almost all celery and herbs, so a full bowl stays around 8g of carbs. The broth is thin and tangy, without the flour or sugar many stews use for body.
+- **Instead of rice:** Khoresh is normally served over rice. It's just as good over cauliflower rice, with a slice of [Kuku Sabzi](/recipes/kuku-sabzi), or simply in a bowl like soup.
+- **Sour grapes:** For a more traditional sourness, use 2-3 Tbs of verjuice (ab-ghooreh) or a handful of unripe sour grapes in place of some of the lemon. Both are sold in Middle Eastern groceries.
+- It tastes even better the next day. Keeps 5 days in the fridge and freezes well.
