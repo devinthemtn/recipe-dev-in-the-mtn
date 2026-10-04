@@ -1,0 +1,62 @@
+---
+title: "Low-Carb Crustless Apple Crisp"
+description: "Tart Granny Smith apples baked under a crunchy pecan, walnut, and flax crumble. A cozy fall dessert with lots of fiber and very little sugar."
+date: "2026-10-04"
+draft: false
+tags: ["dessert", "diabetic-friendly", "low-carb", "gluten-free", "vegetarian", "high-fiber", "make-ahead"]
+prepTime: "15 min"
+cookTime: "40 min"
+totalTime: "1 hr 5 min"
+servings: 6
+nutrition:
+  calories: 285
+  carbs: "16g"
+  fiber: "6g"
+  sugar: "9g"
+  protein: "4g"
+  fat: "25g"
+  sodium: "100mg"
+---
+
+## Ingredients
+
+**Apple filling**
+
+- 2 large (450g) Granny Smith apples, cored and thinly sliced, skins on
+- 1 Tbs (15g) lemon juice
+- 1 Tbs (14g) melted butter or coconut oil
+- 1 tsp ground cinnamon
+- 1/4 tsp ground nutmeg
+- 1/2 tsp vanilla extract
+- 1-2 Tbs granulated monk fruit or erythritol sweetener, optional, to taste
+
+**Crumble topping**
+
+- 1/2 cup (55g) pecans
+- 1/2 cup (58g) walnuts
+- 1/4 cup (28g) ground flaxseed
+- 1/4 cup (20g) unsweetened shredded coconut
+- 3 Tbs granulated monk fruit or erythritol sweetener
+- 1 tsp ground cinnamon
+- 1/4 tsp salt
+- 3 Tbs (42g) unsalted butter, melted
+
+## Instructions
+
+1. Preheat the oven to 350°F (175°C). Grease a 9-inch pie dish or 8x8-inch baking dish with butter.
+2. In a medium bowl, toss the apple slices with the lemon juice, melted butter, cinnamon, nutmeg, vanilla, and sweetener (if using) until evenly coated. Spread them in the baking dish in an even layer.
+3. Cover the dish with foil and bake for 15 minutes to give the apples a head start.
+4. While the apples bake, pulse the pecans and walnuts in a food processor 6-8 times, until they're mostly the size of peas with some finer crumbs. Don't overdo it, or they'll turn into nut butter. You can also chop them finely by hand.
+5. Transfer the nuts to a bowl and stir in the flaxseed, coconut, sweetener, cinnamon, and salt. Pour in the melted butter and stir with a fork until the mixture is evenly moistened and forms small clumps.
+6. Take the apples out of the oven and remove the foil. Scatter the topping evenly over the top.
+7. Bake uncovered for 20-25 minutes, until the topping is deep golden and the apples are tender when pierced with a fork. If the topping is browning too fast, lay a piece of foil loosely over the top.
+8. Let cool for 10 minutes before serving. The topping crisps up more as it cools.
+
+## Notes
+
+- **Nutrition:** Per 1/6 of the crisp, without toppings. Carbs don't include the sugar-free sweetener. Net carbs are about 10g per serving.
+- **Sweetener:** Most granulated monk fruit and erythritol blends measure 1:1 like sugar. Erythritol can leave a slight cooling aftertaste. Allulose also works, but it browns faster, so keep an eye on the topping.
+- **Swap the coconut:** You can use 1/4 cup rolled oats instead of the coconut. That adds about 2g carbs per serving, and you'll need certified gluten-free oats if that matters to you.
+- **Serve it with:** A spoonful of plain full-fat Greek yogurt or unsweetened whipped cream. Both add a little protein and fat to help balance the apples.
+- **Why it's diabetes-friendly:** Leaving the skins on keeps the apples' fiber, and Granny Smiths are one of the lower-sugar apples. The nut and flax topping adds even more fiber plus healthy fats, so the fruit sugars get absorbed more slowly than in a traditional flour-and-sugar crisp.
+- Keeps 4 days in an airtight container in the fridge. Reheat in a 350°F oven or toaster oven for 5-7 minutes to bring back the crunch. The microwave will soften the topping.
