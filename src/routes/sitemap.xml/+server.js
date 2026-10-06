@@ -1,8 +1,9 @@
 import { getAllPosts } from '$lib/content/blog.js';
+import { getAllCoffeeReviews } from '$lib/content/coffee.js';
 import { getAllIngredients } from '$lib/content/ingrts.js';
 import { getAllProducts } from '$lib/content/prods.js';
 import { getAllRecipes } from '$lib/content/recipes.js';
-import { siteOrigin } from '$lib/site.js';
+import { showCoffee, siteOrigin } from '$lib/site.js';
 
 // Written to build/sitemap.xml at build time. Every page here is listed from
 // the same content loaders the routes use, so new content is picked up
@@ -14,7 +15,8 @@ const sections = [
 	{ path: '/recipes/', items: getAllRecipes() },
 	{ path: '/blog/', items: getAllPosts() },
 	{ path: '/ingrts/', items: getAllIngredients() },
-	{ path: '/prods/', items: getAllProducts() }
+	{ path: '/prods/', items: getAllProducts() },
+	...(showCoffee ? [{ path: '/coffee/reviews/', items: getAllCoffeeReviews() }] : [])
 ];
 
 /**
@@ -52,6 +54,7 @@ export function GET() {
 		});
 		pages.push({ path: '/', lastmod: newest(sectionPages.map((s) => s.index.lastmod)) });
 		for (const { index, entries } of sectionPages) pages.push(index, ...entries);
+		if (showCoffee) pages.push({ path: '/coffee/' }, { path: '/coffee/videos/' });
 		pages.push({ path: '/legal/' });
 	} else {
 		// Sitemap URLs must be absolute, so there's nothing valid to list.

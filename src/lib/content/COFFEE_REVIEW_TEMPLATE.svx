@@ -1,0 +1,40 @@
+---
+# Copy this file into src/lib/content/coffee/reviews/ and rename it to a
+# lowercase-hyphenated slug, e.g. "onyx-geometry.svx" — the filename becomes
+# the URL: /coffee/reviews/onyx-geometry
+
+title: "Roaster — Coffee Name"
+description: "One or two sentences on the coffee, shown on the review card."
+date: "2026-10-05"
+tags: ["light roast"] # e.g. light roast, espresso, decaf, natural, washed, blend
+# draft: true # uncomment to hide the review until it's ready
+
+# All of these are optional — delete any you don't want to show.
+roaster: "Roaster Name"
+origin: "Country, region"
+producer: "Farm, washing station or co-op"
+variety: "Gesha, SL28, Bourbon…"
+process: "Washed"
+roast: "Light"
+notes: ["blueberry", "jasmine", "milk chocolate"] # roaster's tasting notes
+brewedWith: ["V60", "AeroPress"]
+price: "$22 / 12oz"
+rating: 4 # out of 5; halves are fine (4.5)
+buyUrl: "https://example.com/the-coffee" # where to buy it
+---
+
+## First impressions
+
+The bag, the smell when you open it, the roast date.
+
+## How I brewed it
+
+Recipe, grind setting, water — what worked and what didn't.
+
+## In the cup
+
+What you actually tasted, and how it compares to the roaster's notes.
+
+## Would I buy it again?
+
+The verdict.

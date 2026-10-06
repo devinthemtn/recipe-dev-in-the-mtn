@@ -41,7 +41,23 @@ export default defineConfig({
 				assets: 'build',
 				fallback: undefined,
 				precompress: false
-			})
+			}),
+			prerender: {
+				// The coffee section isn't linked from anywhere until it launches (see
+				// `showCoffee` in src/lib/site.js), and has no reviews yet, so the crawler
+				// never reaches its routes. That's expected; fail the build only for any
+				// other route that wasn't reached.
+				handleUnseenRoutes: ({ routes, message }) => {
+					if (routes.some((id) => !id.startsWith('/coffee'))) throw new Error(message);
+				},
+				// Until then, the coffee pages answer 404 in production builds (see
+				// src/routes/coffee/+layout.js), and pages that 404 aren't written to build/.
+				// That's how the section stays out, so don't fail the build over it.
+				handleHttpError: ({ status, path, message }) => {
+					if (status === 404 && path.startsWith('/coffee')) return;
+					throw new Error(message);
+				}
+			}
 		})
 	],
 	test: {

@@ -4,6 +4,7 @@
 	import { resolve } from '$app/paths';
 	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 	import GoogleAnalytics from '$lib/components/GoogleAnalytics.svelte';
+	import { showCoffee } from '$lib/site.js';
 
 	let { children } = $props();
 
@@ -12,6 +13,7 @@
 		{ path: '/recipes', label: 'Recipes' },
 		{ path: '/ingrts', label: 'Ingredients' },
 		{ path: '/prods', label: 'Products' },
+		...(showCoffee ? [{ path: '/coffee', label: 'Coffee' }] : []),
 		{ path: '/blog', label: 'Blog' }
 	];
 </script>

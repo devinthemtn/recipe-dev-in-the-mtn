@@ -37,6 +37,9 @@ Recipes and blog posts live as markdown files with YAML frontmatter — there's 
 
 - **Recipes**: `src/lib/content/recipes/*.svx`. Copy `src/lib/content/RECIPE_TEMPLATE.svx` into that folder, rename it to a lowercase-hyphenated slug (e.g. `garlic-roasted-potatoes.svx` → `/recipes/garlic-roasted-potatoes`), and fill in the frontmatter (title, description, tags, times, servings, optional nutrition) plus an `## Ingredients` and `## Instructions` section.
 - **Blog posts**: `src/lib/content/blog/*.svx`, same pattern.
+- **Coffee** (`/coffee`) is a draft section: it appears under `pnpm dev` but is left out of production builds until `showCoffee` in `src/lib/site.js` is set to `true`.
+- **Coffee reviews**: `src/lib/content/coffee/reviews/*.svx`, using `src/lib/content/COFFEE_REVIEW_TEMPLATE.svx` (roaster, origin, process, rating, etc.). They show at `/coffee/reviews/<slug>`.
+- **Coffee videos**: `src/lib/content/coffee/videos.js` — add an object to the `videos` or `channels` array. Any YouTube link works; the thumbnail is pulled from YouTube automatically.
 
 Recipe/blog metadata is read via `src/lib/content/recipes.js` and `blog.js` using `import.meta.glob`, so a new `.svx` file is picked up automatically — no registry to update.
 
