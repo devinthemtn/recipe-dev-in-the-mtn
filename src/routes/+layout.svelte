@@ -20,8 +20,10 @@
 
 <GoogleAnalytics />
 
-<div class="flex min-h-screen flex-col bg-white text-stone-800 dark:bg-stone-950 dark:text-stone-200">
-	<header class="border-b border-stone-200 dark:border-stone-800">
+<div
+	class="flex min-h-screen flex-col bg-white text-stone-800 dark:bg-stone-950 dark:text-stone-200"
+>
+	<header class="border-b border-stone-200 dark:border-stone-800 print:hidden">
 		<div class="mx-auto flex max-w-4xl flex-wrap items-center gap-x-6 gap-y-3 px-4 py-4">
 			<a
 				href={resolve('/')}
@@ -46,13 +48,18 @@
 		</div>
 	</header>
 
-	<main class="mx-auto w-full max-w-4xl flex-1 px-4 py-10">
+	<main class="mx-auto w-full max-w-4xl flex-1 px-4 py-10 print:max-w-none print:p-0">
 		{@render children()}
 	</main>
 
-	<footer class="border-t border-stone-200 dark:border-stone-800">
+	<footer class="border-t border-stone-200 dark:border-stone-800 print:hidden">
 		<div class="mx-auto max-w-4xl px-4 py-6 text-sm text-stone-500 dark:text-stone-500">
 			&copy; {new Date().getFullYear()} Mountain Kitchen. Recipes and notes from a small kitchen.
+			<a
+				href={resolve('/legal')}
+				class="ml-1 underline-offset-2 hover:text-stone-900 hover:underline dark:hover:text-stone-100"
+				>Privacy, disclosures &amp; disclaimer</a
+			>
 		</div>
 	</footer>
 </div>

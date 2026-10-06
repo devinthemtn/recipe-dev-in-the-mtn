@@ -1,6 +1,6 @@
 ---
-title: "Protien rolls"
-description: "High Protein rolls"
+title: "Chicken Dumplings"
+description: "Chicken Dumplings"
 date: "2026-09-04"
 tags: ["lunch", "dinner"]
 prepTime: "20 min"

@@ -3,7 +3,7 @@ title: "Misir Wat (Ethiopian Red Lentil Stew)"
 description: "A deeply spiced berbere red lentil stew built on slow-cooked onions, made for scooping up with homemade injera."
 date: "2026-10-02"
 draft: false
-tags: ["dinner", "diabetic-friendly", "vegetarian", "gluten-free", "high-fiber", "make-ahead"]
+tags: ["dinner", "ethiopian", "diabetic-friendly", "vegetarian", "gluten-free", "high-fiber", "make-ahead"]
 prepTime: "15 min"
 cookTime: "45 min"
 totalTime: "1 hr"

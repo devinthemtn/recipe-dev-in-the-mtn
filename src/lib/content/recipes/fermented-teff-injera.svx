@@ -2,7 +2,7 @@
 title: "Fermented Teff Injera (The Real Thing)"
 description: "Traditional Ethiopian injera made from only teff, water and a few days of natural fermentation, for a sour, spongy flatbread full of bubbles."
 date: "2026-10-02"
-tags: ["side", "bread", "vegan", "gluten-free", "high-fiber", "make-ahead"]
+tags: ["side", "bread", "ethiopian", "vegan", "gluten-free", "high-fiber", "make-ahead"]
 prepTime: "15 min"
 cookTime: "25 min"
 totalTime: "2–4 days (mostly waiting)"

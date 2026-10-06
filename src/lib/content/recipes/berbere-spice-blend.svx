@@ -3,7 +3,7 @@ title: "Berbere Spice Blend"
 description: "The warm, fiery red spice blend at the heart of Ethiopian cooking, toasted and ground at home for wats, lentils, and roasted vegetables."
 date: "2026-10-02"
 draft: false
-tags: ["spice-blend", "vegan", "gluten-free", "no-added-sugar", "make-ahead"]
+tags: ["spice-blend", "ethiopian", "vegan", "gluten-free", "no-added-sugar", "make-ahead"]
 prepTime: "10 min"
 cookTime: "5 min"
 totalTime: "20 min"

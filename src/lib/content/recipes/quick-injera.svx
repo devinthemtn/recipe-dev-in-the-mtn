@@ -2,7 +2,7 @@
 title: "Quick Same-Day Injera"
 description: "A weeknight shortcut to Ethiopian teff flatbread that uses sparkling water, baking soda and a splash of vinegar in place of days of fermentation."
 date: "2026-10-02"
-tags: ["side", "bread", "vegan", "weeknight"]
+tags: ["side", "bread", "ethiopian", "vegan", "weeknight"]
 prepTime: "5 min"
 cookTime: "20 min"
 totalTime: "1 hr"

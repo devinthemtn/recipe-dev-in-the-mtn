@@ -7,8 +7,8 @@ export function entries() {
 	return getRecipeSlugs().map((slug) => ({ slug }));
 }
 
-export async function load({ params }) {
+export async function load({ params, data }) {
 	const recipe = await loadRecipe(params.slug);
 	if (!recipe) error(404, 'Recipe not found');
-	return recipe;
+	return { ...data, ...recipe };
 }

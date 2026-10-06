@@ -40,6 +40,20 @@ Recipes and blog posts live as markdown files with YAML frontmatter — there's 
 
 Recipe/blog metadata is read via `src/lib/content/recipes.js` and `blog.js` using `import.meta.glob`, so a new `.svx` file is picked up automatically — no registry to update.
 
+## Sitemap and robots.txt
+
+`build/sitemap.xml` and `build/robots.txt` are generated on every build by `src/routes/sitemap.xml/+server.js` and `src/routes/robots.txt/+server.js`. The sitemap lists the home page, each section index, and every non-draft recipe, blog post, ingredient and product, using each item's `date` as `lastmod`. Both need `PUBLIC_SITE_URL` set: without it the sitemap is empty and robots.txt has no `Sitemap:` line. Submit `https://<your domain>/sitemap.xml` in Google Search Console.
+
+## Recipe structured data
+
+Each recipe page includes schema.org `Recipe` JSON-LD (built in `src/lib/content/recipeSchema.js`) so Google can show it as a rich result. Times, servings, nutrition and tags come from the frontmatter. Ingredients and steps are parsed from the `## Ingredients` and `## Instructions` sections, so keep those headings when writing new recipes. `### ` subheadings under Instructions become named sections.
+
+- Set `PUBLIC_SITE_URL` (e.g. `example.com`; `https://` is assumed) in `.env` or as a build-time variable so URLs in the schema are absolute. Changing domains only needs this value updated and a rebuild.
+- Add an `image:` field to a recipe's frontmatter (a path under `static/`, or a full URL). Google requires an image before it will show a recipe rich result.
+- Times like "20 min + chilling" or "overnight" are left out of the schema because they can't be stated exactly.
+
+Check a page with Google's [Rich Results Test](https://search.google.com/test/rich-results).
+
 ## Other useful commands
 
 ```sh

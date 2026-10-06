@@ -14,7 +14,7 @@
 </script>
 
 <aside
-	class="rounded-lg border border-stone-200 bg-stone-50 p-4 dark:border-stone-800 dark:bg-stone-900"
+	class="print-keep rounded-lg border border-stone-200 bg-stone-50 p-4 dark:border-stone-800 dark:bg-stone-900"
 >
 	<h2 class="text-sm font-semibold tracking-wide text-stone-900 uppercase dark:text-stone-100">
 		Nutrition
@@ -25,7 +25,9 @@
 	<dl class="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
 		{#each Object.entries(labels) as [key, label] (key)}
 			{#if nutrition?.[key] !== undefined}
-				<div class="flex items-baseline justify-between border-b border-stone-200 pb-1 dark:border-stone-800">
+				<div
+					class="flex items-baseline justify-between border-b border-stone-200 pb-1 dark:border-stone-800"
+				>
 					<dt class="text-stone-600 dark:text-stone-400">{label}</dt>
 					<dd class="font-medium text-stone-900 dark:text-stone-100">{nutrition[key]}</dd>
 				</div>
