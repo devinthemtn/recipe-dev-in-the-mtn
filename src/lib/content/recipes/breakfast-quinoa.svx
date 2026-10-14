@@ -7,6 +7,14 @@ prepTime: "5 min"
 cookTime: "25 min"
 totalTime: "30 min"
 servings: about 2
+nutrition:
+  calories: 555
+  carbs: "97g"
+  fiber: "8g"
+  sugar: "39g"
+  protein: "21g"
+  fat: "10g"
+  sodium: "125mg"
 ---
 
 ## Ingredients
@@ -15,7 +23,7 @@ servings: about 2
 - 1 Cup (170g) quinoa, rinsed
 - 3 Tbs (40g) brown sugar
 - 1/8 tsp ground cinnamon
-- 1 Cup (150g) fresh blue berries
+- 1 Cup (150g) fresh blueberries
 
 
 ## Instructions
@@ -29,12 +37,12 @@ servings: about 2
     
 ### Step 2: Add sugar & cinnamon.
 
-4. sir in sugar and cinnamon. Cook covered until most of the milk has been absormed (~8 mins)
-5. Sir in blue berries and cook for only about 30 seconds.
+4. stir in sugar and cinnamon. Cook covered until most of the milk has been absorbed (~8 mins)
+5. Stir in blueberries and cook for only about 30 seconds.
 
 ### Step 3: Serve.
 
-- Devide and serve with optional extra cinnamon, milk, or/and blueberries.
+- Divide and serve with optional extra cinnamon, milk, or/and blueberries.
 
 
 

@@ -6,6 +6,15 @@ tags: ["syrup", "sauce", "no-added-sugar", "gluten-free", "vegan", "make-ahead"]
 prepTime: "5 min"
 cookTime: "10 min"
 totalTime: "15 min plus cooling"
+servings: 24
+nutrition:
+  calories: 10
+  carbs: "1g"
+  fiber: "0g"
+  sugar: "1g"
+  protein: "0g"
+  fat: "0g"
+  sodium: "25mg"
 ---
 
 ## Ingredients
@@ -31,6 +40,7 @@ totalTime: "15 min plus cooling"
 
 ## Notes
 
+- **Nutrition:** Per 1 Tbs, assuming the batch makes about 1 1/2 cups (24 Tbs). Carbs don't include the allulose sweetener. Allulose adds about 5 calories per Tbs, which is counted in the calories.
 - **Fewer carbs:** The cider is where the carbs come from. For fewer carbs, use 100 g cider and 100 g water, and add the ¼ tsp apple extract at the end to bring the apple flavor back.
 - **Storage:** Keep it in the fridge and use it within **about 1 week**.
 

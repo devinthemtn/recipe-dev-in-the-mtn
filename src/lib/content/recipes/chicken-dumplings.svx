@@ -7,6 +7,14 @@ prepTime: "20 min"
 cookTime: "40 min"
 totalTime: "1 hour"
 servings: 3
+nutrition:
+  calories: 650
+  carbs: "49g"
+  fiber: "3g"
+  sugar: "8g"
+  protein: "32g"
+  fat: "36g"
+  sodium: "1670mg"
 ---
 
 ## Ingredients

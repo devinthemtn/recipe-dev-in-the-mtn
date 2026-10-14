@@ -12,7 +12,7 @@ nutrition:
     carbs: "16g"
     fiber: "2.5g"
     sugar: "2g"
-    Protein: "4g"
+    protein: "4g"
     fat: "2.8g"
     sodium: "210mg"
 ---

@@ -8,6 +8,7 @@ cookTime: "5 min"
 totalTime: "40 min"
 servings: about 8
 nutrition:
+    calories: 120
     sugar: "2g"
     sodium: "180mg"
     fat: "7g"

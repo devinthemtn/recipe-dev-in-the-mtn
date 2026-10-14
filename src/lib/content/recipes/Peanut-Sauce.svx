@@ -8,6 +8,13 @@ cookTime: "0 min"
 totalTime: "10 min"
 servings: 10
 nutrition:
+  calories: 105
+  carbs: "7g"
+  fiber: "1g"
+  sugar: "5g"
+  protein: "3g"
+  fat: "8g"
+  sodium: "170mg"
 ---
 
 ## Ingredients
@@ -23,3 +30,7 @@ nutrition:
 ## Instructions
 
 1. Mix well
+
+## Notes
+
+- **Nutrition:** Per serving of about 1 1/2 Tbs, using the cup and spoon amounts listed (one batch, not doubled).

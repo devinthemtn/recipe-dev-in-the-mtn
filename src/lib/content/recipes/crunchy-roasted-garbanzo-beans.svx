@@ -1,0 +1,62 @@
+---
+title: "Crunchy Roasted Garbanzo Beans"
+description: "Canned chickpeas roasted until they're crisp all the way through, then tossed with smoked paprika, garlic, and cumin. A crunchy, salty snack with lots of fiber and protein."
+date: "2026-10-14"
+draft: false
+tags: ["snack", "diabetic-friendly", "vegan", "gluten-free", "high-fiber", "high-protein", "budget", "make-ahead"]
+prepTime: "15 min"
+cookTime: "40 min"
+totalTime: "55 min"
+servings: 6
+nutrition:
+  calories: 145
+  carbs: "18g"
+  fiber: "5g"
+  sugar: "2g"
+  protein: "5g"
+  fat: "7g"
+  sodium: "300mg"
+---
+
+## Ingredients
+
+**Chickpeas**
+
+- 2 cans (15 oz / 425g each) no-salt-added garbanzo beans (chickpeas)
+- 2 Tbs (28g) olive oil or avocado oil
+- 1/2 tsp salt
+
+**Seasoning**
+
+- 1 tsp smoked paprika
+- 1/2 tsp garlic powder
+- 1/2 tsp ground cumin
+- 1/4 tsp salt
+- 1/8 tsp cayenne pepper, optional
+
+## Instructions
+
+1. Preheat the oven to 400°F (200°C) and set a rack in the middle.
+2. Drain the chickpeas in a colander and rinse them well under cold water.
+3. Spread them out on a clean kitchen towel or a few layers of paper towels. Fold the towel over the top and gently roll the chickpeas around to dry them. Any loose skins that slip off can be thrown away. Getting them as dry as you can is the key to crunchy chickpeas, so take your time. If you have a few minutes, let them air-dry on the towel for 15-30 minutes.
+4. Spread the dry chickpeas in a single layer on a large rimmed baking sheet. Leave a little space between them. If they're crowded, they'll steam instead of crisping.
+5. Roast them plain for 15 minutes to dry out the surface.
+6. Take the pan out, drizzle the oil over the chickpeas, sprinkle with the 1/2 tsp salt, and shake the pan to coat them evenly.
+7. Roast for another 20-25 minutes, shaking the pan every 10 minutes, until the chickpeas are deep golden and rattle when you shake the pan. Bite one to check: it should be crunchy all the way through, not soft in the middle. Some batches take a few extra minutes.
+8. While they roast, stir together the paprika, garlic powder, cumin, the 1/4 tsp salt, and the cayenne (if using) in a small bowl.
+9. As soon as the chickpeas come out of the oven, sprinkle the seasoning over them and toss to coat. The spices stick better while the chickpeas are hot and oily, and adding them at the end keeps them from burning.
+10. Turn off the oven and put the pan back in with the door cracked open for 15-20 minutes. This extra drying time makes them crunchier and helps them stay crisp longer.
+11. Let cool completely on the pan before storing. They get crunchier as they cool.
+
+## Notes
+
+- **Nutrition:** Per about 1/3 cup of roasted chickpeas, which is 1/6 of the batch. Using regular salted canned chickpeas instead of no-salt-added will roughly double the sodium, so you may want to skip the 1/2 tsp salt in step 6.
+- **Flavor swaps:** In place of the seasoning blend, try:
+    - **Ranch:** 1 tsp dried dill, 1/2 tsp garlic powder, 1/2 tsp onion powder, 1/4 tsp salt
+    - **Everything bagel:** 1 Tbs everything bagel seasoning (it's already salty, so skip the extra salt)
+    - **Cinnamon:** 1 tsp cinnamon, 1-2 tsp granulated monk fruit or erythritol sweetener, and a pinch of salt
+    - **Berbere:** 1-2 tsp of our [berbere spice blend](/recipes/berbere-spice-blend) and 1/4 tsp salt
+- **Cooking from dried:** Use about 3 cups cooked chickpeas (from 1 cup dried). Make sure they're cooked through but not mushy, and dry them well.
+- **Air fryer:** Roast at 390°F (200°C) for 12-18 minutes, shaking the basket every 5 minutes. Work in batches so they sit in a single layer.
+- **Why it's diabetes-friendly:** Chickpeas have a low glycemic index, and their fiber and protein slow down how fast the carbs are absorbed. They're also much more filling than chips or crackers for the same number of calories.
+- Best the day they're made. Store fully cooled in a container with the lid slightly loose (or a paper bag) at room temperature for up to 3 days. A tightly sealed container traps moisture and softens them. If they lose their crunch, re-crisp them in a 350°F oven for 5 minutes.

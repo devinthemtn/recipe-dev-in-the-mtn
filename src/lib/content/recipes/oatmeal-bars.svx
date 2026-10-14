@@ -8,6 +8,13 @@ cookTime: "25 min"
 totalTime: "35 min"
 servings: 25
 nutrition:
+  calories: 65
+  carbs: "7g"
+  fiber: "1g"
+  sugar: "0g"
+  protein: "2g"
+  fat: "3.5g"
+  sodium: "40mg"
 ---
 
 <script>
@@ -62,6 +69,10 @@ Preheat oven to 350°F
 6. Press into Pan: transfer the mixture into the lined baking pan and use the back of a sturdy spatula to press the mixture down as girmly as possible.
 7. bake for 22 - 25 mins or until the edges are golden brown and the center feels girm to the touch.
 8. Coool and slice: allow the bars to cool complletely in the pan. Once cool, use the parchment paper handles to lift the block out onto a cutting board. Use a sharp chef's knife to slice into 12 bars
+
+## Notes
+
+- **Nutrition:** Per bar, cut into 25 bars, without mix-ins. Carbs don't include the sugar-free sweetener.
 
 ## Storage
 
