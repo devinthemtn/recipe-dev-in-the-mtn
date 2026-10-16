@@ -19,8 +19,27 @@
 	// is a client-side enhancement anyway, so this only resolves in-browser.
 	const activeTag = $derived(browser ? page.url.searchParams.get('tag') : null);
 
+	let query = $state('');
+	let tagsOpen = $state(false);
+
+	// Every word typed must appear somewhere in the recipe's title,
+	// description, tags or optional `keywords` frontmatter.
+	const queryWords = $derived(query.toLowerCase().split(/\s+/).filter(Boolean));
+
+	/** @param {Record<string, any>} recipe */
+	function searchText(recipe) {
+		return [recipe.title, recipe.description, ...(recipe.tags ?? []), ...(recipe.keywords ?? [])]
+			.join(' ')
+			.toLowerCase();
+	}
+
 	const recipes = $derived(
-		activeTag ? data.recipes.filter((recipe) => recipe.tags?.includes(activeTag)) : data.recipes
+		data.recipes.filter((recipe) => {
+			if (activeTag && !recipe.tags?.includes(activeTag)) return false;
+			if (queryWords.length === 0) return true;
+			const text = searchText(recipe);
+			return queryWords.every((word) => text.includes(word));
+		})
 	);
 
 	/** @param {string | null} tag */
@@ -33,58 +52,153 @@
 	<title>{activeTag ? `${activeTag} recipes` : 'Recipes'} | Mountain Kitchen</title>
 </svelte:head>
 
-<h1 class="mb-6 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">Recipes</h1>
-
-<div class="mb-8 flex flex-wrap gap-2 tag-list-search" role="group" aria-label="Filter recipes by tag">
-	<a
-		href={tagHref(null)}
-		aria-current={!activeTag ? 'true' : undefined}
-		class={`rounded-full border px-3 py-1 text-sm font-medium transition-colors ${
-			!activeTag
-				? 'border-stone-900 bg-stone-900 text-white dark:border-stone-50 dark:bg-stone-50 dark:text-stone-900'
-				: 'border-stone-200 text-stone-600 hover:border-stone-400 dark:border-stone-800 dark:text-stone-400 dark:hover:border-stone-600'
-		}`}
-	>
-		All <span class="opacity-70">{data.recipes.length}</span>
-	</a>
-	{#each tagCounts as [tag, count] (tag)}
-		<a
-			href={tagHref(tag)}
-			aria-current={activeTag === tag ? 'true' : undefined}
-			class={`rounded-full border px-3 py-1 text-sm font-medium transition-colors ${
-				activeTag === tag
-					? 'border-stone-900 bg-stone-900 text-white dark:border-stone-50 dark:bg-stone-50 dark:text-stone-900'
-					: 'tag-list-tag border-stone-200 text-stone-600 hover:border-stone-400 dark:border-stone-800 dark:text-stone-400 dark:hover:border-stone-600'
-			}`}
-		>
-			{tag} <span class="opacity-70">{count}</span>
-		</a>
-	{/each}
+<div class="mb-8 flex flex-wrap items-baseline justify-between gap-2">
+	<h1 class="text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
+		{activeTag ? activeTag : 'Recipes'}
+	</h1>
+	<p class="text-sm text-stone-500 dark:text-stone-400">
+		{recipes.length}
+		{recipes.length === 1 ? 'recipe' : 'recipes'}
+		{#if activeTag}
+			· <a
+				href={tagHref(null)}
+				class="underline underline-offset-2 hover:text-stone-900 dark:hover:text-stone-100"
+				>show all</a
+			>
+		{/if}
+	</p>
 </div>
 
-{#if activeTag && recipes.length === 0}
-	<p class="mb-8 text-stone-600 dark:text-stone-400">
-		No recipes tagged &ldquo;{activeTag}&rdquo; yet.
-		<a href={tagHref(null)} class="underline">Clear filter</a>.
-	</p>
-{/if}
+<div class="lg:grid lg:grid-cols-[16rem_minmax(0,1fr)] lg:items-start lg:gap-10">
+	<!-- Filter panel: search plus tags. Below lg the tag list collapses behind a toggle;
+	     from lg up it's a sticky sidebar. -->
+	<aside
+		class="mb-8 rounded-xl border border-stone-200 bg-stone-50 p-4 lg:sticky lg:top-6 lg:mb-0 lg:flex lg:max-h-[calc(100vh-3rem)] lg:flex-col dark:border-stone-800 dark:bg-stone-900/50"
+	>
+		<label for="recipe-search" class="sr-only">Filter recipes</label>
+		<div class="relative">
+			<svg
+				class="pointer-events-none absolute top-1/2 left-3 h-4 w-4 -translate-y-1/2 text-stone-400"
+				viewBox="0 0 20 20"
+				fill="currentColor"
+				aria-hidden="true"
+			>
+				<path
+					fill-rule="evenodd"
+					d="M9 3.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM2 9a7 7 0 1 1 12.45 4.39l3.08 3.08a.75.75 0 1 1-1.06 1.06l-3.08-3.08A7 7 0 0 1 2 9Z"
+					clip-rule="evenodd"
+				/>
+			</svg>
+			<input
+				id="recipe-search"
+				type="search"
+				bind:value={query}
+				placeholder="Filter recipes…"
+				autocomplete="off"
+				class="w-full rounded-lg border border-stone-200 bg-white py-2 pr-3 pl-9 text-sm text-stone-900 placeholder:text-stone-400 focus:border-stone-400 focus:ring-0 dark:border-stone-700 dark:bg-stone-950 dark:text-stone-100 dark:placeholder:text-stone-500 dark:focus:border-stone-500"
+			/>
+		</div>
 
-<div class="grid gap-6 sm:grid-cols-2">
-	{#each recipes as recipe (recipe.slug)}
-		<a
-			href={resolve('/recipes/[slug]', { slug: recipe.slug })}
-			class="block rounded-lg border border-stone-200 p-5 hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
+		<button
+			type="button"
+			class="mt-3 flex w-full items-center justify-between rounded-lg px-1 py-1 text-sm font-medium text-stone-700 lg:hidden dark:text-stone-300"
+			aria-expanded={tagsOpen}
+			aria-controls="recipe-tags"
+			onclick={() => (tagsOpen = !tagsOpen)}
 		>
-			<h2 class="font-semibold text-stone-900 dark:text-stone-100">{recipe.title}</h2>
-			<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{recipe.description}</p>
-			<div class="mt-3 flex flex-wrap gap-2">
-				{#each recipe.tags ?? [] as tag (tag)}
-					<span
-						class="rounded-full bg-stone-100 px-2 py-0.5 text-xs text-stone-600 dark:bg-stone-800 dark:text-stone-300"
-						>{tag}</span
-					>
+			<span>
+				Browse by tag
+				<span class="ml-1 font-normal text-stone-500 dark:text-stone-400"
+					>· {activeTag ?? 'All'}</span
+				>
+			</span>
+			<svg
+				class={`h-4 w-4 transition-transform ${tagsOpen ? 'rotate-180' : ''}`}
+				viewBox="0 0 20 20"
+				fill="currentColor"
+				aria-hidden="true"
+			>
+				<path
+					fill-rule="evenodd"
+					d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.17l3.71-3.94a.75.75 0 1 1 1.08 1.04l-4.25 4.5a.75.75 0 0 1-1.08 0l-4.25-4.5a.75.75 0 0 1 .02-1.06Z"
+					clip-rule="evenodd"
+				/>
+			</svg>
+		</button>
+
+		<nav
+			id="recipe-tags"
+			aria-label="Filter recipes by tag"
+			class={`${tagsOpen ? 'flex' : 'hidden'} mt-3 min-h-0 flex-col lg:mt-5 lg:flex`}
+		>
+			<h2
+				class="mb-2 hidden px-2 text-xs font-semibold tracking-wider text-stone-500 uppercase lg:block dark:text-stone-400"
+			>
+				Browse by tag
+			</h2>
+			<ul
+				class="-mx-1 grid grid-cols-2 gap-0.5 overflow-y-auto px-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-1"
+			>
+				{#each [[null, data.recipes.length], ...tagCounts] as [tag, count] (tag ?? '')}
+					{@const active = activeTag === tag || (!tag && !activeTag)}
+					<li>
+						<a
+							href={tagHref(tag)}
+							aria-current={active ? 'true' : undefined}
+							onclick={() => (tagsOpen = false)}
+							class={`flex items-center justify-between gap-2 rounded-md px-2 py-1.5 text-sm capitalize transition-colors ${
+								active
+									? 'bg-stone-900 font-medium text-white dark:bg-stone-100 dark:text-stone-900'
+									: 'text-stone-700 hover:bg-stone-200/70 dark:text-stone-300 dark:hover:bg-stone-800'
+							}`}
+						>
+							<span class="truncate">{tag ?? 'All recipes'}</span>
+							<span
+								class={`rounded-full px-1.5 text-xs tabular-nums ${
+									active
+										? 'bg-white/20 dark:bg-stone-900/15'
+										: 'bg-stone-200/70 text-stone-500 dark:bg-stone-800 dark:text-stone-400'
+								}`}>{count}</span
+							>
+						</a>
+					</li>
 				{/each}
-			</div>
-		</a>
-	{/each}
+			</ul>
+		</nav>
+	</aside>
+
+	<div>
+		{#if recipes.length === 0}
+			<p class="mb-8 text-stone-600 dark:text-stone-400">
+				{#if queryWords.length > 0}
+					No recipes match &ldquo;{query.trim()}&rdquo;{activeTag ? ` in “${activeTag}”` : ''}.
+					<button type="button" class="underline" onclick={() => (query = '')}>Clear search</button
+					>.
+				{:else if activeTag}
+					No recipes tagged &ldquo;{activeTag}&rdquo; yet.
+					<a href={tagHref(null)} class="underline">Clear filter</a>.
+				{/if}
+			</p>
+		{/if}
+
+		<div class="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+			{#each recipes as recipe (recipe.slug)}
+				<a
+					href={resolve('/recipes/[slug]', { slug: recipe.slug })}
+					class="flex flex-col rounded-xl border border-stone-200 p-5 transition-colors hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
+				>
+					<h2 class="font-semibold text-stone-900 dark:text-stone-100">{recipe.title}</h2>
+					<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{recipe.description}</p>
+					<div class="mt-auto flex flex-wrap gap-1.5 pt-3">
+						{#each recipe.tags ?? [] as tag (tag)}
+							<span
+								class="rounded-full bg-stone-100 px-2 py-0.5 text-xs text-stone-600 dark:bg-stone-800 dark:text-stone-300"
+								>{tag}</span
+							>
+						{/each}
+					</div>
+				</a>
+			{/each}
+		</div>
+	</div>
 </div>

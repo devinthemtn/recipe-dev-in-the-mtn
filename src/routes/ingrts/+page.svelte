@@ -8,13 +8,15 @@
 	<title>Ingredients | Mountain Kitchen</title>
 </svelte:head>
 
-<h1 class="mb-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">Ingredients</h1>
+<h1 class="mb-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
+	Ingredients
+</h1>
 <p class="mb-8 max-w-2xl text-stone-600 dark:text-stone-400">
 	Diabetic-friendly ingredient swaps I actually use in the kitchen — what they replace and why they
 	work.
 </p>
 
-<div class="flex flex-col gap-6">
+<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
 	{#each data.ingredients as ingredient (ingredient.slug)}
 		<a
 			href={resolve('/ingrts/[slug]', { slug: ingredient.slug })}

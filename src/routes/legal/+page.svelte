@@ -26,7 +26,7 @@
 	>
 </nav>
 
-<article class="prose mt-8 max-w-none prose-stone dark:prose-invert">
+<article class="prose mt-8 max-w-3xl prose-stone dark:prose-invert">
 	<h2 id="medical">Medical disclaimer</h2>
 	<p>
 		I'm a home cook living with diabetes, not a doctor, dietitian or certified diabetes educator.

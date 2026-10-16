@@ -14,7 +14,7 @@
 	they're worth keeping around.
 </p>
 
-<div class="flex flex-col gap-6">
+<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
 	{#each data.products as product (product.slug)}
 		<a
 			href={resolve('/prods/[slug]', { slug: product.slug })}

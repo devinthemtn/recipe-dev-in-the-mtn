@@ -9,15 +9,19 @@
 </svelte:head>
 
 <section class="mb-14">
-	<h1 class="text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">Mountain Kitchen</h1>
+	<h1 class="text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
+		Mountain Kitchen
+	</h1>
 	<p class="mt-3 max-w-2xl text-stone-600 dark:text-stone-400">
-		Recipes and notes from a small kitchen, and how I'm adjusting to being diagnosed diabetic and the food changes that brings. Most recipes
-		include nutrition info, and the blog covers what I'm learning along the way.
+		Recipes and notes from a small kitchen, and how I'm adjusting to being diagnosed diabetic and
+		the food changes that brings. Most recipes include nutrition info, and the blog covers what I'm
+		learning along the way.
 	</p>
 	<p class="mt-3 max-w-2xl text-stone-600 dark:text-stone-400">
-       I am starting this site as I am learning to cook all new foods that are better for me. I hope that my struggles and recipes I find help other
-       people either with diabetes or just trying to eat healthier.
-    </p>
+		I am starting this site as I am learning to cook all new foods that are better for me. I hope
+		that my struggles and recipes I find help other people either with diabetes or just trying to
+		eat healthier.
+	</p>
 </section>
 
 <section class="mb-14">

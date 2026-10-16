@@ -19,7 +19,7 @@
 
 <h1 class="mb-8 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">Blog</h1>
 
-<div class="flex flex-col gap-6">
+<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
 	{#each data.posts as post (post.slug)}
 		<a
 			href={resolve('/blog/[slug]', { slug: post.slug })}

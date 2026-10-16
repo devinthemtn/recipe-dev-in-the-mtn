@@ -18,20 +18,6 @@
 	--almost-black: 5, 5, 5;
 	--almost-white: 230, 230, 230;
 }
-.tag-list-search {
-	background-color: rgba(var(--primary-rgb), 0.4);
-	padding: 1em;
-	border-radius: 10px;
-}
-
-.tag-list-tag {
-	background-color: rgba(var(--almost-white), 0.5);
-}
-
-.dark .tag-list-tag {
-	background-color: rgba(var(--almost-black), 0.8);
-}
-
 /* Print: the layout hides its header and footer with print:hidden, and these
    rules keep recipe steps, headings and the nutrition box from splitting
    awkwardly across pages. */

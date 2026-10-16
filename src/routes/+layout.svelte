@@ -24,7 +24,9 @@
 	class="flex min-h-screen flex-col bg-white text-stone-800 dark:bg-stone-950 dark:text-stone-200"
 >
 	<header class="border-b border-stone-200 dark:border-stone-800 print:hidden">
-		<div class="mx-auto flex max-w-4xl flex-wrap items-center gap-x-6 gap-y-3 px-4 py-4">
+		<div
+			class="mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-3 px-4 py-4 sm:px-6 lg:px-8"
+		>
 			<a
 				href={resolve('/')}
 				class="flex items-center gap-2 text-2xl font-bold tracking-tight text-stone-900 sm:text-3xl dark:text-stone-50"
@@ -48,12 +50,16 @@
 		</div>
 	</header>
 
-	<main class="mx-auto w-full max-w-4xl flex-1 px-4 py-10 print:max-w-none print:p-0">
+	<main
+		class="mx-auto w-full max-w-7xl flex-1 px-4 py-10 sm:px-6 lg:px-8 print:max-w-none print:p-0"
+	>
 		{@render children()}
 	</main>
 
 	<footer class="border-t border-stone-200 dark:border-stone-800 print:hidden">
-		<div class="mx-auto max-w-4xl px-4 py-6 text-sm text-stone-500 dark:text-stone-500">
+		<div
+			class="mx-auto max-w-7xl px-4 py-6 text-sm text-stone-500 sm:px-6 lg:px-8 dark:text-stone-500"
+		>
 			&copy; {new Date().getFullYear()} Mountain Kitchen. Recipes and notes from a small kitchen.
 			<a
 				href={resolve('/legal')}

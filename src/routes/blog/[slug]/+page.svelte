@@ -25,11 +25,13 @@
 	>&larr; Blog</a
 >
 
-<h1 class="mt-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">{meta.title}</h1>
+<h1 class="mt-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
+	{meta.title}
+</h1>
 <p class="mt-2 text-sm text-stone-500">
 	{formatDate(meta.date)}{#if meta.author}&nbsp;&middot; {meta.author}{/if}
 </p>
 
-<article class="prose mt-8 max-w-none prose-stone dark:prose-invert">
+<article class="prose mt-8 max-w-3xl prose-stone dark:prose-invert">
 	<Content />
 </article>
