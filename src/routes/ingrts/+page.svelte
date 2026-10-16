@@ -18,10 +18,7 @@
 
 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
 	{#each data.ingredients as ingredient (ingredient.slug)}
-		<a
-			href={resolve('/ingrts/[slug]', { slug: ingredient.slug })}
-			class="block rounded-lg border border-stone-200 p-5 hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
-		>
+		<a href={resolve('/ingrts/[slug]', { slug: ingredient.slug })} class="card card-link block p-5">
 			<h2 class="font-semibold text-stone-900 dark:text-stone-100">{ingredient.title}</h2>
 			{#if ingredient.swapFor}
 				<p class="mt-1 text-xs text-stone-500">Swap for: {ingredient.swapFor}</p>

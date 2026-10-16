@@ -73,7 +73,7 @@
 	<!-- Filter panel: search plus tags. Below lg the tag list collapses behind a toggle;
 	     from lg up it's a sticky sidebar. -->
 	<aside
-		class="mb-8 rounded-xl border border-stone-200 bg-stone-50 p-4 lg:sticky lg:top-6 lg:mb-0 lg:flex lg:max-h-[calc(100vh-3rem)] lg:flex-col dark:border-stone-800 dark:bg-stone-900/50"
+		class="card mb-8 p-4 lg:sticky lg:top-6 lg:mb-0 lg:flex lg:max-h-[calc(100vh-3rem)] lg:flex-col"
 	>
 		<label for="recipe-search" class="sr-only">Filter recipes</label>
 		<div class="relative">
@@ -95,7 +95,7 @@
 				bind:value={query}
 				placeholder="Filter recipes…"
 				autocomplete="off"
-				class="w-full rounded-lg border border-stone-200 bg-white py-2 pr-3 pl-9 text-sm text-stone-900 placeholder:text-stone-400 focus:border-stone-400 focus:ring-0 dark:border-stone-700 dark:bg-stone-950 dark:text-stone-100 dark:placeholder:text-stone-500 dark:focus:border-stone-500"
+				class="w-full rounded-lg border border-edge bg-paper/60 py-2 pr-3 pl-9 text-sm text-stone-900 placeholder:text-stone-400 focus:border-stone-400 focus:ring-0 dark:border-edge-dark dark:bg-paper-dark dark:text-stone-100 dark:placeholder:text-stone-500 dark:focus:border-stone-500"
 			/>
 		</div>
 
@@ -185,7 +185,7 @@
 			{#each recipes as recipe (recipe.slug)}
 				<a
 					href={resolve('/recipes/[slug]', { slug: recipe.slug })}
-					class="flex flex-col rounded-xl border border-stone-200 p-5 transition-colors hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
+					class="card card-link flex flex-col p-5"
 				>
 					<h2 class="font-semibold text-stone-900 dark:text-stone-100">{recipe.title}</h2>
 					<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{recipe.description}</p>

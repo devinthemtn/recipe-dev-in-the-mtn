@@ -21,10 +21,7 @@
 
 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
 	{#each data.posts as post (post.slug)}
-		<a
-			href={resolve('/blog/[slug]', { slug: post.slug })}
-			class="block rounded-lg border border-stone-200 p-5 hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
-		>
+		<a href={resolve('/blog/[slug]', { slug: post.slug })} class="card card-link block p-5">
 			<p class="text-xs text-stone-500">{formatDate(post.date)}</p>
 			<h2 class="mt-1 font-semibold text-stone-900 dark:text-stone-100">{post.title}</h2>
 			<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{post.description}</p>

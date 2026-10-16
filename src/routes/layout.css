@@ -18,6 +18,56 @@
 	--almost-black: 5, 5, 5;
 	--almost-white: 230, 230, 230;
 }
+
+/* Warm "paper" palette: a tinted page with cards that sit slightly above it. */
+@theme {
+	--color-paper: #f5f1e9;
+	--color-paper-dark: #13100d;
+	--color-card: #fffdf9;
+	--color-card-dark: #1e1a16;
+	--color-edge: #e6e0d6;
+	--color-edge-dark: #2b2620;
+	--shadow-card: 0 1px 2px rgb(28 25 23 / 0.06), 0 4px 14px rgb(28 25 23 / 0.06);
+	--shadow-card-hover: 0 2px 4px rgb(28 25 23 / 0.08), 0 10px 24px rgb(28 25 23 / 0.1);
+	--shadow-card-dark: 0 1px 2px rgb(0 0 0 / 0.5), 0 6px 16px rgb(0 0 0 / 0.35);
+}
+
+@layer components {
+	/* Cards and panels: a raised surface on the paper background. In dark mode a
+	   faint border does the work the shadow can't. Printing drops back to a plain box. */
+	.card {
+		@apply rounded-xl border border-transparent bg-card shadow-card dark:border-edge-dark dark:bg-card-dark dark:shadow-card-dark print:border-stone-300 print:bg-white print:shadow-none;
+	}
+
+	/* Linked cards lift a little on hover. */
+	.card-link {
+		@apply transition-shadow hover:shadow-card-hover dark:hover:border-stone-700;
+	}
+
+	/* Faint paper grain behind the page content (cards stay clean on top of it). */
+	.paper-grain {
+		@apply relative isolate;
+	}
+	.paper-grain::before {
+		content: '';
+		position: absolute;
+		inset: 0;
+		z-index: -1;
+		pointer-events: none;
+		background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+		opacity: 0.07;
+		mix-blend-mode: multiply;
+	}
+	.dark .paper-grain::before {
+		opacity: 0.09;
+		mix-blend-mode: screen;
+	}
+	@media print {
+		.paper-grain::before {
+			display: none;
+		}
+	}
+}
 /* Thin, low-key scrollbar for scrolling panels (e.g. the recipe tag sidebar).
    The thumb stays faint until the panel is hovered. */
 .subtle-scroll {

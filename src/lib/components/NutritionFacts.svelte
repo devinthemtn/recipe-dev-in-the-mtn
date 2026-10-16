@@ -13,9 +13,7 @@
 	};
 </script>
 
-<aside
-	class="print-keep rounded-lg border border-stone-200 bg-stone-50 p-4 dark:border-stone-800 dark:bg-stone-900"
->
+<aside class="print-keep card p-4">
 	<h2 class="text-sm font-semibold tracking-wide text-stone-900 uppercase dark:text-stone-100">
 		Nutrition
 	</h2>
@@ -26,7 +24,7 @@
 		{#each Object.entries(labels) as [key, label] (key)}
 			{#if nutrition?.[key] !== undefined}
 				<div
-					class="flex items-baseline justify-between border-b border-stone-200 pb-1 dark:border-stone-800"
+					class="flex items-baseline justify-between border-b border-edge pb-1 dark:border-edge-dark"
 				>
 					<dt class="text-stone-600 dark:text-stone-400">{label}</dt>
 					<dd class="font-medium text-stone-900 dark:text-stone-100">{nutrition[key]}</dd>

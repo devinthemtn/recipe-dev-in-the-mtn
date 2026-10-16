@@ -21,9 +21,9 @@
 <GoogleAnalytics />
 
 <div
-	class="flex min-h-screen flex-col bg-white text-stone-800 dark:bg-stone-950 dark:text-stone-200"
+	class="paper-grain flex min-h-screen flex-col bg-paper text-stone-800 dark:bg-paper-dark dark:text-stone-200 print:bg-white"
 >
-	<header class="border-b border-stone-200 dark:border-stone-800 print:hidden">
+	<header class="border-b border-edge dark:border-edge-dark print:hidden">
 		<div
 			class="mx-auto flex max-w-7xl flex-wrap items-center gap-x-6 gap-y-3 px-4 py-4 sm:px-6 lg:px-8"
 		>
@@ -56,7 +56,7 @@
 		{@render children()}
 	</main>
 
-	<footer class="border-t border-stone-200 dark:border-stone-800 print:hidden">
+	<footer class="border-t border-edge dark:border-edge-dark print:hidden">
 		<div
 			class="mx-auto max-w-7xl px-4 py-6 text-sm text-stone-500 sm:px-6 lg:px-8 dark:text-stone-500"
 		>
