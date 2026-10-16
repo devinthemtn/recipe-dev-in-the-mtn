@@ -137,7 +137,7 @@
 				Browse by tag
 			</h2>
 			<ul
-				class="-mx-1 grid grid-cols-2 gap-0.5 overflow-y-auto px-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-1"
+				class="subtle-scroll -mx-1 grid grid-cols-2 gap-0.5 overflow-y-auto px-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-1"
 			>
 				{#each [[null, data.recipes.length], ...tagCounts] as [tag, count] (tag ?? '')}
 					{@const active = activeTag === tag || (!tag && !activeTag)}

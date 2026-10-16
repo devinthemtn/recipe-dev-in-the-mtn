@@ -18,6 +18,23 @@
 	--almost-black: 5, 5, 5;
 	--almost-white: 230, 230, 230;
 }
+/* Thin, low-key scrollbar for scrolling panels (e.g. the recipe tag sidebar).
+   The thumb stays faint until the panel is hovered. */
+.subtle-scroll {
+	scrollbar-width: thin;
+	scrollbar-color: transparent transparent;
+	scrollbar-gutter: stable;
+	transition: scrollbar-color 0.2s;
+}
+.subtle-scroll:hover,
+.subtle-scroll:focus-within {
+	scrollbar-color: rgb(168 162 158 / 0.6) transparent;
+}
+.dark .subtle-scroll:hover,
+.dark .subtle-scroll:focus-within {
+	scrollbar-color: rgb(87 83 78 / 0.8) transparent;
+}
+
 /* Print: the layout hides its header and footer with print:hidden, and these
    rules keep recipe steps, headings and the nutrition box from splitting
    awkwardly across pages. */
