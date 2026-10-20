@@ -1,0 +1,21 @@
+---
+title: "Schwarzwalder Dark Rye Bread"
+description: "My main go-to bread: a hearty, flavorful dark rye with 0g of sugar per slice that's great toasted with eggs or made into French toast."
+date: "2026-10-19"
+tags: ["bread", "breakfast"]
+brand: "Oroweat"
+nutrition:
+  calories: 80
+  protein: "3g"
+  carbs: "15g"
+  fat: "1.5g"
+  fiber: "1g"
+  sugar: "0g"
+  sodium: "210mg"
+---
+
+I've always liked rye bread, so when I started paying attention to which breads work for my blood sugar, switching to rye was easy. This dark rye is the loaf I buy the most now. It has 0g of sugar per slice, which is not always the case with rye breads: a lot of them add molasses or sugar, so it's worth checking the label.
+
+It's great toasted with eggs in the morning, and it's the bread I use for my [cinnamon French toast](/recipes/french-toast). I like to eat it with some protein and fat, which keeps my blood sugar steadier than toast on its own.
+
+Nutrition is per 32g slice. You can find it at most grocery stores in the bread aisle. For more on choosing a good loaf, see [the breads I like using](/blog/breads-i-like-using).

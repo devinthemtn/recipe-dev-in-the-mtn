@@ -1,0 +1,49 @@
+---
+title: "Witch's Bark"
+description: "Thin 85% dark chocolate bark scattered with pumpkin seeds, sunflower seeds and freeze-dried raspberries, a low-sugar Halloween candy"
+date: "2026-10-16"
+draft: false
+tags: ["dessert", "snack", "halloween", "diabetic-friendly", "vegan", "gluten-free", "low-carb", "make-ahead"]
+prepTime: "15 min"
+cookTime: "5 min"
+totalTime: "20 min plus 30 min setting"
+servings: 12
+nutrition:
+  calories: 125
+  carbs: "5g"
+  fiber: "2g"
+  sugar: "2g"
+  protein: "3g"
+  fat: "10g"
+  sodium: "50mg"
+---
+
+<script>
+	import witchsBark from '$lib/assets/halloween/witchs-bark.svg';
+</script>
+
+<img src={witchsBark} alt="Illustration of dark chocolate bark shards scattered with green pumpkin seeds and red raspberry pieces" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+- 200g 85% dark chocolate, chopped
+- 1/4 cup (35g) raw pumpkin seeds (pepitas)
+- 2 Tbs (18g) roasted unsalted sunflower seeds
+- 1/4 cup (6g) freeze-dried raspberries, lightly crushed
+- 1/4 tsp flaky sea salt
+- pinch of cinnamon or cayenne, optional
+
+## Instructions
+
+1. Line a baking sheet with parchment paper.
+2. Toast the pumpkin seeds in a dry skillet over medium heat for 3-4 minutes, until they start to puff and pop. Let them cool.
+3. Melt two-thirds of the chocolate in a heatproof bowl over barely simmering water (or in 20-second bursts in the microwave), stirring often. Take it off the heat and stir in the remaining chocolate until smooth. Adding the last third this way helps the bark set glossy and snap cleanly.
+4. Stir in the cinnamon or cayenne if using, then pour onto the parchment and spread to about 1/4 inch thick.
+5. Scatter the pumpkin seeds, sunflower seeds and raspberries over the top, press them in lightly, and sprinkle with the flaky salt.
+6. Let it set at room temperature for about an hour, or in the fridge for 30 minutes. Break into 12 jagged shards.
+
+## Notes
+
+- **Why it's diabetes-friendly:** 85% chocolate has far less sugar than milk chocolate or candy bars, and the seeds add protein, fat and fiber. Breaking it into 12 thin shards builds in portion control: one or two pieces satisfies a candy craving with about 5g of carbs each.
+- The green seeds and red raspberry "blood" give it the witchy look. For extra spooky color, add a few black sesame seeds.
+- Store in an airtight container in a cool spot for up to 2 weeks.

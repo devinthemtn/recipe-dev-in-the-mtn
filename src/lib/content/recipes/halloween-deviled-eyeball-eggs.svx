@@ -1,0 +1,50 @@
+---
+title: "Deviled Eyeball Eggs"
+description: "Classic deviled eggs turned into spooky eyeballs with olive pupils and bloodshot veins, an almost carb-free Halloween party snack"
+date: "2026-10-16"
+draft: false
+tags: ["snack", "halloween", "diabetic-friendly", "vegetarian", "gluten-free", "low-carb", "high-protein", "make-ahead"]
+prepTime: "20 min"
+cookTime: "12 min"
+totalTime: "45 min"
+servings: 6
+nutrition:
+  calories: 125
+  carbs: "1g"
+  fiber: "0g"
+  sugar: "1g"
+  protein: "6g"
+  fat: "11g"
+  sodium: "250mg"
+---
+
+<script>
+	import eyeballEggs from '$lib/assets/halloween/deviled-eyeball-eggs.svg';
+</script>
+
+<img src={eyeballEggs} alt="Illustration of deviled eggs on a plate with olive pupils and red veins so they look like eyeballs" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+- 6 large eggs
+- 3 Tbs (40g) mayonnaise
+- 1 tsp (5g) Dijon mustard
+- 1 tsp (5g) white vinegar or pickle juice
+- pinch of salt and black pepper
+- 6 pimento-stuffed green olives
+- 1 tsp sriracha or 1/2 tsp paprika mixed with a few drops of water, for the veins
+
+## Instructions
+
+1. Put the eggs in a saucepan, cover with cold water by an inch, and bring to a boil. Turn off the heat, cover, and let stand 12 minutes. Move to a bowl of ice water for 10 minutes, then peel.
+2. Halve the eggs lengthwise and pop the yolks into a bowl. Mash with the mayonnaise, mustard, vinegar, salt and pepper until smooth.
+3. Spoon or pipe the filling back into the egg whites and smooth the tops into a dome.
+4. Slice each olive into 2 thick rounds and press one into the center of each egg, red side up. Each one now looks like an iris and pupil.
+5. Dip a toothpick in the sriracha or paprika paste and draw thin, wiggly lines from the olive out to the edge of the white for bloodshot veins.
+6. Chill until serving.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Eggs are almost carb-free and full of protein and fat, so these won't move blood sugar much at all. Having them out at a party gives you something filling to reach for besides the candy bowl.
+- Use a plain sugar-free mayonnaise. Some brands add sugar.
+- Make up to a day ahead, but add the veins within a few hours of serving so they stay sharp.
