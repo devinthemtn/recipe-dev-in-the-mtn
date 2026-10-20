@@ -14,6 +14,17 @@ nutrition:
   sodium: "210mg"
 ---
 
+<script>
+	import darkRyeBread from '$lib/assets/dark-rye-bread.jpg';
+</script>
+
+<figure>
+	<img src={darkRyeBread} alt="A sliced loaf of dark rye bread on a striped kitchen towel" class="w-full max-w-sm rounded-xl" />
+	<figcaption>
+		Photo: <a href="https://commons.wikimedia.org/wiki/File:Dark_rye_bread.JPG">Dark rye bread</a> by Glane23, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+	</figcaption>
+</figure>
+
 I've always liked rye bread, so when I started paying attention to which breads work for my blood sugar, switching to rye was easy. This dark rye is the loaf I buy the most now. It has 0g of sugar per slice, which is not always the case with rye breads: a lot of them add molasses or sugar, so it's worth checking the label.
 
 It's great toasted with eggs in the morning, and it's the bread I use for my [cinnamon French toast](/recipes/french-toast). I like to eat it with some protein and fat, which keeps my blood sugar steadier than toast on its own.
