@@ -3,6 +3,7 @@
 	import favicon from '$lib/assets/favicon.svg';
 	import { resolve } from '$app/paths';
 	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
+	import InstallButton from '$lib/components/InstallButton.svelte';
 	import GoogleAnalytics from '$lib/components/GoogleAnalytics.svelte';
 
 	let { children } = $props();
@@ -44,7 +45,8 @@
 					>
 				{/each}
 			</nav>
-			<div class="ml-auto md:ml-0">
+			<div class="ml-auto flex items-center gap-2 md:ml-0">
+				<InstallButton />
 				<ThemeToggle />
 			</div>
 		</div>

@@ -2,7 +2,7 @@ import { env } from '$env/dynamic/public';
 
 /**
  * Normalises a site URL to an origin with no trailing slash, accepting a bare
- * domain ("koefod.us") as well as a full origin. Returns undefined when unset.
+ * domain ("mountainkitchen.org") as well as a full origin. Returns undefined when unset.
  * @param {string | undefined} url
  */
 export function normalizeOrigin(url) {
@@ -11,7 +11,10 @@ export function normalizeOrigin(url) {
 	return /^https?:\/\//.test(trimmed) ? trimmed : `https://${trimmed}`;
 }
 
-/** The public origin from PUBLIC_SITE_URL, e.g. "https://koefod.us". */
+/** The site's permanent public domain, used when PUBLIC_SITE_URL is unset. */
+export const DEFAULT_SITE_URL = 'mountainkitchen.org';
+
+/** The public origin, e.g. "https://mountainkitchen.org". PUBLIC_SITE_URL overrides the default. */
 export function siteOrigin() {
-	return normalizeOrigin(env.PUBLIC_SITE_URL);
+	return normalizeOrigin(env.PUBLIC_SITE_URL) ?? normalizeOrigin(DEFAULT_SITE_URL);
 }
