@@ -4,13 +4,11 @@ import adapter from '@sveltejs/adapter-static';
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 import { storybookTest } from '@storybook/addon-vitest/vitest-plugin';
 import { playwright } from '@vitest/browser-playwright';
 import { mdsvex } from 'mdsvex';
 import rehypeExternalLinks from 'rehype-external-links';
-const dirname =
-	typeof __dirname !== 'undefined' ? __dirname : path.dirname(fileURLToPath(import.meta.url));
+const dirname = import.meta.dirname;
 
 // More info at: https://storybook.js.org/docs/next/writing-tests/integrations/vitest-addon
 export default defineConfig({
@@ -61,12 +59,13 @@ export default defineConfig({
 					if (status === 404 && path.startsWith('/coffee')) return;
 					throw new Error(message);
 				}
+			},
 			// Installed copies of the app can stay open for days, so check for a new deploy
 			// every 3 hours. When one is found, the next link clicked does a full page load
 			// onto the new version (and the browser picks up the new service worker).
-			// version: {
-			// 	pollInterval: 3 * 60 * 60 * 1000
-			// }
+			version: {
+				pollInterval: 3 * 60 * 60 * 1000
+			}
 		})
 	],
 	test: {
