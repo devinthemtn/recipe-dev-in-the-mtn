@@ -1,0 +1,49 @@
+---
+title: "Frozen Ghost Strawberries"
+description: "Strawberries dipped in a lightly sweetened Greek yogurt coating and frozen into little ghosts with chocolate chip faces"
+date: "2026-10-16"
+draft: false
+tags: ["dessert", "snack", "halloween", "diabetic-friendly", "vegetarian", "gluten-free", "make-ahead", "no-added-sugar"]
+prepTime: "20 min"
+cookTime: "0 min"
+totalTime: "20 min plus 1 hr freezing"
+servings: 4
+nutrition:
+  calories: 115
+  carbs: "9g"
+  fiber: "2g"
+  sugar: "6g"
+  protein: "6g"
+  fat: "6g"
+  sodium: "60mg"
+---
+
+<script>
+	import ghostStrawberries from '$lib/assets/halloween/ghost-strawberries.svg';
+</script>
+
+<img src={ghostStrawberries} alt="Illustration of strawberries coated white like little ghosts with chocolate chip eyes and mouths" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+- 12 large strawberries, with their green tops
+- 3/4 cup (170g) plain 2% Greek yogurt, the thickest you can find
+- 2 oz (56g) cream cheese, softened
+- 1/2 tsp (2g) vanilla extract
+- 1-2 Tbs powdered allulose or monk fruit sweetener
+- about 2 Tbs (8g) sugar-free mini chocolate chips
+
+## Instructions
+
+1. Wash the strawberries and dry them very well. Any water left on them stops the coating from sticking.
+2. Line a small tray with parchment paper and make sure it fits in your freezer.
+3. Beat the yogurt, cream cheese, vanilla and sweetener until completely smooth.
+4. Holding each strawberry by its leaves, dip it into the coating, letting the extra drip off. Set it on the tray standing on its leaves or lying on its side. Freeze for 20 minutes.
+5. Dip each strawberry a second time for a solid white coat. While the coating is still soft, press in 2 chocolate chips for eyes and 1 upside down for a mouth.
+6. Freeze for at least 1 hour, until firm. Let them sit for 5 minutes before eating.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Strawberries are one of the lowest-sugar fruits, and the Greek yogurt coating adds protein and fat that slow how fast that sugar reaches your blood. Allulose isn't counted in the nutrition because it doesn't raise blood sugar.
+- These are best within 2 days. After that the strawberries get icy, though they still taste good.
+- Check the chocolate chip label: many sugar-free chips use erythritol or other sugar alcohols, which can upset some stomachs in large amounts. A few per ghost is fine for most people.

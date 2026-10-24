@@ -17,14 +17,18 @@
 	>&larr; Ingredients</a
 >
 
-<h1 class="mt-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">{meta.title}</h1>
+<h1 class="mt-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
+	{meta.title}
+</h1>
 <p class="mt-2 text-stone-600 dark:text-stone-400">{meta.description}</p>
 
 {#if meta.swapFor}
 	<p class="mt-2 text-sm text-stone-500">Swap for: {meta.swapFor}</p>
 {/if}
 
-<div class="mt-8 grid gap-8 md:grid-cols-[1fr_240px]">
+<div
+	class="mt-8 grid gap-8 md:grid-cols-[minmax(0,1fr)_240px] lg:grid-cols-[minmax(0,48rem)_18rem] lg:justify-between"
+>
 	<article class="prose max-w-none prose-stone dark:prose-invert">
 		<Content />
 	</article>

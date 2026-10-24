@@ -45,7 +45,9 @@
 	<span class="ml-auto"><PrintButton /></span>
 </div>
 
-<div class="mt-8 grid gap-8 md:grid-cols-[1fr_240px] print:mt-6 print:items-start print:gap-6">
+<div
+	class="mt-8 grid gap-8 md:grid-cols-[minmax(0,1fr)_240px] lg:grid-cols-[minmax(0,48rem)_18rem] lg:justify-between print:mt-6 print:items-start print:gap-6"
+>
 	<article class="prose max-w-none prose-stone dark:prose-invert print:prose-sm">
 		<Content />
 	</article>

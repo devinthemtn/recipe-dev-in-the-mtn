@@ -1,0 +1,60 @@
+---
+title: "Graveyard Chocolate Chia Pudding Cups"
+description: "Halloween dessert cups of cocoa chia pudding under a toasted pecan \"dirt\" with dark chocolate tombstones, and no added sugar"
+date: "2026-10-16"
+draft: false
+tags: ["dessert", "snack", "halloween", "diabetic-friendly", "vegan", "gluten-free", "high-fiber", "make-ahead", "no-added-sugar"]
+prepTime: "15 min"
+cookTime: "0 min"
+totalTime: "15 min plus 4 hrs chilling"
+servings: 4
+nutrition:
+  calories: 250
+  carbs: "16g"
+  fiber: "11g"
+  sugar: "2g"
+  protein: "9g"
+  fat: "19g"
+  sodium: "85mg"
+---
+
+<script>
+	import graveyardCups from '$lib/assets/halloween/graveyard-chia-cups.svg';
+</script>
+
+<img src={graveyardCups} alt="Illustration of chocolate chia pudding cups topped with pecan dirt and RIP tombstones" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+### Chocolate chia pudding
+
+- 1/2 cup (80g) chia seeds
+- 2 cups (480g) unsweetened soy milk or dairy milk
+- 3 Tbs (15g) unsweetened cocoa powder
+- 1 tsp (4g) vanilla extract
+- pinch of salt
+- 2-3 Tbs granulated allulose, or liquid monk fruit to taste
+
+### Graveyard dirt
+
+- 1/3 cup (40g) pecans
+- 1 tsp (2g) unsweetened cocoa powder
+- pinch of salt
+
+### Tombstones
+
+- 20g 85% dark chocolate (about 2 squares)
+
+## Instructions
+
+1. Whisk the milk, cocoa powder, vanilla, salt and sweetener together until no cocoa lumps remain, then whisk in the chia seeds.
+2. Let it sit for 10 minutes, whisk again to break up clumps, then divide between 4 small glasses or jars. Cover and refrigerate for at least 4 hours, or overnight, until thick.
+3. For the dirt, toast the pecans in a dry skillet over medium-low heat for 3-4 minutes until fragrant. Cool, then chop very finely (or pulse in a food processor) and toss with the cocoa and salt.
+4. For the tombstones, cut the chocolate into 4 small rectangles and round off one end of each with a knife. If you like, scratch "RIP" into each one with a toothpick.
+5. Just before serving, spoon the dirt over each cup and push a tombstone into the top.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Chia seeds bring about 11g of fiber per cup, which slows how fast the carbs are absorbed. Unsweetened cocoa and 85% chocolate give a deep chocolate flavor with very little sugar, and allulose sweetens without raising blood sugar.
+- Nutrition is calculated with unsweetened soy milk and doesn't count allulose, since the body doesn't use it as sugar. Dairy milk adds about 3g of sugar per serving.
+- Keep the dirt and tombstones separate until serving so the pecans stay crunchy. The pudding keeps for 4 days in the fridge.

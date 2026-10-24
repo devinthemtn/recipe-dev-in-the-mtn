@@ -61,7 +61,12 @@ export default defineConfig({
 					if (status === 404 && path.startsWith('/coffee')) return;
 					throw new Error(message);
 				}
-			}
+			// Installed copies of the app can stay open for days, so check for a new deploy
+			// every 3 hours. When one is found, the next link clicked does a full page load
+			// onto the new version (and the browser picks up the new service worker).
+			// version: {
+			// 	pollInterval: 3 * 60 * 60 * 1000
+			// }
 		})
 	],
 	test: {

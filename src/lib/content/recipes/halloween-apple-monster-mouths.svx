@@ -1,0 +1,48 @@
+---
+title: "Apple Monster Mouths"
+description: "Apple wedges filled with peanut butter, with sunflower seed teeth and strawberry tongues, a no-added-sugar Halloween snack kids can help make"
+date: "2026-10-16"
+draft: false
+tags: ["snack", "halloween", "diabetic-friendly", "vegan", "gluten-free", "no-added-sugar"]
+prepTime: "15 min"
+cookTime: "0 min"
+totalTime: "15 min"
+servings: 4
+nutrition:
+  calories: 170
+  carbs: "17g"
+  fiber: "4g"
+  sugar: "11g"
+  protein: "5g"
+  fat: "10g"
+  sodium: "45mg"
+---
+
+<script>
+	import monsterMouths from '$lib/assets/halloween/apple-monster-mouths.svg';
+</script>
+
+<img src={monsterMouths} alt="Illustration of red apple wedges shaped like open mouths with peanut butter, seed teeth and strawberry tongues" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+- 2 medium apples, ideally tart ones like Granny Smith
+- 1 tsp lemon juice mixed with 2 Tbs water
+- 1/4 cup (64g) natural peanut butter or sunflower seed butter
+- 2 Tbs (18g) roasted unsalted sunflower seeds
+- 2 strawberries
+
+## Instructions
+
+1. Core the apples and cut each one into 8 wedges.
+2. On the skin side of each wedge, cut out a smaller wedge from the middle to make an open mouth. Brush the cut surfaces with the lemon water so they don't brown.
+3. Spread a little peanut butter inside each mouth.
+4. Press sunflower seeds into the peanut butter along the top and bottom edges, pointing out, for teeth.
+5. Cut the strawberries into thin slices, trim them into tongue shapes, and tuck one into each mouth so it sticks out.
+6. Serve right away, or chill for up to 2 hours.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Apples have more carbs than the other treats here, so a serving is 4 mouths (half an apple). The peanut butter and seeds add protein, fat and fiber, which slow how fast the fruit sugar reaches your blood. Tart green apples have a little less sugar than sweet red ones.
+- Use a peanut butter with no added sugar; the ingredients should just be peanuts and salt.
+- For eyes, stick a blueberry on top of each mouth with a dab of peanut butter.

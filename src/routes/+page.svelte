@@ -37,10 +37,7 @@
 	</div>
 	<div class="grid gap-6 sm:grid-cols-3">
 		{#each data.recipes as recipe (recipe.slug)}
-			<a
-				href={resolve('/recipes/[slug]', { slug: recipe.slug })}
-				class="block rounded-lg border border-stone-200 p-4 hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
-			>
+			<a href={resolve('/recipes/[slug]', { slug: recipe.slug })} class="card card-link block p-4">
 				<h3 class="font-semibold text-stone-900 dark:text-stone-100">{recipe.title}</h3>
 				<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{recipe.description}</p>
 			</a>
@@ -59,10 +56,7 @@
 	</div>
 	<div class="grid gap-6 sm:grid-cols-2">
 		{#each data.posts as post (post.slug)}
-			<a
-				href={resolve('/blog/[slug]', { slug: post.slug })}
-				class="block rounded-lg border border-stone-200 p-4 hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
-			>
+			<a href={resolve('/blog/[slug]', { slug: post.slug })} class="card card-link block p-4">
 				<h3 class="font-semibold text-stone-900 dark:text-stone-100">{post.title}</h3>
 				<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{post.description}</p>
 			</a>

@@ -34,7 +34,7 @@
 	{formatDate(meta.date)}{#if meta.author}&nbsp;&middot; {meta.author}{/if}
 </p>
 
-<article class="prose mt-8 max-w-none prose-stone dark:prose-invert">
+<article class="prose mt-8 max-w-3xl prose-stone dark:prose-invert">
 	<Content />
 </article>
 

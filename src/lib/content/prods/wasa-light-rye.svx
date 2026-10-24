@@ -1,0 +1,32 @@
+---
+title: "Light Rye Crispbread"
+description: "A Swedish-style rye crispbread made from just whole grain rye flour and salt, with 0g of sugar and 4g of fiber per serving."
+date: "2026-10-19"
+tags: ["snack", "bread"]
+brand: "Wasa"
+nutrition:
+  calories: 60
+  protein: "2g"
+  carbs: "15g"
+  fat: "0g"
+  fiber: "4g"
+  sugar: "0g"
+  sodium: "70mg"
+---
+
+<script>
+	import wasaLightRye from '$lib/assets/wasa-light-rye.jpg';
+</script>
+
+<figure>
+	<img src={wasaLightRye} alt="Two Wasa rye crispbreads spread with avocado hummus on a white plate" class="w-full max-w-sm rounded-xl" />
+	<figcaption>
+		Photo: <a href="https://commons.wikimedia.org/wiki/File:Wasa_rye_crackers_with_avocado_and_hummus_spread.jpeg">Wasa rye crackers with avocado and hummus spread</a>, Wikimedia Commons, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+	</figcaption>
+</figure>
+
+When I want something crunchy instead of soft bread, I reach for this Swedish crispbread. In Sweden this kind of bread is called knäckebröd, or hårt bröd, which just means "hard bread." The ingredients are about as simple as it gets: whole grain rye flour and salt. No sugar, no wheat flour, nothing else.
+
+I mostly eat it with [hummus](/recipes/hummus) or natural peanut butter with no added sugar. The protein and fat make it a really satisfying snack that doesn't spike my blood sugar the way regular crackers can.
+
+Nutrition is per serving of 2 slices. It keeps for months in the pantry, and you can find it in the cracker aisle at most grocery stores.

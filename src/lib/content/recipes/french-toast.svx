@@ -1,0 +1,64 @@
+---
+title: "Cinnamon French Toast"
+description: "Custardy, golden French toast made with hearty rye bread and a protein-rich egg soak, no sugar needed"
+date: "2026-10-19"
+draft: false
+tags: ["breakfast", "diabetic-friendly", "vegetarian", "quick"]
+prepTime: "5 min"
+cookTime: "15 min"
+totalTime: "20 min"
+servings: 4
+nutrition:
+  calories: 300
+  carbs: "32g"
+  fiber: "2g"
+  sugar: "2g"
+  protein: "13g"
+  fat: "15g"
+  sodium: "575mg"
+---
+
+<script>
+	import frenchToast from '$lib/assets/french-toast.svg';
+</script>
+
+<img src={frenchToast} alt="Illustration of a stack of golden French toast on a plate with blueberries, strawberries and cinnamon sticks, in front of a mountain sunrise" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+- 4 large (200g) eggs
+- 1/2 cup (120g) unsweetened milk (dairy, oat, or soy)
+- 1 tsp (4g) vanilla extract
+- 1 1/2 tsp (4g) ground cinnamon
+- 1/8 tsp (0.5g) ground nutmeg
+- 1/8 tsp (0.75g) salt
+- 1/2 tsp (1g) finely grated orange zest, optional
+- Monk fruit sweetener, optional: 1 tsp (4g) granulated, or 3-5 drops liquid
+- 8 slices rye bread, preferably a day old (or sprouted whole grain or sourdough, see below)
+- 2 tbsp (28g) butter, divided
+
+## Instructions
+
+1. Whisk the eggs, milk, vanilla, cinnamon, nutmeg, salt and orange zest (if using) in a wide, shallow dish until no streaks of egg white remain.
+2. If you're sweetening the custard, add it now:
+   - **Granulated monk fruit:** whisk in 1 tsp and keep whisking for about 30 seconds so it dissolves. Granules that don't dissolve can scorch in the pan.
+   - **Liquid monk fruit:** start with 3 drops, whisk, and taste a tiny bit off a spoon. Add 1-2 more drops if you want it sweeter. Liquid brands vary a lot in strength, and too much tastes bitter, so go slowly.
+3. Heat a large skillet or griddle over medium-low heat and melt about 1 1/2 tsp of the butter.
+4. Dip a slice of rye into the egg mixture and let it soak for about 15-20 seconds per side, so the custard works its way into the dense crumb. Very dense dark rye or pumpernickel can take up to 30 seconds per side. Let the extra drip off.
+5. Cook 2-3 slices at a time for 3-4 minutes per side, until deep golden and the center springs back when pressed. Rye is already dark, so go by the smell and the firm center more than the color, and keep the heat on the low side so the outside doesn't scorch. Add more butter to the pan between batches.
+6. Keep finished slices warm on a rack in a 200°F (95°C) oven while you cook the rest. Serve with fresh berries and a spoonful of Greek yogurt.
+
+## Choosing your bread
+
+- **Rye** is my go-to. Its earthy flavor is great with cinnamon, and the orange zest makes it taste like a holiday breakfast. Pick a rye where rye flour is the first ingredient and the label shows little or no added sugar, since a lot of store-bought ryes add molasses or sugar. Deli rye with caraway seeds has a strong flavor, so pick seedless rye if you want it to taste like classic French toast.
+- **Sprouted whole grain** is softer and soaks faster: about 10 seconds per side is enough. It has a bit more fiber and protein than most rye.
+- **Sourdough** works really well too. Its firm crumb holds up to the custard without going soggy, and the slight tang is great with cinnamon. Soak it about 10-15 seconds per side. Whole wheat sourdough is the best choice; white sourdough has less fiber, so expect a few more grams of net carbs.
+
+See [the breads I like using](/blog/breads-i-like-using) for more on choosing a good loaf.
+
+## Notes
+
+- **Why it's diabetes-friendly:** The rye I use has 0g of sugar, the custard has no added sugar, and the eggs add protein, so the carbs hit your blood sugar more slowly than a sweet, syrupy French toast. For more fiber, use a dense whole grain rye or sprouted bread. Skip the syrup and top with berries, plain Greek yogurt, or a sprinkle of extra cinnamon.
+- **Stale bread is better:** Slightly dry bread soaks up the custard without getting soggy. If your bread is fresh, toast the slices lightly in a 300°F (150°C) oven for 5-8 minutes first.
+- **Low heat is the trick:** Too hot and the outside burns before the egg in the middle sets. Medium-low gives a crisp crust and a soft, custardy center.
+- Nutrition is for 2 slices of [Oroweat Schwarzwalder dark rye](/prods/oroweat-schwarzwalder-dark-rye) and doesn't include toppings. It'll change with your brand, and rye is often higher in sodium than other breads, so check your label. Monk fruit isn't counted. Leftovers keep in the fridge for 3 days or freeze for up to 2 months; reheat in a toaster or toaster oven so they crisp back up.

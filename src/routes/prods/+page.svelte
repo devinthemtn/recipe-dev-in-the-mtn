@@ -14,12 +14,9 @@
 	they're worth keeping around.
 </p>
 
-<div class="flex flex-col gap-6">
+<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
 	{#each data.products as product (product.slug)}
-		<a
-			href={resolve('/prods/[slug]', { slug: product.slug })}
-			class="block rounded-lg border border-stone-200 p-5 hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
-		>
+		<a href={resolve('/prods/[slug]', { slug: product.slug })} class="card card-link block p-5">
 			<h2 class="font-semibold text-stone-900 dark:text-stone-100">{product.title}</h2>
 			{#if product.brand}
 				<p class="mt-1 text-xs text-stone-500">{product.brand}</p>

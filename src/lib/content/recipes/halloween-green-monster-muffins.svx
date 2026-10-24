@@ -1,0 +1,57 @@
+---
+title: "Green Monster Muffins"
+description: "Low-carb sunflower seed flour and zucchini muffins that turn green inside as they cool, thanks to a harmless natural reaction"
+date: "2026-10-16"
+draft: false
+tags: ["breakfast", "snack", "halloween", "diabetic-friendly", "vegetarian", "gluten-free", "low-carb", "make-ahead"]
+prepTime: "15 min"
+cookTime: "22 min"
+totalTime: "40 min plus cooling"
+servings: 12
+nutrition:
+  calories: 195
+  carbs: "6g"
+  fiber: "3g"
+  sugar: "1g"
+  protein: "7g"
+  fat: "17g"
+  sodium: "215mg"
+---
+
+<script>
+	import monsterMuffins from '$lib/assets/halloween/green-monster-muffins.svg';
+</script>
+
+<img src={monsterMuffins} alt="Illustration of two muffins, one broken open to show a bright green inside with googly eyes" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+- 2 cups (224g) sunflower seed flour (or raw unsalted hulled sunflower seeds, ground fine)
+- 1/4 cup (28g) coconut flour
+- 1/3 cup (65g) granulated allulose or monk fruit sweetener
+- 1 tsp (5g) baking soda
+- 1 tsp (4g) baking powder
+- 1 1/2 tsp ground cinnamon
+- 1/2 tsp ground ginger
+- 1/4 tsp salt
+- 4 large eggs
+- 1/3 cup (75g) butter or coconut oil, melted
+- 1/3 cup (80g) unsweetened milk
+- 1 tsp (4g) vanilla extract
+- 1 cup (120g) grated zucchini, squeezed dry in a towel
+- 1/4 cup (40g) sugar-free dark chocolate chips, optional
+
+## Instructions
+
+1. Heat the oven to 350°F (175°C) and line a 12-cup muffin tin with paper liners.
+2. Whisk the sunflower seed flour, coconut flour, sweetener, baking soda, baking powder, cinnamon, ginger and salt in a large bowl, breaking up any lumps.
+3. In another bowl, whisk the eggs, melted butter, milk and vanilla. Stir into the dry ingredients until combined, then fold in the zucchini and chocolate chips.
+4. Divide between the muffin cups and bake for 20-24 minutes, until golden and a toothpick comes out clean. If the tops brown too fast, lay a sheet of foil over them for the last few minutes.
+5. Let the muffins cool completely. Break one open: the inside turns green as they cool, and gets greener by the next day.
+
+## Notes
+
+- **The monster trick:** Sunflower seeds contain chlorogenic acid, which turns green when it meets an alkaline ingredient like baking soda. It's completely safe and doesn't change the taste. Don't add lemon juice, vinegar or yogurt, since acid stops the reaction.
+- **Why it's diabetes-friendly:** Seed and coconut flours have a fraction of the carbs of wheat flour and plenty of fiber, fat and protein, so these muffins have about 6g of carbs each. Allulose sweetens without raising blood sugar and isn't counted in the nutrition.
+- Sunflower seed flour makes these nut-free, so they're safe for most school parties. Check for seed allergies first.
+- Nutrition doesn't include the optional chocolate chips. Keep in the fridge for up to 5 days, or freeze for up to 2 months.
