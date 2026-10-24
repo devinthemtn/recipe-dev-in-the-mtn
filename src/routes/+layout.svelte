@@ -5,6 +5,7 @@
 	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 	import GoogleAnalytics from '$lib/components/GoogleAnalytics.svelte';
 	import { showCoffee } from '$lib/site.js';
+	import { newsletterConfig } from '$lib/newsletter.js';
 
 	let { children } = $props();
 
@@ -62,6 +63,13 @@
 				class="ml-1 underline-offset-2 hover:text-stone-900 hover:underline dark:hover:text-stone-100"
 				>Privacy, disclosures &amp; disclaimer</a
 			>
+			{#if newsletterConfig()}
+				<a
+					href={resolve('/newsletter')}
+					class="ml-1 underline-offset-2 hover:text-stone-900 hover:underline dark:hover:text-stone-100"
+					>Newsletter</a
+				>
+			{/if}
 		</div>
 	</footer>
 </div>

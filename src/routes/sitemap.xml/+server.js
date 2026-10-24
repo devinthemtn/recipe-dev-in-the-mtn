@@ -3,6 +3,7 @@ import { getAllCoffeeReviews } from '$lib/content/coffee.js';
 import { getAllIngredients } from '$lib/content/ingrts.js';
 import { getAllProducts } from '$lib/content/prods.js';
 import { getAllRecipes } from '$lib/content/recipes.js';
+import { newsletterConfig } from '$lib/newsletter.js';
 import { showCoffee, siteOrigin } from '$lib/site.js';
 
 // Written to build/sitemap.xml at build time. Every page here is listed from
@@ -55,6 +56,7 @@ export function GET() {
 		pages.push({ path: '/', lastmod: newest(sectionPages.map((s) => s.index.lastmod)) });
 		for (const { index, entries } of sectionPages) pages.push(index, ...entries);
 		if (showCoffee) pages.push({ path: '/coffee/' }, { path: '/coffee/videos/' });
+		if (newsletterConfig()) pages.push({ path: '/newsletter/' });
 		pages.push({ path: '/legal/' });
 	} else {
 		// Sitemap URLs must be absolute, so there's nothing valid to list.

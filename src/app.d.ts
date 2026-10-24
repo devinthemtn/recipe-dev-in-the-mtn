@@ -8,6 +8,11 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+
+	interface Window {
+		/** Set by the Google Analytics snippet, when analytics is enabled. */
+		gtag?: (...args: unknown[]) => void;
+	}
 }
 
 export {};

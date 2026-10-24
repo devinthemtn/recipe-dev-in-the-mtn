@@ -43,6 +43,10 @@ export default defineConfig({
 				precompress: false
 			}),
 			prerender: {
+				// The newsletter pages are only linked when a newsletter is configured,
+				// and /newsletter/thanks/ is only reached from the provider's redirect,
+				// so list them here to always build them.
+				entries: ['*', '/newsletter/', '/newsletter/thanks/'],
 				// The coffee section isn't linked from anywhere until it launches (see
 				// `showCoffee` in src/lib/site.js), and has no reviews yet, so the crawler
 				// never reaches its routes. That's expected; fail the build only for any

@@ -1,6 +1,8 @@
 <script>
 	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
+	import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';
+	import { newsletterConfig } from '$lib/newsletter.js';
 	import NutritionFacts from '$lib/components/NutritionFacts.svelte';
 	import PrintButton from '$lib/components/PrintButton.svelte';
 	import { jsonLdScript } from '$lib/content/recipeSchema.js';
@@ -51,6 +53,10 @@
 	{#if meta.nutrition}
 		<NutritionFacts nutrition={meta.nutrition} servings={meta.servings} />
 	{/if}
+</div>
+
+<div class="mt-12">
+	<NewsletterSignup config={newsletterConfig()} />
 </div>
 
 <p class="mt-8 hidden border-t border-stone-300 pt-2 text-xs text-stone-500 print:block">

@@ -23,7 +23,6 @@ Traffic is what every income source depends on, and the site can't earn much unt
 - Programs to try:
   - **Amazon Associates.** It's easy to get into, but you need 3 sales within 180 days or the account closes.
   - **Direct brand programs,** which often pay better: specialty flour mills, spice companies, and Thrive Market.
-- Auto-insert a short FTC disclosure on any page that has affiliate links.
 - Leave almond-flour products out of the picks so recommendations stay consistent with the site's own kitchen.
 
 ## Phase 2: Email list (start now, pays off later)

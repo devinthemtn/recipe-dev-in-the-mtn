@@ -1,5 +1,7 @@
 <script>
 	import { resolve } from '$app/paths';
+	import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';
+	import { newsletterConfig } from '$lib/newsletter.js';
 
 	let { data } = $props();
 	const { meta, Content } = data;
@@ -25,7 +27,9 @@
 	>&larr; Blog</a
 >
 
-<h1 class="mt-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">{meta.title}</h1>
+<h1 class="mt-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
+	{meta.title}
+</h1>
 <p class="mt-2 text-sm text-stone-500">
 	{formatDate(meta.date)}{#if meta.author}&nbsp;&middot; {meta.author}{/if}
 </p>
@@ -33,3 +37,7 @@
 <article class="prose mt-8 max-w-none prose-stone dark:prose-invert">
 	<Content />
 </article>
+
+<div class="mt-12">
+	<NewsletterSignup config={newsletterConfig()} heading="Follow along by email" />
+</div>

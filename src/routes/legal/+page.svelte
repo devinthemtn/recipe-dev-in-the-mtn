@@ -1,5 +1,8 @@
 <script>
-	const updated = 'October 4, 2026';
+	import { newsletterConfig } from '$lib/newsletter.js';
+
+	const updated = 'October 15, 2026';
+	const newsletter = newsletterConfig();
 	const email = 'devinthemtn@gmail.com';
 </script>
 
@@ -52,10 +55,32 @@
 	</ul>
 
 	<h2 id="privacy">Privacy policy</h2>
-	<p>
-		This site doesn't have accounts, comments or sign-up forms, so I don't collect your name, email
-		or any other personal details directly.
-	</p>
+	{#if newsletter}
+		<p>
+			This site doesn't have accounts or comments. The only personal detail I collect directly is
+			your email address, and only if you sign up for the newsletter.
+		</p>
+		<h3>Email newsletter</h3>
+		<p>
+			If you sign up, your email address is stored by my email provider,
+			{newsletter.name}, which sends the newsletter on my behalf. You'll get a confirmation email
+			first, and nothing is sent until you confirm. {newsletter.name} also records whether you open emails
+			and which links you click, which I see as statistics to know what's useful. It processes this data
+			under its own
+			<!-- eslint-disable-next-line svelte/no-navigation-without-resolve -- external link -->
+			<a href={newsletter.privacyUrl}>privacy policy</a>.
+		</p>
+		<p>
+			I only use your email to send the newsletter, and I never sell or share it. Every email has an
+			unsubscribe link at the bottom. To have your address and data deleted entirely, email me at
+			the address below.
+		</p>
+	{:else}
+		<p>
+			This site doesn't have accounts, comments or sign-up forms, so I don't collect your name,
+			email or any other personal details directly.
+		</p>
+	{/if}
 	<h3>Analytics</h3>
 	<p>
 		I use Google Analytics to see which recipes and pages people read, so I know what to make more
@@ -93,8 +118,8 @@
 	<p>This site isn't aimed at children under 13, and I don't knowingly collect data from them.</p>
 	<h3>Changes and contact</h3>
 	<p>
-		If this policy changes, for example when ads or an email newsletter are added, I'll update this
-		page and the date at the top. For questions or requests about your data, email
+		If this policy changes, for example when ads are added, I'll update this page and the date at
+		the top. For questions or requests about your data, email
 		<a href="mailto:{email}">{email}</a>.
 	</p>
 
