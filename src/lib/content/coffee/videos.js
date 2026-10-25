@@ -10,6 +10,7 @@
 //   url      — any YouTube link: youtube.com/watch?v=…, youtu.be/…, or /shorts/…
 //   channel  — who made it
 //   category — one of `categories` below
+//   date     — the date you added it ("2026-10-25"); the newest show first on /coffee
 //   note     — optional: why it's worth watching
 //
 // Channel fields: name, url, note (optional).
@@ -22,13 +23,14 @@ export const categories = [
 	'Deep dives'
 ];
 
-/** @type {Array<{ title: string, url: string, channel: string, category: string, note?: string, draft?: boolean }>} */
+/** @type {Array<{ title: string, url: string, channel: string, category: string, date: string, note?: string, draft?: boolean }>} */
 export const videos = [
 	// {
 	// 	title: 'The video title',
 	// 	url: 'https://www.youtube.com/watch?v=XXXXXXXXXXX',
 	// 	channel: 'Channel name',
 	// 	category: 'Brewing',
+	// 	date: '2026-10-25',
 	// 	note: 'Why I keep coming back to this one.'
 	// }
 ];
@@ -64,6 +66,18 @@ export function getVideoGroups() {
 				.map((v) => ({ ...v, id: youtubeId(v.url) }))
 		}))
 		.filter((group) => group.videos.length > 0);
+}
+
+/**
+ * The most recently added videos, newest first.
+ * @param {number} count
+ */
+export function getRecentVideos(count) {
+	return videos
+		.filter((v) => !v.draft)
+		.map((v) => ({ ...v, id: youtubeId(v.url) }))
+		.sort((a, b) => new Date(b.date ?? 0) - new Date(a.date ?? 0))
+		.slice(0, count);
 }
 
 export function getChannels() {

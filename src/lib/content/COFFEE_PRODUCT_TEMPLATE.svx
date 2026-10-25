@@ -1,0 +1,38 @@
+---
+# Copy this file into src/lib/content/coffee/products/ and rename it to a
+# lowercase-hyphenated slug, e.g. "fellow-ode-gen-2.svx" — the filename becomes
+# the URL: /coffee/products/fellow-ode-gen-2
+#
+# Products are the gear and gadgets: grinders, brewers, kettles, scales, filters.
+# Individual coffees go in reviews (COFFEE_REVIEW_TEMPLATE.svx).
+
+title: "Brand — Product Name"
+description: "One or two sentences on the product, shown on the product card."
+date: "2026-10-25" # the date you added it; the newest show first on /coffee
+tags: ["grinder"] # e.g. grinder, brewer, kettle, scale, espresso, filter, accessory
+# draft: true # uncomment to hide the product until it's ready
+
+# All of these are optional — delete any you don't want to show.
+brand: "Brand Name"
+category: "Grinder" # what kind of thing it is
+price: "$345"
+usingSince: "2025" # how long you've owned it
+rating: 4 # out of 5; halves are fine (4.5)
+buyUrl: "https://example.com/the-product" # where to buy it
+---
+
+## What it is
+
+What it does and who it's for.
+
+## How I use it
+
+Your setup and routine with it.
+
+## The good and the bad
+
+What it does well, what annoys you.
+
+## Would I buy it again?
+
+The verdict.

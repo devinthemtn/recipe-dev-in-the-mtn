@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Coffee Videos | Mountain Kitchen</title>
+	<title>Recommended Coffee Videos | Mountain Kitchen</title>
 	<meta
 		name="description"
 		content="The coffee YouTube videos and channels I recommend — brewing, espresso, grinders and the deep dives."
@@ -20,7 +20,7 @@
 >
 
 <h1 class="mt-3 mb-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
-	Coffee Videos
+	Recommended Videos
 </h1>
 <p class="mb-10 max-w-2xl text-stone-600 dark:text-stone-400">
 	The coffee corner of YouTube I actually watch and recommend. Links open on YouTube.

@@ -46,7 +46,7 @@ export default defineConfig({
 				// so list them here to always build them.
 				entries: ['*', '/newsletter/', '/newsletter/thanks/'],
 				// The coffee section isn't linked from anywhere until it launches (see
-				// `showCoffee` in src/lib/site.js), and has no reviews yet, so the crawler
+				// `showCoffee` in src/lib/site.js), and has no reviews or products yet, so the crawler
 				// never reaches its routes. That's expected; fail the build only for any
 				// other route that wasn't reached.
 				handleUnseenRoutes: ({ routes, message }) => {
