@@ -1,0 +1,23 @@
+---
+title: "OXO — Brew 9-Cup Coffee Maker"
+description: "An affordable, SCA-certified drip machine sold as an auto pour-over, with a bloom cycle, a steady brew temperature and a single dial."
+date: "2026-10-25"
+tags: ["auto pour-over", "brewer", "budget"]
+brand: "OXO"
+category: "Drip brewer"
+price: "$249.99"
+buyUrl: "https://www.oxo.com/shop/coffee-beverage/coffee-tea/coffee-makers-grinders/barista-brain-9-cup-coffee-maker.html"
+---
+
+## What it is
+
+OXO's "Barista Brain" brewer is sold as an automatic pour-over, but it's really a very good drip machine. A "rainmaker" shower head wets the grounds, it runs a bloom cycle first, and it holds the water at 197.6–204.8°F. Everything is set with one dial.
+
+- **Grinder / scale:** neither
+- **Capacity:** up to 9 cups, into a double-walled stainless thermal carafe (no hot plate), with pause-and-pour
+- **Certification:** SCA certified
+- **Warranty:** 2 years
+
+## Who it's for
+
+Anyone who wants to stop making bad drip coffee without spending $400–600. It's the cheapest way into this list, and you can pair it with a decent burr grinder.

@@ -1,0 +1,30 @@
+---
+title: "xBloom — Studio"
+description: "The original grind, weigh and pour machine. A built-in grinder and scale, and an app that lets you control nearly every part of the brew."
+date: "2026-10-25"
+tags: ["auto pour-over", "brewer", "grinder", "scale"]
+brand: "xBloom"
+category: "Automatic pour-over"
+price: "$599"
+buyUrl: "https://xbloom.com/products/xbloom-studio"
+---
+
+## What it is
+
+xBloom has been making automatic pour-over machines since 2022, which makes it the "OG" of the category. The Studio is the current model, and it does everything in one box.
+
+- **Grinder:** built in, 48mm stainless conical burrs with 80 settings. You can also use it on its own for French press or Chemex.
+- **Scale:** built in, reads to 0.1g
+- **Brewer:** you set the temperature, water volume, bloom, pour speed and pour pattern (straight, spiral and others), with pauses between pours
+- **App:** shows a live brew graph and has a library of recipes other users have shared
+- **Capacity:** a single cup (about 12oz) at a time
+
+It has three modes. **Autopilot** brews xBloom's pre-portioned xPods. **Copilot** runs your own beans with a saved recipe. **Freesolo** gives you direct control of the grinder, brewer and scale.
+
+## In the video
+
+In [One Of These Coffee Robots Just Beat Keurig](https://youtu.be/En-YPVqqr6k), Daddy Got Coffee puts it up against the Cosori Juni and Breville Spiral Luxe. It's the most customizable of the three, mostly because of the full-featured app.
+
+## Who it's for
+
+Tinkerers who want to dial in every variable and save recipes for each bag. If you'd rather press one button and walk away, the [Breville Spiral Luxe](/coffee/products/breville-spiral-luxe) is simpler.

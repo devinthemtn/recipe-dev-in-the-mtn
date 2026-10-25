@@ -1,0 +1,28 @@
+---
+title: "Breville — Spiral Luxe Auto Pour Over"
+description: "A grind-and-brew automatic pour-over with 40mm flat burrs and a moving spout. The least programmable of the bunch, but the most consistent and hardest to mess up."
+date: "2026-10-25"
+tags: ["auto pour-over", "brewer", "grinder"]
+brand: "Breville"
+category: "Automatic pour-over"
+price: "$599.95"
+buyUrl: "https://www.breville.com/en-us/product/bpo830v1"
+---
+
+## What it is
+
+Breville's first automatic pour-over, launched at the end of September 2026. It grinds, doses and pours for you. You twist the 200g bean hopper to set the grind (it's stepless), and the machine works out the dose from your brew ratio and grinds for a set time to hit it. A moving nozzle then pours in a spiral over a conical dripper made of Tritan plastic.
+
+- **Grinder:** built in, 40mm flat burrs
+- **Heater:** Breville's ThermoJet with PID control, ready in seconds; settings at 190, 198 and 205°F
+- **Capacity:** 40oz water tank, 20oz glass carafe, so it makes one or two mugs, not a pot
+- **Controls:** a 2.4" color screen and a dial. Recipes are stored on the machine. There's no Wi-Fi or Bluetooth, and the Breville+ app is only for tips and maintenance.
+- **Recipes:** you can change the brew ratio, temperature, number of pours and the pauses between them
+
+## In the video
+
+In [One Of These Coffee Robots Just Beat Keurig](https://youtu.be/En-YPVqqr6k), Daddy Got Coffee picks this one as the winner for convenience. It's the most restrictive of the three to program, but in his testing it was the most consistent and the most "dummy-proof." You load beans and press go.
+
+## Who it's for
+
+People who want good pour-over every morning without thinking about it, and don't want to fiddle with an app. If you want to tweak every pour, look at the [xBloom Studio](/coffee/products/xbloom-studio) instead.

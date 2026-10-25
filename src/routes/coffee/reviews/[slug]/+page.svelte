@@ -5,12 +5,29 @@
 	let { data } = $props();
 	const { meta, Content } = data;
 
+	// Roundups and other articles have none of the per-coffee fields, so they skip the sidebar.
+	const detailKeys = [
+		'rating',
+		'roaster',
+		'origin',
+		'producer',
+		'variety',
+		'process',
+		'roast',
+		'price',
+		'notes',
+		'brewedWith',
+		'buyUrl'
+	];
+	const hasDetails = detailKeys.some((key) => meta[key] !== undefined);
+
 	/** @param {string} date */
 	function formatDate(date) {
 		return new Date(date).toLocaleDateString('en-US', {
 			year: 'numeric',
 			month: 'long',
-			day: 'numeric'
+			day: 'numeric',
+			timeZone: 'UTC'
 		});
 	}
 </script>
@@ -34,10 +51,16 @@
 	<p class="mt-2 text-sm text-stone-500">Reviewed {formatDate(meta.date)}</p>
 {/if}
 
-<div class="mt-8 grid gap-8 md:grid-cols-[1fr_240px]">
-	<article class="prose max-w-none prose-stone dark:prose-invert">
+{#if hasDetails}
+	<div class="mt-8 grid gap-8 md:grid-cols-[1fr_240px]">
+		<article class="prose max-w-none prose-stone dark:prose-invert">
+			<Content />
+		</article>
+
+		<CoffeeDetails {meta} />
+	</div>
+{:else}
+	<article class="prose mt-8 max-w-3xl prose-stone dark:prose-invert">
 		<Content />
 	</article>
-
-	<CoffeeDetails {meta} />
-</div>
+{/if}

@@ -1,0 +1,24 @@
+---
+title: "Fellow — Aiden Precision Coffee Maker"
+description: "Not a moving-spout robot, but a programmable brewer that does single cups or a 10-cup batch, with control over bloom, pulses and temperature."
+date: "2026-10-25"
+tags: ["auto pour-over", "brewer"]
+brand: "Fellow"
+category: "Precision brewer"
+price: "$399.95"
+buyUrl: "https://fellowproducts.com/products/aiden-precision-coffee-maker"
+---
+
+## What it is
+
+The Aiden doesn't move a spout around the way the [xBloom](/coffee/products/xbloom-studio) or [Spiral Luxe](/coffee/products/breville-spiral-luxe) do. Instead it uses a dual shower head and controls the bloom, pulse timing and temperature, which gets it much closer to pour-over than an ordinary drip machine. It comes up in almost every automatic pour-over roundup.
+
+- **Grinder / scale:** neither, so bring your own
+- **Capacity:** swappable single-serve and batch baskets, up to 10 cups, with a double-walled carafe
+- **Controls:** brew ratio, bloom, pulses and temperature down to the degree, and it can change temperature during the brew. The app lets you save profiles and schedule brews.
+- **Certification:** SCA certified (2024)
+- **Warranty:** 2 years, 3 if you register it
+
+## Who it's for
+
+People who want pour-over-style control but sometimes need a whole pot, and who already own a good grinder.

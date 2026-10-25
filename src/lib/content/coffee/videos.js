@@ -32,7 +32,15 @@ export const videos = [
 	// 	category: 'Brewing',
 	// 	date: '2026-10-25',
 	// 	note: 'Why I keep coming back to this one.'
-	// }
+	// },
+	{
+		title: 'One Of These Coffee Robots Just Beat Keurig',
+		url: 'https://youtu.be/En-YPVqqr6k',
+		channel: 'Daddy Got Coffee',
+		category: 'Grinders & gear',
+		date: '2026-10-25',
+		note: 'Three automatic pour-over machines head to head: the xBloom Studio, Cosori Juni and Breville Spiral Luxe. The Breville wins on convenience.'
+	}
 ];
 
 /** @type {Array<{ name: string, url: string, note?: string, draft?: boolean }>} */

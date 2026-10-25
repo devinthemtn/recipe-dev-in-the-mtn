@@ -1,0 +1,28 @@
+---
+title: "Cosori — Juni"
+description: "The budget automatic pour-over: a touch panel, three pour patterns over a rotating basket, and a full 1.5L thermal carafe. Bring your own grinder."
+date: "2026-10-25"
+tags: ["auto pour-over", "brewer"]
+brand: "Cosori"
+category: "Automatic pour-over"
+price: "$299"
+buyUrl: "https://cosori.com/products/juni-coffee-maker"
+---
+
+## What it is
+
+Cosori's first automatic pour-over, released in summer 2026 after a Kickstarter. A retractable nozzle traces one of three pour patterns while the basket rotates underneath it, over a V60-style cone. It's on the SCA's 2026 list of certified home brewers.
+
+- **Grinder:** none. You'll need your own, which matters if you're comparing it to the machines that grind for you.
+- **Capacity:** up to 1.5L in a thermal carafe, so it can brew a full pot, unlike the single-cup machines
+- **Controls:** a touch panel on the machine, plus the VeSync app. There are one-touch presets and a feature that suggests a recipe when you scan a bag of beans.
+- **Temperature:** 176–205°F
+- **Warranty:** 2 years
+
+## In the video
+
+In [One Of These Coffee Robots Just Beat Keurig](https://youtu.be/En-YPVqqr6k), Daddy Got Coffee tests it alongside the xBloom Studio and Breville Spiral Luxe. It's the only one of the three without a grinder, and the cheapest by about $300.
+
+## Worth knowing
+
+Written reviews like the value and consistency, but they point out that it's almost all plastic, with a lot of moving parts. On the Home-Barista forum, some owners question whether the water gets hot enough. Cosori says the finished cup meets SCA temperature guidelines. It's a first-generation machine, so there's no track record yet.

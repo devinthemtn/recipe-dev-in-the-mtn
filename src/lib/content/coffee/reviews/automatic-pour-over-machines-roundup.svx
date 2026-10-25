@@ -1,0 +1,57 @@
+---
+title: "Automatic Pour-Over Machines: Are the Coffee Robots Worth It?"
+description: "The Breville Spiral Luxe, xBloom Studio, Cosori Juni and friends promise pour-over at the push of a button. They're good, but a $100 manual setup and five minutes of practice get you most of the way there."
+date: "2026-10-25"
+tags: ["roundup", "auto pour-over", "gear", "pour-over"]
+---
+
+A few years ago there was really only one machine that would grind, weigh and pour a cup of pour-over for you. Now there's a whole category of them, and in 2026 Breville and Cosori both joined in. I watched Daddy Got Coffee's head-to-head, [One Of These Coffee Robots Just Beat Keurig](https://youtu.be/En-YPVqqr6k). It's a good look at what these machines get right, and also at what you're paying for.
+
+## The machines
+
+**[Breville Spiral Luxe](/coffee/products/breville-spiral-luxe) — $599.95.** It has a built-in grinder with 40mm flat burrs, a spout that pours in a spiral, and a 20oz carafe. It's the least programmable of the three in the video, but it was the most consistent and the hardest to get wrong, which is why it won on convenience. You load the beans, press the button and leave.
+
+**[xBloom Studio](/coffee/products/xbloom-studio) — $599.** xBloom started this category in 2022. The Studio has a grinder, a 0.1g scale and an app that controls nearly everything: temperature, bloom, pour speed, pour pattern and the pauses between pours. It's the tinkerer's pick. The flip side is that you'll spend more time in the app.
+
+**[Cosori Juni](/coffee/products/cosori-juni) — $299.** The budget machine. It has a touch panel and three pour patterns, and it brews into a 1.5L thermal carafe, so it can make a full pot. It's SCA certified. It has no grinder, though, so you'll need one, and it's a first-generation, mostly plastic machine.
+
+There are also two that don't use a moving spout but come close:
+
+- **[Fellow Aiden](/coffee/products/fellow-aiden) — $399.95.** A precision brewer with programmable bloom, pulses and temperature. It makes single cups or 10-cup batches. Bring your own grinder.
+- **[OXO Brew 9-Cup](/coffee/products/oxo-brew-9-cup) — $249.99.** An SCA-certified drip machine with a bloom cycle and one dial. It's the cheapest way to stop drinking bad drip coffee.
+
+## Where they actually help
+
+These machines aren't a gimmick. They're genuinely useful when:
+
+- **It's early and you're not awake.** A machine pours the same way every day, even when you'd rush it.
+- **You want consistency.** The machines with grinders also dose by weight, and they get the same result every time.
+- **Your hands or balance aren't steady.** Holding a full kettle and pouring slowly is a real barrier for some people.
+- **You're making coffee for someone else.** Anyone in the house can push a button. Not everyone wants to learn a recipe.
+
+## But doing it by hand is cheap and not hard
+
+This is the part the marketing skips. A manual setup that makes coffee as good as these machines costs a fraction of the price:
+
+- **A dripper** (V60 or similar): about $10–30
+- **Paper filters:** about $5–10 for a hundred
+- **A kitchen scale** that reads to 1g: about $15–25. You may already have one.
+- **A gooseneck kettle:** about $25–40 for a stovetop one. A regular kettle works when you're starting out.
+- **A burr grinder:** a decent hand grinder is about $50–100, and it's where most of your money should go
+
+That comes to about **$100–150**, and every piece lasts for years. The grinder matters most. Three of the five machines above don't come with one, so you'd be buying one anyway.
+
+The technique fits on an index card:
+
+1. **Weigh:** 20g of coffee, ground medium-fine (about like table salt), to 320g of water just off the boil (about 200°F)
+2. **Bloom:** pour about 40g of water to wet all the grounds, then wait 30–45 seconds while it bubbles
+3. **Pour:** add the rest slowly, in small circles, in two or three pours, until the scale reads 320g
+4. **Wait:** let it drain. The whole brew should take about 3 minutes.
+
+If it tastes sour, grind finer. If it tastes bitter, grind coarser. That's most of the skill. After a week of mornings you won't need the card, and it takes about the same five minutes as waiting on a machine.
+
+## The verdict
+
+If convenience is the point, the **Breville Spiral Luxe** is the one to beat. If you love tweaking recipes, it's the **xBloom Studio**. If you want a full pot on a budget, look at the **Cosori Juni**, as long as you have a grinder.
+
+But if you're curious about pour-over and haven't tried it yet, start by hand. Spend the money on a good grinder, learn the four steps above, and see if you even want a robot. A lot of people find the five minutes of pouring is the best part of the morning. And if you later decide you want a machine, the grinder and the know-how will make your coffee better on any of them.
