@@ -1,8 +1,14 @@
 <script>
 	let isDark = $state(false);
 
+	// Follow the class rather than only our own clicks, so every toggle on the page stays in sync.
 	$effect(() => {
-		isDark = document.documentElement.classList.contains('dark');
+		const root = document.documentElement;
+		const sync = () => (isDark = root.classList.contains('dark'));
+		sync();
+		const observer = new MutationObserver(sync);
+		observer.observe(root, { attributes: true, attributeFilter: ['class'] });
+		return () => observer.disconnect();
 	});
 
 	function toggle() {
