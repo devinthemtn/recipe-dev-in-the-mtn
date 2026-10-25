@@ -1,12 +1,11 @@
-import { dev } from '$app/environment';
 import { env } from '$env/dynamic/public';
 
 /**
- * The coffee section (/coffee) is still being drafted: it shows up under
- * `pnpm dev` but is left out of production builds — no nav link, no sitemap
- * entries and no pages in build/. Set this to `true` to launch it.
+ * Whether the coffee section (/coffee) is live. Set this to `dev` to hide it
+ * from production builds again — no nav link, no sitemap entries and no pages
+ * in build/ — while still showing it under `pnpm dev`.
  */
-export const showCoffee = dev;
+export const showCoffee = true;
 
 /**
  * Normalises a site URL to an origin with no trailing slash, accepting a bare

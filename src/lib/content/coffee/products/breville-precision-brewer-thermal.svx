@@ -1,0 +1,62 @@
+---
+title: "Breville — Precision Brewer Thermal"
+description: "My go-to when I need to make a big batch. A 60oz drip brewer with real control over bloom, flow rate and temperature, and it's been easy to use and dependable for years."
+date: "2026-10-25"
+tags: ["brewer", "drip"]
+brand: "Breville"
+category: "Drip brewer"
+# usingSince: "2019" # the year you got it
+# rating: 4.5 # out of 5
+buyUrl: "https://www.breville.com/en-us/product/bdc450"
+---
+
+<script>
+	import precisionBrewer from '$lib/assets/breville-precision-brewer-thermal.jpg';
+</script>
+
+<figure>
+	<img src={precisionBrewer} alt="Breville Precision Brewer Thermal in brushed stainless steel, with a water tank on the left and a thermal carafe under the brew basket" class="w-full max-w-sm rounded-xl" />
+	<figcaption>
+		Photo: <a href="https://www.breville.com/en-us/product/bdc450">Breville</a>
+	</figcaption>
+</figure>
+
+## What it is
+
+The Precision Brewer (model BDC450) is Breville's high-end drip machine. It looks like an ordinary coffee maker, but a PID-controlled Thermocoil heater keeps the water temperature steady, and you can change the bloom time and flow rate yourself.
+
+- **Capacity:** 60oz, brewing into a brushed stainless thermal carafe (no hot plate)
+- **Presets:** Gold (built around the SCA's Gold Cup standard), Fast, Strong, Over Ice and Cold Brew
+- **My Brew:** your own settings for bloom time, flow rate and temperature
+- **Baskets:** both a flat-bottom basket and a cone insert, and it works with Breville's pour-over adapter
+- **Speed:** a full 12 cups in under 7 minutes on Fast
+
+Breville has since discontinued this model. There's more on its replacement at the end of this review.
+
+## How I use it
+
+This is my go-to coffee maker whenever I need to make a larger amount: when people are over, or when I want coffee for the whole morning. For one cup I'll reach for pour-over, but when it's time for a full pot, this is the one I use.
+
+Most of the time I just use the Gold setting and press start. The thermal carafe keeps the coffee hot without cooking it on a burner, so the last cup tastes nearly as good as the first.
+
+## The good and the bad
+
+The best thing I can say about it is that it's been easy to use and dependable for me for many years. It's never let me down, and I haven't had to think about it beyond descaling now and then.
+
+The extra settings are there if you want to play with them. You don't need them to get a good pot. It's big, though, at almost 16" tall, so measure under your cabinets first.
+
+## Would I buy it again?
+
+Yes. It's the one machine in my kitchen I don't think about anymore, and for a coffee maker, that's the highest praise I can give.
+
+## If you're buying one now
+
+Since the Precision Brewer is discontinued, the closest thing you can buy new is Breville's [Luxe Brewer Thermal](https://www.breville.com/en-us/product/bdc465?sku=BDC465BSS1BNA1) (BDC465, $349.95). I haven't used the Luxe myself, so I can't vouch for it the way I can for mine. On paper it's the same kind of machine: a 60oz thermal carafe, brewing to the SCA Golden Cup standard, with adjustable bloom, flow rate and temperature.
+
+It also adds a few things mine doesn't have:
+
+- a water filter built into a removable tank
+- a delayed start, up to 24 hours ahead
+- a carafe Breville says keeps coffee above 150°F for up to 4 hours
+
+In exchange, it trades my machine's Fast, Strong and Over Ice presets for a simpler One Touch and Custom Brew setup.
