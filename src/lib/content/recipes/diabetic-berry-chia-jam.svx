@@ -1,0 +1,45 @@
+---
+title: "Quick Berry Chia Jam"
+description: "A 15-minute no-added-sugar jam thickened with chia seeds instead of pectin and a pile of sugar"
+date: "2026-10-26"
+draft: false
+tags: ["breakfast", "snack", "diabetic-friendly", "vegan", "gluten-free", "make-ahead", "no-added-sugar"]
+prepTime: "5 min"
+cookTime: "5 min"
+totalTime: "10 min plus 15 min thickening"
+servings: 10
+nutrition:
+  calories: 25
+  carbs: "4g"
+  fiber: "2g"
+  sugar: "2g"
+  protein: "1g"
+  fat: "1g"
+  sodium: "0mg"
+---
+
+## Ingredients
+
+- 2 cups (300g) mixed berries, fresh or frozen (strawberries, raspberries, blueberries, or blackberries)
+- 2 Tbs (20g) chia seeds
+- 1 Tbs (15g) lemon juice
+- 1/2 tsp (2g) vanilla extract, optional
+- 5-10 drops liquid monk fruit or stevia, optional, to taste
+
+## Instructions
+
+1. If using strawberries, cut them into small pieces. Add the berries to a small saucepan over medium heat.
+2. Cook for 3-5 minutes, stirring often, until the berries soften and release their juice. Mash them with a fork or potato masher, as smooth or chunky as you like.
+3. Take the pan off the heat and stir in the lemon juice, vanilla, and sweetener (if using). Taste and adjust.
+4. Stir in the chia seeds. Let sit 5 minutes, then stir again to break up any clumps.
+5. Let the jam sit another 10 minutes to thicken, then transfer to a jar. It will keep thickening as it cools in the fridge.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Regular jam is mostly sugar, often around 10g per tablespoon. This version gets all its sweetness from the fruit, and the chia adds soluble fiber that helps slow how fast that fruit sugar hits your blood sugar.
+- **Too thin?** Stir in another 1-2 tsp of chia and wait 10 minutes. **Too thick?** Stir in a splash of water.
+- **Want it smooth?** Use ground chia, or blend the cooked berries before adding the chia.
+- Serving size is 2 Tbs. Makes about 1 1/4 cups.
+- Keeps about 1 week in the fridge, or freeze in small jars for up to 3 months.
+- Great on toast, stirred into yogurt or cottage cheese, or spooned over [chia pudding](/recipes/diabetic-chia-pudding) or oatmeal.
+- For more on soaking and thickening with chia, see [Chia Seeds: How to Soak Them, Thicken With Them, and Sneak Them Into Everything](/blog/getting-to-know-chia-seeds).
