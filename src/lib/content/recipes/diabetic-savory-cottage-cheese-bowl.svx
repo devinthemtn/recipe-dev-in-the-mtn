@@ -1,0 +1,50 @@
+---
+title: "Savory Everything Bagel Cottage Cheese Bowl"
+description: "A five-minute, high-protein lunch bowl with crunchy vegetables, olive oil, and everything bagel seasoning"
+date: "2026-10-26"
+draft: false
+tags: ["lunch", "snack", "diabetic-friendly", "vegetarian", "gluten-free", "high-protein", "quick"]
+prepTime: "5 min"
+cookTime: "0 min"
+totalTime: "5 min"
+servings: 1
+nutrition:
+  calories: 255
+  carbs: "15g"
+  fiber: "3g"
+  sugar: "9g"
+  protein: "21g"
+  fat: "13g"
+  sodium: "610mg"
+---
+
+## Ingredients
+
+- 3/4 cup (170g) 2% cottage cheese
+- 1/2 cup (65g) diced cucumber
+- 1/2 cup (75g) cherry tomatoes, halved
+- 2 Tbsp (20g) finely diced red onion
+- 1 Tbsp (8g) roasted pumpkin seeds
+- 1 tsp (5ml) extra virgin olive oil
+- 1/2 tsp (2g) everything bagel seasoning
+- Black pepper, to taste
+
+Optional:
+
+- Fresh dill or chives
+- A squeeze of lemon juice
+- Chili flakes
+
+## Instructions
+
+1. Spoon the cottage cheese into a shallow bowl and spread it out slightly.
+2. Top with the cucumber, cherry tomatoes, and red onion.
+3. Sprinkle with pumpkin seeds, everything bagel seasoning, and black pepper.
+4. Drizzle with olive oil and finish with any optional herbs, lemon, or chili flakes. Serve right away.
+
+## Notes
+
+- **Why it's diabetes-friendly:** This bowl pairs protein from the cottage cheese with fiber from the vegetables and healthy fats from the olive oil and seeds, a combination that helps keep post-meal blood sugar steady.
+- Most of the sugar here is naturally occurring lactose from the cottage cheese and natural sugar from the tomatoes.
+- Many everything bagel seasonings contain salt. Look for a salt-free blend, or use a low-sodium cottage cheese, to bring the sodium down.
+- For a heartier meal, add a sliced hard-boiled egg or a handful of chickpeas.

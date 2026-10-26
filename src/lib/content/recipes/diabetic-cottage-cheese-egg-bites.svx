@@ -1,0 +1,49 @@
+---
+title: "Cottage Cheese Egg Bites"
+description: "Velvety, café-style egg bites made with cottage cheese, spinach, and roasted red pepper for a high-protein, low-carb breakfast"
+date: "2026-10-26"
+draft: false
+tags: ["breakfast", "diabetic-friendly", "low-carb", "gluten-free", "make-ahead", "high-protein", "vegetarian"]
+prepTime: "10 min"
+cookTime: "30 min"
+totalTime: "45 min"
+servings: 6
+nutrition:
+  calories: 140
+  carbs: "3g"
+  fiber: "0g"
+  sugar: "2g"
+  protein: "12g"
+  fat: "9g"
+  sodium: "320mg"
+---
+
+## Ingredients
+
+- 6 large (300g) eggs
+- 1 cup (225g) 2% cottage cheese
+- 1/2 cup (55g) shredded Monterey Jack or Gruyère cheese
+- 1 cup (30g) chopped fresh spinach
+- 1/2 cup (75g) diced jarred roasted red pepper, patted dry
+- 1/2 tsp (1.5g) garlic powder
+- 1/8 tsp salt
+- 1/4 tsp black pepper
+- Olive oil spray, for the pan
+
+## Instructions
+
+1. Preheat oven to 300°F. Lightly coat a 12-cup silicone egg bite mold or muffin tin with olive oil spray.
+2. Place a baking dish on the lower rack and fill it with about 1 inch of hot water. This steams the oven and gives the bites their soft, custardy texture.
+3. Add the eggs, cottage cheese, shredded cheese, garlic powder, salt, and pepper to a blender. Blend until completely smooth, about 30 seconds.
+4. Divide the spinach and roasted red pepper evenly among the cups.
+5. Pour the egg mixture over the vegetables, filling each cup about 3/4 full.
+6. Bake on the middle rack for 25-30 minutes, until the centers are just set and no longer jiggle.
+7. Let cool for 5-10 minutes before removing from the mold. Store in an airtight container in the fridge for up to 4 days, or freeze for up to 2 months. Reheat in the microwave for 30-45 seconds.
+
+## Notes
+
+- **Why it's diabetes-friendly:** Eggs and cottage cheese provide plenty of protein with very little carbohydrate, so these have minimal impact on blood sugar and keep you full through the morning.
+- Serving size is 2 bites.
+- Cottage cheese is naturally high in sodium. Use a low-sodium or "no salt added" brand to cut sodium further.
+- Swap the vegetables freely: sautéed mushrooms, sun-dried tomatoes, or diced turkey bacon all work well.
+- Have a sous vide? Try the Simple Sous Vide Cottage Cheese Egg Bites, made with just eggs, cottage cheese, and chives in small mason jars.

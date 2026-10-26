@@ -1,0 +1,61 @@
+---
+title: "Simple Sous Vide Cottage Cheese Egg Bites"
+description: "Just eggs, cottage cheese, and chives, cooked sous vide in small mason jars for silky, grab-and-go egg bites"
+date: "2026-10-26"
+draft: false
+tags: ["breakfast", "diabetic-friendly", "low-carb", "gluten-free", "make-ahead", "high-protein", "vegetarian", "Sous vide"]
+prepTime: "10 min"
+cookTime: "1 hr"
+totalTime: "1 hr 15 min"
+servings: 3
+nutrition:
+  calories: 120
+  carbs: "2g"
+  fiber: "0g"
+  sugar: "1g"
+  protein: "11g"
+  fat: "7g"
+  sodium: "230mg"
+---
+
+## Ingredients
+
+- 4 large (200g) eggs
+- 6 Tbsp (85g) 2% cottage cheese
+- Pinch of salt
+- 1/8 tsp black pepper
+- 1 tsp (1g) chopped fresh chives
+
+Equipment:
+
+- Sous vide immersion circulator
+- 3 (4 oz / 120ml) mason jars with lids and bands
+
+## Instructions
+
+1. Fill a pot or container with water and set the sous vide to 172°F (78°C).
+2. Add the eggs, cottage cheese, salt, and pepper to a blender. Blend until completely smooth, about 30 seconds.
+3. Lightly grease the jars, then divide the chives among them.
+4. Pour the egg mixture into the jars, filling each about 3/4 full. Tap the jars on the counter to release air bubbles.
+5. Screw the lids on fingertip tight. Turn the band just until it stops, without forcing it, so air can escape and the jars don't crack.
+6. Once the water reaches temperature, carefully lower the jars into the bath so they're fully submerged.
+7. Cook for 1 hour, until the eggs are set all the way through.
+8. Remove the jars with tongs or a jar lifter. Eat right away, or cool in an ice bath for 10 minutes and refrigerate.
+
+## Notes
+
+- **Why it's diabetes-friendly:** With just eggs and cottage cheese, these are almost pure protein with only a few grams of carbs, so they have very little impact on blood sugar.
+- Serving size is 1 jar. Double the recipe for 6 jars.
+- **Add-ins:** Divide 2-3 Tbsp of add-ins among the jars along with the chives, and keep the jars no more than 3/4 full. Cook raw meat and watery vegetables first and pat them dry so the eggs set evenly. Some favorite combos:
+  - **Bacon & Gruyère:** crumbled cooked bacon and shredded Gruyère, like the classic café version
+  - **Spinach & feta:** sautéed, well-drained spinach and crumbled feta
+  - **Roasted red pepper & goat cheese:** diced jarred roasted red pepper and goat cheese crumbles
+  - **Ham & cheddar:** diced ham and sharp cheddar
+  - **Mushroom & Swiss:** sautéed mushrooms and shredded Swiss
+  - **Jalapeño & pepper jack:** diced jalapeño (seeds removed for less heat) and pepper jack
+  - **Sun-dried tomato & basil:** chopped sun-dried tomatoes and a little fresh basil
+  - **Smoked salmon & capers:** chopped smoked salmon, capers, and a little cream cheese
+- The nutrition info is for the plain recipe. Most of these add-ins add only a gram or two of carbs, but cheese and cured meats add fat and sodium.
+- **These are not shelf-stable.** Even though they're cooked in canning jars, this isn't canning. Store them in the fridge with the lids on for up to 5 days.
+- To reheat, remove the lid and microwave for 30-45 seconds, or drop the sealed jars back into a 140°F (60°C) water bath for 15-20 minutes.
+- Want them loaded with vegetables and cheese, or don't have a sous vide? Try the oven-baked Cottage Cheese Egg Bites.

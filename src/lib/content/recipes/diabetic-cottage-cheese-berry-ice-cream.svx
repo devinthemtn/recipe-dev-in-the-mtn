@@ -1,0 +1,48 @@
+---
+title: "Cottage Cheese Berry Ice Cream"
+description: "Creamy no-added-sugar ice cream blended from cottage cheese and berries, with a big protein boost"
+date: "2026-10-26"
+draft: false
+tags: ["dessert", "snack", "diabetic-friendly", "vegetarian", "gluten-free", "no-added-sugar", "high-protein", "make-ahead"]
+prepTime: "5 min"
+cookTime: "0 min"
+totalTime: "5 min plus 2-3 hrs freezing"
+servings: 4
+nutrition:
+  calories: 115
+  carbs: "10g"
+  fiber: "1g"
+  sugar: "7g"
+  protein: "12g"
+  fat: "3g"
+  sodium: "350mg"
+---
+
+## Ingredients
+
+- 2 cups (450g) 2% cottage cheese
+- 1 cup (150g) frozen mixed berries, slightly thawed
+- 3 Tbsp (30g) allulose or monk fruit sweetener, to taste
+- 1 tsp (5ml) vanilla extract
+- Pinch of salt
+
+Optional:
+
+- Fresh berries, for topping
+- 1 Tbsp (8g) chopped walnuts or pecans, for crunch
+
+## Instructions
+
+1. Add the cottage cheese, berries, sweetener, vanilla, and salt to a blender or food processor.
+2. Blend until completely smooth, 1-2 minutes, scraping down the sides as needed. Taste and adjust sweetness.
+3. Pour into a loaf pan or freezer-safe container and smooth the top.
+4. Freeze for 2-3 hours, stirring every 45 minutes to break up ice crystals, until it reaches a scoopable soft-serve texture.
+5. If it freezes solid, let it sit at room temperature for 15-20 minutes before scooping.
+
+## Notes
+
+- **Why it's diabetes-friendly:** There's no added sugar. The sweetness comes from berries and a non-glycemic sweetener, and the protein from the cottage cheese helps slow the absorption of the natural sugars.
+- Carbs listed exclude the allulose, which isn't metabolized like sugar and doesn't raise blood glucose.
+- Serving size is about 1/2 cup.
+- Using a Ninja Creami? Freeze the blended base in the pint for 24 hours, then run it on the "Lite Ice Cream" setting.
+- **Chocolate peanut butter variation:** Skip the berries and blend in 2 Tbsp (10g) unsweetened cocoa powder and 2 Tbsp (32g) natural peanut butter.
