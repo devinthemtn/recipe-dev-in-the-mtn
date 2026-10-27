@@ -1,0 +1,12 @@
+---
+title: "TIMEMORE — Chestnut C2"
+description: "A popular, affordable hand grinder that holds about 25g of beans, with a CNC-machined stainless steel burr."
+date: "2026-10-27"
+tags: ["grinder", "hand grinder"]
+brand: "TIMEMORE"
+category: "Hand grinder"
+---
+
+The C2 is one of the most recommended starter hand grinders, and for good reason. It holds about 25g of beans, enough for a good-sized cup, and the CNC-machined stainless steel burr gives a consistent grind for the price.
+
+It's my pick for someone buying their first hand grinder for pour over or AeroPress. Read more in [my hand grinder post](/coffee/reviews/hand-coffee-grinders).

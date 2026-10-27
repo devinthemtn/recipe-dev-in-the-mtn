@@ -1,0 +1,12 @@
+---
+title: "1Zpresso — Q2 Portable Mini Slim"
+description: "A slim, portable hand grinder with a stainless steel conical burr, sized for one cup at a time."
+date: "2026-10-27"
+tags: ["grinder", "hand grinder"]
+brand: "1Zpresso"
+category: "Hand grinder"
+---
+
+The Q2 is small and light, which makes it a good grinder for travel or camping. It's slim enough to fit inside an AeroPress, which is a nice trick if you pack the two together.
+
+It's sized for a single cup, so if you brew for more than one person you'll be grinding a while. Read more in [my hand grinder post](/coffee/reviews/hand-coffee-grinders).
