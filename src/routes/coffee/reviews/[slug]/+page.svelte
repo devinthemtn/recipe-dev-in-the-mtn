@@ -37,11 +37,19 @@
 	<meta name="description" content={meta.description} />
 </svelte:head>
 
-<a
-	href={resolve('/coffee/reviews')}
-	class="text-sm font-medium text-stone-600 hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100"
-	>&larr; Coffee Reviews</a
->
+<nav aria-label="Breadcrumb" class="flex items-center gap-2 text-sm text-stone-400">
+	<a
+		href={resolve('/coffee')}
+		class="text-sm font-medium text-stone-600 hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100"
+		>&larr; Coffee</a
+	>
+	<span aria-hidden="true">/</span>
+	<a
+		href={resolve('/coffee/reviews')}
+		class="text-sm font-medium text-stone-600 hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100"
+		>Coffee Reviews</a
+	>
+</nav>
 
 <h1 class="mt-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
 	{meta.title}

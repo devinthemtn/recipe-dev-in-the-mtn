@@ -40,6 +40,22 @@ export const videos = [
 		category: 'Grinders & gear',
 		date: '2026-10-25',
 		note: 'Three automatic pour-over machines head to head: the xBloom Studio, Cosori Juni and Breville Spiral Luxe. The Breville wins on convenience.'
+	},
+    {
+        title: 'Hoffmann - The best Milk Foamer for coffee',
+        url: 'https://youtu.be/cFdTzo6fVec?si=wN5F8dvSyTQ6Jnes',
+        channel: "James Hoffmann",
+        category: 'Milk Foamer',
+        date: '2026-10-29',
+        note: 'Hoffmann looks at a few diffrent kinds of milk foamers/steamers'
+    },
+	{
+		title: 'Nespresso Should Have Made This',
+		url: 'https://youtu.be/Zcs5JVUZvZg?si=2bFTRlAF3afZp8g1',
+		channel: 'Daddy Got Coffee',
+		category: 'Espresso',
+		date: '2026-10-29',
+		note: 'A look at the Milton Coffee Co. Line1, a $475 all-metal espresso machine for Nespresso OriginalLine capsules.'
 	}
 ];
 

@@ -1,0 +1,26 @@
+---
+title: "MORNING — The MORNING Machine"
+description: "A connected capsule machine for Nespresso OriginalLine pods that lets you set the temperature, pressure profile and output yourself, from a dial or the app."
+date: "2026-10-29"
+tags: ["capsule", "espresso", "brewer"]
+brand: "MORNING"
+category: "Capsule machine"
+price: "~$660"
+buyUrl: "https://www.drinkmorning.com/products/the-morning-machine"
+---
+
+## What it is
+
+A capsule machine from MORNING, a Singapore company. It takes Nespresso OriginalLine capsules and compatibles, but unlike a Nespresso it lets you change how each shot is pulled. You can pick one of 10 built-in recipes, load a roaster's recipe from the app, or set everything yourself in Manual Brew mode.
+
+It's a bit hard to get in the USA. It's a small company based in Singapore, so expect to order direct and wait longer for shipping. You won't find it on store shelves.
+
+- **Grinder:** none. It's pods only.
+- **Temperature:** 75–98°C (167–208°F), in 1° steps
+- **Pressure:** up to 21 bar, profiled in 3 stages with 7 levels each, including a pre-infusion "Bloom & Brew" recipe
+- **Output:** set by weight, in 1g steps
+- **Controls:** a dial and a small OLED display on the machine, plus an iOS/Android app over Wi-Fi (2.4GHz only) or Bluetooth. It gets firmware updates.
+- **Capacity:** 850ml water tank, and the used-capsule bin holds 8–10 pods. Cups up to 12.5cm tall fit with the drip tray removed.
+- **Size:** 40.2 × 10.2 × 25.5cm and 4.5kg. It's narrow but deep.
+- **Warranty:** 1 year, if you register the machine
+

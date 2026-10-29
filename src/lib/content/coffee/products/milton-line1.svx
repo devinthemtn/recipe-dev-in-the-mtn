@@ -1,0 +1,31 @@
+---
+title: "Milton Coffee Co. — Line1 Espresso Machine"
+description: "An all-metal capsule espresso machine for Nespresso OriginalLine pods, with pre-infusion, a 2L tank and a lifetime warranty. Pricey for a pod machine, but hard to beat on convenience."
+date: "2026-10-29"
+tags: ["capsule", "espresso", "brewer"]
+brand: "Milton Coffee Co."
+category: "Capsule machine"
+price: "$475"
+buyUrl: "https://miltoncoffeeco.com/products/line1-espresso-coffee-machine-brushed-stainless"
+---
+
+## What it is
+
+A capsule espresso machine from Milton Coffee Co., a small team based in Milton, Georgia. It takes Nespresso OriginalLine capsules and compatibles, but it's built like a much more expensive machine.
+
+- **Capsules:** Nespresso OriginalLine and compatibles. It does not take Vertuo pods.
+- **Build:** metal panels and solid machined switches and lever. Everything the coffee touches on its way to the cup is SUS304 stainless steel. It weighs 21 lbs.
+- **Brewing:** a pre-infusion step before each shot, and an automatic rinse of the filter plate after. Milton doesn't publish the pump pressure or brew temperature.
+- **Controls:** three switches for a single, a double and hot water. You can program the volume for each.
+- **Capacity:** a 2L water tank and a used-pod bin that holds 12
+- **Extras:** a heated cup tray, an adjustable tray that fits cups up to 20oz, dimmable LED lighting and automatic shut-off
+- **Size:** 6in wide, 16in deep and 11.5in tall (15.8in with the lever up)
+- **Warranty:** limited lifetime for the original owner, plus a 45-day trial with a refund
+
+## In the video
+
+Daddy Got Coffee covers it in [Nespresso Should Have Made This](https://youtu.be/Zcs5JVUZvZg).
+
+## Who it's for
+
+People who care most about convenience and still want a good shot. Pair it with specialty-roaster capsules, not the grocery-store sleeves. My [full review](/coffee/reviews/milton-line1-capsule-espresso) lists some pods worth buying. If you want to set temperature and pressure yourself, the [MORNING Machine](/coffee/products/morning-machine) takes the same pods, though it's a bit hard to get in the USA.
