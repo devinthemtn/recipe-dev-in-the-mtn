@@ -1,5 +1,4 @@
 <script>
-	import { resolve } from '$app/paths';
 	import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';
 	import { newsletterConfig } from '$lib/newsletter.js';
 
@@ -21,13 +20,7 @@
 	<meta name="description" content={meta.description} />
 </svelte:head>
 
-<a
-	href={resolve('/blog')}
-	class="text-sm font-medium text-stone-600 hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100"
-	>&larr; Blog</a
->
-
-<h1 class="mt-3 text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
+<h1 class="text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
 	{meta.title}
 </h1>
 <p class="mt-2 text-sm text-stone-500">

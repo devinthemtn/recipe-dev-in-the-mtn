@@ -1,5 +1,4 @@
 <script>
-	import { resolve } from '$app/paths';
 	import CoffeeProductDetails from '$lib/components/CoffeeProductDetails.svelte';
 
 	let { data } = $props();

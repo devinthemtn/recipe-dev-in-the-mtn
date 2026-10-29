@@ -5,6 +5,7 @@
 	import ThemeToggle from '$lib/components/ThemeToggle.svelte';
 	import InstallButton from '$lib/components/InstallButton.svelte';
 	import GoogleAnalytics from '$lib/components/GoogleAnalytics.svelte';
+	import Breadcrumbs from '$lib/components/Breadcrumbs.svelte';
 	import { showCoffee } from '$lib/site.js';
 	import { newsletterConfig } from '$lib/newsletter.js';
 	import { animate, scroll } from 'motion';
@@ -164,6 +165,7 @@
 		<main
 			class="mx-auto w-full max-w-7xl flex-1 px-4 py-10 sm:px-6 lg:px-8 print:max-w-none print:p-0"
 		>
+			<Breadcrumbs />
 			{@render children()}
 		</main>
 

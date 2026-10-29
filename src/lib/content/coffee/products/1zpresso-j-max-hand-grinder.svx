@@ -1,0 +1,12 @@
+---
+title: "1Zpresso — J-Max (Iron Gray)"
+description: "1Zpresso's espresso-focused hand grinder, with very fine adjustment steps, in an iron gray finish."
+date: "2026-10-27"
+tags: ["grinder", "hand grinder"]
+brand: "1Zpresso"
+category: "Hand grinder"
+---
+
+The J-Max is the one in the 1Zpresso lineup aimed at espresso. Espresso needs small, precise changes in grind size, and the J-Max is built for exactly that, with very small steps between settings and an external adjustment ring.
+
+It can grind for filter coffee too, but if you don't make espresso, one of the other 1Zpresso grinders is probably a better fit. Read more in [my hand grinder post](/coffee/reviews/hand-coffee-grinders).

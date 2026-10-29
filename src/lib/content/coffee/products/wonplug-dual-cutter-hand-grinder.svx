@@ -1,0 +1,12 @@
+---
+title: "wonplug — Dual Cutter Manual Coffee Grinder"
+description: "A budget hand grinder with a nitrogen-hardened steel conical burr and adjustable coarseness."
+date: "2026-10-27"
+tags: ["grinder", "hand grinder"]
+brand: "wonplug"
+category: "Hand grinder"
+---
+
+If you're still using a blade grinder or buying pre-ground coffee, this is an inexpensive way to try a burr grinder. The conical burr gives a much more even grind than a blade, and you can adjust the coarseness for different brew methods.
+
+It won't match the higher-end grinders on this list, but it's a big step up from pre-ground. Read more in [my hand grinder post](/coffee/reviews/hand-coffee-grinders).
