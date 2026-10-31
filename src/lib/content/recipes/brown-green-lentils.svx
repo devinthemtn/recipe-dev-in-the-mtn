@@ -1,0 +1,46 @@
+---
+title: "How to Cook Brown or Green Lentils"
+description: "A simple, no-soak method for brown or green lentils that stay whole and tender. Good for stretching ground meat, topping salads, and keeping a batch in the fridge."
+date: "2026-10-31"
+draft: false
+tags: ["side", "vegan", "gluten-free", "diabetic-friendly", "high-fiber", "no-added-sugar", "make-ahead"]
+prepTime: "5 min"
+cookTime: "25 min"
+totalTime: "30 min"
+servings: 4
+nutrition:
+  calories: 145
+  carbs: "25g"
+  fiber: "10g"
+  sugar: "2g"
+  protein: "11g"
+  fat: "0.5g"
+  sodium: "5mg"
+---
+
+## Ingredients
+
+- 1 cup (190g) dried brown or green lentils
+- 3 cups (710g) water or low-sodium broth
+- 1 bay leaf or a smashed garlic clove (optional)
+- 1/2 tsp (3g) salt, optional (skip it if the lentils are going into a seasoned dish)
+
+## Instructions
+
+1. Spread the lentils on a plate or baking sheet and pick out any small stones or shriveled lentils. Then rinse them in a fine-mesh strainer under cold water.
+2. Add the lentils, water (or broth), and the bay leaf or garlic, if using, to a saucepan. Bring to a boil over medium-high heat.
+3. Reduce to a gentle simmer, partly cover the pan, and cook until the lentils are tender but still hold their shape. Brown lentils take about 20–25 minutes, and green lentils 25–30 minutes. Start tasting about 5 minutes early. A hard boil splits the skins and makes them mushy, so keep the heat low.
+4. Drain off any extra liquid. Stir in the salt, if using, then remove the bay leaf or garlic.
+5. Use them right away, or spread them on a plate to cool so they stop cooking before you store them.
+
+## Notes
+
+- **Yield:** About 2 1/2 cups (500g) cooked. Nutrition is per 2/3 cup serving, cooked in water without salt. The 1/2 tsp salt adds about 290mg sodium per serving.
+- **No soaking needed:** Brown and green lentils cook through without soaking, unlike most dried beans.
+- **Plenty of water:** Unlike split red lentils, which soak up their water, these cook in extra water that gets drained off, almost like pasta. This keeps them from sticking and cooking unevenly.
+- **Add acid after cooking:** Tomatoes, vinegar, and other acidic ingredients keep lentils from softening. Cook them in plain water first, then add them to tomato sauces like [sloppy joes](/recipes/slow-cooker-tangy-sloppy-joes) or chili.
+- **Salt at the end:** Adding salt early can make the lentils take a little longer to soften.
+- **Which lentil:** Brown lentils are the mildest and cheapest, and they blend in with ground meat. Regular green lentils are a little firmer. French green (Puy) and black beluga lentils hold their shape best for salads, and take about 25–30 minutes. For dal and soups that you want soft and creamy, use [split red lentils](/recipes/split-red-lentils) instead.
+- **Why it's diabetes-friendly:** Lentils are high in fiber and plant protein, which slows down how fast the carbs are absorbed. Pair them with vegetables and a little fat for a balanced plate.
+- **Use them in:** [Slow Cooker Tangy Sloppy Joes](/recipes/slow-cooker-tangy-sloppy-joes), [Cast Iron Cabin Chili](/recipes/cast-iron-chili) to stretch the beef, or on top of a green salad or grain bowl. For more ideas, see [Lentils in Everything](/blog/stretching-meals-with-lentils).
+- Keeps 5 days in the fridge. Freeze in 1-cup portions for up to 3 months, and thaw overnight in the fridge or add them straight from frozen to a simmering sauce.
