@@ -4,9 +4,9 @@ description: "Sweet, savory, and tangy slow-cooker sloppy joes with a barbecue-s
 date: "2026-10-31"
 tags: ["dinner", "comfort-food", "slow-cooker", "make-ahead", "high-protein", "diabetic-friendly"]
 prepTime: "20 min"
-cookTime: "3–5 hr on Low or 2–3 hr on High"
-totalTime: "2 hr 20 min to 5 hr 20 min"
-servings: 6
+cookTime: "2–4 hr on Low or 1 1/2–2 hr on High"
+totalTime: "1 hr 50 min to 4 hr 20 min"
+servings: 3
 nutrition:
   calories: 310
   protein: "28g"
@@ -21,30 +21,30 @@ nutrition:
 
 **Meat and veggies**
 
-- 2 lb (907g) ground beef, 80/20 or 85/15
-- 1 medium (110g) yellow onion, finely diced
-- 1 (120g) green bell pepper, finely diced
-- 3 cloves (9g) garlic, minced
+- 1 lb (454g) ground beef, 80/20 or 85/15
+- 1/2 medium (55g) yellow onion, finely diced
+- 1/2 (60g) green bell pepper, finely diced
+- 2 small cloves (5g) garlic, minced
 
 **Tangy sauce**
 
-- 1 cup (240g) no-sugar-added ketchup
-- 2 Tbs (30g) apple cider vinegar, divided (1 Tbs goes in the cooker and 1 Tbs is stirred in at the end; use only the first for a milder tang)
-- 2 Tbs (30g) yellow or Dijon mustard
-- 2 Tbs (30g) Worcestershire sauce
-- 1 Tbs (16g) tomato paste
-- Monk fruit sweetener, in place of 2 Tbs brown sugar, in one of these forms (see Notes):
-  - Pure liquid monk fruit drops: about 30–36 drops total, depending on brand
-  - Granular monk fruit blend: 2 Tbs (1:1 sugar replacement; a brown or golden blend adds a mild molasses flavor)
-- 1 tsp molasses, optional, for brown-sugar depth (adds under 1g sugar per serving)
+- 1/2 cup (120g) no-sugar-added ketchup
+- 1 Tbs (15g) apple cider vinegar, divided (1 1/2 tsp goes in the cooker and 1 1/2 tsp is stirred in at the end; use only the first for a milder tang)
+- 1 Tbs (15g) yellow or Dijon mustard
+- 1 Tbs (15g) Worcestershire sauce
+- 1 1/2 tsp (8g) tomato paste
+- Monk fruit sweetener, in place of 1 Tbs brown sugar, in one of these forms (see Notes):
+  - Pure liquid monk fruit drops: about 15–18 drops total, depending on brand
+  - Granular monk fruit blend: 1 Tbs (1:1 sugar replacement; a brown or golden blend adds a mild molasses flavor)
+- 1/2 tsp molasses, optional, for brown-sugar depth (adds under 1g sugar per serving)
 
 **Spices**
 
-- 1 1/2 tsp (4g) chili powder
-- 1 tsp (2g) smoked paprika
-- 1/2 tsp onion powder
-- 1/2 tsp salt, or to taste
-- 1/4 tsp freshly cracked black pepper
+- 3/4 tsp (2g) chili powder
+- 1/2 tsp (1g) smoked paprika
+- 1/4 tsp onion powder
+- 1/4 tsp salt, or to taste
+- 1/8 tsp freshly cracked black pepper
 
 **To serve**
 
@@ -53,22 +53,24 @@ nutrition:
 
 ## Instructions
 
-1. **Brown the beef.** Heat a large skillet over medium-high heat. Add the ground beef and cook until no longer pink, 6–8 minutes, breaking it apart as it cooks. Move the beef to the slow cooker with a slotted spoon. Leave about 1 tablespoon of fat in the skillet and discard the rest.
+1. **Brown the beef.** Heat a large skillet over medium-high heat. Add the ground beef and cook until no longer pink, 5–7 minutes, breaking it apart as it cooks. Move the beef to the slow cooker with a slotted spoon. Leave about 1 1/2 teaspoons of fat in the skillet and discard the rest.
 2. **Brown the veggies.** In the same skillet over medium heat, cook the onion and bell pepper in the reserved fat for 3–4 minutes, until softened and lightly browned. Add the garlic for the last 30 seconds. Scrape everything into the slow cooker.
-3. **Combine.** Add the ketchup, 1 Tbs of the apple cider vinegar, mustard, Worcestershire, tomato paste, molasses (if using), chili powder, smoked paprika, onion powder, salt, pepper, and the monk fruit granules (if using). If using drops, add about half of them now. Stir until evenly combined. If cooking on High, add 1/4 cup (60g) water or beef broth.
-4. **Slow cook.** Cover and cook on Low for 3–5 hours or on High for 2–3 hours. The beef is already cooked, so this time is just for melding the flavors.
+3. **Combine.** Add the ketchup, 1 1/2 tsp of the apple cider vinegar, mustard, Worcestershire, tomato paste, molasses (if using), chili powder, smoked paprika, onion powder, salt, pepper, and the monk fruit granules (if using). If using drops, add about half of them now. Stir until evenly combined. If cooking on High, add 2 Tbs (30g) water or beef broth.
+4. **Slow cook.** Cover and cook on Low for 2–4 hours or on High for 1 1/2–2 hours. The beef is already cooked, so this time is just for melding the flavors. A small batch can scorch around the edges, so stir once or twice if you're home, and add a splash of water if it starts to look dry.
 5. **Thicken (optional).** For a thicker sauce, prop the lid slightly open for the last 20–30 minutes to let extra moisture cook off.
-6. **Adjust and serve.** Stir in the remaining 1 Tbs apple cider vinegar. If using drops, add the rest a few at a time, tasting after each, until the sweetness balances the tang. Adjust the salt and pepper. If it tastes flat, add a pinch of ground mustard or a dash of hot sauce. Spoon onto toasted buns and serve hot.
+6. **Adjust and serve.** Stir in the remaining 1 1/2 tsp apple cider vinegar. If using drops, add the rest a few at a time, tasting after each, until the sweetness balances the tang. Adjust the salt and pepper. If it tastes flat, add a pinch of ground mustard or a dash of hot sauce. Spoon onto toasted buns and serve hot.
 
 ## Notes
 
-- **Nutrition:** Per 1/6 of the filling, made with 85/15 beef and drained. Doesn't include the bun, toppings, or optional molasses. Monk fruit adds no carbs. A typical white hamburger bun adds about 22–26g carbs, so try a low-carb or whole-grain bun, a lettuce wrap, or serve it over a baked potato or cauliflower rice.
+- **Nutrition:** Per 1/3 of the filling, made with 85/15 beef and drained. Doesn't include the bun, toppings, or optional molasses. Monk fruit adds no carbs. A typical white hamburger bun adds about 22–26g carbs, so try a low-carb or whole-grain bun, a lettuce wrap, or serve it over a baked potato or cauliflower rice.
+- **Slow cooker size:** This batch works best in a 3–4 quart slow cooker. In a large 6-quart or bigger cooker the sauce spreads thin and can burn, so stick to the shorter cook times.
+- **Feeding a crowd:** Double everything for 2 lb of beef and 6 servings. Cook on Low for 3–5 hours or High for 2–3 hours, and use 1/4 cup water or broth on High.
 - **Drops vs. granules:** Both work. Pure drops have no erythritol, so there's no cooling aftertaste, and you can fine-tune the sweetness at the end. Granular blends measure 1:1 like sugar and are more forgiving, but they usually contain erythritol.
 - **Drop counts vary by brand.** Roughly 15 drops replace 1 Tbs sugar for SweetLeaf liquid monk fruit, and about 6 drops replace 1 tsp for Transparency Foods. Check your bottle's conversion chart.
 - **Start low with drops.** Too much pure extract tastes bitter or lingers. Add half at the start and the rest to taste at the end. Since the ketchup has no sugar either, the sauce gets all its sweetness from the monk fruit, so you may end up using the full amount or a little more.
 - **Making up for brown sugar:** Brown sugar adds molasses flavor and body, not just sweetness. The optional molasses, a brown monk fruit blend, or the tomato paste and Worcestershire fill that gap.
 - **Check your ketchup's label.** Regular ketchup has more sugar than the brown sugar this swap removes. No-sugar-added brands vary: some use their own sweeteners, which changes how much monk fruit you need, and they differ in tang and thickness. Taste before adjusting at the end.
-- **Extra smoky:** Add 1/2 tsp liquid smoke or another 1/2 tsp smoked paprika.
-- **Spicy:** Add 1/2 tsp cayenne or a dash of hot sauce to play up the vinegar's tang.
+- **Extra smoky:** Add 1/4 tsp liquid smoke or another 1/4 tsp smoked paprika.
+- **Spicy:** Add 1/4 tsp cayenne or a dash of hot sauce to play up the vinegar's tang.
 - **Gluten-free:** Use a gluten-free Worcestershire (Lea & Perrins in the US is gluten-free) and gluten-free buns.
 - Refrigerate leftovers up to 4 days. The sauce thickens as it cools, so reheat gently on the stove or in the microwave with a splash of water or broth.
