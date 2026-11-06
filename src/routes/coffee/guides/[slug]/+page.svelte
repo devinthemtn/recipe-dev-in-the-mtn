@@ -2,7 +2,7 @@
 	import CoffeeGuideSeries from '$lib/components/CoffeeGuideSeries.svelte';
 
 	let { data } = $props();
-	const { meta, Content, series, slug } = data;
+	const { meta, Content, series, slug } = $derived(data);
 
 	/** @param {string} date */
 	function formatDate(date) {

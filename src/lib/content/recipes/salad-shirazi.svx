@@ -42,4 +42,4 @@ nutrition:
 
 - **Why it's diabetes-friendly:** It's all non-starchy vegetables. Eating a bowl at the start of a meal adds fiber and fills you up before any carbs.
 - **Sourness:** Traditional versions often use verjuice (ab-ghooreh) instead of lime. Lemon also works.
-- Great with [Joojeh Kabab](/recipes/joojeh-kabab), [Kabab Koobideh](/recipes/kabab-koobideh), or spooned over [Kuku Sabzi](/recipes/kuku-sabzi).
+- Great with [Joojeh Kabab](/recipes/joojeh-kabab/), [Kabab Koobideh](/recipes/kabab-koobideh/), or spooned over [Kuku Sabzi](/recipes/kuku-sabzi/).

@@ -22,7 +22,7 @@ nutrition:
 
 ### Meatloaf
 
-- 1 cup (200g) soft-cooked (thick) [split red lentils](/recipes/split-red-lentils), cooled
+- 1 cup (200g) soft-cooked (thick) [split red lentils](/recipes/split-red-lentils/), cooled
 - 1/4 cup (60g) milk
 - 2 tbsp (14g) ground flaxseed
 - 1 tbsp (12g) chia seeds
@@ -61,10 +61,10 @@ nutrition:
 ## Notes
 
 - **Yield:** One loaf, 8 slices. Nutrition is per slice, estimated from raw ingredients. Some fat renders out during baking, so actual fat and calories run a little lower.
-- **Why lentils:** Soft-cooked split red lentils melt into the meat, so you won't notice them. They add fiber and plant protein, keep the loaf moist, and stretch 1 1/2 lb of meat into 8 servings. Cook them unsalted (or account for the salt) since the meatloaf is seasoned on its own. For more ways to use them, see [Stretching Meals with Lentils](/blog/stretching-meals-with-lentils).
+- **Why lentils:** Soft-cooked split red lentils melt into the meat, so you won't notice them. They add fiber and plant protein, keep the loaf moist, and stretch 1 1/2 lb of meat into 8 servings. Cook them unsalted (or account for the salt) since the meatloaf is seasoned on its own. For more ways to use them, see [Stretching Meals with Lentils](/blog/stretching-meals-with-lentils/).
 - **Why flax and chia:** Both form a gel when wet, which binds the loaf like breadcrumbs or oats would, with no gluten and almost no net carbs. You can use 3 tbsp ground flax and skip the chia, or the other way around.
 - **All beef works too:** Use 1 1/2 lb (680g) ground beef if you don't have pork. The pork adds fat and tenderness, so stick with 80/20 or 85/15 beef rather than lean.
 - **Loaf pan option:** You can bake it in a 9 x 5 inch loaf pan, but it will sit in its own fat and won't brown on the sides. Add about 10 minutes and pour off the fat before slicing.
-- **Diabetes-friendly glaze:** Most meatloaf glazes are mostly ketchup and brown sugar. This one uses tomato paste and vinegar for tang, with just 1 tsp of honey across the whole loaf. Leave it out or use a little [monk fruit sweetener](/ingrts/monk-fruit-sweetener) if you like.
+- **Diabetes-friendly glaze:** Most meatloaf glazes are mostly ketchup and brown sugar. This one uses tomato paste and vinegar for tang, with just 1 tsp of honey across the whole loaf. Leave it out or use a little [monk fruit sweetener](/ingrts/monk-fruit-sweetener/) if you like.
 - **Make ahead:** Shape the loaf, cover, and refrigerate up to 1 day. Add 5-10 minutes to the first bake.
 - Leftovers keep 4 days in the fridge. Slices freeze well for up to 3 months. Cold meatloaf makes a great sandwich.

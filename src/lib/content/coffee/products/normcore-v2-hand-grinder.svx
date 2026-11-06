@@ -9,4 +9,4 @@ category: "Hand grinder"
 
 The Normcore V2 uses a 38mm conical burr and has a clean, modern look. It's built to cover a lot of brew methods, from French press to pour over.
 
-A solid all-rounder if you want one grinder for most of what you brew. Read more in [my hand grinder post](/coffee/reviews/hand-coffee-grinders).
+A solid all-rounder if you want one grinder for most of what you brew. Read more in [my hand grinder post](/coffee/reviews/hand-coffee-grinders/).

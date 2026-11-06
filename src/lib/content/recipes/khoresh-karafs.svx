@@ -45,6 +45,6 @@ nutrition:
 ## Notes
 
 - **Why it's diabetes-friendly:** Apart from the meat, it's almost all celery and herbs, so a full bowl stays around 8g of carbs. The broth is thin and tangy, without the flour or sugar many stews use for body.
-- **Instead of rice:** Khoresh is normally served over rice. It's just as good over cauliflower rice, with a slice of [Kuku Sabzi](/recipes/kuku-sabzi), or simply in a bowl like soup.
+- **Instead of rice:** Khoresh is normally served over rice. It's just as good over cauliflower rice, with a slice of [Kuku Sabzi](/recipes/kuku-sabzi/), or simply in a bowl like soup.
 - **Sour grapes:** For a more traditional sourness, use 2-3 Tbs of verjuice (ab-ghooreh) or a handful of unripe sour grapes in place of some of the lemon. Both are sold in Middle Eastern groceries.
 - It tastes even better the next day. Keeps 5 days in the fridge and freezes well.

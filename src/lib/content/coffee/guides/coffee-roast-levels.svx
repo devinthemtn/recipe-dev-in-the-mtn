@@ -11,9 +11,9 @@ part: 4
 	import CoffeeRoastChart from '$lib/components/CoffeeRoastChart.svelte';
 </script>
 
-Green coffee beans taste grassy and raw. Roasting is what turns them into coffee, and how far a roaster takes them changes everything. The [origin](/coffee/guides/coffee-origins), [variety](/coffee/guides/coffee-varieties) and [processing](/coffee/guides/coffee-processing-methods) set up the flavors. The roast decides how many of them make it to your cup.
+Green coffee beans taste grassy and raw. Roasting is what turns them into coffee, and how far a roaster takes them changes everything. The [origin](/coffee/guides/coffee-origins/), [variety](/coffee/guides/coffee-varieties/) and [processing](/coffee/guides/coffee-processing-methods/) set up the flavors. The roast decides how many of them make it to your cup.
 
-This is part four of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans).
+This is part four of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/).
 
 ## Light, medium and dark
 
@@ -35,7 +35,7 @@ Names like "French roast" and "Italian roast" are old shorthand for very dark ro
 
 ## Does dark roast have more caffeine?
 
-Not really. By weight, light and dark roasts have about the same caffeine. Dark roast beans are puffier and lighter, though, so if you measure with a scoop instead of a scale, a scoop of light roast holds a little more coffee and a little more caffeine. It's one more reason to [weigh your beans](/coffee/reviews/hand-coffee-grinders).
+Not really. By weight, light and dark roasts have about the same caffeine. Dark roast beans are puffier and lighter, though, so if you measure with a scoop instead of a scale, a scoop of light roast holds a little more coffee and a little more caffeine. It's one more reason to [weigh your beans](/coffee/reviews/hand-coffee-grinders/).
 
 ## Check the roast date
 
@@ -45,6 +45,6 @@ If a bag doesn't have a roast date at all, I'd skip it.
 
 ## Where to start
 
-If you drink your coffee black and want to taste the beans, go light or medium. If you take milk, or you just like a bold, toasty cup, medium-dark and dark roasts are made for that. Either way, buy a bag with a recent roast date and [grind it fresh](/coffee/reviews/hand-coffee-grinders).
+If you drink your coffee black and want to taste the beans, go light or medium. If you take milk, or you just like a bold, toasty cup, medium-dark and dark roasts are made for that. Either way, buy a bag with a recent roast date and [grind it fresh](/coffee/reviews/hand-coffee-grinders/).
 
-That's the last of the four. To put them all together on a real bag, head back to the [overview](/coffee/guides/understanding-coffee-beans).
+That's the last of the four. To put them all together on a real bag, head back to the [overview](/coffee/guides/understanding-coffee-beans/).

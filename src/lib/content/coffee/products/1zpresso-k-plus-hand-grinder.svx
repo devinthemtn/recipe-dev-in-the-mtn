@@ -9,4 +9,4 @@ category: "Hand grinder"
 
 The K-Plus is a step up in the 1Zpresso lineup. The adjustment ring is on the outside with a number scale, so it's easy to switch between a fine espresso grind and a coarser pour over grind and get back to the same setting later.
 
-A great grinder if you switch brew methods a lot. Read more in [my hand grinder post](/coffee/reviews/hand-coffee-grinders).
+A great grinder if you switch brew methods a lot. Read more in [my hand grinder post](/coffee/reviews/hand-coffee-grinders/).

@@ -25,4 +25,4 @@ In [One Of These Coffee Robots Just Beat Keurig](https://youtu.be/En-YPVqqr6k), 
 
 ## Who it's for
 
-People who want good pour-over every morning without thinking about it, and don't want to fiddle with an app. If you want to tweak every pour, look at the [xBloom Studio](/coffee/products/xbloom-studio) instead.
+People who want good pour-over every morning without thinking about it, and don't want to fiddle with an app. If you want to tweak every pour, look at the [xBloom Studio](/coffee/products/xbloom-studio/) instead.

@@ -27,4 +27,4 @@ In [One Of These Coffee Robots Just Beat Keurig](https://youtu.be/En-YPVqqr6k), 
 
 ## Who it's for
 
-Tinkerers who want to dial in every variable and save recipes for each bag. If you'd rather press one button and walk away, the [Breville Spiral Luxe](/coffee/products/breville-spiral-luxe) is simpler.
+Tinkerers who want to dial in every variable and save recipes for each bag. If you'd rather press one button and walk away, the [Breville Spiral Luxe](/coffee/products/breville-spiral-luxe/) is simpler.

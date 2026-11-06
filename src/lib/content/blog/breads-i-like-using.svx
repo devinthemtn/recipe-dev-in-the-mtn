@@ -14,7 +14,7 @@ The short version: not all bread acts the same. Fiber, protein, whole grains and
 
 Rye is my main bread now. I've always liked it, so switching to it was easy, and it turned out to be one of the best choices I could have made. Rye flour has a lot of soluble fiber, which is the kind that slows digestion and helps keep blood sugar steady. How much of that you get depends on the loaf: dense, whole grain rye breads, like traditional German pumpernickel, are some of the most blood-sugar-friendly breads you can buy, while most store-bought sandwich ryes are a mix of wheat and rye flour with less fiber.
 
-My favorite is [Oroweat Schwarzwalder dark rye](/prods/oroweat-schwarzwalder-dark-rye), with 0g of sugar per slice. It's the loaf I reach for most days, and it's great toasted with eggs in the morning. It's a sandwich-style rye with only about 1g of fiber per slice, so it's not a fiber powerhouse, but it has no sugar at all and I always eat it with some protein.
+My favorite is [Oroweat Schwarzwalder dark rye](/prods/oroweat-schwarzwalder-dark-rye/), with 0g of sugar per slice. It's the loaf I reach for most days, and it's great toasted with eggs in the morning. It's a sandwich-style rye with only about 1g of fiber per slice, so it's not a fiber powerhouse, but it has no sugar at all and I always eat it with some protein.
 
 ### Be careful with rye: check the label
 
@@ -30,7 +30,7 @@ True rye bread doesn't need any of that. Traditional rye is just rye flour (or w
 
 Don't go by color alone, since molasses and caramel color can make any bread look dark. A dense loaf with a short ingredient list and whole rye at the top is usually the better choice for blood sugar.
 
-Dense rye is great with savory toppings: smoked salmon, cream cheese, cucumber, or a fried egg. It's also what I use for my [cinnamon French toast](/recipes/french-toast); just give it a little longer to soak.
+Dense rye is great with savory toppings: smoked salmon, cream cheese, cucumber, or a fried egg. It's also what I use for my [cinnamon French toast](/recipes/french-toast/); just give it a little longer to soak.
 
 ## Sprouted whole grain
 

@@ -15,13 +15,13 @@ A coffee bean is the seed of a fruit. Coffee grows as small red or yellow cherri
 
 Once the cherries are picked, the farm has to get the seed out of the fruit and dry it down enough to store and ship. How they do that is the processing method, and it changes the flavor more than most people expect. More contact with the fruit, for longer, generally means a sweeter, fruitier, wilder cup. Less contact means a cleaner one.
 
-This is part three of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans).
+This is part three of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/).
 
 <CoffeeProcessingChart />
 
 ## The big three
 
-**Washed** coffee is the clearest window into the coffee itself. The fruit comes off before the beans dry, so what you taste is mostly the [variety](/coffee/guides/coffee-varieties) and [where it was grown](/coffee/guides/coffee-origins). If you like a crisp, bright cup, start here.
+**Washed** coffee is the clearest window into the coffee itself. The fruit comes off before the beans dry, so what you taste is mostly the [variety](/coffee/guides/coffee-varieties/) and [where it was grown](/coffee/guides/coffee-origins/). If you like a crisp, bright cup, start here.
 
 **Natural** coffee is the opposite. The whole cherry dries in the sun with the seed inside, and the seed picks up a lot of the fruit's sugar and flavor. A good natural Ethiopian can taste like blueberries. A bad one can taste overripe or fermented.
 
@@ -43,4 +43,4 @@ This is part three of [Understanding Coffee Beans](/coffee/guides/understanding-
 
 If you're not sure what you like, buy a washed and a natural coffee from the same country, ideally from the same roaster, and brew them side by side. It's the fastest way to taste what processing does. Ethiopia is a great country for this because it's known for both.
 
-Next up is [roast level](/coffee/guides/coffee-roast-levels): how the roaster turns all of this into the coffee in your cup.
+Next up is [roast level](/coffee/guides/coffee-roast-levels/): how the roaster turns all of this into the coffee in your cup.

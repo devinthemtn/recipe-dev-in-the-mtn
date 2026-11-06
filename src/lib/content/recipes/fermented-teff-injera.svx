@@ -53,7 +53,7 @@ nutrition:
 - **No holes:** The batter is too thick, the pan is too cool, or it didn't ferment long enough. Thin it a little or turn the heat up.
 - **Gummy on top:** Keep it covered a bit longer, or pour a thinner layer.
 - **Brown on the bottom:** The heat is too high. Injera should stay pale and soft.
-- **Short on time?** Try the [quick same-day injera](/recipes/quick-injera) instead.
-- **Blood sugar:** Injera is still a starchy bread, even made with teff. Keep the portion reasonable and serve it with plenty of protein and fiber, like [misir wat](/recipes/misir-wat), greens and eggs. Nutrition is approximate and per injera.
+- **Short on time?** Try the [quick same-day injera](/recipes/quick-injera/) instead.
+- **Blood sugar:** Injera is still a starchy bread, even made with teff. Keep the portion reasonable and serve it with plenty of protein and fiber, like [misir wat](/recipes/misir-wat/), greens and eggs. Nutrition is approximate and per injera.
 - **Storage:** Keep wrapped at room temperature for a day or two, or in the fridge for up to a week. Warm briefly in a covered pan or the microwave. Freezes well with parchment between the layers.
-- More background in the blog post: [Making Injera at Home](/blog/making-injera-at-home).
+- More background in the blog post: [Making Injera at Home](/blog/making-injera-at-home/).

@@ -49,5 +49,5 @@ nutrition:
 - **Why it's diabetes-friendly:** It's mostly eggs and leafy herbs, so a slice has about 4g of carbs and a good amount of protein. It's a solid protein-first breakfast, and you can keep it in the fridge as a grab-and-go option for busy days.
 - **Barberries:** Traditional kuku often has dried barberries (zereshk) folded in. They're tart but still a dried fruit, so I leave them out. A tablespoon spread across the whole kuku adds very little sugar per slice if you want them.
 - **Fenugreek:** Dried fenugreek leaves are sold as *kasuri methi* in Indian groceries. They give kuku its classic flavor, but a little goes a long way.
-- **Serve it with** [Mast-o-Khiar](/recipes/mast-o-khiar) and a [Salad Shirazi](/recipes/salad-shirazi), or wrap a slice in lettuce.
+- **Serve it with** [Mast-o-Khiar](/recipes/mast-o-khiar/) and a [Salad Shirazi](/recipes/salad-shirazi/), or wrap a slice in lettuce.
 - Keeps 4 days in the fridge.

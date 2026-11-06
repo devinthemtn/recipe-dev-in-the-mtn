@@ -13,7 +13,7 @@ part: 1
 
 The first thing on most coffee bags is a place: _Ethiopia_, _Colombia_, _Sumatra_. It's easy to skim past, but where a coffee was grown tells you more about how it'll taste than almost anything else on the label. It's also a pretty good hint about the rest of the label.
 
-This is part one of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans), my guide to the four things on a bag that matter most.
+This is part one of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/), my guide to the four things on a bag that matter most.
 
 ## The bean belt
 
@@ -23,7 +23,7 @@ Coffee grows in a band around the equator, roughly between the Tropics of Cancer
 
 - **Altitude** is the big one. Higher farms are cooler, so the cherries ripen more slowly and the seeds come out denser and more complex, usually with more acidity. Bags often list it in meters above sea level ("masl"). Each country grades it a little differently, but roughly 1,200 to 1,350 masl and up counts as high-grown.
 - **Climate and soil** matter the way they do for wine grapes. Volcanic soil, steady rain and cool nights all show up in the cup.
-- **Local habits** may matter most. Each country tends to grow certain [varieties](/coffee/guides/coffee-varieties) and [process](/coffee/guides/coffee-processing-methods) them in certain ways. Kenya washes nearly everything, Brazil dries a lot of its coffee as naturals, and Sumatra wet-hulls. So when you know the origin, you can usually guess the rest of the label too.
+- **Local habits** may matter most. Each country tends to grow certain [varieties](/coffee/guides/coffee-varieties/) and [process](/coffee/guides/coffee-processing-methods/) them in certain ways. Kenya washes nearly everything, Brazil dries a lot of its coffee as naturals, and Sumatra wet-hulls. So when you know the origin, you can usually guess the rest of the label too.
 
 ## Reading origin on a bag
 
@@ -43,4 +43,4 @@ One country worth knowing that isn't on the list: **Vietnam** is the world's sec
 
 If you've mostly had coffee from the grocery store, a washed coffee from **Colombia** or **Guatemala** will taste familiar, just better. A light roast from **Ethiopia** or **Kenya** is the quickest way to find out why people get so excited about origin. And if you like a heavy, earthy cup with milk, try **Sumatra**.
 
-Next up is [variety](/coffee/guides/coffee-varieties): the kind of coffee plant the beans came from.
+Next up is [variety](/coffee/guides/coffee-varieties/): the kind of coffee plant the beans came from.

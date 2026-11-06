@@ -7,7 +7,7 @@ draft: false
 tags: ["how-to", "pantry", "bread", "diabetes"]
 ---
 
-Injera flour was the last thing to make it onto my pantry list, and making injera has become the kitchen project I look forward to most. If you've never had it, injera is the big, spongy, slightly sour flatbread that Ethiopian and Eritrean food is served on. It works as both the plate and the utensil: you tear off a piece and use it to scoop up stews like [misir wat](/recipes/misir-wat).
+Injera flour was the last thing to make it onto my pantry list, and making injera has become the kitchen project I look forward to most. If you've never had it, injera is the big, spongy, slightly sour flatbread that Ethiopian and Eritrean food is served on. It works as both the plate and the utensil: you tear off a piece and use it to scoop up stews like [misir wat](/recipes/misir-wat/).
 
 It's made from teff, a tiny whole grain native to the Ethiopian highlands. Teff has decent fiber and protein and a lot of iron, and it's naturally gluten-free. Real injera gets its sourness and its bubbly top from days of fermentation. That's the authentic way, and it's worth doing. Some nights you won't have three days, though, so I'll go through a fast version first.
 
@@ -21,7 +21,7 @@ It's made from teff, a tiny whole grain native to the Ethiopian highlands. Teff 
 
 This isn't true injera, since there's no real fermentation. It gets close by using baking soda and sparkling water for the bubbles and a splash of vinegar for the tang. It's a good weeknight option and a low-stakes way to practice cooking them before you commit to a three-day batch.
 
-*Full recipe card: [Quick Same-Day Injera](/recipes/quick-injera)*
+*Full recipe card: [Quick Same-Day Injera](/recipes/quick-injera/)*
 
 **Makes about 6 injera, 10" each**
 
@@ -41,7 +41,7 @@ This isn't true injera, since there's no real fermentation. It gets close by usi
 
 Traditional injera is just teff, water, and time. Wild yeast and bacteria from the flour and the air ferment the batter, which gives it the sour flavor and the famous "eyes," the little holes all over the top. It takes very little actual work, but you need some patience and a warm spot in the kitchen.
 
-*Full recipe card: [Fermented Teff Injera](/recipes/fermented-teff-injera)*
+*Full recipe card: [Fermented Teff Injera](/recipes/fermented-teff-injera/)*
 
 **Makes about 8 injera, 10" each**
 
@@ -91,4 +91,4 @@ Wrap cooled injera in a towel or a bag and keep it at room temperature for a day
 
 Even though it's made from a whole grain, injera is still a starchy bread, and it doesn't get a free pass because it's teff. Research on injera's glycemic index is mixed, and some studies put it fairly high. What helps me is the same thing that helps with any carb: I keep the portion reasonable and pile it high with lentil stews, greens, and eggs, so there's plenty of protein and fiber. I also eat some of that first, before I tear into the bread. I'm glad to have injera on the menu again, and I just eat it the way I eat everything else now.
 
-If you only try one version, I'd start with the [fast one](/recipes/quick-injera) to get the feel for cooking them. Then I'd mix a bowl of teff and water on a Thursday, so you've got [real injera](/recipes/fermented-teff-injera) and a pot of [misir wat](/recipes/misir-wat) ready for the weekend.
+If you only try one version, I'd start with the [fast one](/recipes/quick-injera/) to get the feel for cooking them. Then I'd mix a bowl of teff and water on a Thursday, so you've got [real injera](/recipes/fermented-teff-injera/) and a pot of [misir wat](/recipes/misir-wat/) ready for the weekend.

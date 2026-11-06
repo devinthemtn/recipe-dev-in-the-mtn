@@ -41,6 +41,6 @@ nutrition:
 
 ## Notes
 
-- **Why it's diabetes-friendly:** It's meat and vegetables with no breadcrumbs or fillers, so the carbs come almost entirely from the onion and tomatoes. At a Persian restaurant it comes on a mountain of rice with lavash. At home, pair it with [Salad Shirazi](/recipes/salad-shirazi), [Mast-o-Khiar](/recipes/mast-o-khiar), and a plate of fresh herbs, radishes, and green onions (sabzi khordan).
+- **Why it's diabetes-friendly:** It's meat and vegetables with no breadcrumbs or fillers, so the carbs come almost entirely from the onion and tomatoes. At a Persian restaurant it comes on a mountain of rice with lavash. At home, pair it with [Salad Shirazi](/recipes/salad-shirazi/), [Mast-o-Khiar](/recipes/mast-o-khiar/), and a plate of fresh herbs, radishes, and green onions (sabzi khordan).
 - **No flat skewers or no grill:** Shape the meat into 6-inch logs on a rack set over a foil-lined sheet pan. Broil 4-5 minutes per side.
 - Leftovers reheat well and are good crumbled into eggs the next morning.

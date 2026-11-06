@@ -2,7 +2,7 @@
 	import NutritionFacts from '$lib/components/NutritionFacts.svelte';
 
 	let { data } = $props();
-	const { meta, Content } = data;
+	const { meta, Content } = $derived(data);
 </script>
 
 <svelte:head>

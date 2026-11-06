@@ -9,7 +9,7 @@ tags: ["how-to", "pantry", "diabetes"]
 
 Chia seeds are one of the pantry staples I reach for often. They have almost no flavor, they don't need cooking, and they do one trick really well: they soak up liquid and turn it into a gel which often times means I can use them in replacement of flour or starch.
 
-That gel trick is what makes them so useful. It's how a cup of milk becomes [chia pudding](/recipes/diabetic-chia-pudding), how a pan of mashed berries becomes jam without a pile of sugar, and how a thin soup gets some body without flour.
+That gel trick is what makes them so useful. It's how a cup of milk becomes [chia pudding](/recipes/diabetic-chia-pudding/), how a pan of mashed berries becomes jam without a pile of sugar, and how a thin soup gets some body without flour.
 
 ## Why I keep them around
 
@@ -57,14 +57,14 @@ A few things that affect soaking:
 
 ## What I add them to
 
-- **Oatmeal and overnight oats.** A tablespoon in my [overnight oats](/recipes/mountain-morning-oats) makes them thicker and keeps me full longer. With hot oatmeal, add a splash of extra liquid since the chia will take some.
+- **Oatmeal and overnight oats.** A tablespoon in my [overnight oats](/recipes/mountain-morning-oats/) makes them thicker and keeps me full longer. With hot oatmeal, add a splash of extra liquid since the chia will take some.
 - **Smoothies.** Add a tablespoon right before blending. If the smoothie sits, it'll thicken, so drink it soon or add more liquid.
 - **Yogurt and cottage cheese.** Stir in a spoonful and let it sit 10 minutes.
-- **Pudding.** The easy one. Milk, chia, a little cinnamon or vanilla, overnight in the fridge. My [cinnamon chia pudding](/recipes/diabetic-chia-pudding) is the everyday version, and the [graveyard chocolate chia cups](/recipes/halloween-graveyard-chia-cups) are the fun one.
+- **Pudding.** The easy one. Milk, chia, a little cinnamon or vanilla, overnight in the fridge. My [cinnamon chia pudding](/recipes/diabetic-chia-pudding/) is the everyday version, and the [graveyard chocolate chia cups](/recipes/halloween-graveyard-chia-cups/) are the fun one.
 - **Jam.** Mash 2 cups of berries in a pan, warm them until they're juicy, take them off the heat, and stir in 2 Tbs of chia. It thickens into jam in about 10-15 minutes and keeps about a week in the fridge. Sweeten it a little if you want, but ripe fruit often doesn't need it.
-- **Baked goods.** Stir whole seeds into muffin or pancake batter, or use them in bars like my [oatmeal chia bars](/recipes/oatmeal-bars). You may need a splash more liquid in the batter.
+- **Baked goods.** Stir whole seeds into muffin or pancake batter, or use them in bars like my [oatmeal chia bars](/recipes/oatmeal-bars/). You may need a splash more liquid in the batter.
 - **As an egg replacer.** A chia "egg" (1 Tbs chia + 3 Tbs water) can stand in for one egg in muffins, pancakes, and quick breads. It binds well but doesn't puff things up the way a real egg does, so it can take some experiment sometimes.
-- **Meatloaf, meatballs, and burgers.** Like flax, a spoonful helps hold things together and soaks up juice. It's the same idea as the flax in my [lentil & flax meatloaf](/recipes/lentil-flax-meatloaf).
+- **Meatloaf, meatballs, and burgers.** Like flax, a spoonful helps hold things together and soaks up juice. It's the same idea as the flax in my [lentil & flax meatloaf](/recipes/lentil-flax-meatloaf/).
 - **Salad dressings.** A teaspoon of chia in a vinaigrette gives it a little body so it clings to the greens, which means you can use less oil.
 - **Drinks.** A teaspoon or two stirred into lemonade or water with a squeeze of lime, left to sit 10 minutes, is a classic "chia fresca."
 

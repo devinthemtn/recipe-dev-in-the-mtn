@@ -3,7 +3,7 @@
 	import { newsletterConfig } from '$lib/newsletter.js';
 
 	let { data } = $props();
-	const { meta, Content } = data;
+	const { meta, Content } = $derived(data);
 
 	/** @param {string} date */
 	function formatDate(date) {

@@ -7,7 +7,7 @@ series: "Understanding Coffee Beans"
 part: 0
 ---
 
-The first time I picked up a bag from a specialty roaster, the label read like a puzzle: _Ethiopia, Guji. Heirloom. Natural. Light roast. Blueberry, jasmine, cocoa._ I didn't know which of those words mattered, so I mostly bought on the tasting notes and hoped.
+I didn't used to know what most of the things on a bag from a specialty roaster meant, I learned with time and tasting. The tasting notes on it help (if given) but now that I have a better idea what I prefur its easier to judge a bag.
 
 It turns out four things on that label tell you most of what you need to know: **the origin** (where it was grown), **the variety** (what kind of coffee plant it came from), **the process** (what happened to the fruit after it was picked) and **the roast level** (how long and how hot it was roasted). Once you know what each one does, you can look at a bag and make a pretty good guess at what's in the cup.
 
@@ -25,25 +25,25 @@ Every coffee you've ever had started as one of those seeds. Where it grew shapes
 
 Coffee grows in a band around the equator, and the place matters a lot. Higher farms grow denser, more complex coffee with more acidity, and each country tends to grow certain varieties and process them in its own way. Once you know the origin, you can often guess the rest of the label.
 
-**Read more:** [Coffee Origins: Where Your Beans Were Grown](/coffee/guides/coffee-origins), with a chart of 16 common growing countries, the region names you'll see on bags and the varieties grown there.
+**Read more:** [Coffee Origins: Where Your Beans Were Grown](/coffee/guides/coffee-origins/), with a chart of 16 common growing countries, the region names you'll see on bags and the varieties grown there.
 
 ## 2. Variety: what kind of plant
 
 Nearly all specialty coffee is arabica, and inside arabica there are dozens of varieties, like Bourbon, Caturra, SL28, Gesha and Ethiopian heirloom types. Each has its own tendencies, from sweet and round to floral and tea-like, but the same variety can taste very different from farm to farm.
 
-**Read more:** [Coffee Varieties: Arabica, Robusta and Beyond](/coffee/guides/coffee-varieties).
+**Read more:** [Coffee Varieties: Arabica, Robusta and Beyond](/coffee/guides/coffee-varieties/).
 
 ## 3. Process: what happened after picking
 
 After picking, the farm has to get the seed out of the fruit and dry it. Washed coffees taste clean and bright, naturals taste fruity and sweet, and honey process sits in between. Then there are regional methods like wet-hulling and experimental ones like anaerobic and co-fermented coffees.
 
-**Read more:** [Coffee Processing Methods: Washed, Natural, Honey and More](/coffee/guides/coffee-processing-methods), with a side-by-side chart of each method.
+**Read more:** [Coffee Processing Methods: Washed, Natural, Honey and More](/coffee/guides/coffee-processing-methods/), with a side-by-side chart of each method.
 
 ## 4. Roast: how it was cooked
 
 Light roasts keep the most of the bean's own character and acidity. Medium roasts trade some brightness for caramel and chocolate. Dark roasts taste more like the roast than the bean. Dark roast doesn't really have more caffeine, and the roast date matters more than most people think.
 
-**Read more:** [Coffee Roast Levels: Light, Medium and Dark](/coffee/guides/coffee-roast-levels).
+**Read more:** [Coffee Roast Levels: Light, Medium and Dark](/coffee/guides/coffee-roast-levels/).
 
 ## Putting it together
 
@@ -64,4 +64,4 @@ If you're not sure where to start:
 - **You take your coffee with milk:** Try a medium-dark roast, or a wet-hulled Sumatra if you like earthy flavors.
 - **You want something wild:** Try an anaerobic or co-fermented lot, and maybe split the bag with a friend.
 
-And whatever you buy, grind it fresh. Even the best beans lose a lot once they're ground, which is why a decent [hand grinder](/coffee/reviews/hand-coffee-grinders) is the best upgrade I've made. You can see what I've been drinking lately in [coffee reviews](/coffee/reviews), and find more to watch in [coffee videos](/coffee/videos).
+And whatever you buy, grind it fresh. Even the best beans lose a lot once they're ground, which is why a decent [hand grinder](/coffee/reviews/hand-coffee-grinders/) is the best upgrade I've made. You can see what I've been drinking lately in [coffee reviews](/coffee/reviews/), and find more to watch in [coffee videos](/coffee/videos/).

@@ -8,7 +8,7 @@
 	import { siteOrigin } from '$lib/site.js';
 
 	let { data } = $props();
-	const { meta, Content, schema } = data;
+	const { meta, Content, schema } = $derived(data);
 
 	// Shown only on paper, so a printed recipe says where it came from.
 	const origin = siteOrigin();

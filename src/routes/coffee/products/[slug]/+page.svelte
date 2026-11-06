@@ -2,7 +2,7 @@
 	import CoffeeProductDetails from '$lib/components/CoffeeProductDetails.svelte';
 
 	let { data } = $props();
-	const { meta, Content } = data;
+	const { meta, Content } = $derived(data);
 </script>
 
 <svelte:head>

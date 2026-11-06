@@ -50,6 +50,6 @@ nutrition:
 
 ## Notes
 
-- **Why it's diabetes-friendly:** This is almost entirely protein and non-starchy vegetables. Joojeh is usually served on a big plate of saffron rice. I serve it with grilled vegetables, [Salad Shirazi](/recipes/salad-shirazi), and [Mast-o-Khiar](/recipes/mast-o-khiar) instead. Nutrition assumes most of the marinade is scraped off.
+- **Why it's diabetes-friendly:** This is almost entirely protein and non-starchy vegetables. Joojeh is usually served on a big plate of saffron rice. I serve it with grilled vegetables, [Salad Shirazi](/recipes/salad-shirazi/), and [Mast-o-Khiar](/recipes/mast-o-khiar/) instead. Nutrition assumes most of the marinade is scraped off.
 - **No grill:** Set the skewers (or loose pieces) on a rack over a foil-lined sheet pan and broil about 6 inches from the heat for 12-15 minutes, turning once halfway.
 - **Thighs vs. breast:** Thighs stay juicy on the grill. Breast works too, but pull it as soon as it reaches 165°F.

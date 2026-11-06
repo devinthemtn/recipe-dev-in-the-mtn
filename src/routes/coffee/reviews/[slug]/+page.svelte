@@ -2,7 +2,7 @@
 	import CoffeeDetails from '$lib/components/CoffeeDetails.svelte';
 
 	let { data } = $props();
-	const { meta, Content } = data;
+	const { meta, Content } = $derived(data);
 
 	// Roundups and other articles have none of the per-coffee fields, so they skip the sidebar.
 	const detailKeys = [

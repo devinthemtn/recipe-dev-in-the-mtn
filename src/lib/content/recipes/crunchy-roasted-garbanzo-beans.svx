@@ -55,7 +55,7 @@ nutrition:
     - **Ranch:** 1 tsp dried dill, 1/2 tsp garlic powder, 1/2 tsp onion powder, 1/4 tsp salt
     - **Everything bagel:** 1 Tbs everything bagel seasoning (it's already salty, so skip the extra salt)
     - **Cinnamon:** 1 tsp cinnamon, 1-2 tsp granulated monk fruit or erythritol sweetener, and a pinch of salt
-    - **Berbere:** 1-2 tsp of our [berbere spice blend](/recipes/berbere-spice-blend) and 1/4 tsp salt
+    - **Berbere:** 1-2 tsp of our [berbere spice blend](/recipes/berbere-spice-blend/) and 1/4 tsp salt
 - **Cooking from dried:** Use about 3 cups cooked chickpeas (from 1 cup dried). Make sure they're cooked through but not mushy, and dry them well.
 - **Air fryer:** Roast at 390°F (200°C) for 12-18 minutes, shaking the basket every 5 minutes. Work in batches so they sit in a single layer.
 - **Why it's diabetes-friendly:** Chickpeas have a low glycemic index, and their fiber and protein slow down how fast the carbs are absorbed. They're also much more filling than chips or crackers for the same number of calories.

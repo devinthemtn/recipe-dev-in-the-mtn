@@ -13,7 +13,7 @@ part: 2
 
 Most of us never think of coffee as coming in varieties the way apples or tomatoes do, but it does. The kind of plant a coffee came from sets the range of what it _can_ taste like. Where it's grown, how it's processed and how it's roasted decide where in that range it lands.
 
-This is part two of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans).
+This is part two of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/).
 
 ## Arabica and robusta
 
@@ -26,7 +26,7 @@ If a bag says "100% arabica," that's a floor, not a promise. Nearly every bag yo
 
 ## Arabica varieties
 
-Inside arabica there are dozens of varieties, much like apples come as Honeycrisp, Granny Smith and Fuji. They're easier to keep straight as a family tree: a few originals from Ethiopia and Yemen, two old lines that spread around the world, and everything that's been bred or crossed from them since.
+Inside arabica there are dozens of varieties (this is likely a new idea to most people), much like apples come as Honeycrisp, Granny Smith and Fuji. They're easier to keep straight as a family tree: a few originals from Ethiopia and Yemen, two old lines that spread around the world, and everything that's been bred or crossed from them since.
 
 ### The originals
 
@@ -70,7 +70,7 @@ Coffee leaf rust, a fungus that can wipe out a farm, has hit coffee-growing regi
 
 ## Where each variety grows
 
-Each country tends to stick with the varieties that suit its climate and the ones its farmers and researchers have bet on. Here's how the varieties above line up with the countries in my [origin guide](/coffee/guides/coffee-origins):
+Each country tends to stick with the varieties that suit its climate and the ones its farmers and researchers have bet on. Here's how the varieties above line up with the countries in my [origin guide](/coffee/guides/coffee-origins/):
 
 <CoffeeVarietyChart />
 
@@ -84,6 +84,6 @@ A few patterns jump out. Africa grows varieties you won't find much anywhere els
 
 ## How much does the plant matter?
 
-Less than you'd think on its own. The same variety grown on two different farms can taste completely different. Altitude, soil, weather and how it was processed all matter as much as the plant does. That's why [origin](/coffee/guides/coffee-origins) and variety are best read together. A Bourbon from Rwanda and a Bourbon from Brazil are two different coffees.
+Less than you'd think on its own. The same variety grown on two different farms can taste completely different. Altitude, soil, weather and how it was processed all matter as much as the plant does. That's why [origin](/coffee/guides/coffee-origins/) and variety are best read together. A Bourbon from Rwanda and a Bourbon from Brazil are two different coffees.
 
-Next up is [processing](/coffee/guides/coffee-processing-methods): what happens to the coffee fruit after it's picked.
+Next up is [processing](/coffee/guides/coffee-processing-methods/): what happens to the coffee fruit after it's picked.

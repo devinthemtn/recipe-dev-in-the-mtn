@@ -39,10 +39,10 @@ nutrition:
 
 ## Notes
 
-- **This is a shortcut:** There's no real fermentation, so it's milder and less sour than traditional injera. It's a good way to practice the cooking technique. For the real thing, see the [fermented teff injera](/recipes/fermented-teff-injera).
+- **This is a shortcut:** There's no real fermentation, so it's milder and less sour than traditional injera. It's a good way to practice the cooking technique. For the real thing, see the [fermented teff injera](/recipes/fermented-teff-injera/).
 - **No holes:** The batter is too thick or the pan is too cool. Thin it a little or turn the heat up.
 - **Gummy on top:** Keep it covered a bit longer, or pour a thinner layer.
 - **Brown on the bottom:** The heat is too high. Injera should stay pale and soft.
-- **Blood sugar:** Injera is still a starchy bread, even made with teff. Keep the portion reasonable and serve it with plenty of protein and fiber, like [misir wat](/recipes/misir-wat), greens and eggs. Nutrition is approximate and per injera, made with whole wheat flour.
+- **Blood sugar:** Injera is still a starchy bread, even made with teff. Keep the portion reasonable and serve it with plenty of protein and fiber, like [misir wat](/recipes/misir-wat/), greens and eggs. Nutrition is approximate and per injera, made with whole wheat flour.
 - **Storage:** Keep wrapped at room temperature for a day or two, or in the fridge for up to a week. Warm briefly in a covered pan or the microwave. Freezes well with parchment between the layers.
-- More background in the blog post: [Making Injera at Home](/blog/making-injera-at-home).
+- More background in the blog post: [Making Injera at Home](/blog/making-injera-at-home/).

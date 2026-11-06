@@ -34,33 +34,33 @@ Every grinder on this list uses a conical burr.
 
 If you've never owned a burr grinder, start here.
 
-- **[TIMEMORE Chestnut C2](/coffee/products/timemore-chestnut-c2-hand-grinder):** My go-to recommendation for a first hand grinder. It holds about 25g of beans and grinds consistently for the price.
-- **[wonplug Dual Cutter](/coffee/products/wonplug-dual-cutter-hand-grinder):** The budget pick. A big step up from pre-ground or a blade grinder without spending much.
-- **[KINGrinder K5](/coffee/products/kingrinder-k5-hand-grinder):** A full-size grinder with an external adjustment dial that gives you a lot for the money.
+- **[TIMEMORE Chestnut C2](/coffee/products/timemore-chestnut-c2-hand-grinder/):** My go-to recommendation for a first hand grinder. It holds about 25g of beans and grinds consistently for the price.
+- **[wonplug Dual Cutter](/coffee/products/wonplug-dual-cutter-hand-grinder/):** The budget pick. A big step up from pre-ground or a blade grinder without spending much.
+- **[KINGrinder K5](/coffee/products/kingrinder-k5-hand-grinder/):** A full-size grinder with an external adjustment dial that gives you a lot for the money.
 
 ### For travel and camping
 
-- **[TIMEMORE Nano](/coffee/products/timemore-nano-hand-grinder):** The handle folds down, so it packs small.
-- **[1Zpresso Q2](/coffee/products/1zpresso-q2-hand-grinder):** Slim and light, and it fits inside an AeroPress.
+- **[TIMEMORE Nano](/coffee/products/timemore-nano-hand-grinder/):** The handle folds down, so it packs small.
+- **[1Zpresso Q2](/coffee/products/1zpresso-q2-hand-grinder/):** Slim and light, and it fits inside an AeroPress.
 
 ### Everyday filter coffee
 
 For pour over, French press and drip-style brewing every morning.
 
-- **[1Zpresso JX](/coffee/products/1zpresso-jx-hand-grinder):** Full-size with a bigger burr, so it gets through a dose quickly.
-- **[Normcore V2](/coffee/products/normcore-v2-hand-grinder):** A 38mm conical burr and a good all-rounder across brew methods.
+- **[1Zpresso JX](/coffee/products/1zpresso-jx-hand-grinder/):** Full-size with a bigger burr, so it gets through a dose quickly.
+- **[Normcore V2](/coffee/products/normcore-v2-hand-grinder/):** A 38mm conical burr and a good all-rounder across brew methods.
 
 ### If you make espresso, or switch methods a lot
 
 Espresso needs a very fine, very precise grind, and small changes make a big difference in the cup. These grinders have finer adjustment steps and an external adjustment ring that makes it easy to get back to a setting.
 
-- **[1Zpresso J-Max](/coffee/products/1zpresso-j-max-hand-grinder):** Built for espresso first.
-- **[1Zpresso K-Plus](/coffee/products/1zpresso-k-plus-hand-grinder):** Easy to switch between espresso and pour over.
-- **[1Zpresso K-Max](/coffee/products/1zpresso-k-max-hand-grinder):** Near the top of the 1Zpresso lineup, and one you won't outgrow.
+- **[1Zpresso J-Max](/coffee/products/1zpresso-j-max-hand-grinder/):** Built for espresso first.
+- **[1Zpresso K-Plus](/coffee/products/1zpresso-k-plus-hand-grinder/):** Easy to switch between espresso and pour over.
+- **[1Zpresso K-Max](/coffee/products/1zpresso-k-max-hand-grinder/):** Near the top of the 1Zpresso lineup, and one you won't outgrow.
 
 ### The splurge
 
-- **[Comandante C60 Nitro Blade](/coffee/products/comandante-c60-hand-grinder):** Nitrogen-hardened steel burrs and a build that lasts for years. A lot of coffee people end up here eventually.
+- **[Comandante C60 Nitro Blade](/coffee/products/comandante-c60-hand-grinder/):** Nitrogen-hardened steel burrs and a build that lasts for years. A lot of coffee people end up here eventually.
 
 ## Getting started
 
@@ -71,4 +71,4 @@ A few tips once you have a grinder:
 - **Start in the middle and adjust.** If the coffee tastes sour or weak, grind finer. If it tastes bitter or harsh, grind coarser.
 - **Keep it clean.** Brush out the burrs every so often. Old coffee oils go rancid and can make fresh coffee taste stale.
 
-You can find all of these, along with the rest of the gear I use, in [coffee products](/coffee/products). For grinder walkthroughs and other coffee videos worth watching, see [coffee videos](/coffee/videos).
+You can find all of these, along with the rest of the gear I use, in [coffee products](/coffee/products/). For grinder walkthroughs and other coffee videos worth watching, see [coffee videos](/coffee/videos/).
