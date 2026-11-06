@@ -1,0 +1,67 @@
+---
+title: "Understanding Coffee Beans: Origin, Variety, Process and Roast"
+description: "The four things on a coffee bag that tell you the most about how it'll taste, and how to use them to find coffee you'll actually like."
+date: "2026-11-05"
+tags: ["guide", "beans", "origin", "variety", "processing", "roast"]
+series: "Understanding Coffee Beans"
+part: 0
+---
+
+The first time I picked up a bag from a specialty roaster, the label read like a puzzle: _Ethiopia, Guji. Heirloom. Natural. Light roast. Blueberry, jasmine, cocoa._ I didn't know which of those words mattered, so I mostly bought on the tasting notes and hoped.
+
+It turns out four things on that label tell you most of what you need to know: **the origin** (where it was grown), **the variety** (what kind of coffee plant it came from), **the process** (what happened to the fruit after it was picked) and **the roast level** (how long and how hot it was roasted). Once you know what each one does, you can look at a bag and make a pretty good guess at what's in the cup.
+
+There's a practical reason I care about this, too. Black coffee has essentially no carbs, and when I find beans I like, I don't reach for sugar or sweetened creamer. Good beans make good black coffee a lot easier.
+
+This is the overview. Each of the four has its own guide with the details and a chart.
+
+## Coffee is a fruit
+
+This helps everything else make sense: a coffee bean is the seed of a fruit. Coffee grows as small red or yellow cherries on a shrub, and each cherry usually holds two seeds. Around the seed is a thin skin, a layer of sweet, sticky fruit (the mucilage), and a papery shell called parchment.
+
+Every coffee you've ever had started as one of those seeds. Where it grew shapes how the fruit ripens, the plant decides what the seed _can_ taste like, the processing decides how much of the fruit's flavor gets into it, and the roast decides which of those flavors make it to your cup.
+
+## 1. Origin: where it was grown
+
+Coffee grows in a band around the equator, and the place matters a lot. Higher farms grow denser, more complex coffee with more acidity, and each country tends to grow certain varieties and process them in its own way. Once you know the origin, you can often guess the rest of the label.
+
+**Read more:** [Coffee Origins: Where Your Beans Were Grown](/coffee/guides/coffee-origins), with a chart of 16 common growing countries, the region names you'll see on bags and the varieties grown there.
+
+## 2. Variety: what kind of plant
+
+Nearly all specialty coffee is arabica, and inside arabica there are dozens of varieties, like Bourbon, Caturra, SL28, Gesha and Ethiopian heirloom types. Each has its own tendencies, from sweet and round to floral and tea-like, but the same variety can taste very different from farm to farm.
+
+**Read more:** [Coffee Varieties: Arabica, Robusta and Beyond](/coffee/guides/coffee-varieties).
+
+## 3. Process: what happened after picking
+
+After picking, the farm has to get the seed out of the fruit and dry it. Washed coffees taste clean and bright, naturals taste fruity and sweet, and honey process sits in between. Then there are regional methods like wet-hulling and experimental ones like anaerobic and co-fermented coffees.
+
+**Read more:** [Coffee Processing Methods: Washed, Natural, Honey and More](/coffee/guides/coffee-processing-methods), with a side-by-side chart of each method.
+
+## 4. Roast: how it was cooked
+
+Light roasts keep the most of the bean's own character and acidity. Medium roasts trade some brightness for caramel and chocolate. Dark roasts taste more like the roast than the bean. Dark roast doesn't really have more caffeine, and the roast date matters more than most people think.
+
+**Read more:** [Coffee Roast Levels: Light, Medium and Dark](/coffee/guides/coffee-roast-levels).
+
+## Putting it together
+
+Back to that first bag: _Ethiopia, Guji. Heirloom. Natural. Light roast._
+
+- **Guji, Ethiopia** is a high-grown southern region known for bright, fruity coffee.
+- **Heirloom** varieties point to florals and fruit.
+- **Natural** adds sweetness and a lot of berry.
+- **Light roast** keeps all of that intact, with bright acidity.
+
+So, blueberry and jasmine, just like the bag said. Swap in a _washed_ Ethiopian and you'd expect something lighter and more like tea, with lemon and florals. Make it a _medium-roast washed Caturra from Huila, Colombia_ and you're in caramel and red apple territory.
+
+If you're not sure where to start:
+
+- **You like a classic, comforting cup:** Try a medium-roast washed or natural coffee from Brazil, Colombia or Guatemala.
+- **You want to taste what the fuss is about:** Try a light-roast washed Ethiopian or Kenyan.
+- **You like fruit and sweetness:** Try a natural or honey process, light or medium roast.
+- **You take your coffee with milk:** Try a medium-dark roast, or a wet-hulled Sumatra if you like earthy flavors.
+- **You want something wild:** Try an anaerobic or co-fermented lot, and maybe split the bag with a friend.
+
+And whatever you buy, grind it fresh. Even the best beans lose a lot once they're ground, which is why a decent [hand grinder](/coffee/reviews/hand-coffee-grinders) is the best upgrade I've made. You can see what I've been drinking lately in [coffee reviews](/coffee/reviews), and find more to watch in [coffee videos](/coffee/videos).

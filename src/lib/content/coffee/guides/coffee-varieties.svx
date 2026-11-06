@@ -1,0 +1,89 @@
+---
+title: "Coffee Varieties: Arabica, Robusta and Beyond"
+description: "What arabica and robusta really mean, the arabica varieties you'll see on specialty coffee bags, which countries grow them, and how much the plant actually changes the cup."
+date: "2026-11-05"
+tags: ["guide", "beans", "variety"]
+series: "Understanding Coffee Beans"
+part: 2
+---
+
+<script>
+	import CoffeeVarietyChart from '$lib/components/CoffeeVarietyChart.svelte';
+</script>
+
+Most of us never think of coffee as coming in varieties the way apples or tomatoes do, but it does. The kind of plant a coffee came from sets the range of what it _can_ taste like. Where it's grown, how it's processed and how it's roasted decide where in that range it lands.
+
+This is part two of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans).
+
+## Arabica and robusta
+
+Almost all coffee comes from two species.
+
+- **Arabica** is most of the world's coffee and nearly all specialty coffee. It grows best at higher altitudes, and it tends to be sweeter and more complex, with more acidity.
+- **Robusta** (_Coffea canephora_) is hardier and easier to grow, with roughly twice the caffeine. It tastes more bitter and rubbery and less sweet. You'll find it in a lot of instant coffee, cheaper blends and some Italian-style espresso blends, where it adds crema and punch. Most of it comes from Vietnam, Brazil, Indonesia, Uganda and India.
+
+If a bag says "100% arabica," that's a floor, not a promise. Nearly every bag you'll see at a specialty roaster is arabica, so the variety listed below that is the part to pay attention to.
+
+## Arabica varieties
+
+Inside arabica there are dozens of varieties, much like apples come as Honeycrisp, Granny Smith and Fuji. They're easier to keep straight as a family tree: a few originals from Ethiopia and Yemen, two old lines that spread around the world, and everything that's been bred or crossed from them since.
+
+### The originals
+
+Arabica comes from the forests of southwest Ethiopia, and it was first farmed across the Red Sea in Yemen. Both places still grow coffees found almost nowhere else.
+
+- **Ethiopian landraces (heirloom):** Thousands of local types, many never formally named, plus numbered selections from Ethiopia's Jimma research center (like 74110 and 74112), chosen in the 1970s for resistance to coffee berry disease. Bags often just say "heirloom." These are some of the most floral, fruity coffees out there.
+- **Gesha (or Geisha):** Collected from Ethiopia's Gesha forest in the 1930s and made famous by farms in Panama in the 2000s. Very floral, often compared to jasmine or bergamot tea. It's now grown in Colombia, Costa Rica and back in Ethiopia too, and it's often the most expensive coffee on the shelf.
+- **Pink Bourbon:** A Colombian favorite with pink-orange cherries. Despite the name, genetic tests have found it's actually an Ethiopian landrace, not a Bourbon. Expect bright, floral, fruity cups.
+- **Yemeni landraces:** Old local types, usually dried as naturals. They're rare and pricey, with dried fruit, spice and chocolate notes.
+
+### Typica and Bourbon: the two old lines
+
+Most of the world's arabica descends from a few plants taken out of Yemen centuries ago. Two lines came out of that:
+
+- **Typica:** Spread by the Dutch through Java and on to the Americas. It's clean, sweet and delicate, but it doesn't yield much, so fewer farms grow it now. Kona coffee in Hawaii is mostly Typica.
+- **Maragogipe:** A Typica mutation found in Brazil, with huge beans. It's rare on its own, but it's one parent of Pacamara.
+- **Bourbon:** Named for the island of Bourbon (now Réunion), where the French planted it. It's usually sweeter than Typica, with a rounder body. Red Bourbon is the backbone of Rwanda and Burundi.
+- **Yellow Bourbon:** A yellow-cherry Bourbon common in Brazil. It's sweet and mellow.
+
+### Bourbon's offspring
+
+- **Caturra:** A natural dwarf mutation of Bourbon found in Brazil. Smaller plants can be planted closer together, so it spread fast across Central and South America. It tastes similar to Bourbon, often a little brighter.
+- **Villa Sarchi:** Another dwarf Bourbon mutation, from Costa Rica's West Valley. It's bright and sweet.
+- **Pacas:** A dwarf Bourbon mutation from El Salvador, also common in Honduras.
+- **SL28 and SL34:** Selected in Kenya in the 1930s by Scott Laboratories (hence the "SL"), and a big part of why Kenyan coffee tastes the way it does: juicy acidity, with blackcurrant or grapefruit notes.
+
+### Crosses
+
+- **Mundo Novo:** A natural cross of Typica and Bourbon found in Brazil. It's hardy, productive and still one of Brazil's workhorses.
+- **Catuai:** Mundo Novo crossed with Caturra. It's compact and high-yielding, and you'll see it all over Brazil and Central America. It's usually sweet and balanced, if not flashy.
+- **Pacamara:** Pacas crossed with Maragogipe in El Salvador. The beans are huge, and the cup can be big and fruity, sometimes savory.
+
+### Bred for disease resistance
+
+Coffee leaf rust, a fungus that can wipe out a farm, has hit coffee-growing regions hard over the last century. Most resistant varieties trace back to the **Timor Hybrid**, a natural cross of arabica and robusta found on the island of Timor. Breeders crossed it back into arabica to keep the resistance and improve the flavor.
+
+- **Catimor and Sarchimor types:** Crosses of the Timor Hybrid with Caturra or Villa Sarchi. They go by many local names, like _Lempira_ and _Parainema_ in Honduras and _Ateng_ in Sumatra. Early ones had a reputation for tasting flat, but good farms get great cups from them.
+- **Castillo and Colombia:** Colombia's own rust-resistant varieties. Castillo is now the most widely planted variety in the country.
+- **Ruiru 11 and Batian:** Kenya's rust- and disease-resistant varieties, often grown alongside SL28 and SL34.
+- **S795:** An Indian selection that gets its rust resistance from a different relative, liberica, instead of the Timor Hybrid. It's widely grown in India and Indonesia (where it's often called _Jember_), and it tends to be sweet, with caramel and brown sugar notes.
+
+## Where each variety grows
+
+Each country tends to stick with the varieties that suit its climate and the ones its farmers and researchers have bet on. Here's how the varieties above line up with the countries in my [origin guide](/coffee/guides/coffee-origins):
+
+<CoffeeVarietyChart />
+
+A few patterns jump out. Africa grows varieties you won't find much anywhere else. Central America leans on Bourbon's offspring and the crosses made from them. And most countries now grow at least some rust-resistant varieties alongside their classics.
+
+## Reading variety on a bag
+
+- **One variety listed** usually means the farm kept it separate, which is common for higher-end lots.
+- **Several varieties listed** (like _Caturra, Castillo, Colombia_) usually means a mix from one farm or a group of small farms. That's normal and doesn't mean lower quality.
+- **No variety at all** is common on blends and grocery store coffee. It doesn't mean the coffee is bad. You just know less about it.
+
+## How much does the plant matter?
+
+Less than you'd think on its own. The same variety grown on two different farms can taste completely different. Altitude, soil, weather and how it was processed all matter as much as the plant does. That's why [origin](/coffee/guides/coffee-origins) and variety are best read together. A Bourbon from Rwanda and a Bourbon from Brazil are two different coffees.
+
+Next up is [processing](/coffee/guides/coffee-processing-methods): what happens to the coffee fruit after it's picked.

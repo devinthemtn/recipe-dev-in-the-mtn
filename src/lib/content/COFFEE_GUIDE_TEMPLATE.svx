@@ -1,0 +1,31 @@
+---
+# Copy this file into src/lib/content/coffee/guides/ and rename it to a
+# lowercase-hyphenated slug, e.g. "dialing-in-pour-over.svx" — the filename
+# becomes the URL: /coffee/guides/dialing-in-pour-over
+
+title: "Guide Title"
+description: "One or two sentences on what the guide covers, shown on the guide card."
+date: "2026-11-05"
+tags: ["guide"] # e.g. guide, beans, brewing, espresso, gear
+# draft: true # uncomment to hide the guide until it's ready
+
+# Optional: guides that share a `series` name get a "More in this series" box
+# at the bottom, listed by `part`. Use part 0 for the overview that ties them
+# together, and 1, 2, 3… for the rest.
+# series: "Understanding Coffee Beans"
+# part: 1
+---
+
+<!--
+To use a component (a chart, a table) in the guide, import it here:
+
+<script>
+	import MyChart from '$lib/components/MyChart.svelte';
+</script>
+
+<MyChart />
+-->
+
+## The first section
+
+Write it like you'd explain it to a friend.

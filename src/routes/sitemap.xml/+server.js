@@ -1,5 +1,9 @@
 import { getAllPosts } from '$lib/content/blog.js';
-import { getAllCoffeeProducts, getAllCoffeeReviews } from '$lib/content/coffee.js';
+import {
+	getAllCoffeeGuides,
+	getAllCoffeeProducts,
+	getAllCoffeeReviews
+} from '$lib/content/coffee.js';
 import { getAllIngredients } from '$lib/content/ingrts.js';
 import { getAllProducts } from '$lib/content/prods.js';
 import { getAllRecipes } from '$lib/content/recipes.js';
@@ -20,6 +24,7 @@ const sections = [
 	...(showCoffee
 		? [
 				{ path: '/coffee/reviews/', items: getAllCoffeeReviews() },
+				{ path: '/coffee/guides/', items: getAllCoffeeGuides() },
 				{ path: '/coffee/products/', items: getAllCoffeeProducts() }
 			]
 		: [])

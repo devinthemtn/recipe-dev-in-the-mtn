@@ -10,6 +10,7 @@
 		coffee: 'Coffee',
 		products: 'Products',
 		reviews: 'Reviews',
+		guides: 'Guides',
 		videos: 'Videos',
 		blog: 'Blog',
 		legal: 'Legal',
@@ -51,7 +52,7 @@
 			</li>
 			{#each crumbs as crumb, i (crumb.href)}
 				<!-- min-w-0 lets a long title shrink and truncate instead of widening the page. -->
-				<li class="flex min-w-0 items-center gap-1.5">
+				<li class="flex max-w-full min-w-0 items-center gap-1.5">
 					<span aria-hidden="true" class="text-stone-400 dark:text-stone-600">/</span>
 					{#if i === crumbs.length - 1}
 						<span aria-current="page" class="truncate text-stone-700 dark:text-stone-300"

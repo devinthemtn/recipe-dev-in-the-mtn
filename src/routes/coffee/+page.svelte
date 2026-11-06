@@ -1,5 +1,6 @@
 <script>
 	import { resolve } from '$app/paths';
+	import CoffeeGuideCard from '$lib/components/CoffeeGuideCard.svelte';
 	import CoffeeProductCard from '$lib/components/CoffeeProductCard.svelte';
 	import CoffeeReviewCard from '$lib/components/CoffeeReviewCard.svelte';
 	import VideoCard from '$lib/components/VideoCard.svelte';
@@ -16,6 +17,11 @@
 			path: /** @type {const} */ ('/coffee/reviews'),
 			label: 'Reviews',
 			blurb: "Coffees I've brewed at home, and whether I'd buy them again."
+		},
+		{
+			path: /** @type {const} */ ('/coffee/guides'),
+			label: 'Guides',
+			blurb: 'What the words on a coffee bag actually mean.'
 		},
 		{
 			path: /** @type {const} */ ('/coffee/products'),
@@ -38,7 +44,8 @@
 	<p class="mt-3 max-w-2xl text-stone-600 dark:text-stone-400">
 		For the weird coffee people — the ones who weigh their beans, own more than one grinder, and
 		have opinions about water. Here you'll find the YouTube videos I keep sending to friends, my
-		reviews of coffees I've brewed, and the gear I actually use.
+		reviews of coffees I've brewed, guides to what's actually in the bag, and the gear I actually
+		use.
 	</p>
 	<p class="mt-3 max-w-2xl text-stone-600 dark:text-stone-400">
 		Black coffee has no carbs, which makes it one of the easier things to keep in a diabetic
@@ -46,7 +53,7 @@
 	</p>
 </section>
 
-<nav class="mb-14 grid gap-4 sm:grid-cols-3" aria-label="Coffee sections">
+<nav class="mb-14 grid gap-4 sm:grid-cols-2 lg:grid-cols-4" aria-label="Coffee sections">
 	{#each sections as section (section.path)}
 		<a
 			href={resolve(section.path)}
@@ -95,6 +102,26 @@
 		</div>
 	{:else}
 		<p class="text-sm text-stone-500">The first reviews are brewing. Check back soon.</p>
+	{/if}
+</section>
+
+<section class="mb-14">
+	<div class="mb-4 flex items-baseline justify-between">
+		<h2 class="text-xl font-semibold text-stone-900 dark:text-stone-50">Latest Guides</h2>
+		<a
+			href={resolve('/coffee/guides')}
+			class="text-sm font-medium text-stone-600 hover:text-stone-900 dark:text-stone-400 dark:hover:text-stone-100"
+			>All guides &rarr;</a
+		>
+	</div>
+	{#if data.guides.length}
+		<div class="flex flex-col gap-6">
+			{#each data.guides as guide (guide.slug)}
+				<CoffeeGuideCard {guide} />
+			{/each}
+		</div>
+	{:else}
+		<p class="text-sm text-stone-500">The first guides are on the way.</p>
 	{/if}
 </section>
 
