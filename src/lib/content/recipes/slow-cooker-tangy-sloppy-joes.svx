@@ -1,51 +1,51 @@
 ---
-title: "Slow Cooker Tangy Apple Cider Vinegar Sloppy Joes"
+title: "Slow Cooker Tangy Sloppy Joes"
 description: "Sweet, savory, and tangy slow-cooker sloppy joes with a barbecue-style bite from apple cider vinegar. Brown lentils stretch the beef for extra fiber, and monk fruit and no-sugar-added ketchup replace the brown sugar."
 date: "2026-10-31"
-tags: ["dinner", "comfort-food", "slow-cooker", "make-ahead", "high-protein", "high-fiber", "diabetic-friendly", "budget"]
+tags: ["dinner", "comfort-food", "slow-cooker", "make-ahead", "high-protein", "high-fiber", "diabetic-friendly", "budget", "sandwich"]
 prepTime: "20 min"
 cookTime: "2–4 hr on Low or 1 1/2–2 hr on High"
 totalTime: "1 hr 50 min to 4 hr 20 min"
-servings: 4
+servings: 5
 nutrition:
-  calories: 260
-  protein: "20g"
+  calories: 285
+  protein: "23g"
   carbs: "21g"
-  fat: "10g"
-  fiber: "5g"
+  fat: "11g"
+  fiber: "6g"
   sugar: "7g"
-  sodium: "650mg"
+  sodium: "670mg"
 ---
 
 ## Ingredients
 
 **Meat and veggies**
 
-- 3/4 lb (340g) ground beef, 80/20 or 85/15
-- 1 cup (200g) cooked [brown or green lentils](/recipes/brown-green-lentils), drained (see Notes)
-- 1/2 medium (55g) yellow onion, finely diced
-- 1/2 (60g) green bell pepper, finely diced
-- 2 small cloves (5g) garlic, minced
+- 1 lb (454g) ground beef, 80/20 or 85/15
+- 1 1/3 cups (265g) cooked [brown or green lentils](/recipes/brown-green-lentils), drained (see Notes)
+- 1 small (75g) yellow onion, finely diced
+- 1 small (80g) green bell pepper, finely diced
+- 2 cloves (7g) garlic, minced
 
 **Tangy sauce**
 
-- 1/2 cup (120g) no-sugar-added ketchup
+- 2/3 cup (160g) no-sugar-added ketchup
 - 1 Tbs (15g) apple cider vinegar, divided (1 1/2 tsp goes in the cooker and 1 1/2 tsp is stirred in at the end; use only the first for a milder tang)
 - 1 Tbs (15g) yellow or Dijon mustard
 - 1 Tbs (15g) Worcestershire sauce
-- 2 Tbs (32g) tomato paste
+- 3 Tbs (48g) tomato paste
 - Monk fruit sweetener, in place of 1 Tbs brown sugar, in one of these forms (see Notes):
-  - Pure liquid monk fruit drops: about 15–18 drops total, depending on brand
+  - Pure liquid monk fruit drops: about 15–20 drops total, depending on brand
   - Granular monk fruit blend: 1 Tbs (1:1 sugar replacement; a brown or golden blend adds a mild molasses flavor)
 - 1 Tbs (20g) blackstrap molasses
 
 **Spices**
 
-- 3/4 tsp (2g) chili powder
+- 1 tsp (3g) chili powder
 - 1 tsp (2g) smoked paprika
 - 1/4 tsp onion powder
 - 1/4 tsp salt, or to taste
-- 1/8 tsp freshly cracked black pepper
+- 1/8 tsp freshly cracked black pepper, plus more to taste
 
 **To serve**
 
@@ -54,28 +54,28 @@ nutrition:
 
 ## Instructions
 
-1. **Brown the beef.** Heat a large skillet over medium-high heat. Add the ground beef and cook until no longer pink, 5–6 minutes, breaking it apart as it cooks. Move the beef to the slow cooker with a slotted spoon. Leave about 1 1/2 teaspoons of fat in the skillet and discard the rest.
+1. **Brown the beef.** Heat a large skillet over medium-high heat. Add the ground beef and cook until no longer pink, 6–7 minutes, breaking it apart as it cooks. Move the beef to the slow cooker with a slotted spoon. Leave about 2 teaspoons of fat in the skillet and discard the rest.
 2. **Brown the veggies.** In the same skillet over medium heat, cook the onion and bell pepper in the reserved fat for 3–4 minutes, until softened and lightly browned. Add the garlic for the last 30 seconds. Scrape everything into the slow cooker.
-3. **Combine.** Add the lentils, ketchup, 1 1/2 tsp of the apple cider vinegar, mustard, Worcestershire, tomato paste, molasses, chili powder, smoked paprika, onion powder, salt, pepper, and the monk fruit granules (if using). If using drops, add about half of them now. Stir in 1/4 cup (60g) water or beef broth until everything is evenly combined. The sauce will look a little loose, but it keeps the small batch from scorching, and any extra cooks off in step 5.
+3. **Combine.** Add the lentils, ketchup, 1 1/2 tsp of the apple cider vinegar, mustard, Worcestershire, tomato paste, molasses, chili powder, smoked paprika, onion powder, salt, pepper, and the monk fruit granules (if using). If using drops, add about half of them now. Stir in 1/3 cup (80g) water or beef broth until everything is evenly combined. The sauce will look a little loose, but it keeps the small batch from scorching, and any extra cooks off in step 5.
 4. **Slow cook.** Cover and cook on Low for 2–4 hours or on High for 1 1/2–2 hours. The beef is already cooked, so this time is just for melding the flavors. A small batch can scorch around the edges, so stir once or twice if you're home, and add a splash of water if it starts to look dry.
 5. **Thicken (optional).** For a thicker sauce, prop the lid slightly open for the last 20–30 minutes to let extra moisture cook off.
 6. **Adjust and serve.** Stir in the remaining 1 1/2 tsp apple cider vinegar. If using drops, add the rest a few at a time, tasting after each, until the sweetness balances the tang. Adjust the salt and pepper. If it tastes flat, add a pinch of ground mustard or a dash of hot sauce. Spoon onto toasted buns and serve hot.
 
 ## Notes
 
-- **Nutrition:** Per 1/4 of the filling, made with 85/15 beef and drained, and unsalted lentils. Doesn't include the bun or toppings. Monk fruit adds no carbs; most of the sugar comes from the molasses. A typical white hamburger bun adds about 22–26g carbs. To cut that down, serve it open-faced on half of a high-fiber or low-carb bun, wrap it in lettuce leaves, or spoon it over roasted spaghetti squash or cauliflower rice.
+- **Nutrition:** Per 1/5 of the filling, made with 85/15 beef and drained, unsalted lentils, and water. Beef broth adds about 60mg sodium per serving. Doesn't include the bun or toppings. Monk fruit adds no carbs. The sugar comes from the vegetables, tomatoes, lentils, and molasses. Net carbs are about 15g per serving. A typical white hamburger bun adds about 22–26g carbs. To cut that down, serve it open-faced on half of a high-fiber or low-carb bun, wrap it in lettuce leaves, or spoon it over roasted spaghetti squash or cauliflower rice.
 - **Serve it with:** A vinegar-dressed coleslaw or a green salad. Eating the filling and vegetables before the bun helps keep blood sugar steadier.
-- **Why it's diabetes-friendly:** The lentils add fiber and plant protein, and monk fruit and no-sugar-added ketchup take the place of the brown sugar. The only real sweetener is 1 Tbs of blackstrap molasses, which is about 3g sugar per serving. The protein and fat from the beef also slow down how fast the carbs are absorbed. The bun is the biggest source of carbs, so how you serve it matters most.
+- **Why it's diabetes-friendly:** The lentils add fiber and plant protein, and monk fruit and no-sugar-added ketchup take the place of the brown sugar. The only real sweetener is 1 Tbs of blackstrap molasses, which is about 2g sugar per serving. The protein and fat from the beef also slow down how fast the carbs are absorbed. The bun is the biggest source of carbs, so how you serve it matters most.
 - **Slow cooker size:** This batch works best in a 3–4 quart slow cooker. In a large 6-quart or bigger cooker the sauce spreads thin and can burn, so stick to the shorter cook times.
-- **Why lentils:** Swapping a quarter of the beef for brown or green lentils adds fiber and plant protein, cuts the fat almost in half, and stretches the batch from 3 servings to 4. Their texture blends right in with the ground beef, and they soak up the tangy sauce. Avoid split red lentils here; they turn to mush over a long cook. For more ways to use them, see [Lentils in Everything](/blog/stretching-meals-with-lentils).
-- **Getting the lentils:** Add the lentils already cooked. Dry lentils won't soften in the acidic tomato and vinegar sauce in this cook time. Use leftover lentils from a weekly batch, or cook about 1/3 cup (65g) dry brown or green lentils in plenty of water for 20–25 minutes while the beef browns, until tender but not falling apart, then drain. See [How to Cook Brown or Green Lentils](/recipes/brown-green-lentils) for the full method. About 2/3 of a 15 oz can, rinsed, also works, but it adds some sodium.
-- **Split yellow lentils:** Split yellow lentils (moong dal or toor dal) have no skins, so over a long cook they melt into the sauce instead of blending in with the beef. To keep them closer to the brown-lentil texture, simmer 1/3 cup (65g) dry split yellow lentils in plenty of water for 8–10 minutes, until just tender, and drain. Leave them out of step 3 and stir them in for the last 20–30 minutes of cooking instead. They'll still be a little softer and thicken the sauce, so you may not need to prop the lid in step 5. Don't use yellow split peas, which are a different legume and won't soften in the acidic sauce.
-- **More or fewer lentils:** If your household is new to lentils in meat dishes, start with this ratio. Once you're used to it, try half and half: 1/2 lb beef and 1 1/2 cups lentils. For the all-beef version, use 1 lb beef and skip the lentils. It makes 3 servings at about 335 calories, 28g protein, and 17g fat each.
-- **Feeding a crowd:** Double everything for 1 1/2 lb of beef, 2 cups of lentils, and 8 servings. Cook on Low for 3–5 hours or High for 2–3 hours, and use 1/2 cup (120g) water or broth.
+- **Why lentils:** Adding brown or green lentils to the beef adds fiber and plant protein and stretches 1 lb of beef to 5 servings instead of 4, so each serving has less fat. Their texture blends right in with the ground beef, and they soak up the tangy sauce. Avoid split red lentils here; they turn to mush over a long cook. For more ways to use them, see [Lentils in Everything](/blog/stretching-meals-with-lentils).
+- **Getting the lentils:** Add the lentils already cooked. Dry lentils won't soften in the acidic tomato and vinegar sauce in this cook time. Use leftover lentils from a weekly batch, or cook about 1/2 cup (95g) dry brown or green lentils in plenty of water for 20–25 minutes while the beef browns, until tender but not falling apart, then drain. See [How to Cook Brown or Green Lentils](/recipes/brown-green-lentils) for the full method. Most of a 15 oz can, rinsed, also works, but it adds some sodium.
+- **Split yellow lentils:** Split yellow lentils (moong dal or toor dal) have no skins, so over a long cook they melt into the sauce instead of blending in with the beef. To keep them closer to the brown-lentil texture, simmer 1/2 cup (95g) dry split yellow lentils in plenty of water for 8–10 minutes, until just tender, and drain. Leave them out of step 3 and stir them in for the last 20–30 minutes of cooking instead. They'll still be a little softer and thicken the sauce, so you may not need to prop the lid in step 5. Don't use yellow split peas, which are a different legume and won't soften in the acidic sauce.
+- **More or fewer lentils:** If your household is new to lentils in meat dishes, start with this amount. Once you're used to it, you can go up to 2 cups of lentils with an extra 2 Tbs ketchup and a splash more water; it makes about 6 servings. For an all-beef version, skip the lentils; it makes about 4 servings.
+- **Feeding a crowd:** Double everything (2 lb beef, 2 2/3 cups lentils, and 2/3 cup water or broth) for 10 servings, and use a 5–6 quart slow cooker. Cook on Low for 3–5 hours or High for 2–3 hours.
 - **Drops vs. granules:** Both work. Pure drops have no erythritol, so there's no cooling aftertaste, and you can fine-tune the sweetness at the end. Granular blends measure 1:1 like sugar and are more forgiving, but they usually contain erythritol.
 - **Drop counts vary by brand.** Roughly 15 drops replace 1 Tbs sugar for SweetLeaf liquid monk fruit, and about 6 drops replace 1 tsp for Transparency Foods. Check your bottle's conversion chart.
 - **Start low with drops.** Too much pure extract tastes bitter or lingers. Add half at the start and the rest to taste at the end. The molasses adds a little sweetness too, so you may not need all of the drops.
-- **Why blackstrap molasses:** Brown sugar adds molasses flavor and body, not just sweetness. Blackstrap is darker, earthier, and less sweet than regular molasses, so it brings back that depth with less sugar (about 3g per serving). Regular molasses works too, but it adds about 5g sugar per serving and tastes sweeter. You can cut back to 1 tsp for a lower-sugar version.
+- **Why blackstrap molasses:** Brown sugar adds molasses flavor and body, not just sweetness. Blackstrap is darker, earthier, and less sweet than regular molasses, so it brings back that depth with less sugar (about 2g per serving). Regular molasses works too, but it adds about 3g sugar per serving and tastes sweeter. You can cut back to 1 tsp for a lower-sugar version.
 - **Check your ketchup's label.** Regular ketchup has more sugar than the brown sugar this swap removes. No-sugar-added brands vary: some use their own sweeteners, which changes how much monk fruit you need, and they differ in tang and thickness. Taste before adjusting at the end.
 - **Extra smoky:** Add 1/4 tsp liquid smoke or another 1/4 tsp smoked paprika.
 - **Spicy:** Add 1/4 tsp cayenne or a dash of hot sauce to play up the vinegar's tang.

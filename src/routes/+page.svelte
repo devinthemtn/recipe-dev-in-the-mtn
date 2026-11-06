@@ -66,7 +66,7 @@
 			>All posts &rarr;</a
 		>
 	</div>
-	<!-- Two across, then four across once there's room for the extra posts. -->
+	<!-- Two across; the extra posts appear as a second row at lg, then all four fit across at xl. -->
 	<div class="flex flex-wrap gap-6">
 		{#each data.posts as post, i (post.slug)}
 			<a

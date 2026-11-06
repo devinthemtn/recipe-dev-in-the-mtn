@@ -13,7 +13,8 @@
 	};
 </script>
 
-<aside class="print-keep card p-4">
+<!-- self-start: as a grid item it would otherwise stretch to the article's full height. -->
+<aside class="print-keep card self-start bg-card/85 p-4 dark:bg-card-dark/85 print:bg-white">
 	<h2 class="text-sm font-semibold tracking-wide text-stone-900 uppercase dark:text-stone-100">
 		Nutrition
 	</h2>

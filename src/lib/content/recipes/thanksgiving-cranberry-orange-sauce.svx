@@ -1,0 +1,53 @@
+---
+title: "No-Sugar-Added Cranberry Orange Sauce"
+description: "Fresh cranberries simmered with orange and cinnamon and sweetened with monk fruit. Bright, tart, and ready in 20 minutes."
+date: "2026-11-12"
+draft: false
+tags: ["sauce", "thanksgiving", "diabetic-friendly", "low-carb", "vegan", "gluten-free", "no-added-sugar", "make-ahead"]
+prepTime: "5 min"
+cookTime: "15 min"
+totalTime: "20 min + 2 hr chilling"
+servings: 8
+nutrition:
+  calories: 25
+  protein: "0g"
+  carbs: "6g"
+  fat: "0g"
+  fiber: "2g"
+  sugar: "3g"
+  sodium: "15mg"
+---
+
+<script>
+	import cranberrySauce from '$lib/assets/thanksgiving/cranberry-orange-sauce.svg';
+</script>
+
+<img src={cranberrySauce} alt="Illustration of a bowl of red cranberry sauce with whole berries and an orange slice beside it" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+- 12 oz (340g) fresh or frozen cranberries
+- 1/2 cup (120g) water
+- 1/4 cup (60g) fresh orange juice
+- 1 tsp finely grated orange zest
+- 1 cinnamon stick
+- Pinch of salt
+- Monk fruit sweetener, in one of these forms (see Notes):
+  - Pure liquid monk fruit drops: start with about 30 drops, then add to taste
+  - Granular monk fruit blend: 1/2 cup (100g), plus more to taste
+
+## Instructions
+
+1. **Simmer.** Put the cranberries, water, orange juice, cinnamon stick, and salt in a medium saucepan. If using a granular blend, add it now. Save drops for step 3. Bring to a boil over medium-high heat, then lower the heat to a steady simmer.
+2. **Cook.** Simmer for 10–12 minutes, stirring often, until most of the berries have popped and the sauce starts to thicken. Lightly mash some berries against the side of the pan if you want a smoother sauce.
+3. **Finish.** Take the pan off the heat. Remove the cinnamon stick and stir in the orange zest. If using drops, stir in about 30 now. Taste carefully, since it will be hot, and add more if it's too tart: a few drops at a time, or 1 tablespoon at a time of a granular blend.
+4. **Chill.** Cool to room temperature and refrigerate for at least 2 hours. It thickens as it cools. If it sets too firm, stir in a spoonful of water.
+
+## Notes
+
+- **Nutrition:** Per 1/4 cup, estimated from typical ingredient values. Monk fruit isn't counted. Net carbs are about 4g per serving.
+- **Why it's diabetes-friendly:** Regular cranberry sauce gets most of its carbs from added sugar. Here, the only sugar comes from the berries and a little orange juice.
+- **Drops vs. granules:** Pure drops have no erythritol, so there's no cooling taste and no crystals in the fridge. Without the bulk of a granular sweetener the sauce is a little thinner, so simmer it for a few extra minutes if needed. Granular blends usually contain erythritol, which can form crunchy crystals as the sauce chills. A powdered blend helps, and so does stirring the sauce before serving.
+- **How many drops:** Cranberries are very tart, so you may need up to about 100 drops, but strength varies by brand and too much tastes bitter. Check your bottle's conversion chart and stop as soon as the sauce tastes balanced. It will taste a little less sweet once cold.
+- **Variations:** Add a pinch of ground cloves or ginger, or stir in 1/4 cup (28g) toasted pecans just before serving.
+- **Make it ahead:** Keeps 1 week in the fridge or 2 months in the freezer.

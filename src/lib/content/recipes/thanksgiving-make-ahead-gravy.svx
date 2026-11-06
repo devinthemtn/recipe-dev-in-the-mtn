@@ -1,0 +1,69 @@
+---
+title: "Make-Ahead Turkey Gravy"
+description: "A classic brown roux gravy built on broth infused with roasted onions. Make it days ahead and stir in the turkey drippings on the big day."
+date: "2026-11-12"
+draft: false
+tags: ["sauce", "thanksgiving", "diabetic-friendly", "low-carb", "make-ahead"]
+prepTime: "10 min"
+cookTime: "1 hr"
+totalTime: "1 hr 10 min"
+servings: 8
+nutrition:
+  calories: 65
+  protein: "1g"
+  carbs: "4g"
+  fat: "5g"
+  fiber: "0g"
+  sugar: "1g"
+  sodium: "135mg"
+---
+
+<script>
+	import gravy from '$lib/assets/thanksgiving/make-ahead-gravy.svg';
+</script>
+
+<img src={gravy} alt="Illustration of a white gravy boat pouring rich brown gravy" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+**Flavored broth**
+
+- 1 medium (150g) yellow onion, cut into wedges
+- 1 rib (40g) celery, cut into chunks
+- 2 cloves (7g) garlic, unpeeled
+- 1 Tbs (14g) olive or avocado oil
+- 2 1/2 cups (600g) low-sodium turkey or chicken broth
+- 2 sprigs fresh thyme
+- 1 bay leaf
+
+**Roux**
+
+- 3 Tbs (42g) unsalted butter
+- 1/4 cup (30g) all-purpose flour
+
+**To finish**
+
+- 2 tsp (10g) Worcestershire sauce
+- 1/4 tsp salt, or to taste
+- Freshly cracked black pepper
+- Drippings from the [roast turkey](/recipes/thanksgiving-herb-mayo-roast-turkey), optional
+
+## Instructions
+
+1. **Roast the vegetables.** Heat the oven to 425°F (220°C). Toss the onion, celery, and garlic with the oil on a sheet pan. Roast for 25–30 minutes, stirring once, until deeply browned at the edges.
+2. **Flavor the broth.** Put the vegetables in a saucepan, lightly crushing the garlic. Add the broth, thyme, and bay leaf and bring to a boil. Lower the heat and simmer for 15 minutes. Pour through a strainer into a large measuring cup, pressing gently on the vegetables, then discard them. You should have about 2 cups. Add more broth if you're short.
+3. **Make the roux.** Melt the butter in the same saucepan, wiped clean, over medium heat. Whisk in the flour and cook for 4–6 minutes, whisking constantly, until it smells nutty and turns the color of peanut butter. Lower the heat if it starts to darken quickly.
+4. **Thicken.** Slowly pour in the hot broth, a splash at a time at first, whisking constantly to keep it smooth. Bring to a gentle simmer and cook for 5 minutes, until it coats a spoon. Stir in the Worcestershire. It can be refrigerated at this point.
+5. **Finish.** When ready to serve, reheat the gravy gently, whisking. Skim the fat from the turkey drippings and stir in the drippings a little at a time. Simmer for a few minutes if they thin it too much. Taste before adding the salt and pepper, since drippings from a dry-brined turkey can be salty.
+
+## Notes
+
+- **Nutrition:** Per 1/4 cup, estimated from typical ingredient values and without the drippings. The strained vegetables are only partly counted, since most of them are discarded. Net carbs are about 4g per serving.
+- **Why it's diabetes-friendly:** A serving is small, and the roux adds only about 3g of carbs per 1/4 cup, so a normal pour of gravy doesn't add much to the plate. Just measure it once if you tend to pour generously.
+- **Make it ahead:** Refrigerate for up to 4 days or freeze for up to 3 months, stopping after step 4. It sets firmly when cold and loosens as it warms. Whisk in a splash of broth if needed.
+- **Lumps:** Adding the broth slowly and whisking the whole time prevents most lumps. If you get some anyway, pour the gravy through a fine-mesh strainer.
+- **Too thin or too thick:** Simmer it a little longer to thicken it, or add a splash of broth to loosen it.
+- **Using the drippings as fat:** On the day, you can make the roux with 3 Tbs of fat skimmed from the turkey pan instead of butter. It adds flavor, but you won't be able to make that version ahead.
+- **Richer color and flavor:** Add a splash of soy sauce or tamari, keeping in mind that it adds sodium.
+- **Gluten-free:** Use sweet rice flour in the roux and a gluten-free Worcestershire (Lea & Perrins in the US is gluten-free).
+- **Vegetarian:** Use vegetable broth, a vegetarian Worcestershire, and skip the drippings.

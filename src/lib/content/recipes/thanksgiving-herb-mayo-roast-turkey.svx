@@ -1,0 +1,75 @@
+---
+title: "Herb-Mayo Roast Turkey"
+description: "A whole dry-brined turkey coated in garlicky herb mayonnaise, homemade or store-bought, for deeply browned skin and juicy meat."
+date: "2026-11-12"
+draft: false
+tags: ["dinner", "thanksgiving", "diabetic-friendly", "low-carb", "gluten-free", "high-protein", "make-ahead"]
+prepTime: "20 min"
+cookTime: "3 hr"
+totalTime: "3 hr 50 min + 24 hr resting"
+servings: 12
+nutrition:
+  calories: 435
+  protein: "52g"
+  carbs: "0g"
+  fat: "24g"
+  fiber: "0g"
+  sugar: "0g"
+  sodium: "820mg"
+---
+
+<script>
+	import roastTurkey from '$lib/assets/thanksgiving/herb-mayo-roast-turkey.svg';
+</script>
+
+<img src={roastTurkey} alt="Illustration of a whole golden roast turkey on a platter with herb sprigs and lemon wedges" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+- 1 whole turkey, 12–14 lb (5.4–6.4kg), thawed, giblets removed
+- 3 1/2 tsp (21g) table salt, or 2 1/2 Tbs Diamond Crystal kosher salt
+- 1 tsp freshly cracked black pepper
+
+**Mayonnaise, one of these**
+
+- Store-bought: 3/4 cup (165g) mayonnaise, ideally with no added sugar
+- Homemade: 1 room-temperature egg yolk, 1 tsp (5g) Dijon mustard, 1 Tbs (15g) lemon juice, a pinch of salt, and 3/4 cup (165g) avocado or light olive oil (see step 2)
+
+**Herbs for the mayo**
+
+- 2 Tbs chopped fresh sage
+- 2 Tbs fresh thyme leaves
+- 1 Tbs chopped fresh rosemary
+- 4 cloves (14g) garlic, minced
+- 2 tsp finely grated lemon zest
+
+**For the roasting pan**
+
+- 1 onion, cut into wedges
+- 2 ribs celery, cut into chunks
+- 1 carrot, cut into chunks
+- 2 cups (480g) low-sodium chicken or turkey broth
+
+## Instructions
+
+1. **Dry-brine.** The day before roasting, pat the turkey dry, inside and out. Sprinkle the salt and pepper evenly over all sides and inside the cavity. Refrigerate it uncovered on a rack set over a rimmed pan for 24 hours. Don't rinse it afterward.
+2. **Make the mayo, if using homemade.** Whisk the egg yolk, mustard, lemon juice, and pinch of salt in a bowl. Whisking constantly, add the oil a few drops at a time until it starts to thicken, then add the rest in a very thin stream until thick. An immersion blender in a tall cup also works.
+3. **Add the herbs.** Stir the sage, thyme, rosemary, garlic, and lemon zest into the mayonnaise. Chill until needed.
+4. **Heat the oven.** Take the turkey out of the fridge about 30 minutes before roasting and pat it dry again. Heat the oven to 350°F (175°C). Scatter the onion, celery, and carrot in a large roasting pan, pour in the broth, and set a rack on top. Tuck the wing tips under the bird and tie the legs together if you like.
+5. **Coat the turkey.** Set the turkey on the rack, breast side up. Loosen the breast skin with your fingers without tearing it. Spread about 1/4 of the herb mayo on the meat under the skin, then coat the outside of the bird evenly with the rest.
+6. **Roast.** Roast for 2 1/2–3 hours, about 13 minutes per pound, until the thickest part of the breast and the innermost part of the thigh both reach 165°F (74°C), without touching the bone. Start checking 45 minutes early. Mayo browns quickly, so tent the breast loosely with foil once the skin is a deep golden brown. Add a splash of water if the pan goes dry.
+7. **Rest and carve.** Move the turkey to a cutting board, tent loosely with foil, and rest for 30–45 minutes. Save the pan juices for [make-ahead gravy](/recipes/thanksgiving-make-ahead-gravy). Carve and serve.
+
+## Notes
+
+- **Nutrition:** Per 1/12 of the bird, about 6 1/2 oz (190g) of cooked mixed white and dark meat with skin, estimated from typical values. A 5 oz (140g) portion is about 325 calories, 39g protein, 18g fat, and 615mg sodium. The numbers count half of the mayo, since a lot of it drips into the pan, and they assume the salt is spread evenly across the meat. Eating the breast without skin lowers the fat quite a bit. Doesn't include gravy or the pan vegetables.
+- **Why mayo:** Mayonnaise is mostly oil, with egg that helps the skin brown evenly, and it holds the herbs in place on the bird. It shouldn't taste like mayonnaise once roasted.
+- **Why it's diabetes-friendly:** Turkey has almost no carbs and plenty of protein. Eating some protein before the starchy dishes can help keep blood sugar steadier. See [what I got wrong in my first year](/blog/one-year-in-what-i-got-wrong).
+- **Check the turkey label:** Skip the dry brine if your turkey is labeled kosher, self-basting, or "contains a solution of broth and salt." Those are already salted, so just use the pepper and go light on salt in everything else.
+- **Check the mayo label:** Some brands contain added sugar, and oils vary. If you're cooking for someone with an allergy, check the ingredients and allergen statement.
+- **Thawing:** Thaw a frozen turkey in the fridge, allowing about 24 hours for every 4–5 lb. A 12–14 lb bird takes about 3 days, so move it to the fridge at least 4 days before you roast it to leave time for the dry brine.
+- **Homemade mayo tips:** Light olive oil or avocado oil works best because extra-virgin olive oil can turn bitter when whisked hard. If it breaks and turns greasy, whisk a fresh yolk in a clean bowl and slowly whisk the broken mayo into it. Refrigerate it and use within 2 days. The yolk is raw until it's roasted, so use pasteurized eggs if you want to be extra careful.
+- **Keep it food-safe:** Scoop the herb mayo into a separate bowl for coating the bird, and throw out anything left in that bowl once it has touched raw turkey. Wash your hands and tools afterward. Roast the turkey unstuffed and bake the stuffing in its own dish so you can be sure both are cooked through.
+- **Use a thermometer:** Turkeys and ovens vary, so go by the temperature rather than the clock.
+- **Make it ahead:** The herb mayo keeps for up to 2 days in the fridge, or follow the label's storage directions for store-bought.
+- Refrigerate leftovers within 2 hours and use within 4 days, or freeze for up to 3 months.

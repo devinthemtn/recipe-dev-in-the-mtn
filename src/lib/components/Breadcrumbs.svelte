@@ -23,10 +23,11 @@
 		return text.charAt(0).toUpperCase() + text.slice(1);
 	}
 
-	// Every crumb links to a prefix of the current path, so hrefs already
-	// include any base path and the trailing slash the site uses.
+	// Every crumb links to a prefix of the current path, so hrefs keep the
+	// trailing slash the site uses.
 	const segments = $derived(page.url.pathname.split('/').filter(Boolean));
-	// The site root, e.g. "/" (or "/base/" if the site is ever served from a subpath).
+	// The site root. This assumes the site is served from "/": a base path would
+	// show up as the first crumb instead of being part of Home.
 	const home = $derived(page.url.pathname.slice(0, page.url.pathname.indexOf(segments[0] ?? '')));
 	const crumbs = $derived.by(() => {
 		return segments.map((segment, i) => {
@@ -49,7 +50,8 @@
 				<a href={home} class="font-medium hover:text-stone-900 dark:hover:text-stone-100">Home</a>
 			</li>
 			{#each crumbs as crumb, i (crumb.href)}
-				<li class="flex items-center gap-1.5">
+				<!-- min-w-0 lets a long title shrink and truncate instead of widening the page. -->
+				<li class="flex min-w-0 items-center gap-1.5">
 					<span aria-hidden="true" class="text-stone-400 dark:text-stone-600">/</span>
 					{#if i === crumbs.length - 1}
 						<span aria-current="page" class="truncate text-stone-700 dark:text-stone-300"

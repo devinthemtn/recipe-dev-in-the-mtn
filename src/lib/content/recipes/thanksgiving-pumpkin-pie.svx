@@ -1,0 +1,69 @@
+---
+title: "Low-Sugar Pumpkin Pie"
+description: "Classic spiced pumpkin custard sweetened without sugar, in a press-in sunflower seed crust. Skip the crust for an even lighter crustless version."
+date: "2026-11-12"
+draft: false
+tags: ["dessert", "thanksgiving", "diabetic-friendly", "low-carb", "gluten-free", "vegetarian", "make-ahead", "no-added-sugar"]
+prepTime: "15 min"
+cookTime: "1 hr 5 min"
+totalTime: "2 hr 20 min + 3 hr chilling"
+servings: 8
+nutrition:
+  calories: 295
+  protein: "8g"
+  carbs: "10g"
+  fat: "26g"
+  fiber: "4g"
+  sugar: "3g"
+  sodium: "150mg"
+---
+
+<script>
+	import pumpkinPie from '$lib/assets/thanksgiving/pumpkin-pie.svg';
+</script>
+
+<img src={pumpkinPie} alt="Illustration of a pumpkin pie with a golden crust, a slice cut out, and a dollop of whipped cream" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+**Sunflower seed crust (optional)**
+
+- 1 1/2 cups (168g) sunflower seed flour
+- 2 Tbs (14g) ground flaxseed
+- 2 Tbs granulated allulose or monk fruit sweetener
+- 1/8 tsp salt
+- 3 Tbs (42g) unsalted butter, melted
+
+**Pumpkin filling**
+
+- 1 can (15 oz / 425g) pumpkin purée, not pumpkin pie mix
+- 3 large eggs
+- 3/4 cup (180g) heavy cream
+- 1/2 cup (100g) granulated allulose or monk fruit sweetener, or liquid monk fruit drops to taste (see Notes)
+- 1 1/2 tsp ground cinnamon
+- 1/2 tsp ground ginger
+- 1/4 tsp ground nutmeg
+- 1/8 tsp ground cloves
+- 1/4 tsp salt
+- 1 tsp vanilla extract
+
+## Instructions
+
+1. **Heat the oven.** Heat the oven to 350°F (175°C). Grease a 9-inch pie dish with butter.
+2. **Make the crust.** Stir the sunflower seed flour, flaxseed, sweetener, and salt together in a bowl. Add the melted butter and stir until it looks like damp sand. Press it firmly and evenly across the bottom and up the sides of the dish. Bake for 10–12 minutes, until the edge just starts to color. If you're going crustless, skip this step.
+3. **Mix the filling.** Whisk the pumpkin, eggs, cream, sweetener, spices, salt, and vanilla until smooth. Pour into the crust or the greased dish.
+4. **Bake.** Bake for 45–55 minutes, until the edges are set and the center still jiggles slightly, like gelatin. It should read about 175°F (80°C) in the center. Allulose browns quickly, so lay foil loosely over the pie if the edges darken too fast.
+5. **Cool and chill.** Cool on a rack for 1 hour, then refrigerate for at least 3 hours. The filling finishes setting as it chills.
+
+## Notes
+
+- **Nutrition:** Per 1/8 of the pie with the crust, estimated from typical ingredient values. Sweeteners aren't counted. Net carbs are about 6g per serving. Without the crust, each serving is about 125 calories, 6g carbs, 2g fiber, 4g protein, and 10g fat.
+- **Why it's diabetes-friendly:** Pumpkin itself is fairly low in carbs. Most of the carbs in a regular pie come from the added sugar and the flour crust, and this version replaces both. The seeds, eggs, and cream also add protein and fat.
+- **Crustless version:** Skip step 2 and start checking the pie at 40 minutes. It's softer, so serve it with a spoon if the slices don't hold.
+- **Lighter filling:** Half-and-half in place of the heavy cream cuts about 5g of fat per serving. The filling will be a little less rich.
+- **If the crust looks green:** Sunflower seeds can turn green when they react with alkaline ingredients. This crust has no baking soda or powder to limit that, but a slight tint is harmless.
+- **Sweetener:** Allulose keeps the filling smooth. Erythritol-based monk fruit blends also work, but they can leave a slight cooling taste and turn a little grainy when cold.
+- **Using monk fruit drops:** Pure drops have no erythritol, so there's no cooling taste. Whisk the pumpkin, cream, spices, salt, and vanilla together first and start with about 40 drops. Taste, add more a few drops at a time, then whisk in the eggs last so you aren't tasting raw egg. You may need up to about 80 drops, but strength varies by brand and too much tastes bitter, so check your bottle's conversion chart. Without the bulk of a granulated sweetener, the filling may set a little firmer and bake faster, so start checking at 40 minutes. In the crust, leave the sweetener out, since drops don't mix evenly into the butter and the filling is sweet enough on its own.
+- **Allergies:** The crust has no tree nuts, but check the sunflower flour label for shared-facility warnings if you're cooking for someone with an allergy.
+- **Serve it with:** Unsweetened whipped cream or a spoonful of plain Greek yogurt.
+- **Make it ahead:** Bake up to 2 days ahead and keep it covered in the fridge.

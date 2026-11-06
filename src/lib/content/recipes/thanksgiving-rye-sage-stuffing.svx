@@ -1,0 +1,74 @@
+---
+title: "Rye and Sage Stuffing"
+description: "A savory, sage-forward stuffing made with dense rye bread, celery, onion, and toasted walnuts. Add mushrooms for extra vegetables and depth."
+date: "2026-11-12"
+draft: false
+tags: ["side", "thanksgiving", "diabetic-friendly", "vegetarian", "make-ahead"]
+prepTime: "30 min"
+cookTime: "1 hr 5 min"
+totalTime: "1 hr 35 min"
+servings: 8
+nutrition:
+  calories: 175
+  protein: "6g"
+  carbs: "18g"
+  fat: "10g"
+  fiber: "3g"
+  sugar: "2g"
+  sodium: "365mg"
+---
+
+<script>
+	import stuffing from '$lib/assets/thanksgiving/rye-sage-stuffing.svg';
+</script>
+
+<img src={stuffing} alt="Illustration of a baking dish filled with golden stuffing and green sage leaves" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+**Bread**
+
+- 8 oz (225g) dense whole grain rye or rye sourdough, cut into 3/4-inch cubes
+
+**Vegetables**
+
+- 2 Tbs (28g) unsalted butter
+- 1 lb (454g) cremini mushrooms, chopped, optional
+- 3 ribs (150g) celery, diced
+- 1 large (150g) yellow onion, diced
+- 3 cloves (10g) garlic, minced
+- 2 Tbs chopped fresh sage
+- 1 Tbs fresh thyme leaves
+- 1/2 tsp (3g) salt
+- 1/4 tsp freshly cracked black pepper
+
+**To finish**
+
+- 1/2 cup (58g) walnuts, toasted and chopped
+- 2 large eggs
+- 1 cup (240g) low-sodium vegetable or chicken broth
+- 2 Tbs chopped fresh parsley
+
+## Instructions
+
+1. **Toast the bread.** Heat the oven to 300°F (150°C). Spread the bread cubes on a sheet pan and bake for 20–25 minutes, stirring once, until dry and crisp at the edges. Raise the oven to 375°F (190°C). Butter a 2-quart baking dish.
+2. **Brown the mushrooms, if using.** Melt the butter in a large skillet over medium-high heat. Add the mushrooms and cook for 10–12 minutes, stirring now and then, until their liquid has cooked off and they start to brown. If you're skipping the mushrooms, just melt the butter over medium heat and go to the next step.
+3. **Cook the vegetables.** Add the celery and onion and cook for 6–8 minutes, until soft. Stir in the garlic, sage, thyme, salt, and pepper and cook for 1 minute. Take the pan off the heat.
+4. **Combine the dry ingredients.** In a large bowl, toss the bread with the vegetables, walnuts, and parsley. Let it cool for 5 minutes, until it's warm but no longer steaming, so the hot vegetables don't scramble the eggs.
+5. **Add the eggs and broth.** In a medium bowl, whisk the eggs until no streaks of white remain, then whisk in the room-temperature or cool broth. Pour over the bread mixture and fold until the liquid is absorbed and no pools collect at the bottom of the bowl. Let it sit for 5 minutes so the bread soaks up the liquid, then move it to the baking dish without packing it down.
+6. **Bake.** Cover with foil and bake for 20 minutes. Uncover and bake for another 20–25 minutes, until the top is crisp, the center is set with no wet egg, and it reaches 165°F (74°C) on an instant-read thermometer.
+
+## Notes
+
+- **Nutrition:** Per 1/8 of the dish without the optional mushrooms, estimated from typical ingredient values. Rye breads vary a lot, so check your loaf's label. Net carbs are about 15g per serving. With the mushrooms, each serving is about 190 calories, 20g carbs, 3g fiber, and 7g protein, with net carbs of about 17g.
+- **Why it's diabetes-friendly:** The bread is the main source of carbs, so this recipe keeps it to 8 oz and adds plenty of celery and onion. Dense rye also has more soluble fiber than white sandwich bread. See [Breads I Like Using](/blog/breads-i-like-using) for how to pick a good loaf.
+- **Why eggs:** The eggs and broth form a light savory custard that sets in the oven and holds the bread together. You get a moist center and portions that stay together on the plate, and it won't taste eggy. For an egg-free version, leave them out and add 1/4 cup more broth. It will be looser and more spoonable, with about 20 fewer calories and 1.5g less protein per serving.
+- **With or without mushrooms:** The mushrooms add savory depth and make the servings bigger for only about 2g more carbs each. Without them, the dish comes out smaller and more bread-forward, so the servings look more modest, and an 8x8-inch dish works well.
+- **How much sage:** 2 Tbs gives a clear sage flavor without taking over. If you love sage, go up to 3 Tbs, since it's the main flavor here. In place of fresh, use 2 tsp dried rubbed sage.
+- **Choosing the bread:** Look for whole rye near the top of the ingredient list. Plain rye works best here because a strong caraway flavor can compete with the sage. Many American pumpernickels are mostly wheat flour colored with molasses or caramel, so read the label on those.
+- **Making it ahead:** Toast the bread up to 2 days ahead and keep it in an airtight container. Cook the vegetables the day before and refrigerate them. Add the eggs and broth right before baking.
+- **Bake it in a dish:** Baking it outside the bird gives you a crisp top and makes it easier to be sure it's cooked through.
+- **Vegetarian:** Use vegetable broth.
+- **Nut-free:** Leave out the walnuts or use toasted sunflower seeds.
+- **Gluten:** Rye contains gluten, so this recipe isn't gluten-free.
+- Refrigerate leftovers up to 4 days. Reheat in a 350°F oven with a splash of broth.
