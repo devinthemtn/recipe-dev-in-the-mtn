@@ -1,10 +1,13 @@
-// Coffee reviews and coffee products are authored as markdown (.svx) files with
-// frontmatter in src/lib/content/coffee/reviews and src/lib/content/coffee/products.
+// Coffee reviews, guides and products are authored as markdown (.svx) files with
+// frontmatter in src/lib/content/coffee/reviews, src/lib/content/coffee/guides and
+// src/lib/content/coffee/products.
 // Metadata is loaded eagerly (cheap, small), while the rendered component for a
 // single entry is loaded on demand. Both are listed newest first.
 // The recommended videos and channels live in ./coffee/videos.js.
 const reviewMeta = import.meta.glob('/src/lib/content/coffee/reviews/*.svx', { eager: true });
 const reviewComponents = import.meta.glob('/src/lib/content/coffee/reviews/*.svx');
+const guideMeta = import.meta.glob('/src/lib/content/coffee/guides/*.svx', { eager: true });
+const guideComponents = import.meta.glob('/src/lib/content/coffee/guides/*.svx');
 const productMeta = import.meta.glob('/src/lib/content/coffee/products/*.svx', { eager: true });
 const productComponents = import.meta.glob('/src/lib/content/coffee/products/*.svx');
 
@@ -23,7 +26,11 @@ function getAll(metaModules) {
 	return Object.entries(metaModules)
 		.filter(([, mod]) => !mod.metadata.draft)
 		.map(([path, mod]) => ({ slug: slugFromPath(path), ...mod.metadata }))
-		.sort((a, b) => new Date(b.date) - new Date(a.date));
+		.sort(
+			// Newest first. Entries from the same day that belong to a series (see the
+			// guide template) keep their `part` order, with the overview (part 0) first.
+			(a, b) => new Date(b.date) - new Date(a.date) || (a.part ?? 0) - (b.part ?? 0)
+		);
 }
 
 /**
@@ -55,6 +62,11 @@ export const getAllCoffeeReviews = () => getAll(reviewMeta);
 export const getCoffeeReviewSlugs = () => getSlugs(reviewMeta);
 /** @param {string} slug */
 export const loadCoffeeReview = (slug) => loadOne(reviewComponents, 'reviews', slug);
+
+export const getAllCoffeeGuides = () => getAll(guideMeta);
+export const getCoffeeGuideSlugs = () => getSlugs(guideMeta);
+/** @param {string} slug */
+export const loadCoffeeGuide = (slug) => loadOne(guideComponents, 'guides', slug);
 
 export const getAllCoffeeProducts = () => getAll(productMeta);
 export const getCoffeeProductSlugs = () => getSlugs(productMeta);

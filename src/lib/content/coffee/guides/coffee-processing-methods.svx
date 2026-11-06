@@ -1,0 +1,46 @@
+---
+title: "Coffee Processing Methods: Washed, Natural, Honey and More"
+description: "How coffee gets from fruit to bean, and how washed, natural, honey, wet-hulled, anaerobic and co-fermented processing change the way it tastes."
+date: "2026-11-05"
+tags: ["guide", "beans", "processing"]
+series: "Understanding Coffee Beans"
+part: 3
+---
+
+<script>
+	import CoffeeProcessingChart from '$lib/components/CoffeeProcessingChart.svelte';
+</script>
+
+A coffee bean is the seed of a fruit. Coffee grows as small red or yellow cherries on a shrub, and each cherry usually holds two seeds. Around the seed is a thin skin, a layer of sweet, sticky fruit (the mucilage), and a papery shell called parchment.
+
+Once the cherries are picked, the farm has to get the seed out of the fruit and dry it down enough to store and ship. How they do that is the processing method, and it changes the flavor more than most people expect. More contact with the fruit, for longer, generally means a sweeter, fruitier, wilder cup. Less contact means a cleaner one.
+
+This is part three of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans).
+
+<CoffeeProcessingChart />
+
+## The big three
+
+**Washed** coffee is the clearest window into the coffee itself. The fruit comes off before the beans dry, so what you taste is mostly the [variety](/coffee/guides/coffee-varieties) and [where it was grown](/coffee/guides/coffee-origins). If you like a crisp, bright cup, start here.
+
+**Natural** coffee is the opposite. The whole cherry dries in the sun with the seed inside, and the seed picks up a lot of the fruit's sugar and flavor. A good natural Ethiopian can taste like blueberries. A bad one can taste overripe or fermented.
+
+**Honey** sits in between. The skin comes off, but the sticky mucilage stays on during drying. (No honey is involved. The name comes from how the sticky beans feel.) Farms often label it by color, from white and yellow honey (the least mucilage) through red to black honey (the most), and it generally gets sweeter and fruitier as the color darkens.
+
+## Regional methods
+
+**Wet-hulled** (_giling basah_) coffee is mostly from Indonesia, especially Sumatra. The beans get hulled while still damp and finish drying exposed, which helps in a humid climate. It gives the heavy, earthy, low-acid cup a lot of people think of as "Sumatra." Some people love it, and some can't stand it.
+
+**Monsooned** coffee is an Indian specialty, best known as _Monsooned Malabar_. Dried beans are spread out in open-sided warehouses on the coast for three to four months of the monsoon, where they soak up humid air and swell. It comes out mellow and low in acid, with a heavy, spicy, earthy cup.
+
+## Experimental methods
+
+**Anaerobic** coffees ferment in sealed tanks with no oxygen before drying. **Carbonic maceration** is a version of this borrowed from winemaking, where the tank is filled with carbon dioxide. Both push the flavors toward intense, boozy, wine-like fruit. When it's done well, it's fun. When it's overdone, the fermentation can drown out the coffee.
+
+**Co-fermented** or **infused** coffees go a step further: fruit, spices or other ingredients go into the tank with the coffee. These are the coffees whose tasting notes say things like "strawberry candy" or "cinnamon roll," and they really do taste like that. They're also controversial. There's no agreed definition for these labels yet, and some coffee competitions have pushed back on them. Treat them as a flavored coffee made at the farm and enjoy them for what they are. Just know you're tasting the added ingredient as much as the coffee.
+
+## Where to start
+
+If you're not sure what you like, buy a washed and a natural coffee from the same country, ideally from the same roaster, and brew them side by side. It's the fastest way to taste what processing does. Ethiopia is a great country for this because it's known for both.
+
+Next up is [roast level](/coffee/guides/coffee-roast-levels): how the roaster turns all of this into the coffee in your cup.

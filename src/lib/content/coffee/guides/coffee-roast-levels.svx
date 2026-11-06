@@ -1,0 +1,50 @@
+---
+title: "Coffee Roast Levels: Light, Medium and Dark"
+description: "How light, medium and dark roasts taste, whether dark roast really has more caffeine, and why the roast date on the bag matters."
+date: "2026-11-05"
+tags: ["guide", "beans", "roast"]
+series: "Understanding Coffee Beans"
+part: 4
+---
+
+<script>
+	import CoffeeRoastChart from '$lib/components/CoffeeRoastChart.svelte';
+</script>
+
+Green coffee beans taste grassy and raw. Roasting is what turns them into coffee, and how far a roaster takes them changes everything. The [origin](/coffee/guides/coffee-origins), [variety](/coffee/guides/coffee-varieties) and [processing](/coffee/guides/coffee-processing-methods) set up the flavors. The roast decides how many of them make it to your cup.
+
+This is part four of [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans).
+
+## Light, medium and dark
+
+<CoffeeRoastChart />
+
+- **Light roasts** keep the most of the coffee's own character: the fruit and florals from the variety and the process. They also have the most acidity. This is where most specialty roasters live, especially for pour over.
+- **Medium roasts** trade some of that brightness for sweetness and body. Think caramel, nuts and milk chocolate. This is the easiest place to start if light roasts taste sour to you.
+- **Dark roasts** taste more like the roast than the bean: smoky, bittersweet and toasty, with oil on the surface. They hold up well to milk, and they're forgiving to brew. The trade-off is that a Kenyan and a Brazilian taste pretty similar at a dark roast.
+
+## Reading roast on a bag
+
+There's no standard for roast names, so one roaster's "medium" can be another's "light." Some roasters skip the words and use a scale or a row of beans instead. You'll also see:
+
+- **Filter roast:** Usually lighter, made for pour over and drip.
+- **Espresso roast:** Usually a bit darker, so it's sweeter and easier to pull as a shot.
+- **Omni roast:** Meant to work for both.
+
+Names like "French roast" and "Italian roast" are old shorthand for very dark roasts.
+
+## Does dark roast have more caffeine?
+
+Not really. By weight, light and dark roasts have about the same caffeine. Dark roast beans are puffier and lighter, though, so if you measure with a scoop instead of a scale, a scoop of light roast holds a little more coffee and a little more caffeine. It's one more reason to [weigh your beans](/coffee/reviews/hand-coffee-grinders).
+
+## Check the roast date
+
+A good bag shows a **roast date**, not just a "best by" date. Coffee is at its best for a few weeks after roasting, and fresher isn't always better: freshly roasted beans give off a lot of CO₂ for the first several days, which can make the brew uneven. For pour over and other filter coffee, beans are usually great from about a few days to two weeks after roasting. Espresso and light roasts tend to like a little longer rest. After a month or so, most coffee starts to taste flat.
+
+If a bag doesn't have a roast date at all, I'd skip it.
+
+## Where to start
+
+If you drink your coffee black and want to taste the beans, go light or medium. If you take milk, or you just like a bold, toasty cup, medium-dark and dark roasts are made for that. Either way, buy a bag with a recent roast date and [grind it fresh](/coffee/reviews/hand-coffee-grinders).
+
+That's the last of the four. To put them all together on a real bag, head back to the [overview](/coffee/guides/understanding-coffee-beans).
