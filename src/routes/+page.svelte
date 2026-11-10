@@ -1,4 +1,5 @@
 <script>
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
 	import { resolve } from '$app/paths';
 	import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';
 	import { newsletterConfig } from '$lib/newsletter.js';
@@ -50,7 +51,9 @@
 					i >= recipeCount && 'max-lg:hidden'
 				]}
 			>
-				<h3 class="font-semibold text-stone-900 dark:text-stone-100">{recipe.title}</h3>
+				<h3 class="font-semibold text-stone-900 dark:text-stone-100">
+					{recipe.title}<DraftBadge draft={recipe.draft} />
+				</h3>
 				<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{recipe.description}</p>
 			</a>
 		{/each}
@@ -76,7 +79,9 @@
 					i >= postCount && 'max-lg:hidden'
 				]}
 			>
-				<h3 class="font-semibold text-stone-900 dark:text-stone-100">{post.title}</h3>
+				<h3 class="font-semibold text-stone-900 dark:text-stone-100">
+					{post.title}<DraftBadge draft={post.draft} />
+				</h3>
 				<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{post.description}</p>
 			</a>
 		{/each}

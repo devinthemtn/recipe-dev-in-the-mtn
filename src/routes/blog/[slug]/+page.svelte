@@ -1,4 +1,5 @@
 <script>
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
 	import NewsletterSignup from '$lib/components/NewsletterSignup.svelte';
 	import { newsletterConfig } from '$lib/newsletter.js';
 
@@ -21,7 +22,7 @@
 </svelte:head>
 
 <h1 class="text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
-	{meta.title}
+	{meta.title}<DraftBadge draft={meta.draft} />
 </h1>
 <p class="mt-2 text-sm text-stone-500">
 	{formatDate(meta.date)}{#if meta.author}&nbsp;&middot; {meta.author}{/if}

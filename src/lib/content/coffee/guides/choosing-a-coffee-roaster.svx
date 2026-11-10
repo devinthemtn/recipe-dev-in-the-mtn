@@ -39,10 +39,43 @@ A few things help:
 
 ## Coffee subscriptions
 
-A subscription sends you coffee on a schedule, usually every one to four weeks. It's an easy way to always have fresh beans without thinking about it. There are two main kinds:
+A subscription sends you coffee on a schedule, usually every one to four weeks. It's an easy way to always have fresh beans without thinking about it. There are three main kinds:
 
 - **A single roaster's subscription.** You get that roaster's coffees, often a rotating pick of their menu, or the same coffee every time if you have a favorite.
+
+  - **[Counter Culture](https://counterculturecoffee.com/)**
+
+    A favorite for single-origin coffee, with a strong focus on sustainability and long-term relationships with farmers. Whole bean only, so you'll need a grinder.
+  - **[Intelligentsia](https://www.intelligentsia.com/)**
+
+    Simple tiers to choose from: blends and espresso, single origins, or "Intelligentsia's Choice," where they pick for you. A good all-around place to start.
+  - **[Stumptown](https://www.stumptowncoffee.com/)**
+
+    Their Roaster's Pick sends a different coffee each time, chosen by their roasters, with notes on where it was grown. Easy to love if you like a little surprise.
+  - **[Blue Bottle](https://bluebottlecoffee.com/)**
+
+    Clean, polished coffees with options for single origins, blends, espresso and decaf. A nice choice as a gift.
+  - **[Onyx Coffee Lab](https://onyxcoffeelab.com/)**
+
+    Bright, adventurous coffees, often from rare or experimental lots. Best if you already know you like lighter roasts and want to explore.
+
 - **A multi-roaster subscription.** One service sends coffee from many different roasters, usually matched to what you say you like. It's a great way to explore, but check how fresh the coffee is when it ships.
+
+  - **[Trade Coffee](https://www.drinktrade.com/)**
+
+    A short quiz matches you with coffees from independent roasters across the US. You rate each bag, and those ratings shape what you get next. It's easy to pick a schedule, then swap, repeat or pause from your account.
+  - **[MistoBox](https://mistobox.com/)**
+
+    Instead of a matching algorithm, a real person picks your coffees from dozens of independent roasters. Your picks get better as you rate bags, and you can pause for as long as you need.
+  - **[Crema](https://crema.co/)**
+
+    You build your own queue (they call it a Brewlist) from a big list of roasters and coffees, and they ship the next one on your schedule. Good if you'd rather choose every bag yourself. Shipping in the US is free.
+
+- **A frozen coffee subscription.** Not beans at all. The coffee is already brewed for you.
+
+  - **[Cometeer](https://cometeer.com/)**
+
+    Coffee from partner roasters is brewed, concentrated and flash-frozen into small capsules that ship on dry ice. Keep them in the freezer, then melt one in hot water (or pour it over milk and ice) for a cup in seconds. You don't need a grinder or brewer, but it costs more per cup.
 
 What to look for:
 

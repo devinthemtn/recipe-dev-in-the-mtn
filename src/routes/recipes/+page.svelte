@@ -1,4 +1,5 @@
 <script>
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
 	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
 	import { browser } from '$app/environment';
@@ -187,7 +188,9 @@
 					href={resolve('/recipes/[slug]', { slug: recipe.slug })}
 					class="card card-link flex flex-col p-5"
 				>
-					<h2 class="font-semibold text-stone-900 dark:text-stone-100">{recipe.title}</h2>
+					<h2 class="font-semibold text-stone-900 dark:text-stone-100">
+						{recipe.title}<DraftBadge draft={recipe.draft} />
+					</h2>
 					<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{recipe.description}</p>
 					<div class="mt-auto flex flex-wrap gap-1.5 pt-3">
 						{#each recipe.tags ?? [] as tag (tag)}

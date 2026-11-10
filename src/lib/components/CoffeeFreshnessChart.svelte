@@ -16,7 +16,7 @@
 		{
 			name: 'Filter, medium & dark',
 			spans: [
-				{ phase: 'rest', to: 3 },
+				{ phase: 'rest', to: 2 },
 				{ phase: 'peak', to: 14 },
 				{ phase: 'good', to: 28 },
 				{ phase: 'fade', to: maxDay }
@@ -25,8 +25,8 @@
 		{
 			name: 'Filter, light roast',
 			spans: [
-				{ phase: 'rest', to: 7 },
-				{ phase: 'peak', to: 21 },
+				{ phase: 'rest', to: 5 },
+				{ phase: 'peak', to: 17 },
 				{ phase: 'good', to: 35 },
 				{ phase: 'fade', to: maxDay }
 			]

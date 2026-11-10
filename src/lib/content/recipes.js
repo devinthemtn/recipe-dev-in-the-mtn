@@ -1,6 +1,8 @@
 // Recipes are authored as markdown (.svx) files with frontmatter in
 // src/lib/content/recipes. Metadata is loaded eagerly (cheap, small),
 // while the rendered component for a single recipe is loaded on demand.
+import { isVisible } from './drafts.js';
+
 const metaModules = import.meta.glob('/src/lib/content/recipes/*.svx', { eager: true });
 const componentModules = import.meta.glob('/src/lib/content/recipes/*.svx');
 
@@ -14,7 +16,7 @@ function slugFromPath(path) {
 /** @returns {Array<{ slug: string } & Record<string, any>>} */
 export function getAllRecipes() {
 	return Object.entries(metaModules)
-		.filter(([, mod]) => !mod.metadata.draft)
+		.filter(([, mod]) => isVisible(mod.metadata))
 		.map(([path, mod]) => ({ slug: slugFromPath(path), ...mod.metadata }))
 		.sort((a, b) => new Date(b.date) - new Date(a.date));
 }
@@ -22,7 +24,7 @@ export function getAllRecipes() {
 /** @returns {string[]} */
 export function getRecipeSlugs() {
 	return Object.entries(metaModules)
-		.filter(([, mod]) => !mod.metadata.draft)
+		.filter(([, mod]) => isVisible(mod.metadata))
 		.map(([path]) => slugFromPath(path));
 }
 
@@ -33,7 +35,7 @@ export async function loadRecipe(slug) {
 	if (!importModule) return null;
 
 	const mod = await importModule();
-	if (mod.metadata.draft) return null;
+	if (!isVisible(mod.metadata)) return null;
 
 	return { slug, meta: mod.metadata, Content: mod.default };
 }

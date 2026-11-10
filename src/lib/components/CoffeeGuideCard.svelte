@@ -1,4 +1,5 @@
 <script>
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
 	import { resolve } from '$app/paths';
 
 	/** @type {{ guide: { slug: string } & Record<string, any> }} */
@@ -14,7 +15,9 @@
 			{guide.part ? `Part ${guide.part} · ${guide.series}` : `${guide.series} · Overview`}
 		</p>
 	{/if}
-	<h3 class="font-semibold text-stone-900 dark:text-stone-100">{guide.title}</h3>
+	<h3 class="font-semibold text-stone-900 dark:text-stone-100">
+		{guide.title}<DraftBadge draft={guide.draft} />
+	</h3>
 	<p class="mt-1 text-sm text-stone-600 dark:text-stone-400">{guide.description}</p>
 	<div class="mt-3 flex flex-wrap gap-2">
 		{#each guide.tags ?? [] as tag (tag)}

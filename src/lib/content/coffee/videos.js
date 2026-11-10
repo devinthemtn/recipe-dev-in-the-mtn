@@ -14,6 +14,7 @@
 //   note     — optional: why it's worth watching
 //
 // Channel fields: name, url, note (optional).
+import { isVisible } from '../drafts.js';
 
 export const categories = [
 	'Brewing',
@@ -78,7 +79,7 @@ export function youtubeId(url) {
 }
 
 export function getVideoGroups() {
-	const published = videos.filter((v) => !v.draft);
+	const published = videos.filter((v) => isVisible(v));
 	const order = [...categories, ...new Set(published.map((v) => v.category))].filter(
 		(c, i, all) => all.indexOf(c) === i
 	);
@@ -98,12 +99,12 @@ export function getVideoGroups() {
  */
 export function getRecentVideos(count) {
 	return videos
-		.filter((v) => !v.draft)
+		.filter((v) => isVisible(v))
 		.map((v) => ({ ...v, id: youtubeId(v.url) }))
 		.sort((a, b) => new Date(b.date ?? 0) - new Date(a.date ?? 0))
 		.slice(0, count);
 }
 
 export function getChannels() {
-	return channels.filter((c) => !c.draft);
+	return channels.filter((c) => isVisible(c));
 }

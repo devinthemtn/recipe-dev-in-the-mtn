@@ -1,4 +1,5 @@
 <script>
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
 	import VideoCard from '$lib/components/VideoCard.svelte';
 
 	let { data } = $props();
@@ -45,7 +46,7 @@
 						rel="noopener noreferrer"
 						class="font-semibold text-stone-900 underline-offset-2 hover:underline dark:text-stone-100"
 						>{channel.name}</a
-					>
+					><DraftBadge draft={channel.draft} />
 					<!-- eslint-enable svelte/no-navigation-without-resolve -->
 					{#if channel.note}
 						<p class="text-sm text-stone-600 dark:text-stone-400">{channel.note}</p>

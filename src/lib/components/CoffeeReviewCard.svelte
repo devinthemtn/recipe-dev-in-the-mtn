@@ -1,4 +1,5 @@
 <script>
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
 	import { resolve } from '$app/paths';
 
 	/** @type {{ review: { slug: string } & Record<string, any> }} */
@@ -10,7 +11,9 @@
 	class="block rounded-lg border border-stone-200 p-5 hover:border-stone-400 dark:border-stone-800 dark:hover:border-stone-600"
 >
 	<div class="flex items-baseline justify-between gap-4">
-		<h3 class="font-semibold text-stone-900 dark:text-stone-100">{review.title}</h3>
+		<h3 class="font-semibold text-stone-900 dark:text-stone-100">
+			{review.title}<DraftBadge draft={review.draft} />
+		</h3>
 		{#if review.rating !== undefined}
 			<span class="shrink-0 text-sm font-semibold text-stone-700 dark:text-stone-300"
 				>{review.rating} / 5</span

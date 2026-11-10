@@ -1,6 +1,8 @@
 // Products are authored as markdown (.svx) files with frontmatter in
 // src/lib/content/prods. Metadata is loaded eagerly (cheap, small),
 // while the rendered component for a single product is loaded on demand.
+import { isVisible } from './drafts.js';
+
 const metaModules = import.meta.glob('/src/lib/content/prods/*.svx', { eager: true });
 const componentModules = import.meta.glob('/src/lib/content/prods/*.svx');
 
@@ -14,7 +16,7 @@ function slugFromPath(path) {
 /** @returns {Array<{ slug: string } & Record<string, any>>} */
 export function getAllProducts() {
 	return Object.entries(metaModules)
-		.filter(([, mod]) => !mod.metadata.draft)
+		.filter(([, mod]) => isVisible(mod.metadata))
 		.map(([path, mod]) => ({ slug: slugFromPath(path), ...mod.metadata }))
 		.sort((a, b) => a.title.localeCompare(b.title));
 }
@@ -22,7 +24,7 @@ export function getAllProducts() {
 /** @returns {string[]} */
 export function getProductSlugs() {
 	return Object.entries(metaModules)
-		.filter(([, mod]) => !mod.metadata.draft)
+		.filter(([, mod]) => isVisible(mod.metadata))
 		.map(([path]) => slugFromPath(path));
 }
 
@@ -33,7 +35,7 @@ export async function loadProduct(slug) {
 	if (!importModule) return null;
 
 	const mod = await importModule();
-	if (mod.metadata.draft) return null;
+	if (!isVisible(mod.metadata)) return null;
 
 	return { slug, meta: mod.metadata, Content: mod.default };
 }

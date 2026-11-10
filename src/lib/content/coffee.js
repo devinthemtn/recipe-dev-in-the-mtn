@@ -4,6 +4,8 @@
 // Metadata is loaded eagerly (cheap, small), while the rendered component for a
 // single entry is loaded on demand. Both are listed newest first.
 // The recommended videos and channels live in ./coffee/videos.js.
+import { isVisible } from './drafts.js';
+
 const reviewMeta = import.meta.glob('/src/lib/content/coffee/reviews/*.svx', { eager: true });
 const reviewComponents = import.meta.glob('/src/lib/content/coffee/reviews/*.svx');
 const guideMeta = import.meta.glob('/src/lib/content/coffee/guides/*.svx', { eager: true });
@@ -24,7 +26,7 @@ function slugFromPath(path) {
  */
 function getAll(metaModules) {
 	return Object.entries(metaModules)
-		.filter(([, mod]) => !mod.metadata.draft)
+		.filter(([, mod]) => isVisible(mod.metadata))
 		.map(([path, mod]) => ({ slug: slugFromPath(path), ...mod.metadata }))
 		.sort(
 			// Newest first. Entries from the same day that belong to a series (see the
@@ -39,7 +41,7 @@ function getAll(metaModules) {
  */
 function getSlugs(metaModules) {
 	return Object.entries(metaModules)
-		.filter(([, mod]) => !mod.metadata.draft)
+		.filter(([, mod]) => isVisible(mod.metadata))
 		.map(([path]) => slugFromPath(path));
 }
 
@@ -53,7 +55,7 @@ async function loadOne(componentModules, folder, slug) {
 	if (!importModule) return null;
 
 	const mod = await importModule();
-	if (mod.metadata.draft) return null;
+	if (!isVisible(mod.metadata)) return null;
 
 	return { slug, meta: mod.metadata, Content: mod.default };
 }

@@ -1,5 +1,6 @@
 <script>
-	/** @type {{ video: { title: string, url: string, channel: string, note?: string, id?: string } }} */
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
+	/** @type {{ video: { title: string, url: string, channel: string, note?: string, id?: string, draft?: boolean } }} */
 	let { video } = $props();
 </script>
 
@@ -19,7 +20,9 @@
 		/>
 	{/if}
 	<div class="p-4">
-		<h3 class="font-semibold text-stone-900 dark:text-stone-100">{video.title}</h3>
+		<h3 class="font-semibold text-stone-900 dark:text-stone-100">
+			{video.title}<DraftBadge draft={video.draft} />
+		</h3>
 		<p class="mt-1 text-xs text-stone-500">{video.channel}</p>
 		{#if video.note}
 			<p class="mt-2 text-sm text-stone-600 dark:text-stone-400">{video.note}</p>

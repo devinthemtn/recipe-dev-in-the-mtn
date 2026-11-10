@@ -1,4 +1,5 @@
 <script>
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
 	import { resolve } from '$app/paths';
 
 	let { data } = $props();
@@ -19,7 +20,9 @@
 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
 	{#each data.ingredients as ingredient (ingredient.slug)}
 		<a href={resolve('/ingrts/[slug]', { slug: ingredient.slug })} class="card card-link block p-5">
-			<h2 class="font-semibold text-stone-900 dark:text-stone-100">{ingredient.title}</h2>
+			<h2 class="font-semibold text-stone-900 dark:text-stone-100">
+				{ingredient.title}<DraftBadge draft={ingredient.draft} />
+			</h2>
 			{#if ingredient.swapFor}
 				<p class="mt-1 text-xs text-stone-500">Swap for: {ingredient.swapFor}</p>
 			{/if}

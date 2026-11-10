@@ -1,4 +1,5 @@
 <script>
+	import DraftBadge from '$lib/components/DraftBadge.svelte';
 	import CoffeeDetails from '$lib/components/CoffeeDetails.svelte';
 
 	let { data } = $props();
@@ -37,7 +38,7 @@
 </svelte:head>
 
 <h1 class="text-3xl font-bold tracking-tight text-stone-900 dark:text-stone-50">
-	{meta.title}
+	{meta.title}<DraftBadge draft={meta.draft} />
 </h1>
 <p class="mt-2 text-stone-600 dark:text-stone-400">{meta.description}</p>
 {#if meta.date}
