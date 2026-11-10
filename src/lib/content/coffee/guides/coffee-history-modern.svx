@@ -1,0 +1,91 @@
+---
+title: "Modern Coffee: Espresso, Instant and the Third Wave"
+description: "Coffee from 1900 to today: espresso, paper filters and instant coffee, the big canned brands, Peet's and Starbucks, the rise of specialty coffee, Britain's coffee comeback, and what climate change means for the future."
+date: "2026-11-09"
+tags: ["guide", "history", "espresso", "specialty"]
+series: "A History of Coffee"
+part: 7
+---
+
+This is the last part of [A History of Coffee](/coffee/guides/coffee-history/). By 1900, coffee was grown across the tropics and drunk around the world ([part six](/coffee/guides/coffee-history-goes-global/)). The 20th century was about making it faster, cheaper and more convenient. Then, toward the end, a lot of people decided they wanted it to be better instead.
+
+## New ways to brew
+
+Most of the gear on a coffee shelf today was invented in the first half of the 1900s.
+
+- **Espresso (1884 to 1948).** Italians wanted a way to make coffee fast, to order. In 1884, Angelo Moriondo in Turin patented a steam-powered machine for brewing coffee in bulk. In **1901**, **Luigi Bezzera** in Milan patented a machine that brewed single cups quickly, and **Desiderio Pavoni** bought the patent and started selling them in 1905. Those early machines used steam and made a bitter, thin coffee by today's standards. The big leap came in **1948**, when **Achille Gaggia** sold a spring-lever machine that pushed water through the coffee at much higher pressure. It made the first espresso with real **crema** in face they had to sell the crema as a **feature** since it was bitter and odd. Now that is basically the espresso we know now and people are convinced crema is good.
+- **The paper filter (1908).** **Melitta Bentz**, a housewife in Dresden, was tired of bitter coffee and grounds in her cup. She punched holes in a brass pot, lined it with blotting paper from her son's school notebook, and invented the paper filter. Her company, Melitta, still makes them.
+- **The French press (1929).** Patented in its modern form by an Italian designer, Attilio Calimani, in 1929, and improved over the next few decades.
+- **The moka pot (1933).** **Alfonso Bialetti** designed an aluminum stovetop pot that pushes water up through the coffee with steam pressure. It's in most Italian kitchens to this day.
+- **The Chemex (1941).** A chemist, Peter Schlumbohm, designed an hourglass-shaped glass brewer with thick paper filters. It's in the permanent collection of the Museum of Modern Art, and it's still many people's favorite for pour over.
+
+## Faster, cheaper, more convenient
+
+At the same time, companies were working on coffee you didn't have to think about.
+
+- **The vacuum can (1900).** Hills Bros. in San Francisco started packing ground coffee in vacuum-sealed tins, so it could sit on a store shelf for months. Ground coffee in a can became the American standard.
+- **Decaf (1906).** A German merchant, **Ludwig Roselius**, worked out a way to strip caffeine from green beans with steam and a solvent, and sold it as Kaffee HAG. (He was reportedly convinced too much coffee had killed his father.) Today's decaf mostly uses water, CO₂ or safer solvents.
+- **Instant coffee (1901 to 1938).** A Japanese-American chemist, Satori Kato, showed a soluble coffee in 1901, and George Washington (not that one) sold an instant coffee from 1910 that soldiers drank in the trenches of World War I. The big breakthrough came from Brazil, which had warehouses full of coffee it couldn't sell. It asked **Nestlé** to find a way to preserve it, and in **1938** Nestlé launched **Nescafé**. American soldiers took it everywhere in World War II, and it spread around the world.
+- **The percolator and the drip machine.** Through the middle of the century, Americans brewed in stovetop and electric percolators, which boiled coffee over and over. In **1972**, **Mr. Coffee** brought the automatic drip machine into homes, and percolators faded out.
+- **Freeze-dried and pods.** Freeze-dried instant arrived in the 1960s. Single-serve pods and capsules, like Nespresso (1986) and Keurig (1998), came later, and now make up a big part of what people brew at home.
+
+This era is sometimes called the **first wave** of coffee: coffee as a cheap, convenient commodity, sold in cans by big brands like Folgers, Maxwell House and Nescafé. The beans were often lower quality and roasted dark, and nobody was asking where they came from.
+
+## The business of coffee
+
+Coffee became one of the most traded farm goods in the world, and its price swung wildly, which hit growers the hardest.
+
+- **Brazil tries to hold up prices.** In 1906, Brazil started buying up and storing coffee to keep prices up. During the Great Depression, it went further: between 1931 and 1944, it burned tens of millions of bags of coffee rather than sell it cheap.
+- **The International Coffee Agreement (1962).** Producing and consuming countries agreed to quotas to keep prices stable. It mostly worked, until the quota system **broke down in 1989**. Prices crashed, and stayed low through the "coffee crisis" of the late 1990s and early 2000s, when many farmers sold coffee for less than it cost to grow.
+- **Vietnam.** After economic reforms in the late 1980s, Vietnam planted robusta on a massive scale. In about a decade it went from a small grower to the **second-largest coffee producer in the world**, after Brazil.
+- **Fair trade (1988).** The first Fairtrade label, **Max Havelaar**, launched in the Netherlands, named after the novel that I mentioned earlier [part six](/coffee/guides/coffee-history-goes-global/). The idea was to guarantee farmers a minimum price. Others followed, like Rainforest Alliance, and later, specialty roasters started buying directly from farms and publishing what they paid.
+
+## The second wave: Peet's and Starbucks
+
+In **1966**, a Dutch immigrant named **Alfred Peet** opened **Peet's Coffee & Tea** in Berkeley, California. He'd grown up in the coffee trade and was shocked at how bad American coffee was. He sold fresh, dark-roasted whole beans, and taught his customers to care about quality.
+
+In **1971**, three friends who had learned from Peet opened **Starbucks** in Seattle, selling beans, not drinks. In the 1980s, **Howard Schultz** joined, visited the espresso bars of Milan, and pushed the company to sell espresso drinks. He bought the company in 1987 and expanded it across the US and then the world.
+
+This is the **second wave**: coffee as an experience. Lattes, cappuccinos and flavored drinks became normal, the coffee shop became a "third place" between home and work, and people started paying more for coffee and talking about where it came from, even if the roasts were still dark. In a way, it brought back the old coffeehouse idea from [part four](/coffee/guides/coffee-history-english-coffeehouses/). What is old is new again and coffee drinkers start a journey to find decent coffee again.
+
+## Specialty coffee and the third wave
+
+In **1974**, **Erna Knutsen**, a coffee importer in San Francisco, used the term **"specialty coffee"** in a trade magazine to describe beans from special growing conditions, with distinctive flavors. The Specialty Coffee Association of America was founded in 1982, and set out standards for grading and tasting coffee.
+
+Over the next few decades, a growing group of roasters and baristas started treating coffee more like wine: something with a place, a variety and a harvest. In **2002**, a roaster named **Trish Rothgeb** called this the **"third wave."**
+
+Some milestones:
+
+- **Cup of Excellence (1999).** A competition started in Brazil where expert panels blind-taste coffees from individual farms, and the winners are sold at online auction. For the first time, a small farm could get paid many times the market price for a great lot.
+- **The Gesha moment (2004).** A farm in Panama, Hacienda La Esmeralda, entered a coffee from an obscure variety called **Gesha**, originally from Ethiopia. Judges were stunned by its floral, tea-like flavor, and it set price records at auction. Gesha is now one of the most famous (and expensive) varieties in the world (see [Coffee Varieties](/coffee/guides/coffee-varieties/)).
+- **Lighter roasts.** Third-wave roasters roasted lighter to taste the [origin, variety and processing](/coffee/guides/understanding-coffee-beans/) instead of the roast. It's why so many specialty bags today are light roasts, and why the label tells you so much (see [Coffee Roast Levels](/coffee/guides/coffee-roast-levels/)).
+- **Brewing by hand.** Pour over had a revival with brewers like the **Hario V60** (2004), the Chemex and the Kalita Wave, along with the **AeroPress** (2005), invented by the same man who made the Aerobie flying disc. Baristas started weighing coffee and water and timing every brew.
+- **Processing experiments.** Farms started trying honey, anaerobic and co-fermented processing to create new flavors (see [Coffee Processing Methods](/coffee/guides/coffee-processing-methods/)).
+- **Knowing the farm.** Bags started naming the country, region, farm, producer, variety, process, altitude and roast date, which is where the labels I wrote about in [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/) come from.
+
+Some people talk about a **fourth wave** now, about the science of brewing or fairer supply chains, but nobody quite agrees on what it means.
+
+## Britain's coffee comeback
+
+After 150 years of tea ([part five](/coffee/guides/coffee-history-turn-to-tea/)), coffee slowly came back to Britain.
+
+- **Rationing.** Tea was rationed during and after World War II, from 1940 to 1952. Coffee wasn't, which gave it a small opening.
+- **The espresso bar craze (1950s).** In 1953, the **Moka Bar** opened on Frith Street in Soho with a gleaming Gaggia machine. Espresso bars with jukeboxes spread across London, and became hangouts for teenagers and the early rock and roll scene.
+- **Instant at home.** For most British households, coffee meant instant coffee through the second half of the century, and it's still very popular there.
+- **The chains (1970s to 2000s).** **Costa Coffee** was founded in London in 1971 by two Italian brothers. Starbucks arrived in 1998, and chains spread onto every high street.
+- **Flat whites and independents (2000s onward).** Australian and New Zealand baristas brought the **flat white** and a third-wave coffee scene to London in the 2000s, and independent specialty cafés and roasters spread across the country.
+
+Tea is still a huge part of British life, but coffee is now a close rival in a way it hasn't been since the 1600s.
+
+## Coffee today, and tomorrow
+
+Coffee is now one of the most widely drunk beverages on Earth, and it's facing some big challenges.
+
+- **Climate change.** Arabica is picky. It likes cool, stable mountain climates, and as temperatures rise, a lot of the land where it grows today is expected to become unsuitable. Farms are moving higher up the mountains where they can.
+- **Disease.** Coffee leaf rust, the fungus that wiped out Ceylon's coffee in 1869, hit **Central America** hard starting in **2012**, with warmer weather helping it spread. Many farmers lost much of their crop, and some gave up coffee.
+- **Prices.** Droughts and bad harvests in Brazil and Vietnam pushed coffee prices to record highs in 2024 and 2025. Prices that high still don't always reach the farmers.
+- **New (old) plants.** Researchers are breeding rust-resistant hybrids, and looking at other coffee species too. In 2018, scientists found **_Coffea stenophylla_** growing wild in Sierra Leone for the first time in decades. It's a West African species that, in taste tests published in 2021, came out surprisingly close to arabica, but it grows in much hotter weather. Others are looking again at **liberica** and **excelsa**. Ethiopia's wild coffee forests, where it all started, are being studied and protected as a genetic bank for the future.
+
+It's a fitting place to end: after 600 years, people are going back to the forests of Ethiopia from [part one](/coffee/guides/coffee-history-beginnings/) to figure out what coffee might become next.
+
+If you want to put this history in your cup, try a coffee from Yemen or Ethiopia, the first places to grow it, next to one from Brazil or Colombia, where most of today's coffee comes from. And grind it fresh with a decent [hand grinder](/coffee/reviews/hand-coffee-grinders/). You can see what I've been drinking lately in [coffee reviews](/coffee/reviews/).

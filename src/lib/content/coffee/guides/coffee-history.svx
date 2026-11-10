@@ -1,0 +1,49 @@
+---
+title: "A History of Coffee: From Ethiopian Forests to Your Morning Cup"
+description: "A quick tour of coffee's history with a visual timeline, from wild plants in Ethiopia to London's coffeehouses, Britain's turn to tea and the third wave."
+date: "2026-11-09"
+tags: ["guide", "history"]
+series: "A History of Coffee"
+part: 0
+---
+
+<script>
+	import CoffeeHistoryTimeline from '$lib/components/CoffeeHistoryTimeline.svelte';
+	import CoffeeSpreadMap from '$lib/components/CoffeeSpreadMap.svelte';
+</script>
+
+Every cup of coffee has a long trail behind it. The drink started with a plant in the forests of Ethiopia, became a religious aid in Yemen, got banned (and unbanned) more than once, built one of the first public spaces where strangers sat down and argued about the news, helped start one of the world's biggest insurance markets, and then lost out to tea in Britain.
+
+This is the overview. The map and timeline below show the whole story at a glance, where each era has its own guide. The early parts are short, because we honestly don't know much. The detail picks up as the records get better and the story gets closer to the coffee in your kitchen.
+
+## How coffee spread
+
+Coffee started in one corner of Ethiopia. It took about 400 years to reach most of the places that grow it today, carried by pilgrims, traders, smugglers and colonial empires.
+
+<CoffeeSpreadMap />
+
+## The timeline
+
+<CoffeeHistoryTimeline />
+
+## The short version
+
+**1. [Beginnings: Ethiopia and Yemen](/coffee/guides/coffee-history-beginnings/) (prehistory to 1500).** Arabica grows wild in Ethiopia. The famous story of Kaldi and his dancing goats is a legend that shows up centuries later. The first solid evidence of coffee as a _drink_ comes from Sufi mystics in Yemen in the 1400s.
+
+**2. [The Islamic World](/coffee/guides/coffee-history-islamic-world/) (1500 to 1600).** Coffee spreads with pilgrims and traders to Mecca, Cairo, Damascus and Constantinople. The coffeehouse is invented, and so is the backlash against it.
+
+**3. [Coffee Reaches Europe](/coffee/guides/coffee-history-europe/) (1570 to the 1700s).** Travelers write home about a strange black drink. Venice gets it first through trade, and coffeehouses follow in Amsterdam, Marseille, Paris and Vienna.
+
+**4. [England's Coffeehouses](/coffee/guides/coffee-history-english-coffeehouses/) (1637 to 1700).** Oxford, then London. For a penny you could sit, read the news and argue with anyone. A king tried to shut them down and lost. Lloyd's of London and the Stock Exchange both grew out of coffeehouses.
+
+**5. [The Turn to Tea](/coffee/guides/coffee-history-turn-to-tea/) (1657 to 1900).** Tea arrives in the same coffeehouses, gets a royal endorsement and a trading monopoly behind it, and slowly takes over. A tax cut in 1784 seals the deal.
+
+**6. [Coffee Goes Global](/coffee/guides/coffee-history-goes-global/) (1600 to 1900).** Smuggled seeds and a few famous plants become plantations in Java, the Caribbean and Brazil, mostly built on forced labor. Americans pick coffee over tea, and a fungus pushes Ceylon from coffee to tea.
+
+**7. [Modern Coffee](/coffee/guides/coffee-history-modern/) (1900 to today).** Espresso, paper filters, instant coffee and the can. Then Peet's, Starbucks, specialty coffee and the third wave that gave us light roasts, single origins and pour over.
+
+## A note on dates
+
+A lot of coffee history is retold more often than it's checked. Some of the most famous stories, like Kaldi's goats or the Pope blessing coffee, were first written down long after they supposedly happened. Even the well-documented parts come with arguments: historians disagree on how many coffeehouses London had, and on which Venetian café came first. I've marked the legends as legends and tried to say when a number is a guess.
+
+If you're more interested in what's in your cup today, the [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/) series covers origin, variety, processing and roast. A lot of it makes more sense once you know how coffee got to all those places in the first place.

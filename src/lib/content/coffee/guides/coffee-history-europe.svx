@@ -1,0 +1,49 @@
+---
+title: "Coffee Comes to Europe: Venice, Paris and Vienna"
+description: "How European travelers discovered coffee, how it arrived through Venice, and how coffeehouses spread across the continent in the 1600s."
+date: "2026-11-09"
+tags: ["guide", "history"]
+series: "A History of Coffee"
+part: 3
+---
+
+This is part three of [A History of Coffee](/coffee/guides/coffee-history/). By the late 1500s, coffeehouses were everywhere in the Ottoman Empire ([part two](/coffee/guides/coffee-history-islamic-world/)). Europe was about to find out.
+
+## Travelers' tales
+
+The first Europeans to write about coffee were travelers, doctors and botanists visiting Ottoman lands.
+
+- **Leonhard Rauwolf**, a German physician, described it in 1582 after traveling in Syria: a drink "almost as black as ink," good for stomach troubles, that people drank hot from small cups early in the morning.
+- **Prospero Alpini**, an Italian botanist working in Egypt, described the coffee plant itself in 1592.
+
+To most readers back home, it sounded like medicine, not something you'd drink for pleasure.
+
+## Venice gets there first
+
+**Venice** traded heavily with the Ottoman Empire, so it's no surprise that coffee arrived there first, in the early 1600s. At first it was expensive and sold by apothecaries and street vendors.
+
+Nobody agrees on when Venice got its first coffeehouse. You'll often see **1645**, but there's little evidence behind it, and the first one historians can pin down opened on St Mark's Square in the early **1680s**. What's certain is that by the 1700s Venice had hundreds of them. **Caffè Florian**, which opened in St Mark's Square in 1720, is still serving coffee today.
+
+## Did the Pope baptize coffee? (legend)
+
+A popular story says that around 1600, priests asked **Pope Clement VIII** to ban coffee as the "devil's drink" of the Muslims. He tasted it, loved it, and declared it too good to leave to the infidels, so he "baptized" it instead.
+
+There's no record of this from the time. It's a fun story, but almost certainly made up later.
+
+## Coffeehouses spread
+
+Once coffee caught on, coffeehouses spread from city to city through the second half of the 1600s:
+
+- **England, 1650s:** Oxford, then London. This gets its own guide, [part four](/coffee/guides/coffee-history-english-coffeehouses/).
+- **Amsterdam and The Hague, 1660s:** The Dutch were big traders, and would soon grow coffee themselves.
+- **Marseille, 1671:** The port city had been trading with the Levant for a long time.
+- **Paris, 1669 to 1686:** An Ottoman envoy, **Suleiman Aga**, made coffee fashionable at the court of Louis XIV in 1669 by serving it at lavish receptions. In 1686, an Italian named Francesco Procopio dei Coltelli opened **Café Procope**, which became a hangout for writers and thinkers like Voltaire and Diderot. It's still open as a restaurant.
+- **Vienna, 1680s:** The story goes that after the Ottoman siege of Vienna failed in 1683, the retreating army left behind sacks of beans, and a hero of the siege used them to open the city's first coffeehouse. The real first license went to an Armenian named **Johannes Diodato** in 1685. Either way, Vienna's coffeehouse culture became one of the most famous in the world.
+
+## What came next
+
+Through the 1700s, coffee became a normal part of life in much of Europe, especially among city dwellers and the middle classes. In Leipzig, Bach wrote a comic _Coffee Cantata_ in the 1730s about a young woman who won't give up her coffee. In Prussia, Frederick the Great tried to push his subjects back to beer in the 1770s, worried that money spent on imported coffee was leaving the country, and even hired "coffee sniffers" to find illegal roasters.
+
+As usual, it didn't work.
+
+**Next:** [Part 4: England's Coffeehouses](/coffee/guides/coffee-history-english-coffeehouses/).
