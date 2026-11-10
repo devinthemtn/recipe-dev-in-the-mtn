@@ -1,0 +1,89 @@
+---
+title: "Southern Butter Steak"
+description: "Butter chicken's creamy, spiced tomato sauce meets Southern flavors: buttermilk-marinated steak, smoked paprika, and a splash of bourbon. Lean sirloin, Greek yogurt in place of half the cream, and monk fruit instead of brown sugar keep it rich but diabetes-friendly."
+date: "2026-11-09"
+tags: ["dinner", "comfort-food", "southern", "diabetic-friendly", "low-carb", "high-protein", "gluten-free"]
+prepTime: "20 min"
+cookTime: "40 min"
+totalTime: "1 hr 30 min"
+servings: 6
+nutrition:
+  calories: 470
+  protein: "36g"
+  carbs: "13g"
+  fat: "29g"
+  fiber: "3g"
+  sugar: "8g"
+  sodium: "600mg"
+---
+
+## Ingredients
+
+**Steak and marinade**
+
+- 2 lb (907g) top sirloin or strip, trimmed and cut into 1-inch cubes or thick strips (see Notes)
+- 1/2 cup (120g) buttermilk
+- 1 Tbs (7g) smoked paprika
+- 1 tsp (3g) garlic powder
+- 1 tsp (3g) kosher salt
+- 1/2 to 1 tsp cayenne, to taste
+- 1 Tbs (15g) hot sauce
+- 1 Tbs (15g) Worcestershire sauce
+- 2 Tbs (28g) high-smoke-point oil (avocado, canola, or peanut), for searing
+
+**Sauce**
+
+- 2 Tbs (28g) unsalted butter
+- 1 large (300g) onion, finely diced
+- 1 (150g) red bell pepper, finely diced
+- 4 cloves (12g) garlic, minced
+- 1 Tbs (6g) fresh ginger, grated
+- 2 Tbs (32g) tomato paste
+- 1 Tbs (6g) garam masala
+- 1 tsp (2g) smoked paprika
+- 1 tsp (2g) ground cumin
+- 1 tsp (2g) freshly ground black pepper
+- 1 can (14 oz / 397g) crushed tomatoes
+- 1/2 cup (120g) low-sodium beef broth
+- 1/2 cup (120g) heavy cream
+- 1/2 cup (140g) plain 2% Greek yogurt, at room temperature
+- 2 Tbs (30g) bourbon, optional
+- Monk fruit sweetener, to taste, in place of 1 Tbs brown sugar (about 1 tsp granular blend or 5–8 liquid drops, optional; see Notes)
+- 1 Tbs (14g) cold unsalted butter, to finish
+- Salt, to taste
+
+**To serve**
+
+- Cauliflower rice, cauliflower mash, or a small scoop of cheesy grits
+- Sautéed greens or green beans
+- Sliced scallions or chopped cilantro
+- Hot sauce
+
+## Instructions
+
+1. **Marinate the steak.** Pat the steak dry and place it in a bowl or zip-top bag. Add the buttermilk, smoked paprika, garlic powder, salt, cayenne, hot sauce, and Worcestershire. Toss to coat and refrigerate for 30 minutes to 2 hours. Don't go longer: the buttermilk's acidity will turn the beef mushy.
+2. **Sear the steak.** Remove the steak from the marinade and wipe off most of the excess so it sears instead of steams. Heat the oil in a large cast iron skillet over high heat until just smoking. Working in 2 or 3 batches so the pan isn't crowded, sear the steak 1–2 minutes per side until deeply browned. It should still be rare inside. Transfer to a plate and set aside.
+3. **Build the sauce base.** Lower the heat to medium and melt the 2 Tbs butter in the same skillet, scraping up the browned bits. Add the onion and bell pepper and cook 6–8 minutes until soft and golden. Add the garlic and ginger and cook 1 minute more.
+4. **Bloom the spices.** Stir in the tomato paste, garam masala, smoked paprika, cumin, and black pepper. Cook, stirring constantly, for 2 minutes until fragrant and the paste darkens slightly.
+5. **Simmer the tomatoes.** Add the crushed tomatoes and beef broth. Bring to a simmer and cook, uncovered, for 10–12 minutes, stirring occasionally, until slightly thickened. For a smooth sauce, blend with an immersion blender (optional).
+6. **Add the cream and bourbon.** Lower the heat to medium-low. Stir in the cream and bourbon and simmer gently for 3–5 minutes. Don't let it boil hard, or the cream can separate.
+7. **Temper the yogurt.** Take the pan off the heat. Put the yogurt in a small bowl and whisk in a few spoonfuls of the hot sauce until smooth, then stir it back into the pan. Taste and adjust the salt. If the tomatoes taste sharp, add monk fruit a little at a time until the sauce tastes balanced.
+8. **Add the steak.** Return the pan to low heat. Add the steak and any juices from the plate and warm for just 2–4 minutes, stirring gently, until the steak is medium-rare to medium. Keep it below a simmer so the yogurt doesn't curdle, and don't go longer or the steak will toughen.
+9. **Finish.** Remove from the heat and swirl in the cold butter until the sauce turns glossy. Garnish with scallions or cilantro. Serve over cauliflower rice or mash with a side of greens, and pass hot sauce at the table.
+
+## Notes
+
+- **Nutrition:** Estimated per 1/6 of the recipe, made with top sirloin, low-sodium broth, and the bourbon. Doesn't include the sides. Net carbs are about 10g per serving. Cauliflower rice adds about 3g net carbs per cup. A 1/2 cup serving of cooked grits or rice adds about 15–22g carbs, and a biscuit adds about 25–30g.
+- **Why it's diabetes-friendly:** The sauce is mostly tomatoes, onion, pepper, and spices, with no added sugar. Lean sirloin and Greek yogurt add protein, and the fat from the cream and butter slows down how fast the carbs are absorbed. Swapping half the cream for yogurt and cutting a tablespoon of butter trims about 140 calories and 18g fat per serving from the original. The side is the biggest source of carbs, so how you serve it matters most.
+- **Serve it with:** Eat the steak and greens before any grits or rice to help keep blood sugar steadier.
+- **Choosing the cut:** Top sirloin is the leanest choice and stays tender with this quick sear. Strip works well too. Ribeye is the most tender but adds about 100 calories and 11g fat per serving.
+- **Why Greek yogurt:** Yogurt is classic in butter chicken. It adds a gentle tang and body with more protein and much less fat than cream. Use 2% or whole milk yogurt: nonfat is more likely to curdle. Tempering it and keeping the sauce below a simmer keeps it smooth. If it does break, a quick buzz with the immersion blender brings it back.
+- **Monk fruit:** The original recipe used 1 Tbs brown sugar only to balance the tomatoes' acidity, so you may not need any sweetener. Add it at the end, to taste. Too much pure liquid monk fruit tastes bitter, so start with a few drops. A brown or golden granular blend adds a hint of molasses flavor.
+- **Richer version:** Use 1 cup heavy cream and skip the yogurt. It adds about 60 calories and 7g fat per serving.
+- **Bourbon:** Most of the alcohol cooks off and it adds almost no carbs. To skip it, use an extra splash of beef broth and 1/2 tsp vinegar.
+- **Sliced-steak method:** Sear the steaks whole, rest 5 minutes, slice against the grain, and lay the slices over the finished sauce. This keeps the crust intact and gives you the most control over doneness.
+- **Tougher cuts (chuck, round):** Skip the quick sear-and-finish. Cube the meat, brown it, and simmer it in the sauce (add an extra 1/2 cup beef broth) for 1 1/2–2 hours until fork-tender. Add the cream after the meat is tender, then temper in the yogurt off the heat as in step 7.
+- **Spice level:** Cut back the cayenne and hot sauce for mild, or add a chopped serrano with the garlic for more heat.
+- **Gluten-free:** Use a gluten-free Worcestershire (Lea & Perrins in the US is gluten-free).
+- **Make ahead:** The sauce keeps in the fridge for up to 3 days. To freeze it, stop after step 6 (before adding the yogurt and steak). Reheat gently, then temper in the yogurt and add freshly seared steak.
+- **Leftovers:** Refrigerate up to 3 days. Reheat over low heat without letting it simmer, so the yogurt stays smooth and the steak doesn't overcook.
