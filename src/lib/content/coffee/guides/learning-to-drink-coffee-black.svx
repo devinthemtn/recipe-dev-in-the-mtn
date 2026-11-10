@@ -1,0 +1,55 @@
+---
+title: "Learning to Drink Coffee Black"
+description: "How to pick beans and roasts that taste sweet on their own, brew them so they're not bitter, and ease off sugar without missing it."
+date: "2026-11-10"
+tags: ["guide", "low-carb", "beans", "brewing"]
+draft: true
+series: "Low-Carb Coffee & Milk"
+part: 1
+---
+
+A lot of people put sugar in their coffee because the coffee needs it. Cheap, stale or over-extracted coffee is bitter and flat, and sugar covers that up. Good coffee, brewed well, doesn't need much help. When I find beans I like, I don't reach for sugar at all.
+
+This is part one of [Low-Carb Coffee & Milk](/coffee/guides/low-carb-coffee/).
+
+## Pick beans that taste sweet
+
+Coffee doesn't have sugar in it once it's brewed, but some coffees taste a lot sweeter than others. That sweetness comes from the beans and the roast, and you can look for it on the bag.
+
+- **Tasting notes** like caramel, brown sugar, milk chocolate, honey, toffee, stone fruit or berries usually mean a sweeter-tasting cup. There's more on reading them in [Reading a Specialty Coffee Bag](/coffee/guides/reading-a-coffee-bag/).
+- **Natural and honey processed** coffees tend to taste sweeter and fruitier than washed ones. The seed spends longer with the fruit, and it shows. See [Coffee Processing Methods](/coffee/guides/coffee-processing-methods/).
+- **Origins** like Brazil, Colombia and Guatemala often make round, chocolatey, sweet coffee that's easy to drink black. A natural Ethiopian can taste like blueberries. See [Coffee Origins](/coffee/guides/coffee-origins/).
+
+## Pick the right roast
+
+Roast level makes a big difference, and the best one for drinking black depends on what's been putting you off.
+
+- **If black coffee tastes bitter to you,** try a **medium roast**. It has the most caramel and chocolate sweetness, and less of the roasty bitterness of a dark roast.
+- **If you like bright, fruity flavors,** try a **light roast**. Brewed well, a good light roast can taste like fruit juice or tea.
+- **Dark roasts** are the hardest to drink black, since they lean smoky and bittersweet. They're made to stand up to milk.
+
+There's more in [Coffee Roast Levels](/coffee/guides/coffee-roast-levels/).
+
+## Brew it so it isn't bitter
+
+Even great beans taste bad when they're brewed badly. A few things from [Brewing Basics](/coffee/guides/brewing-basics/) matter most here:
+
+- **Use fresh beans and grind them right before brewing.** Stale coffee tastes flat and papery. A [hand grinder](/coffee/reviews/hand-coffee-grinders/) was the best upgrade I made.
+- **Don't over-extract.** If it tastes bitter and dry, grind coarser, use slightly cooler water, or brew a little shorter. See [Dialing In by Taste](/coffee/guides/dialing-in-coffee-by-taste/).
+- **Try a lighter ratio.** Strong coffee is harder to drink black. Going from 15:1 to 17:1 makes a softer, easier cup.
+- **Use a paper filter.** [Pour-over](/coffee/guides/pour-over-coffee/) and drip make a cleaner, lighter cup than a French press, which is easier to start with.
+- **Don't let it sit on a hot plate.** Coffee that's been cooking for an hour gets bitter fast.
+
+## Easing off sugar
+
+If you're used to sweet coffee, going straight to black can be a shock. Easing into it works better for a lot of people:
+
+- **Cut back a little at a time.** Use a bit less sugar each week. Your taste adjusts more than you'd expect.
+- **Switch to a zero-carb sweetener** while you get used to it. I use [monk fruit](/ingrts/monk-fruit-sweetener/) drops in coffee, and there's more on that in my [pantry staples](/blog/new-pantry-staples/) post.
+- **Add flavor without sugar.** A sprinkle of cinnamon in the grounds before brewing, or a drop of vanilla extract in the cup.
+- **A tiny pinch of salt** in the grounds or the cup takes the edge off bitterness. Really, a tiny pinch.
+- **Add an unsweetened milk** instead of a sweetened creamer. There's a chart of the options in [Unsweetened Milks and Creamers](/coffee/guides/unsweetened-milks-and-creamers/).
+
+## Let it cool a bit
+
+Coffee tastes different as it cools. Very hot coffee mostly tastes bitter and roasty, and a lot of the sweetness and fruit comes out as it drops to a warm, drinkable temperature. Give it a few minutes, and keep tasting as you drink it.

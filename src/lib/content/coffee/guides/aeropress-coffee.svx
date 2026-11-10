@@ -1,0 +1,84 @@
+---
+title: "AeroPress Coffee: Standard and Inverted Methods"
+description: "Why the AeroPress is unlike any other brewer, and simple recipes for the standard and inverted methods."
+date: "2026-11-10"
+tags: ["guide", "brewing", "aeropress"]
+draft: true
+series: "Brew Methods"
+part: 3
+---
+
+<script>
+	import CoffeeBrewRecipe from '$lib/components/CoffeeBrewRecipe.svelte';
+
+	const specs = [
+		{ label: 'Coffee', value: '15 g' },
+		{ label: 'Water', value: '220 g' },
+		{ label: 'Ratio', value: '~15:1' },
+		{ label: 'Grind', value: 'Medium-fine' },
+		{ label: 'Water temp', value: '~200°F / 93°C' }
+	];
+
+	const standard = {
+		title: 'Standard method',
+		specs,
+		steps: [
+			'Put a paper filter in the cap, rinse it with hot water and twist the cap onto the chamber.',
+			'Set the AeroPress on your mug, add the coffee, and put it all on the scale. Tare it.',
+			'Pour in 220 g of water and give it a few stirs.',
+			'Put the plunger in about a centimeter, just enough to make a seal. This stops it from dripping through while it steeps.',
+			'Wait about 2 minutes.',
+			'Press down slowly and steadily, taking about 30 seconds. Stop when you hear a hiss.'
+		]
+	};
+
+	const inverted = {
+		title: 'Inverted method',
+		specs,
+		steps: [
+			'Put the plunger into the chamber about a centimeter, then stand it upside down on the plunger end.',
+			'Add the coffee, set it on the scale and tare it.',
+			'Pour in 220 g of water, stir, and wait about 2 minutes.',
+			'Twist on the cap with a rinsed paper filter.',
+			'Put your mug upside down on top, then carefully flip the whole thing over in one motion.',
+			'Press down slowly, taking about 30 seconds, until it hisses.'
+		],
+		note: 'Be careful with the flip. It’s full of hot water, and a sturdy mug and a steady hand matter here.'
+	};
+</script>
+
+The AeroPress is simple, it makes good quality coffee, and it's a unique method that isn't quite like anything else. It's a bit of immersion, a bit of pour-over and a bit of pressure all in one small plastic tube.
+
+This is part three of [Brew Methods](/coffee/guides/coffee-brew-methods/).
+
+## How it works
+
+The AeroPress is a chamber, a plunger and a cap that holds a small paper filter. The coffee steeps in the chamber like a [French press](/coffee/guides/french-press-coffee/), drains through a paper filter like a [pour-over](/coffee/guides/pour-over-coffee/), and then you push the rest through with the plunger.
+
+The result sits in between those two: more body than a pour-over, but cleaner than a French press, because the paper catches the sludge. It's also fast (the whole thing takes about 3 minutes), easy to clean (the plunger pushes out a puck of grounds), and nearly impossible to break, which makes it great for travel and camping.
+
+## A brewer people love to tinker with
+
+Part of the fun of the AeroPress is that there's no one right way to use it. Recipes go from a strong concentrate you top up with hot water to something close to a pour-over. There's even a yearly World AeroPress Championship where people compete with their own recipes.
+
+So the recipes below are just starting points. Once you've got the hang of it, try changing the steep time, the grind or the amount of water.
+
+## Standard method
+
+This is the way it's meant to be used, right side up on top of your mug.
+
+<CoffeeBrewRecipe {...standard} />
+
+## Inverted method
+
+In the standard method, some water drips through the filter before you press. Flipping the AeroPress upside down stops that, so all of the water steeps for the full time, more like a French press. A lot of people find it makes a slightly fuller, more even cup.
+
+<CoffeeBrewRecipe {...inverted} />
+
+If the flip makes you nervous, newer AeroPress models come with a "Flow Control" cap that stops the drip-through without flipping, and it's sold separately for older ones too.
+
+## Tips
+
+- **Pressing is really hard?** The grind is too fine. Go coarser, or press more gently.
+- **Sour or thin?** Grind finer or steep longer. Bitter? Go the other way.
+- **Lighter roasts** can take hotter water. Darker roasts are often better a little cooler, around 185 to 195°F.

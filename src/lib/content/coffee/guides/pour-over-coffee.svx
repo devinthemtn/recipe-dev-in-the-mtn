@@ -1,0 +1,76 @@
+---
+title: "Pour-Over Coffee: V60, Kalita and Chemex Basics"
+description: "How pour-over works, how the V60, Kalita Wave and Chemex differ, and a simple recipe to start from."
+date: "2026-11-10"
+tags: ["guide", "brewing", "pour-over"]
+draft: true
+series: "Brew Methods"
+part: 1
+---
+
+<script>
+	import CoffeeBrewRecipe from '$lib/components/CoffeeBrewRecipe.svelte';
+
+	const recipe = {
+		title: 'Everyday pour-over (one mug)',
+		specs: [
+			{ label: 'Coffee', value: '20 g' },
+			{ label: 'Water', value: '320 g' },
+			{ label: 'Ratio', value: '16:1' },
+			{ label: 'Grind', value: 'Medium-fine' },
+			{ label: 'Water temp', value: '~200°F / 93°C' }
+		],
+		steps: [
+			'Put a paper filter in the dripper and rinse it with hot water. This gets rid of the papery taste and warms everything up. Pour out the rinse water.',
+			'Add 20 g of freshly ground coffee and give the dripper a shake so the bed is flat. Set it all on the scale and tare it.',
+			'Bloom: pour about 40 g of water, just enough to wet all the grounds, and wait 30 to 45 seconds while it bubbles.',
+			'Pour the rest slowly in small circles, in two or three pours, until the scale reads 320 g. Try not to pour straight onto the filter paper.',
+			'Give the dripper a gentle swirl to flatten the bed, then let it drain. The whole brew should take about 3 minutes.'
+		],
+		note: 'If it drains much faster than 3 minutes or tastes sour, grind finer. If it takes much longer or tastes bitter, grind coarser.'
+	};
+</script>
+
+Pour-over is where I'd start anyone who wants to get into good coffee. It's inexpensive, it only takes a small amount of effort to get good at, and it's great for light roasts especially. For one cup, it's what I reach for.
+
+This is part one of [Brew Methods](/coffee/guides/coffee-brew-methods/).
+
+## How it works
+
+You pour hot water over a bed of ground coffee in a cone or basket, and it drips through a paper filter into your cup. That's it. The paper catches most of the oils and fine particles, so the cup comes out clean and clear, which lets the fruit and florals of a good light roast come through.
+
+Because you're doing the pouring, you have a lot of control. That's also why it takes a little practice: how fast and where you pour changes how evenly the water moves through the coffee.
+
+## The common drippers
+
+There are a lot of drippers out there, but most are a version of one of these three.
+
+**V60** (Hario): A cone with one big hole at the bottom and spiral ridges on the sides. Water flows through fast, so the pour controls a lot of the brew. It's the most sensitive of the three and makes a very bright, clear cup. It's also one of the cheapest, and the plastic one works just as well as the fancy ones.
+
+**Kalita Wave**: A flat bottom with three small holes, and a filter with wavy sides. The flat bed and slower drain make it more forgiving, so it's a good pick if your V60 cups are inconsistent. It likes a slightly coarser grind than the V60.
+
+**Chemex**: A glass carafe with a dripper built into the top. Its filters are much thicker, so the cup is the cleanest of the three, almost tea-like. It's great for making two to four cups at once. It likes a coarser grind (medium-coarse) and the brew takes longer, around 4 to 5 minutes.
+
+## A recipe to start
+
+<CoffeeBrewRecipe {...recipe} />
+
+This works for a V60 or Kalita. For a Chemex, scale it up (30 g of coffee to 500 g of water is a good batch), grind a bit coarser, and expect a longer drain.
+
+## Gear
+
+You don't need much:
+
+- **A dripper:** about $10 to $30
+- **Paper filters** that fit it
+- **A kitchen scale** that reads to the gram
+- **A kettle:** a gooseneck makes pouring easier, but a regular kettle works when you're starting out
+- **A burr grinder:** the most important piece. A [hand grinder](/coffee/reviews/hand-coffee-grinders/) is the least expensive way to get a good one.
+
+If you'd rather a machine did the pouring, I looked at the [automatic pour-over machines](/coffee/reviews/automatic-pour-over-machines-roundup/). They're good, but a manual setup gets you most of the way there for a lot less.
+
+## Tips
+
+- **Pour gently.** A hard pour digs a hole in the coffee bed and the water rushes through it.
+- **Keep the bed flat.** A swirl after the last pour helps the water drain evenly.
+- **Change one thing at a time** when dialing in. Start with the grind. There's more on that in [Dialing In by Taste](/coffee/guides/dialing-in-coffee-by-taste/).

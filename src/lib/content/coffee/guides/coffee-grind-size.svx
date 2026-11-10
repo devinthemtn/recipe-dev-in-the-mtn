@@ -1,0 +1,47 @@
+---
+title: "Grind Size: From Fine to Coarse by Brew Method"
+description: "Why grind size matters so much, which grind each brew method likes, and how to tell when you've got it wrong."
+date: "2026-11-10"
+tags: ["guide", "brewing", "grind", "gear"]
+draft: true
+series: "Brewing Basics"
+part: 2
+---
+
+<script>
+	import CoffeeGrindChart from '$lib/components/CoffeeGrindChart.svelte';
+</script>
+
+Grind size is the biggest lever you have once the [ratio](/coffee/guides/coffee-to-water-ratio/) is set. It decides how fast water pulls flavor out of the coffee, and small changes make a real difference in the cup.
+
+This is part two of [Brewing Basics](/coffee/guides/brewing-basics/).
+
+## Why it matters
+
+Grinding breaks the bean into pieces, and water can only get at the coffee from the outside of each piece. Smaller pieces mean more surface area, so flavor comes out faster. Bigger pieces mean less surface, so it comes out slower.
+
+That's why each brew method has its own grind. Espresso pushes water through in about half a minute, so it needs a fine grind. A French press steeps for four minutes, so it needs a coarse one. Cold brew sits for most of a day, so it goes coarser still.
+
+## Fine to coarse by method
+
+<CoffeeGrindChart />
+
+These ranges overlap, and that's normal. A pour-over with a fast-draining cone like a V60 might want a little finer than a flat-bottomed Kalita, and a Chemex, with its thick filter, likes it coarser than both.
+
+## Grinder numbers don't translate
+
+Every grinder has its own scale. "Setting 20" on one grinder has nothing to do with "20" on another, and even two of the same model can be a little different. So when a recipe gives a grinder setting, use it as a rough start, then go by taste and by how the brew behaves:
+
+- **Pour-over draining very slowly**, or the cup tastes bitter and dry: go coarser.
+- **Pour-over rushing through**, or the cup tastes sour and thin: go finer.
+- **French press hard to push, and a lot of sludge:** go coarser.
+
+There's more on reading those signs in [Dialing In by Taste](/coffee/guides/dialing-in-coffee-by-taste/).
+
+## The grinder matters more than the brewer
+
+A good grinder makes even pieces. A cheap blade grinder makes a mix of dust and chunks, and that mix brews unevenly: the dust over-extracts and turns bitter while the chunks under-extract and stay sour, all in the same cup.
+
+If you're going to spend money on one thing, a burr grinder is it, and a hand grinder is the least expensive way to get a good one. I compared a bunch of them in my [hand grinder review](/coffee/reviews/hand-coffee-grinders/).
+
+Grinding right before you brew matters too. Ground coffee goes stale much faster than whole beans, so even a great bag loses a lot if it's ground days ahead.

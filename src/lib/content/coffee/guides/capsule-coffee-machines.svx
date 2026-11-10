@@ -1,0 +1,48 @@
+---
+title: "Capsule Coffee Machines: When Pods Make Sense"
+description: "When a capsule machine is the right call, the main pod formats, and why the pods matter more than the machine."
+date: "2026-11-10"
+tags: ["guide", "brewing", "capsule", "gear"]
+draft: true
+series: "Brew Methods"
+part: 6
+---
+
+Capsule machines are quick, easy and dependable for consistency. Press a button and you get the same cup every time, with no grinding, weighing or cleanup beyond tossing the pod. They have a reputation for so-so coffee, but that's mostly about the pods people put in them, not the idea itself.
+
+This is part six of [Brew Methods](/coffee/guides/coffee-brew-methods/).
+
+## When they make sense
+
+A capsule machine isn't for everyone, but it's a great fit when:
+
+- **Speed and convenience matter most.** On a busy morning, a minute from button to cup is hard to beat.
+- **You want the same result every time.** There's nothing to dial in.
+- **You drink one cup at a time,** especially if everyone in the house wants something different.
+- **You want espresso-style drinks** without the cost and learning curve of a real [espresso](/coffee/guides/espresso-at-home/) setup.
+
+They make less sense if you love trying lots of different coffees from local roasters, or if you're watching the cost per cup closely. Pods cost more per cup than whole beans.
+
+## The main pod formats
+
+The pods aren't interchangeable, so it's worth knowing which one a machine takes before you buy it.
+
+- **Nespresso OriginalLine:** Small aluminium capsules for espresso-style shots. The format is open now, so a lot of other companies, including some very good specialty roasters, make pods for it. This is the one I'd pick.
+- **Nespresso Vertuo:** Bigger, barcoded capsules that make everything from a shot to a full mug. The format is closed, so only Nespresso makes the pods.
+- **Keurig K-Cups:** Plastic cups for regular brewed coffee, not espresso. Lots of choices at the grocery store, but most of them are pretty forgettable.
+
+## The pods are the real story
+
+Most people's idea of pod coffee is the grocery-store sleeve. It's fine. It's also roasted dark and months old by the time you drink it. Put a pod from a good specialty roaster in a well-built machine and the cup is a different thing.
+
+I go into this more in my review of the [Milton Line1](/coffee/reviews/milton-line1-capsule-espresso/), an all-metal machine for OriginalLine pods, along with a list of roasters worth trying. The short version: whatever machine you get, spend the money on good pods. The machine is only half of it.
+
+## Something in between
+
+If you like the push-button part but want fresh-ground coffee, there's a newer kind of machine that grinds, weighs and pours a pour-over for you. They cost more, but you can use any beans you want. I compared several of them in [Automatic Pour-Over Machines](/coffee/reviews/automatic-pour-over-machines-roundup/).
+
+## Tips
+
+- **Run a blank shot first.** Running just hot water through the machine before your coffee warms it up, and warms your cup.
+- **Descale it.** Capsule machines build up scale like any other, and it can make the coffee taste flat. Filtered water helps it last longer between descales.
+- **Recycle the pods.** Aluminium pods can be recycled, and Nespresso and some others have their own recycling programs. Some roasters now make compostable pods too.

@@ -1,0 +1,48 @@
+---
+title: "Coffee Brew Methods: Finding the Right One for You"
+description: "Pour-over, French press, AeroPress, cold brew, drip, capsules and espresso compared by body, effort, gear and time."
+date: "2026-11-10"
+tags: ["guide", "brewing", "gear"]
+draft: true
+series: "Brew Methods"
+part: 0
+---
+
+<script>
+	import CoffeeBrewMethodChart from '$lib/components/CoffeeBrewMethodChart.svelte';
+</script>
+
+There isn't one best way to brew coffee. Each method makes a different cup, and each one asks for a different amount of effort, time and money. The right one depends on what you like to drink and how much you want to fuss with it in the morning.
+
+The basics from [Brewing Basics](/coffee/guides/brewing-basics/) (ratio, grind, water and tasting) apply to all of them. This series is about what makes each method different.
+
+This is the overview. Each method has its own guide with a recipe to start from.
+
+## The methods side by side
+
+<CoffeeBrewMethodChart />
+
+## Immersion vs. pour-through
+
+Most methods fall into one of two groups, and knowing which one you're using explains a lot about the cup.
+
+- **Immersion** methods (French press, cold brew) soak the grounds in water for the whole brew. They're forgiving and make a heavier, fuller cup.
+- **Pour-through** methods (pour-over, drip machines) let water flow through a bed of grounds and out the bottom. They're a little more sensitive to grind and pouring, and they make a cleaner, brighter cup, especially with a paper filter.
+
+Then there are the odd ones. The **AeroPress** is a bit of immersion, a bit of pour-over and a bit of pressure. **Espresso** uses a lot of pressure to push water through very finely ground coffee in about half a minute, which is why it's its own thing entirely.
+
+## The filter matters too
+
+Paper filters catch most of the coffee oils and the fine particles, so the cup tastes cleaner and lighter. Metal filters (like a French press screen) let them through, so the cup is heavier, richer and a little cloudy. Neither is better. It's one of the biggest reasons a French press and a pour-over taste so different, even with the same beans.
+
+## If you're not sure where to start
+
+- **You want the best cup for the least money:** [Pour-over](/coffee/guides/pour-over-coffee/). It's inexpensive, and it only takes a little practice to get good.
+- **You want simple and quick, and you like a full-bodied cup:** [French press](/coffee/guides/french-press-coffee/).
+- **You want simple and good, and you like to tinker:** [AeroPress](/coffee/guides/aeropress-coffee/).
+- **You drink iced coffee, or want coffee ready in the fridge:** [Cold brew](/coffee/guides/cold-brew-coffee/).
+- **You're making coffee for a crowd:** A good [drip machine](/coffee/guides/drip-coffee-machines/).
+- **You want it fast and the same every time:** [Capsule machines](/coffee/guides/capsule-coffee-machines/).
+- **You want café drinks and you're up for a project:** [Espresso](/coffee/guides/espresso-at-home/).
+
+Whatever you pick, a good grinder will make more difference than the brewer. My [hand grinder review](/coffee/reviews/hand-coffee-grinders/) has a few that work for everything except espresso, and some that handle that too.

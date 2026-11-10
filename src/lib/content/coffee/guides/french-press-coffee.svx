@@ -1,0 +1,63 @@
+---
+title: "French Press Coffee: Full-Bodied, Forgiving and Low on Sludge"
+description: "How the French press works, why it's so forgiving, and a simple way to brew it without a mouthful of grounds."
+date: "2026-11-10"
+tags: ["guide", "brewing", "french press"]
+draft: true
+series: "Brew Methods"
+part: 2
+---
+
+<script>
+	import CoffeeBrewRecipe from '$lib/components/CoffeeBrewRecipe.svelte';
+
+	const recipe = {
+		title: 'Low-sludge French press',
+		specs: [
+			{ label: 'Coffee', value: '30 g' },
+			{ label: 'Water', value: '420 g' },
+			{ label: 'Ratio', value: '14:1' },
+			{ label: 'Grind', value: 'Medium to coarse' },
+			{ label: 'Water temp', value: 'Just off the boil' }
+		],
+		steps: [
+			'Add the ground coffee to the press, set it on the scale and tare it.',
+			'Pour in all 420 g of water and let it sit for 4 minutes. Don’t stir yet.',
+			'Stir the crust on top gently with a spoon. Most of the grounds will sink.',
+			'Scoop off the foam and any bits still floating.',
+			'Wait another 5 minutes or so, so the fine particles settle to the bottom.',
+			'Put the lid on and press the plunger down just to the surface of the coffee, not all the way down.',
+			'Pour slowly, and leave the last bit in the press. That last bit is where the sludge is.'
+		],
+		note: 'This is based on James Hoffmann’s French press method. The extra wait is what keeps the sludge out of your cup.'
+	};
+</script>
+
+The French press is about as simple and quick as coffee gets. You put coffee and hot water in, wait, press and pour. It makes a full-bodied, rich cup, and it's a good match for darker roasts.
+
+This is part two of [Brew Methods](/coffee/guides/coffee-brew-methods/).
+
+## How it works
+
+A French press is an immersion brewer. The grounds soak in the water for the whole brew, then a metal mesh screen pushes them to the bottom. Because the coffee steeps instead of having water run through it, it's very forgiving. You don't have to pour carefully, and small changes in grind matter less than they do for pour-over.
+
+The metal screen is what gives it its character. Unlike paper, it lets the coffee oils and some very fine particles through. That's where the heavy body comes from, and it's also where the sludge comes from.
+
+## Why darker roasts work well
+
+The heavy body and rounded flavor of a French press go nicely with medium-dark and dark roasts: chocolate, nuts, caramel and toasty flavors. Light roasts work too, but the bright, delicate notes can get a little lost under all that body. If you love light roasts, [pour-over](/coffee/guides/pour-over-coffee/) shows them off better.
+
+## Avoiding sludge
+
+The usual way to brew a French press is to steep for 4 minutes, press all the way down and pour. It works, but you end up with a cloudy cup and a gritty last sip. A little patience fixes most of that.
+
+<CoffeeBrewRecipe {...recipe} />
+
+It takes a few more minutes, but most of that is waiting, not work. And the coffee in the press stays hot longer than you'd think.
+
+## Tips
+
+- **Grind for it.** Very fine grounds slip through the screen. A good [burr grinder](/coffee/reviews/hand-coffee-grinders/) makes fewer fines than a blade grinder.
+- **Don't leave it sitting.** Coffee left on the grounds keeps brewing and gets bitter. Pour it all out into a cup or a thermal carafe.
+- **Pressing is hard?** The grind is too fine. Go coarser next time.
+- **Clean the screen.** Old coffee oils build up in the mesh and go stale. Take the plunger apart and wash it every so often.

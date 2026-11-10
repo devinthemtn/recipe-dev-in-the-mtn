@@ -1,0 +1,62 @@
+---
+title: "Reading a Specialty Coffee Bag: What Every Line Means"
+description: "What the origin, producer, altitude, variety, process, roast and tasting notes on a coffee bag tell you about what's inside."
+date: "2026-11-10"
+tags: ["guide", "beans", "buying"]
+draft: true
+series: "Buying & Storing Beans"
+part: 1
+---
+
+<script>
+	import CoffeeBagLabel from '$lib/components/CoffeeBagLabel.svelte';
+</script>
+
+The first time I looked at a bag from a specialty roaster, most of it didn't mean much to me. Now it's the first thing I read. Each line tells you something about the coffee, and together they give you a pretty good idea of what's in the cup before you open the bag.
+
+This is part one of [Buying & Storing Beans](/coffee/guides/buying-and-storing-coffee-beans/).
+
+## An example bag
+
+<CoffeeBagLabel />
+
+## The four that matter most
+
+Most of a bag comes down to the four things from [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/): [origin](/coffee/guides/coffee-origins/), [variety](/coffee/guides/coffee-varieties/), [process](/coffee/guides/coffee-processing-methods/) and [roast](/coffee/guides/coffee-roast-levels/). If you only read those four lines, you'll still know a lot.
+
+For the example bag above:
+
+- **Guji, Ethiopia** points to bright, fruity, floral coffee.
+- **Heirloom** varieties lean floral and fruity too.
+- **Natural** processing adds sweetness and a lot of berry.
+- **Light roast** keeps all of that intact.
+
+So blueberry and jasmine, just like the tasting notes say.
+
+## Tasting notes
+
+Tasting notes are the flavors the roaster picks up when they taste the coffee: things like blueberry, milk chocolate, lemon or brown sugar. They're **not added flavors**. A coffee that says "blueberry" is just coffee that tastes a bit like blueberry, the same way a wine can taste like cherries.
+
+They're most useful as a general direction rather than a promise:
+
+- **Fruit and florals** (berry, citrus, stone fruit, jasmine) usually mean a lighter, brighter coffee.
+- **Chocolate, nuts and caramel** usually mean a rounder, more classic cup, often a medium roast.
+- **Spice, smoke, cedar and dark chocolate** usually mean a heavier cup, a darker roast, or an earthy origin like Sumatra.
+
+If the notes line up with what the origin, process and roast would suggest, you can trust them more. And don't worry if you can't taste "jasmine" right away. It gets easier with time, and with comparing two coffees side by side.
+
+## The rest of the label
+
+- **Producer, farm or washing station:** Who grew or processed the coffee. The more specific this is, the more traceable the coffee usually is.
+- **Altitude:** Higher farms grow denser coffee that tends to be brighter and more complex. Anything above about 1,500 meters is high.
+- **Harvest date:** Some roasters list this too. Green coffee also fades, slowly, so a recent harvest is a good sign.
+- **Roast date:** The most useful date on the bag. There's a whole guide on it: [Coffee Freshness and Roast Dates](/coffee/guides/coffee-freshness-and-roast-date/).
+- **Blend vs. single origin:** A single origin comes from one place. A blend mixes coffees from more than one, usually to make a balanced, consistent cup, often for espresso.
+
+## Things to be a little wary of
+
+- **No roast date**, only a "best by" date. That can be a year or more after roasting.
+- **Very vague origins**, like just "100% arabica" or "a blend of the finest beans." Not always bad, but it tells you nothing about the taste.
+- **Lots of marketing words and no details.** Words like "gourmet" and "premium" don't mean anything specific.
+
+Once you know what you like, the bag becomes a shortcut. If you've loved a natural Ethiopian before, another one is a pretty safe bet.

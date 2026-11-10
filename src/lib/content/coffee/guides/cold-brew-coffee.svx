@@ -1,0 +1,67 @@
+---
+title: "Cold Brew Coffee: Ratios, Steep Times and Storing Concentrate"
+description: "How to make cold brew concentrate at home, how long to steep it, how to dilute it, and how long it keeps."
+date: "2026-11-10"
+tags: ["guide", "brewing", "cold brew"]
+draft: true
+series: "Brew Methods"
+part: 4
+---
+
+<script>
+	import CoffeeBrewRecipe from '$lib/components/CoffeeBrewRecipe.svelte';
+
+	const recipe = {
+		title: 'Cold brew concentrate',
+		specs: [
+			{ label: 'Coffee', value: '100 g' },
+			{ label: 'Water', value: '600 g' },
+			{ label: 'Ratio', value: '6:1' },
+			{ label: 'Grind', value: 'Coarse' },
+			{ label: 'Steep', value: '12–18 hours' }
+		],
+		steps: [
+			'Grind the coffee coarse, about like for a French press or a little coarser.',
+			'Add it to a jar or pitcher with the cold or room-temperature water, and stir so all the grounds get wet.',
+			'Cover it and let it steep. About 12 to 18 hours on the counter, or closer to 18 to 24 hours in the fridge.',
+			'Strain it. A fine mesh strainer first, then through a paper coffee filter if you want it really clean.',
+			'Store the concentrate in a sealed jar in the fridge.',
+			'To serve, mix about 1 part concentrate to 1 part water or milk over ice, and adjust to taste.'
+		],
+		note: 'A French press makes a handy cold brew maker: steep in it, then press and pour.'
+	};
+</script>
+
+Cold brew is simple and cheap to make. The one catch is that it takes time, usually most of a day. But nearly all of that is waiting, and you end up with coffee ready to go in the fridge for days.
+
+This is part four of [Brew Methods](/coffee/guides/coffee-brew-methods/).
+
+## Cold brew vs. iced coffee
+
+They're not the same thing. **Iced coffee** is hot coffee that's been cooled down or poured over ice. **Cold brew** never touches hot water at all. The grounds steep in cold or room-temperature water for many hours.
+
+Cold water pulls flavor out slowly and leaves a lot of the acidity and bitterness behind. So cold brew comes out smooth, low in acidity, a little sweet and chocolatey, and heavy in body. The trade-off is that the bright, fruity notes of a light roast mostly don't make it through, so medium and darker roasts are usually the better pick.
+
+## Ratio and steep time
+
+Most people make cold brew as a **concentrate**, strong enough that you dilute it when you pour a glass. Around **5:1 to 8:1** (water to coffee) is the usual range. It takes less room in the fridge, and you can make each glass as strong as you want.
+
+Steep time is the other lever:
+
+- **Under about 12 hours:** Usually weak and a little flat.
+- **12 to 18 hours on the counter, or 18 to 24 in the fridge:** The sweet spot for most coffees.
+- **Much past 24 hours:** It can start to taste woody or bitter.
+
+<CoffeeBrewRecipe {...recipe} />
+
+## Storing concentrate
+
+Keep it in a sealed jar or bottle in the fridge. It tastes best in the first week, and most people say it keeps for up to about two weeks, though it slowly gets flatter. If it tastes sour or off, toss it.
+
+A trick worth knowing: pour some concentrate into an ice cube tray and freeze it. Coffee ice cubes don't water your drink down as they melt.
+
+## Tips
+
+- **Use a coarse grind.** Fine grounds make it bitter and are a pain to strain.
+- **Strain well.** The fine particles left in it keep extracting in the fridge, so a paper filter helps it keep longer.
+- **It's strong.** Cold brew concentrate has a lot of caffeine per ounce, so dilute it before you drink it.

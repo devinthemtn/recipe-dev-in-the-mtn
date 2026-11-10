@@ -1,0 +1,61 @@
+---
+title: "Dialing In Coffee by Taste: Sour, Bitter and What to Change"
+description: "How to tell if your coffee is under- or over-extracted by taste, and what to adjust to fix it."
+date: "2026-11-10"
+tags: ["guide", "brewing", "extraction"]
+draft: true
+series: "Brewing Basics"
+part: 4
+---
+
+<script>
+	import CoffeeExtractionChart from '$lib/components/CoffeeExtractionChart.svelte';
+</script>
+
+Once the [ratio](/coffee/guides/coffee-to-water-ratio/), [grind](/coffee/guides/coffee-grind-size/) and [water](/coffee/guides/coffee-water-and-temperature/) are in the right neighborhood, the last step is tasting the cup and nudging things from there. "Dialing in" just means doing that until the coffee tastes the way you want.
+
+This is part four of [Brewing Basics](/coffee/guides/brewing-basics/).
+
+## Extraction, simply
+
+When water hits ground coffee, it dissolves flavors out of it, and they don't all come out at the same time. The sour, bright flavors come out first, then the sweetness, then the bitter, drying flavors last.
+
+- **Under-extracted** coffee didn't get far enough. It's mostly the early stuff: sour, thin and sharp.
+- **Over-extracted** coffee went too far. The bitter, drying flavors take over.
+- **Balanced** coffee stops in the sweet spot, with sweetness and pleasant acidity together.
+
+So the rule of thumb is: **sour means under-extracted, bitter means over-extracted.**
+
+<CoffeeExtractionChart />
+
+## What to adjust
+
+Change one thing at a time, and start with the grind. It's the biggest lever and the easiest to repeat.
+
+**If it's sour:** Grind finer first. If it's still sour, try hotter water or a longer brew. If it tastes sour _and_ weak, try a stronger [ratio](/coffee/guides/coffee-to-water-ratio/) too.
+
+**If it's bitter:** Grind coarser first. If it's still bitter, try cooler water or a shorter brew, and pour a bit more gently.
+
+**If it's weak but otherwise tastes fine:** That's strength, not extraction. Use a little more coffee (15:1 instead of 16:1, say).
+
+**If it's strong but otherwise tastes fine:** Use a little less coffee, or add a splash of hot water to the cup.
+
+## Sour isn't always a problem
+
+Acidity and sourness aren't the same thing. A light-roast Ethiopian is supposed to be bright, like lemon or berries, and that's a good thing. Sour is when it's sharp and unpleasant, like biting a lemon, without the sweetness to balance it.
+
+The same goes for bitterness. A dark roast will always have some, and that's part of what it is. Over-extracted bitterness is harsher and leaves your mouth feeling dry.
+
+## Sour and bitter at the same time
+
+If a cup is both, it's usually uneven extraction: some of the coffee went too far and some didn't go far enough. The usual suspects are:
+
+- **An uneven grind.** A blade grinder, or a worn-out burr grinder, makes dust and chunks. This is where a good [burr grinder](/coffee/reviews/hand-coffee-grinders/) pays off.
+- **An uneven pour.** For pour-over, try wetting all the grounds evenly and pouring in slow circles.
+- **Channeling**, where water finds an easy path through the coffee bed and skips the rest. A gentle swirl after pouring can help settle the bed flat.
+
+## Keep notes
+
+It doesn't have to be fancy. The bag, the ratio, the grind setting, the water temperature, and one or two words on how it tasted. After a few brews you'll have a starting point for every new bag, and dialing in gets a lot faster.
+
+That's the end of Brewing Basics. To go back to the beginning, head to the [overview](/coffee/guides/brewing-basics/).

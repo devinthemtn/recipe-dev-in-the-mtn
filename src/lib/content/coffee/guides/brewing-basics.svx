@@ -1,0 +1,49 @@
+---
+title: "Brewing Basics: The Few Things That Matter Most"
+description: "Ratio, grind, water and taste. The handful of variables that make the biggest difference in your cup, whatever you brew with."
+date: "2026-11-10"
+tags: ["guide", "brewing"]
+draft: true
+series: "Brewing Basics"
+part: 0
+---
+
+There's a lot of advice out there about brewing coffee, and a lot of gear to go with it. Most of it doesn't matter nearly as much as a few simple things. If you get those right, you can make a really good cup with a cheap pour-over cone and a kettle.
+
+Good beans are the starting point (that's what [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/) is about). This series is about not wasting them once you get them home.
+
+This is the overview. Each of the four below has its own guide with the details.
+
+## 1. Ratio: how much coffee to how much water
+
+This is the one that makes the biggest difference for the least effort. Too little coffee and it's weak and sour, too much and you are wasting good beans. A ratio like **17:1** (17 grams of water for every gram of coffee) is an easy place to start for pour-over, and it's easy to adjust from there.
+
+I weigh my coffee and water instead of scooping. A scale is cheap, and it takes the guessing out of it and it makes the ratios easy for different amount of coffee.
+
+**Read more:** [Coffee-to-Water Ratios](/coffee/guides/coffee-to-water-ratio/), with starting ratios by method and a little calculator.
+
+## 2. Grind size: how fine or coarse
+
+Grind size controls how fast the water pulls flavor out of the coffee. Finer grinds extract faster, coarser grinds extract slower, so each brew method has a range it likes. Espresso is fine, French press is coarse, and pour-over sits in the middle.
+
+This is also where a good grinder earns its keep. An even grind brews evenly.
+
+**Read more:** [Grind Size](/coffee/guides/coffee-grind-size/), with a chart from fine to coarse by method.
+
+## 3. Water and temperature
+
+Coffee is almost all water, so the water matters. Filtered water is an easy improvement. Temperature matters too, and it's worth playing with, especially with lighter roasts.
+
+**Read more:** [Water and Temperature](/coffee/guides/coffee-water-and-temperature/).
+
+## 4. Dialing in by taste
+
+Once the basics are close, your tongue does the rest. Sour usually means the coffee is under-extracted, bitter usually means it's over-extracted, and there's a short list of things to change for each.
+
+**Read more:** [Dialing In by Taste](/coffee/guides/dialing-in-coffee-by-taste/), with a cheat sheet for what to adjust.
+
+## Where to start
+
+If you only change one thing, start weighing your coffee and water. If you change two, add [grinding fresh](/coffee/reviews/hand-coffee-grinders/). Those two together will make more difference than almost any new brewer.
+
+And change one thing at a time. If you change the grind, the ratio and the water all at once, you won't know which one helped.

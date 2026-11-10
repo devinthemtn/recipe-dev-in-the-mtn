@@ -1,0 +1,73 @@
+---
+title: "Espresso at Home: A Whole Different Game"
+description: "What makes espresso different from every other brew method, what it takes in gear, time and money, and how to pull a first shot."
+date: "2026-11-10"
+tags: ["guide", "brewing", "espresso", "gear"]
+draft: true
+series: "Brew Methods"
+part: 7
+---
+
+<script>
+	import CoffeeBrewRecipe from '$lib/components/CoffeeBrewRecipe.svelte';
+
+	const recipe = {
+		title: 'A starting double shot',
+		specs: [
+			{ label: 'Coffee in', value: '18 g' },
+			{ label: 'Espresso out', value: '~36 g' },
+			{ label: 'Ratio', value: '1:2' },
+			{ label: 'Grind', value: 'Fine' },
+			{ label: 'Time', value: '25–30 sec' }
+		],
+		steps: [
+			'Turn the machine on and let it fully heat up, with the portafilter locked in so it heats too. This can take 15 to 30 minutes on some machines.',
+			'Grind 18 g of coffee into the dry portafilter basket.',
+			'Level the grounds, then tamp them firmly and evenly. Level matters more than how hard you press.',
+			'Lock the portafilter in, put your cup on a scale under it, and start the shot.',
+			'Stop the shot when the scale reads about 36 g. Note how long it took.',
+			'Taste it. Sour and fast? Grind finer. Bitter and slow? Grind coarser.'
+		],
+		note: 'Only change the grind between shots at first. Once you’re close, you can play with the ratio, from a short 1:1.5 to a longer 1:3.'
+	};
+</script>
+
+Espresso is a whole different game from the other brew methods. It takes more effort, more time to learn and more money than anything else in this series. It's also where you get the shots and milk drinks you'd get at a café, and plenty of people find dialing it in is half the fun.
+
+This is part seven of [Brew Methods](/coffee/guides/coffee-brew-methods/).
+
+## What makes it different
+
+Every other method lets water flow through the coffee on its own, or with a gentle push. Espresso uses a machine to force hot water through a tightly packed puck of very finely ground coffee at about 9 bars of pressure, roughly nine times the air pressure around you. The whole shot takes about half a minute.
+
+That pressure pulls out a lot of flavor very fast, and it brings oils along with it. You get a small, thick, intense shot with a layer of crema on top.
+
+It also makes everything more sensitive. With pour-over, a slightly-off grind still makes a decent cup. With espresso, a small change in grind can take a shot from great to sour or bitter.
+
+## What you need
+
+Here's where the effort and expense come in. A real espresso setup has a few parts:
+
+- **An espresso machine.** Prices go from a few hundred dollars to several thousand. Entry-level machines can make very good shots, but they take more care and skill.
+- **An espresso grinder.** Just as important as the machine, and often worth spending about as much on. Most grinders made for drip and pour-over can't grind fine enough, or can't make small enough changes. Some hand grinders can, and I listed a couple in my [hand grinder review](/coffee/reviews/hand-coffee-grinders/).
+- **A scale** that fits under the portafilter, and reads to a tenth of a gram if you can.
+- **A tamper** that fits your basket. Most machines come with one, though not always a good one.
+- **A milk pitcher**, if you want lattes and cappuccinos.
+
+Then there's the time. Expect to go through some beans learning to dial in, and expect each new bag to need a few shots to get right. There's also a little cleanup and regular maintenance.
+
+## A first shot
+
+Espresso is measured a little differently from other methods. Instead of the water you put in, you weigh the coffee that comes out. A **1:2 ratio** means 18 g of ground coffee makes about 36 g of espresso in the cup.
+
+<CoffeeBrewRecipe {...recipe} />
+
+Fresh beans matter more for espresso than for anything else, but very fresh beans can be hard to work with too. Many people find espresso tastes best from about a week to a few weeks after the roast date. Medium and darker roasts are also easier to start with than light roasts.
+
+## If you're not ready for all that
+
+If you want espresso drinks but not the project, a good [capsule machine](/coffee/guides/capsule-coffee-machines/) with specialty pods gets you a long way. It won't beat a well-dialed espresso machine, but it's fast, consistent and a lot cheaper to get started. I review one in [Milton Line1](/coffee/reviews/milton-line1-capsule-espresso/).
+
+The [AeroPress](/coffee/guides/aeropress-coffee/) can also make a strong, concentrated coffee that works well with milk. It's not true espresso, since it doesn't have the pressure, but it's close enough for a lot of people.
+
+That's the end of Brew Methods. To compare them all again, head back to the [overview](/coffee/guides/coffee-brew-methods/).

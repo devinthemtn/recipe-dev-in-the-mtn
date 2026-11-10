@@ -1,0 +1,47 @@
+---
+title: "Coffee-to-Water Ratios: How Much Coffee to Use"
+description: "Starting ratios for pour-over, French press, AeroPress, cold brew and more, and why weighing beats scooping."
+date: "2026-11-10"
+tags: ["guide", "brewing", "ratio"]
+draft: true
+series: "Brewing Basics"
+part: 1
+---
+
+<script>
+	import CoffeeRatioChart from '$lib/components/CoffeeRatioChart.svelte';
+</script>
+
+If your coffee tastes off and you're not sure why, the ratio is the first thing I'd check. It's the easiest variable to control, and it's the one people most often guess at.
+
+This is part one of [Brewing Basics](/coffee/guides/brewing-basics/).
+
+## What the numbers mean
+
+A ratio like **17:1** means 17 grams of water for every 1 gram of coffee. So for 320 grams of water you'd use 20 grams of coffee. A smaller number means more coffee, so **15:1** is stronger and **18:1** is lighter.
+
+For pour-over, **15:1 to 17:1** is a good place to start. I'd pick 17:1, make a cup, and go up or down from there depending on whether it tastes too strong or too weak.
+
+<CoffeeRatioChart />
+
+## Weighing vs. scooping
+
+Weighing is my preferred way to measure, and it's the one change I'd recommend to anyone.
+
+A scoop measures volume, not how much coffee is actually there. Beans change size and density with roast level (dark roasts are puffier and lighter), and ground coffee packs differently depending on the grind. So two scoops of one coffee might be a few grams off from two scoops of another, and a few grams is enough to taste.
+
+A kitchen scale that reads to the gram is plenty, and a lot of people already have one. Put your brewer on the scale, tare it, and weigh the beans. Then tare it again and weigh the water as you pour. One milliliter of water weighs about one gram, so you can use whichever is easier.
+
+If you don't have a scale yet, a level tablespoon of whole beans is roughly 5 to 6 grams. It's a rough guess, but it's better than nothing.
+
+## A few notes by method
+
+- **Pour-over and drip:** 15:1 to 17:1. Most of the time I'm around 16:1.
+- **French press:** A little stronger, around 12:1 to 15:1. It's a forgiving brew, so it's a good place to experiment.
+- **AeroPress:** Recipes are all over the place, from strong concentrate you top up with water to something close to pour-over. Around 14:1 is a decent middle.
+- **Cold brew:** Usually made as a concentrate, around 5:1 to 8:1, then diluted with water or milk when you pour it.
+- **Espresso:** This one is measured differently, by coffee in and drink out. A 1:2 shot is 18 grams of coffee for about 36 grams of espresso in the cup.
+
+## Once you have a ratio you like
+
+Write it down. Then you can stop thinking about it and spend your time on the [grind](/coffee/guides/coffee-grind-size/) and [taste](/coffee/guides/dialing-in-coffee-by-taste/) instead. If a new bag tastes a little weak or strong, nudge the ratio by one (16:1 to 15:1, say) before changing anything else.

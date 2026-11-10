@@ -1,0 +1,73 @@
+---
+title: "Frothing Milk at Home"
+description: "Handheld wands, electric frothers, a French press and steam wands compared, which milks froth best, and how to make a low-carb latte at home."
+date: "2026-11-10"
+tags: ["guide", "low-carb", "milk", "gear"]
+draft: true
+series: "Low-Carb Coffee & Milk"
+part: 3
+---
+
+<script>
+	import VideoCard from '$lib/components/VideoCard.svelte';
+	import { videos, youtubeId } from '$lib/content/coffee/videos.js';
+
+	const foamerVideo = videos.find((v) => v.url.includes('cFdTzo6fVec'));
+	const foamer = foamerVideo && { ...foamerVideo, id: youtubeId(foamerVideo.url) };
+</script>
+
+A latte or cappuccino at home doesn't need an espresso machine or any syrup. Warm, frothed milk over strong coffee gets you most of the way there, and making it yourself means you choose exactly what goes in it.
+
+This is part three of [Low-Carb Coffee & Milk](/coffee/guides/low-carb-coffee/).
+
+## Ways to froth milk
+
+**Handheld wand frothers** are small battery-powered whisks. They're cheap and easy to store. Warm the milk first, then hold the wand just under the surface until it doubles. The foam is bubblier than a café's, but it's good for the price.
+
+**Electric jug frothers** heat and froth the milk at the same time with the push of a button. They're the easiest, the most consistent, and they make good, fine foam. Most have settings for hot foam, hot milk and cold foam.
+
+**A French press** works too. Warm the milk, pour it into a clean [French press](/coffee/guides/french-press-coffee/), and pump the plunger up and down quickly for 20 to 30 seconds. It makes surprisingly nice foam.
+
+**A steam wand** on an [espresso machine](/coffee/guides/espresso-at-home/) makes the silky, fine "microfoam" you need for latte art. It takes the most practice and the most expensive gear.
+
+James Hoffmann tried several kinds of foamers and steamers side by side, and it's a good watch before you buy one:
+
+{#if foamer}
+<div class="not-prose my-6 max-w-md">
+	<VideoCard video={foamer} />
+</div>
+{/if}
+
+There's more to watch in [coffee videos](/coffee/videos/).
+
+## Which milks froth best
+
+Foam is held up by protein, and its texture comes from fat. So the milks with more protein froth best.
+
+- **Dairy milk** froths well. Skim makes big, stiff foam, and whole milk makes creamier, richer foam.
+- **Ultra-filtered milk** has extra protein, so it froths really well, with about half the carbs of regular milk.
+- **Soy and pea milk** have plenty of protein and froth well. Soy is one of the easiest plant milks to work with.
+- **Oat milk** froths well, especially "barista" versions, but it has more carbs than most people expect.
+- **Coconut milk (carton)** is low in protein, so it makes thin, short-lived foam.
+- **Cream and half-and-half** are heavy on fat. They froth into something thick and rich, but not light and airy. Cream mixed with some water is worth experimenting with for a lower-carb latte.
+
+There's a full carb comparison in [Unsweetened Milks and Creamers](/coffee/guides/unsweetened-milks-and-creamers/).
+
+## Technique
+
+- **Start cold.** Cold milk gives you more time to froth before it gets too hot.
+- **Don't overheat it.** Around 140 to 150°F (60 to 65°C) is ideal, hot but comfortable to touch the pitcher. Milk actually tastes sweetest around there. Much hotter and it tastes flat or scalded, and the foam falls apart.
+- **Froth first, then stop.** Get air in early, while the milk is cooler, then just heat and swirl it.
+- **Tap and swirl.** Tap the pitcher on the counter to pop big bubbles, then swirl it so the foam and milk stay mixed and glossy.
+- **Pour right away.** Foam starts to separate within a minute or two.
+
+## A low-carb latte at home
+
+1. Make a small, strong coffee: a shot of espresso, a strong [AeroPress](/coffee/guides/aeropress-coffee/), a [capsule](/coffee/guides/capsule-coffee-machines/), or a short, strong pour-over.
+2. Froth about 3/4 cup of unsweetened soy, pea or ultra-filtered milk.
+3. Pour the milk into the coffee, holding back the foam with a spoon, then spoon the foam on top.
+4. Add cinnamon, a drop of vanilla extract, or a few [monk fruit](/ingrts/monk-fruit-sweetener/) drops if you want it sweet.
+
+For iced coffee, most electric frothers can make **cold foam**: froth cold milk without heating it, and spoon it over iced coffee or [cold brew](/coffee/guides/cold-brew-coffee/).
+
+That's the end of Low-Carb Coffee & Milk. To go back to the beginning, head to the [overview](/coffee/guides/low-carb-coffee/).

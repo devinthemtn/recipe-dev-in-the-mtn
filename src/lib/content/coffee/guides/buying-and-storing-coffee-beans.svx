@@ -1,0 +1,47 @@
+---
+title: "Buying and Storing Coffee Beans: Getting Good Coffee Home and Keeping It Good"
+description: "How to read a bag, why the roast date matters, how to store and freeze beans, and how to pick a roaster."
+date: "2026-11-10"
+tags: ["guide", "beans", "buying", "storage"]
+draft: true
+series: "Buying & Storing Beans"
+part: 0
+---
+
+All the brewing advice in the world won't save stale or poorly chosen beans. The good news is that buying good coffee and keeping it good isn't complicated. It mostly comes down to knowing what to look for on the bag, paying attention to one date, and storing it sensibly.
+
+This series sits between the other two. [Understanding Coffee Beans](/coffee/guides/understanding-coffee-beans/) is about what makes coffee taste the way it does, and [Brewing Basics](/coffee/guides/brewing-basics/) is about getting that flavor into your cup. This one is about the part in between: getting good beans home and keeping them good until you brew them.
+
+This is the overview. Each part has its own guide.
+
+## 1. Reading a specialty coffee bag
+
+A specialty bag can have a lot on it: the country, region, farm, variety, process, altitude, roast level and a list of tasting notes. Once you know what each line means, you can make a good guess at what's inside before you open it.
+
+**Read more:** [Reading a Specialty Coffee Bag](/coffee/guides/reading-a-coffee-bag/), with an example bag explained line by line.
+
+## 2. Freshness and roast date
+
+Coffee is a fresh food. It's at its best for a few weeks after roasting, and then it slowly goes flat. Very fresh isn't always best either, since beans need a few days to rest. The roast date on the bag tells you where you are.
+
+**Read more:** [Coffee Freshness and Roast Dates](/coffee/guides/coffee-freshness-and-roast-date/), with a chart of when beans peak and fade.
+
+## 3. Storing and freezing beans
+
+Air, light, heat and moisture are what make coffee go stale. Keep beans whole, sealed, and somewhere cool and dark. For anything you won't finish in a few weeks, the freezer works well if you do it right.
+
+**Read more:** [Storing and Freezing Coffee Beans](/coffee/guides/storing-and-freezing-coffee-beans/).
+
+## 4. Choosing a roaster or subscription
+
+Where you buy from matters as much as what you buy. A good roaster prints the roast date, tells you where the coffee came from, and roasts in small enough batches that it's fresh when it gets to you.
+
+**Read more:** [Choosing a Coffee Roaster or Subscription](/coffee/guides/choosing-a-coffee-roaster/), including buying local vs. online.
+
+## The short version
+
+- **Buy whole beans** with a roast date on the bag.
+- **Buy what you'll use** in about two to four weeks.
+- **Keep them sealed** and somewhere cool and dark, not the fridge.
+- **Freeze the extra** in small, airtight portions.
+- **Grind right before you brew.** A [hand grinder](/coffee/reviews/hand-coffee-grinders/) is the easiest way to do that.

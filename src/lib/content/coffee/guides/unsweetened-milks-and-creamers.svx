@@ -1,0 +1,62 @@
+---
+title: "Unsweetened Milks and Creamers for Coffee: Carbs Compared"
+description: "Dairy, cream, oat, soy, coconut and pea milks compared by carbs, taste and how they work in coffee, plus what to watch for on creamer labels."
+date: "2026-11-10"
+tags: ["guide", "low-carb", "milk"]
+draft: true
+series: "Low-Carb Coffee & Milk"
+part: 2
+---
+
+<script>
+	import CoffeeMilkCarbChart from '$lib/components/CoffeeMilkCarbChart.svelte';
+</script>
+
+If you like milk in your coffee, it's worth knowing which ones bring carbs with them. Some have almost none, and some have more than you'd guess, even when they're "unsweetened."
+
+This is part two of [Low-Carb Coffee & Milk](/coffee/guides/low-carb-coffee/).
+
+## Carbs at a glance
+
+<CoffeeMilkCarbChart />
+
+A splash in a cup of black coffee doesn't add much, whatever you use. Where it adds up is a latte, which can be a full cup of milk.
+
+## Dairy
+
+**Heavy cream** is the lowest-carb dairy option, under a gram per splash, because most of it is fat rather than milk sugar. It's rich, so a little goes a long way.
+
+**Half-and-half** is half milk and half cream, so it lands in between. A splash is still only about a gram.
+
+**Milk** has about 12 g of carbs per cup, all from lactose, the natural milk sugar. Whole, 2% and skim are all about the same. Skim isn't lower in carbs, it just has less fat.
+
+**Lactose-free milk** has about the same carbs as regular milk. The lactose is broken down into simpler sugars, which is why it tastes sweeter.
+
+**Ultra-filtered milk** is filtered to take out a lot of the lactose and concentrate the protein, so it has about half the carbs of regular milk. It's a good pick for lattes if you want real milk with fewer carbs.
+
+## Plant-based
+
+**Unsweetened soy milk** has a few grams per cup, plenty of protein, and froths well. It's one of the best plant milks for coffee.
+
+**Unsweetened coconut milk** (the carton kind, not canned) has very few carbs. It's thin and has a light coconut taste, so it works better as a splash than in a latte.
+
+**Unsweetened pea milk** has almost no carbs, and its protein makes it creamy and good for frothing. The taste is mild.
+
+**Oat milk** is the one to watch. Even "no added sugar" oat milk usually has 12 to 17 g of carbs per cup, as much as dairy milk or more. During processing, enzymes break the oats' starch down into sugar, so it doesn't count as "added," but it still affects your blood sugar. Some brands now make zero-sugar versions with fewer carbs, so check the label if you love oat milk.
+
+## Watch the label
+
+- **"Unsweetened" and "original" aren't the same.** "Original" plant milks often have added sugar. Look for "unsweetened" on the front.
+- **"No added sugar" isn't "no sugar."** Milk and oat milk both have sugars that aren't "added."
+- **"Barista" blends** froth better, but some have added sugar or extra oil. Check the nutrition label, not just the name.
+- **Flavored creamers** (vanilla, hazelnut, seasonal flavors) usually have about 5 g of sugar per tablespoon, and most people use more than a tablespoon. "Sugar-free" creamers skip the sugar but often have a long list of other things in them. Cream or an unsweetened milk with a drop of vanilla is simpler.
+- **Serving sizes are small.** Creamer labels often use 1 tablespoon. If you pour 3, that's three times the carbs on the label.
+
+## Which to pick
+
+- **Lowest carb, for a splash:** Heavy cream, half-and-half, or unsweetened coconut milk.
+- **Lowest carb, for a latte:** Unsweetened soy or pea milk, or ultra-filtered milk if you want dairy.
+- **Best for frothing:** Milk, ultra-filtered milk, soy and pea milk all froth well. There's more in [Frothing Milk at Home](/coffee/guides/frothing-milk-at-home/).
+- **Richest taste:** Cream, or half-and-half.
+
+If you're watching your blood sugar closely, your own numbers are the best guide. The same splash of milk can affect people differently.

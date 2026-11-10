@@ -1,0 +1,53 @@
+---
+title: "Coffee Freshness and Roast Dates: When Beans Peak and Fade"
+description: "Why the roast date matters more than the best-by date, why fresh beans need to rest, and how long coffee stays at its best."
+date: "2026-11-10"
+tags: ["guide", "beans", "freshness", "roast"]
+draft: true
+series: "Buying & Storing Beans"
+part: 2
+---
+
+<script>
+	import CoffeeFreshnessChart from '$lib/components/CoffeeFreshnessChart.svelte';
+</script>
+
+Coffee is a fresh food, even if it doesn't look like one. Roasted beans are at their best for a few weeks, then they slowly lose their aroma and flavor and start to taste flat. The roast date on the bag is how you tell where they are in that window.
+
+This is part two of [Buying & Storing Beans](/coffee/guides/buying-and-storing-coffee-beans/).
+
+## Roast date vs. best-by date
+
+A good bag shows a **roast date**: the day the coffee was roasted. A lot of grocery-store coffee only shows a **best-by date**, which can be a year or more after roasting. The coffee is safe to drink by then, but it's well past its best.
+
+If a bag doesn't have a roast date at all, I'd skip it.
+
+## Why fresh beans need to rest
+
+You'd think the freshest coffee would be the best, but beans straight out of the roaster aren't quite ready. Roasting fills them with carbon dioxide (CO₂), and they give off a lot of it for the first several days. That's what the little one-way valve on a coffee bag is for: it lets the gas out without letting air in.
+
+While there's still a lot of CO₂, it gets in the way when you brew. It bubbles up and pushes water away from the grounds, so the coffee extracts unevenly. Very fresh coffee can taste sharp, a bit hollow, or just less than it should. This is called **degassing**, and the wait is called **resting**.
+
+You can see it happen when you brew: very fresh coffee puffs up a lot during the [bloom](/coffee/guides/pour-over-coffee/), and older coffee barely moves.
+
+## When beans peak and fade
+
+<CoffeeFreshnessChart />
+
+- **Filter coffee** (pour-over, drip, French press) is usually great from about a few days to two weeks after roasting, and still good for a couple of weeks after that.
+- **Light roasts** are denser and hold onto their CO₂ longer, so they often need a week or more of rest, and they tend to stay good longer too.
+- **Espresso** is the most sensitive to CO₂, so it usually likes a longer rest, about a week or two.
+- **After about a month**, most coffee starts to taste flat: less aroma, less sweetness, and a dull, papery or woody taste.
+
+These are rough windows. Some roasters print a suggested rest time on the bag, and that's worth following.
+
+## Ground coffee fades much faster
+
+All of this is for whole beans. Once coffee is ground, it has a lot more surface exposed to air, and it loses most of its aroma within a day or so. That's why grinding right before you brew makes such a big difference, and why a [hand grinder](/coffee/reviews/hand-coffee-grinders/) is one of the best upgrades you can make.
+
+## Buying with freshness in mind
+
+- **Look for a recent roast date.** Within the last two weeks or so is great.
+- **Buy what you'll use in two to four weeks.** A smaller bag you finish while it's good beats a big bag that goes stale.
+- **Rest it if it's very fresh.** If it was roasted yesterday, give it a few days before you judge it.
+- **Freeze the extra.** If you buy more than you'll drink in a few weeks, freezing pauses the clock. There's more in [Storing and Freezing Coffee Beans](/coffee/guides/storing-and-freezing-coffee-beans/).

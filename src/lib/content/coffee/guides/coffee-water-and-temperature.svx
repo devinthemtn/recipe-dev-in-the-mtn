@@ -1,0 +1,50 @@
+---
+title: "Water and Temperature for Brewing Coffee"
+description: "What kind of water to brew with, how hot it should be, and why lighter roasts are worth experimenting with."
+date: "2026-11-10"
+tags: ["guide", "brewing", "water", "gear"]
+draft: true
+series: "Brewing Basics"
+part: 3
+---
+
+A cup of coffee is about 98% water, so it makes sense that the water matters. It's easy to overlook, though, since it comes out of the tap and doesn't come in a fancy bag.
+
+This is part three of [Brewing Basics](/coffee/guides/brewing-basics/).
+
+## Water quality
+
+Water isn't just water. Tap water has minerals in it, like calcium and magnesium, and those minerals actually help pull flavor out of the coffee. It can also have chlorine and other things that make coffee taste flat or a little off.
+
+I'd suggest **filtered water** for starters. A pitcher filter or a filter on the tap takes out most of the chlorine and off flavors, and it's an easy, cheap improvement. If your tap water tastes good on its own, it'll probably make decent coffee, and if it doesn't, the coffee won't hide it.
+
+Some people go as far as using distilled water and then adding minerals back in, either with mineral packets made for coffee or their own mix. That gives you complete control over the water, and it's a fun rabbit hole if you're into that sort of thing.
+
+What you don't want is **straight distilled water**. With no minerals, it doesn't extract coffee well, and the cup tends to taste flat and empty. Very hard water has the opposite problem: it can make coffee taste chalky and dull, and it builds up scale in kettles and machines.
+
+## Brew temperature
+
+The traditional advice is to brew with water just off the boil, around **195 to 205°F (90 to 96°C)**. Hotter water extracts faster, cooler water extracts slower, so temperature works a lot like [grind size](/coffee/guides/coffee-grind-size/): it's another way to speed up or slow down extraction.
+
+For darker roasts, a little cooler (around 195°F / 90°C) can keep them from turning harsh and bitter, since dark roasts give up their flavor easily.
+
+### Experimenting with lighter roasts
+
+This is the part I think is worth some experimenting. The usual rule is that light roasts need the hottest water, since they're denser and harder to extract. A lot of the lighter roasts that are common now are roasted with that in mind, but I'd still try going cooler than the traditional range sometimes.
+
+Cooler water can bring out more sweetness and soften the sharper acidity in a light roast, and it can make a cup that's a bit more forgiving. It won't always be better, but it's a cheap experiment: brew the same coffee a few degrees cooler and taste them side by side.
+
+## Kettles
+
+You don't need anything fancy to start. Bring water to a boil and let it sit for about 30 seconds to a minute, and you'll land somewhere around 200°F.
+
+For pour-over, two things make it easier:
+
+- **A gooseneck spout** gives you a slow, steady pour, so you can wet all the grounds evenly instead of digging a hole in the middle.
+- **A variable-temperature kettle** lets you set an exact temperature, which makes the light-roast experimenting above a lot easier.
+
+For French press, AeroPress or cold brew, any kettle is fine.
+
+## Once the water's sorted
+
+With good water at a sensible temperature, the rest comes down to tasting and adjusting. That's the last part of the series: [Dialing In by Taste](/coffee/guides/dialing-in-coffee-by-taste/).

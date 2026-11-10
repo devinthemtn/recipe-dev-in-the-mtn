@@ -1,0 +1,56 @@
+---
+title: "Storing and Freezing Coffee Beans"
+description: "What makes coffee go stale, the best containers and places to keep it, and how to freeze beans in portions without ruining them."
+date: "2026-11-10"
+tags: ["guide", "beans", "storage", "freezing"]
+draft: true
+series: "Buying & Storing Beans"
+part: 3
+---
+
+Once you've got good beans home, the goal is to keep them that way until you brew them. It's not hard. Coffee goes stale from four things: **air, light, heat and moisture**. Keep it away from those and it'll stay good for weeks.
+
+This is part three of [Buying & Storing Beans](/coffee/guides/buying-and-storing-coffee-beans/).
+
+## Keep it whole
+
+The single best thing you can do is buy whole beans and grind them right before you brew. Ground coffee has much more surface exposed to air, so it goes stale in days instead of weeks. A [hand grinder](/coffee/reviews/hand-coffee-grinders/) makes this easy.
+
+## Containers
+
+- **The bag it came in** is often fine. A good specialty bag has a one-way valve and a zip seal. Squeeze the air out before sealing it.
+- **An airtight canister** is a good upgrade, especially if your bags don't reseal well. Opaque is better than clear, since light breaks coffee down.
+- **Vacuum canisters** go a step further and pull the air out. Nice to have, not necessary.
+
+A clear glass jar on the counter looks great, but it's about the worst place for coffee, unless it's tucked away in a dark cupboard.
+
+## Where to keep it
+
+**A cool, dark cupboard** is the best spot for beans you'll use in the next few weeks. Keep it away from the stove, the oven, the dishwasher and sunny windows.
+
+**Not the fridge.** It's a common tip, but the fridge is damp, and coffee picks up moisture and smells from everything around it. Every time you take the cold beans out, water condenses on them. The fridge is the one place I'd avoid.
+
+## Freezing beans
+
+The freezer is the exception, and it works really well for beans you won't use for a while. Cold slows down staling a lot, so frozen beans can stay close to fresh for months. The trick is to keep moisture and air out.
+
+**Freeze in portions.** Split the bag into small, airtight portions, about a few days' to a week's worth each, or even single doses. That way you only take out what you're about to use, and the rest stays frozen.
+
+**Make them airtight.** Small freezer bags with the air squeezed out, vacuum-sealed bags, or small airtight jars or tubes all work.
+
+**Freeze them early.** Freezing pauses the clock but doesn't turn it back. Freeze beans soon after they've finished resting, around their peak, not when they're already fading.
+
+**Don't refreeze.** Once a portion is out, use it. Moving beans in and out of the freezer lets condensation form on them each time.
+
+**Thaw it sealed, or grind it frozen.** If you want to thaw a portion, leave it sealed until it's at room temperature, so condensation forms on the outside of the bag and not on the beans. Or just grind the beans straight from the freezer. That works fine, and many people think frozen beans grind more evenly.
+
+## Quick reference
+
+| Where                    | Good for                     | Notes                                  |
+| ------------------------ | ---------------------------- | -------------------------------------- |
+| Cool, dark cupboard      | The next two to four weeks   | Sealed bag or opaque airtight canister |
+| Counter, in a clear jar  | Not great                    | Light and heat speed up staling        |
+| Fridge                   | Avoid                        | Moisture, smells and condensation      |
+| Freezer, in portions     | A month or more              | Airtight, one portion at a time        |
+
+If you find you're freezing a lot, it's a sign you might be buying more than you need. A smaller bag, or a [subscription](/coffee/guides/choosing-a-coffee-roaster/) that ships every couple of weeks, keeps fresh coffee coming without the extra step.

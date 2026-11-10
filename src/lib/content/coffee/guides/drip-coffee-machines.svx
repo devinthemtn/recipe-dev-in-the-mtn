@@ -1,0 +1,45 @@
+---
+title: "Drip Coffee Machines: Getting a Good Pot"
+description: "Why drip machines range from great to awful, what to look for in a good one, and how to get the best pot out of the one you have."
+date: "2026-11-10"
+tags: ["guide", "brewing", "drip", "gear"]
+draft: true
+series: "Brew Methods"
+part: 5
+---
+
+The standard drip coffee machine is about as simple as it gets: water in the back, coffee in the basket, push a button. The catch is the wild variety in quality. A good one makes coffee that's close to a careful pour-over. A bad one makes the flat, bitter office coffee most people picture.
+
+This is part five of [Brew Methods](/coffee/guides/coffee-brew-methods/).
+
+## How it works
+
+A drip machine is an automatic [pour-over](/coffee/guides/pour-over-coffee/). It heats the water, then drips or sprays it over a basket of grounds, and the coffee runs through a filter into a carafe. The difference between a good machine and a bad one mostly comes down to how well it does those two jobs.
+
+## What makes a good one
+
+- **Hot enough water.** A lot of cheap machines never get the water above about 180°F, which leaves the coffee sour and weak. A good machine holds it around 195 to 205°F for the whole brew.
+- **Even water over the grounds.** A wide shower head that wets all the coffee is a lot better than a single stream hitting the middle.
+- **A bloom or pre-wet.** Some machines wet the grounds first and pause, just like the bloom in a pour-over.
+- **A thermal carafe instead of a hot plate.** A hot plate keeps cooking the coffee, and after half an hour it tastes burnt. A thermal carafe keeps it hot without that.
+- **SCA certification.** The Specialty Coffee Association tests home brewers for temperature, brew time and evenness. It's not the only way to tell a good machine, but it's an easy shortcut when shopping.
+
+A good machine doesn't have to be expensive. The [OXO Brew 9-Cup](/coffee/products/oxo-brew-9-cup/) is SCA certified and is about the cheapest way to stop drinking bad drip coffee.
+
+## What I use
+
+For a single cup I'll make a pour-over, but when people are over, or I want coffee for the whole morning, I use the [Breville Precision Brewer Thermal](/coffee/products/breville-precision-brewer-thermal/). It lets me change the bloom time, flow rate and temperature, but most of the time I just use the Gold setting and press start.
+
+## Getting the best pot out of any machine
+
+Even a basic machine makes noticeably better coffee with a few changes:
+
+- **Use fresh, good beans** and grind them right before you brew. A [burr grinder](/coffee/reviews/hand-coffee-grinders/) helps here too.
+- **Weigh it.** Around 16:1 is a good start, which is about 60 g of coffee for a liter of water. There's more in [Coffee-to-Water Ratios](/coffee/guides/coffee-to-water-ratio/).
+- **Grind medium**, about like sand. Flat-bottomed baskets like it a little coarser than cone baskets.
+- **Rinse the paper filter** if your machine uses one.
+- **Brew a full or near-full batch.** Many machines are designed around their full capacity and make weaker coffee with tiny batches. Some have a small-batch setting for that.
+- **Pour it into a thermos** if your machine has a hot plate, instead of letting it sit.
+- **Keep it clean.** Wash the basket and carafe, and descale the machine every month or two, more often if your water is hard. Built-up scale slows the machine down and keeps the water from getting hot enough.
+
+If you want a machine that does the full pour-over routine for you, the [automatic pour-over machines](/coffee/reviews/automatic-pour-over-machines-roundup/) take it a step further.
