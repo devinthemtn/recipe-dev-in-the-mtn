@@ -1,0 +1,79 @@
+---
+title: "The Turn to Tea: How Britain Swapped Coffee for Tea"
+description: "Tea arrived in London's coffeehouses in the 1650s. Over the next 150 years, royal fashion, a trading monopoly, smuggling and a big tax cut turned Britain into a nation of tea drinkers."
+date: "2026-11-09"
+tags: ["guide", "history", "england", "tea"]
+series: "A History of Coffee"
+part: 5
+---
+
+This is part five of [A History of Coffee](/coffee/guides/coffee-history/). In [part four](/coffee/guides/coffee-history-english-coffeehouses/), London fell for coffee. Here's how it fell out of love again.
+
+Britain is so tied to tea now that it's easy to forget the coffeehouse came first. Tea didn't win overnight. It took about 150 years and a lot of help.
+
+## Tea arrives in the coffeehouse
+
+Tea came to London through the same doors as coffee.
+
+- **1657:** **Thomas Garway** (his coffeehouse is the same Garraway's from part four; spellings varied) starts selling tea in Exchange Alley. It was very expensive, sold as both a drink and a health tonic.
+- **1658:** The first newspaper ad for tea appears in London, calling it "That Excellent, and by all Physitians approved, China Drink."
+- **1660:** On 25 September, **Samuel Pepys** writes in his diary that he "did send for a cup of tee (a China drink) of which I never had drank before." In the same year, Parliament puts a tax on coffee, tea and chocolate, charged by the gallon of brewed drink.
+
+So at first, tea was just one more exotic drink on the coffeehouse menu.
+
+## A queen who drank tea
+
+In **1662**, Charles II married **Catherine of Braganza**, a Portuguese princess. The Portuguese had been trading with China and Asia for over a century, and Catherine was already a tea drinker. Where the queen led, the court followed, and tea became a fashionable drink for the wealthy, especially for women. That mattered, because coffeehouses were male spaces. Tea could be served at home.
+
+## The East India Company
+
+The **East India Company** started bringing tea to England in the 1660s. Its first recorded tea was a small gift to the king in 1664, and regular imports followed. Over time it built a monopoly on British trade with China, which meant:
+
+- A **steady and growing supply**. The Company had every reason to sell more tea, and it did.
+- **Political muscle**. The Company was one of the most powerful businesses in the country, and tea was one of its most profitable goods.
+
+Coffee had no champion like that. Britain had no big coffee colonies of its own in the early 1700s (Jamaica started growing coffee in 1728, but on a small scale), while the Dutch and French were building huge coffee plantations (see [part six](/coffee/guides/coffee-history-goes-global/)).
+
+## Twinings and tea for women
+
+In **1706**, **Thomas Twining** bought Tom's Coffee House on the Strand. He started selling dry tea to take home, and in **1717** he opened the **Golden Lyon** next door, a shop where women could buy tea themselves. Coffeehouses didn't welcome women, but a tea shop did. Twinings is still on the same spot today.
+
+## Why coffee lost ground
+
+No single thing did it. Several forces pushed in the same direction through the 1700s:
+
+- **Supply and price.** The East India Company kept bringing in more tea, and it kept getting cheaper relative to coffee.
+- **Home drinking.** Tea is easy to brew at home: hot water and leaves, no roasting or grinding. It became tied to family life, respectability and hospitality. Coffee was a drink you went _out_ for.
+- **Coffeehouses changed.** Many specialized into private clubs, insurance offices and banks, like Lloyd's. Others turned into taverns or inns. The open, anyone-can-come coffeehouse faded.
+- **New places to go.** Gentlemen's clubs took the wealthy crowd. **Tea gardens**, like Vauxhall and Ranelagh, offered a day out for men and women together, with music, walks and, of course, tea.
+- **Sugar.** Tea was usually drunk with sugar, and British colonies in the Caribbean were producing huge amounts of it on plantations worked by enslaved Africans. Cheap sugar made tea more appealing, and it's a dark part of the story that's easy to leave out.
+
+## Taxes and smuggling
+
+Through the 1700s, tea was heavily taxed, at times well over 100 percent of its value. That should have killed it, but instead it made smuggling huge. Tea came in from Europe on small boats along the coast, and by some estimates, more tea was smuggled into Britain than was imported legally. Some of it was cut with other leaves, ash or sheep dung to stretch it.
+
+Smuggling had a side effect: it kept tea cheap enough for ordinary people to drink. Coffee faced high duties too, but there was no comparable black market for it.
+
+## 1784: The Commutation Act
+
+In **1784**, Prime Minister **William Pitt the Younger** cut the tea tax from about 119 percent to **12.5 percent**. The point was to put the smugglers out of business, and it worked. Smuggling collapsed almost overnight, legal tea became cheap, and the government made up the lost money with other taxes.
+
+After this, tea was affordable for almost everyone.
+
+## Tea becomes the national drink
+
+Through the late 1700s and 1800s, tea became an everyday staple for every class, usually with milk and sugar. A few more pieces fell into place:
+
+- **Tea from India.** Britain's tea came from China, and it was paying for it, in part, with opium grown in India. That led to the **Opium Wars** with China (1839 to 1842 and 1856 to 1860). Meanwhile, the British started growing tea in **Assam**, India, where a native tea plant was found, and the first Assam tea sold in London in 1839. In the 1840s, the botanist Robert Fortune smuggled tea plants and growers' knowledge out of China, and plantations spread across India.
+- **Tea from Ceylon.** In a twist that ties right back to coffee, Ceylon (now Sri Lanka) was a major coffee grower until a fungus destroyed its coffee farms starting in 1869. Planters switched to tea, and Ceylon tea was born. That story's in [part six](/coffee/guides/coffee-history-goes-global/).
+- **Temperance.** In the 1830s, the temperance movement pushed tea as the healthy alternative to gin and beer, and held "tea meetings" to keep people out of pubs.
+- **Afternoon tea.** In the 1840s, **Anna, Duchess of Bedford**, started having tea and snacks in the late afternoon to bridge the long gap before dinner. It caught on among the upper classes and became a tradition.
+- **Tea rooms.** The Aerated Bread Company opened its first tea room in 1864, and chains like Lyons followed. They were respectable places where women could eat out on their own.
+
+By 1900, Britain was a tea-drinking nation, and it largely still is. Coffee never disappeared, though, and it's had a big comeback in the last few decades. That's in [part seven](/coffee/guides/coffee-history-modern/).
+
+## Across the Atlantic
+
+While Britain was switching to tea, its American colonies went the other way. After the **Boston Tea Party** in 1773, drinking tea started to look unpatriotic, and coffee got a boost. More on that in the next part.
+
+**Next:** [Part 6: Coffee Goes Global](/coffee/guides/coffee-history-goes-global/).

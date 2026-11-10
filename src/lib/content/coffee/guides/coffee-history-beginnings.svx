@@ -1,0 +1,36 @@
+---
+title: "Coffee's Beginnings: Ethiopia and Yemen"
+description: "Where the coffee plant comes from, the legend of Kaldi and his goats, and how Sufis in Yemen turned it into a drink."
+date: "2026-11-09"
+tags: ["guide", "history", "ethiopia", "yemen"]
+series: "A History of Coffee"
+part: 1
+---
+
+This is part one of [A History of Coffee](/coffee/guides/coffee-history/). It covers the longest stretch of time and the least information, so it's short.
+
+## A plant from the Ethiopian highlands
+
+_Coffea arabica_, the plant behind nearly all specialty coffee, is native to the forests of southwestern Ethiopia, and it still grows wild there. It's a natural cross between two other coffee species, and Ethiopia holds more genetic variety of arabica than the rest of the world put together. That's part of why Ethiopian coffees taste so different from one another, and why bags from there often just say "heirloom" (more on that in [Coffee Varieties](/coffee/guides/coffee-varieties/)).
+
+Nobody knows when people first started using it. The best guess is that the cherries were chewed or eaten long before anyone brewed them. There's a long tradition in the region of mixing coffee with fat into an energy snack for long journeys, and the leaves and fruit husks were brewed too.
+
+## Kaldi and the dancing goats (legend)
+
+The best-known origin story goes like this: around the 800s, an Ethiopian goatherd named Kaldi noticed his goats were jumpy and wouldn't sleep after eating red berries from a certain shrub. He tried them himself, felt the buzz, and took them to a local monastery, where the monks learned to use them to stay awake for prayers.
+
+It's a great story, but it doesn't appear in writing until the 1600s, in Europe. So it's folklore, not history.
+
+## Yemen and the Sufis
+
+The first reliable evidence of coffee as a brewed drink comes from **Yemen in the 1400s**, across the Red Sea from Ethiopia. Sufi mystics drank it to stay alert through night-long devotions. One scholar, Muhammad al-Dhabhani, is often credited with bringing it into use in Aden after seeing it in Ethiopia, though the details are thin.
+
+From there:
+
+- Yemen started **farming** coffee on its terraced mountainsides, not just gathering it.
+- The port of **Mocha** became the center of the trade. For roughly two centuries, nearly all the coffee anyone drank came from Yemen, shipped out through Mocha.
+- The drink was called **qahwa**, an Arabic word that had earlier been used for wine. It traveled into Turkish as _kahve_, then Italian _caffè_, and eventually English _coffee_.
+
+Yemen still grows coffee from those old plants on the same kinds of mountain terraces, mostly dried as naturals, with flavors like dried fruit and spice. You can see where it fits in [Coffee Origins](/coffee/guides/coffee-origins/).
+
+**Next:** [Part 2: The Islamic World](/coffee/guides/coffee-history-islamic-world/), where coffee leaves the monastery and the coffeehouse is born.
