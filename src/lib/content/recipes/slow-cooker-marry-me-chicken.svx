@@ -1,7 +1,7 @@
 ---
 title: "Slow Cooker Marry Me Chicken Drumsticks"
 description: "Juicy drumsticks slow-cooked with garlic, herbs, and sun-dried tomatoes, then finished in a creamy parmesan sauce and broiled until the skin is crisp. Without a flour thickener and with only a few sun-dried tomatoes, each drumstick has about 3g carbs."
-date: "2026-11-13"
+date: "2026-11-30"
 draft: false
 tags: ["dinner", "comfort-food", "slow-cooker", "low-carb", "diabetic-friendly", "high-protein", "gluten-free"]
 prepTime: "15 min"
