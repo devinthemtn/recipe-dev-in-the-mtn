@@ -1,0 +1,87 @@
+---
+title: "Leftover Turkey à la King"
+description: "All the creamy filling of a turkey pot pie with no crust. Leftover turkey, mushrooms, carrots, peas, and broccoli in a light, herby cream sauce, made in one skillet in about 35 minutes."
+date: "2026-11-23"
+draft: false
+tags: ["dinner", "thanksgiving", "diabetic-friendly", "high-protein", "one-pan", "weeknight", "comfort-food", "make-ahead"]
+prepTime: "15 min"
+cookTime: "20 min"
+totalTime: "35 min"
+servings: 6
+nutrition:
+  calories: 295
+  protein: "27g"
+  carbs: "20g"
+  fat: "12g"
+  fiber: "5g"
+  sugar: "8g"
+  sodium: "385mg"
+---
+
+<script>
+	import turkeyALaKing from '$lib/assets/thanksgiving/turkey-a-la-king.svg';
+</script>
+
+<img src={turkeyALaKing} alt="Illustration of a shallow bowl of creamy turkey à la king with peas, carrots, mushrooms, and red pepper over broccoli" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+**Vegetables**
+
+- 3 Tbs (42g) unsalted butter, divided
+- 8 oz (225g) cremini or white mushrooms, sliced
+- 1 (150g) onion, diced
+- 2 (120g) carrots, diced small
+- 2 ribs (80g) celery, diced
+- 1 (150g) red bell pepper, diced
+- 2 cloves (7g) garlic, minced
+- 2 cups (180g) small broccoli florets, cut into bite-size pieces
+
+**Sauce**
+
+- 1/4 cup (30g) white whole wheat flour or all-purpose flour
+- 2 cups (475g) low-sodium turkey or chicken broth
+- 1 cup (245g) whole milk
+- 2 Tbs (14g) ground golden flaxseed
+- 1 tsp dried thyme, or 1 Tbs fresh thyme leaves
+- 1/2 tsp dried rubbed sage
+- 1/2 tsp salt, plus more to taste (see Notes)
+- 1/4 tsp freshly cracked black pepper
+- Pinch of ground nutmeg
+
+**To finish**
+
+- 3 cups (420g) chopped or shredded cooked turkey, white and dark meat, skin removed
+- 1 cup (135g) frozen peas
+- 1 Tbs (15g) dry sherry or lemon juice
+- Chopped fresh parsley
+
+**To serve**
+
+- Roasted or steamed broccoli (see Notes for other options)
+
+## Instructions
+
+1. **Brown the mushrooms.** Melt 1 Tbs of the butter in a large, deep skillet over medium-high heat. Add the mushrooms in an even layer and leave them alone for 3 minutes, until browned on the bottom. Stir and cook 2–3 minutes more, until their liquid has cooked off.
+2. **Soften the vegetables.** Turn the heat to medium. Add the remaining 2 Tbs butter, the onion, carrots, celery, and bell pepper. Cook, stirring often, for 6–7 minutes, until the onion is soft and the carrots are starting to get tender. Add the garlic and stir for 30 seconds.
+3. **Make the roux.** Sprinkle the flour over the vegetables and stir constantly for 1–2 minutes, until no dry flour is left and it smells a little toasty.
+4. **Build the sauce.** Slowly pour in the broth, about 1/2 cup at a time, stirring and scraping the bottom of the pan after each pour so it stays smooth. Stir in the milk, flaxseed, thyme, sage, salt, pepper, and nutmeg.
+5. **Simmer.** Bring to a gentle simmer and stir in the broccoli. Cook, stirring often, for 5 minutes, until the sauce is thick enough to coat a spoon and the carrots and broccoli are just tender.
+6. **Add the turkey.** Stir in the turkey and frozen peas. Simmer gently for 3–4 minutes, until the peas are bright green and everything is steaming hot all the way through.
+7. **Finish and serve.** Take the pan off the heat and stir in the sherry or lemon juice. Taste, then add more salt and pepper if it needs it. If the sauce is thicker than you like, stir in a splash of broth or milk. Spoon it over broccoli and top with parsley.
+
+## Notes
+
+- **Nutrition:** Per 1/6 of the recipe, about 1 1/4 cups, made with white whole wheat flour, golden flaxseed, low-sodium broth, unsalted butter, whole milk, and turkey meat without the skin. Doesn't include what you serve it on. Net carbs are about 15g per serving. Sodium depends a lot on your turkey and broth. The numbers assume unsalted roast turkey. Dry-brined leftovers like the [Herb-Mayo Roast Turkey](/recipes/thanksgiving-herb-mayo-roast-turkey/) can add up to 250mg more per serving, so taste before adding any salt at the end.
+- **Why it's diabetes-friendly:** The crust is where most of a pot pie's carbs are, and a single slice can have 30–40g. Without it, the carbs here come mostly from the vegetables and a small amount of flour, and the turkey brings plenty of protein. Ground flaxseed, the broccoli in the sauce, and the whole wheat flour add fiber without adding many carbs, for about 5g fiber per serving. Serving it over broccoli instead of biscuits or rice keeps the whole plate low in carbs and adds fiber.
+- **What to serve it on:** 1 cup of roasted or steamed broccoli adds about 4g net carbs. Roasted spaghetti squash adds about 5g per cup. For the classic version, spoon it over toast, half a biscuit, or a small scoop of rice. Toast and biscuits add about 15–25g carbs each, and 1/2 cup of rice adds about 22g.
+- **Roasting the broccoli:** Toss 1 1/2 lb (680g) broccoli florets with 1 Tbs olive oil and a pinch of salt. Spread them on a sheet pan and roast at 425°F for 15–20 minutes, until the edges are browned. Start them before you begin the sauce and they'll be ready at the same time.
+- **Why the turkey goes in last:** It's already cooked. A few minutes in the sauce warms it through and keeps it tender. Simmering it longer makes it stringy.
+- **Make it richer:** Swap 1/2 cup of the milk for heavy cream. It adds about 50 calories and 6g fat per serving and almost no carbs.
+- **Gluten-free:** Replace the flour with 2 Tbs (16g) cornstarch. Skip the roux step. Instead, whisk the cornstarch into the cold milk, then stir it in after the broth has come to a simmer. Cook for 2 minutes, until thickened.
+- **Use the gravy:** Leftover [Make-Ahead Turkey Gravy](/recipes/thanksgiving-make-ahead-gravy/) can stand in for up to 1 cup of the broth. It makes the sauce thicker and richer, so add more broth or milk if it gets too thick.
+- **Flaxseed:** Ground golden flaxseed disappears into a cream sauce. It tastes mildly nutty and is lighter than brown flax, so it won't darken the sauce. Its carbs are almost all fiber, and it thickens the sauce a little as it simmers, so add a splash more broth if needed. Don't add more than 2 Tbs, or the sauce can turn gluey and taste noticeably of flax. It needs to be ground, because whole seeds pass through undigested. Keep ground flax in the fridge or freezer so it doesn't go rancid. Ground chia seeds (1 Tbs / 10g) work too. Avoid whole chia, which turns gel-like and leaves visible specks.
+- **White whole wheat flour:** It's milled from a lighter-colored wheat, so it tastes milder than regular whole wheat. In a creamy sauce you can't tell it apart from all-purpose flour, and it adds a little more fiber. All-purpose works fine too.
+- **More vegetables:** Stir in a handful of chopped green beans with the carrots, or a couple of handfuls of baby spinach with the turkey.
+- **Leftover safety:** Use leftover turkey within 3–4 days of cooking it, or freeze it for later. Reheat until it's steaming hot, 165°F (74°C).
+- **Storage:** Refrigerate within 2 hours and use within 3–4 days. It freezes for up to 3 months, though the sauce can look a little grainy after thawing. The flax and flour keep thickening it in the fridge. Stir it well as it reheats, and add a splash of milk or broth to loosen it.

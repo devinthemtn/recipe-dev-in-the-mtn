@@ -42,6 +42,8 @@ Recipes and blog posts live as markdown files with YAML frontmatter — there's 
 - **Coffee products** (gear: grinders, brewers, kettles, scales): `src/lib/content/coffee/products/*.svx`, using `src/lib/content/COFFEE_PRODUCT_TEMPLATE.svx`. They show at `/coffee/products/<slug>`.
 - **Coffee videos**: `src/lib/content/coffee/videos.js` — add an object to the `videos` or `channels` array. Any YouTube link works; the thumbnail is pulled from YouTube automatically. Give each video a `date` (when you added it) so the newest show on `/coffee`.
 
+**Drafts and scheduled posts:** set `draft: true` to hide an entry. An entry whose `date` is after today is scheduled: it's left out of every list, the sitemap and `build/` until a build runs on or after that date (in Mountain time, set by `SITE_TIME_ZONE` in `vite.config.js`). Because the site is static, a scheduled entry only goes live when the site is rebuilt, so redeploy on (or schedule a daily build for) the publish date. Preview drafts and scheduled entries with `pnpm dev:drafts`.
+
 Recipe/blog metadata is read via `src/lib/content/recipes.js` and `blog.js` using `import.meta.glob`, so a new `.svx` file is picked up automatically — no registry to update.
 
 ## Sitemap and robots.txt

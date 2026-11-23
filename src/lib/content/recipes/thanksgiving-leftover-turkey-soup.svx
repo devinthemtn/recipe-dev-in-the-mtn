@@ -1,0 +1,99 @@
+---
+title: "Thick & Creamy Leftover Turkey Soup"
+description: "A hearty, thick soup for leftover Thanksgiving turkey, made in an Instant Pot or slow cooker. Blended white beans make it creamy with no flour, cream, or potatoes."
+date: "2026-11-23"
+draft: false
+tags: ["dinner", "lunch", "soup", "thanksgiving", "slow-cooker", "instant-pot", "diabetic-friendly", "high-protein", "high-fiber", "gluten-free", "make-ahead", "comfort-food"]
+prepTime: "15 min, plus 30 min to pressure-soak the beans"
+cookTime: "45 min in an Instant Pot, or 5–9 hr in a slow cooker"
+totalTime: "About 1 hr 30 min (Instant Pot), or 6–10 hr (slow cooker)"
+servings: 6
+nutrition:
+  calories: 295
+  protein: "30g"
+  carbs: "28g"
+  fat: "7g"
+  fiber: "8g"
+  sugar: "3g"
+  sodium: "460mg"
+---
+
+<script>
+	import turkeySoup from '$lib/assets/thanksgiving/leftover-turkey-soup.svg';
+</script>
+
+<img src={turkeySoup} alt="Illustration of a bowl of thick, creamy turkey soup with chunks of turkey, carrots, and greens" class="w-full max-w-sm rounded-xl" />
+
+## Ingredients
+
+**Beans**
+
+- 1 cup (200g) dried cannellini or great northern beans
+- 4 cups (950g) water for soaking
+
+**Soup base**
+
+- 1 Tbs (14g) olive oil
+- 1 (150g) onion, diced
+- 3 ribs (120g) celery, diced
+- 2 (120g) carrots, diced
+- 3 cloves (10g) garlic, minced
+- 6 cups (1420g) low-sodium turkey or chicken broth, plus more to thin
+
+**Herbs and seasoning**
+
+- 1 tsp dried thyme, or 1 Tbs fresh thyme leaves
+- 1/2 tsp dried rubbed sage, or 1 Tbs chopped fresh sage
+- 1/2 tsp dried rosemary, crumbled
+- 1 bay leaf
+- 1/2 tsp salt, plus more to taste (see Notes)
+- 1/2 tsp freshly cracked black pepper
+
+**To finish**
+
+- 3 cups (420g) chopped or shredded cooked turkey, white and dark meat, skin removed
+- 3 cups (90g) baby spinach or chopped kale
+- 1 Tbs (15g) lemon juice
+- Chopped fresh parsley, optional
+
+## Instructions
+
+### Pressure-Soak the Beans
+
+Rinse the beans and pick out any small stones or shriveled beans. Put them in the Instant Pot with the 4 cups of water. Lock the lid, set the valve to Sealing, and cook on High Pressure for 2 minutes. Let the pressure release naturally, about 15 minutes. The beans will be plump and roughly doubled in size, but not cooked through yet. Drain them in a colander, rinse, and wipe out the pot. They're ready for either method below. This takes about 30 minutes in all, and you don't have to plan the night before. See Notes for soaking without a pressure cooker.
+
+### Instant Pot
+
+1. **Sauté the vegetables.** Set a 6-quart Instant Pot to Sauté (Normal). Add the oil, onion, celery, and carrots and cook, stirring often, for 5 minutes, until the onion softens. Add the garlic and stir for 30 seconds.
+2. **Deglaze.** Pour in about 1/2 cup of the broth and scrape the bottom of the pot well with a wooden spoon. Anything left stuck down there can set off the Burn warning.
+3. **Add the base.** Turn off Sauté. Add the soaked, drained beans, remaining broth, thyme, sage, rosemary, bay leaf, salt, and pepper. Leave out the turkey and greens for now.
+4. **Pressure cook.** Lock the lid, set the valve to Sealing, and cook on High Pressure for 10 minutes. Let the pressure release naturally for 15 minutes, then quick-release the rest. It takes about 15 minutes to come up to pressure. Check that a bean mashes easily against the side of the pot. If any are still firm, lock the lid again and cook on High Pressure for 3–5 minutes more.
+5. **Blend to thicken.** Take out the bay leaf. Use an immersion blender to blend the soup right in the pot until about half of it is smooth, leaving some chunks of carrot and celery. Or ladle about 4 cups, mostly the beans, into a blender, blend with the lid vented and covered with a towel, and stir it back in.
+6. **Add the turkey.** Set the pot to Sauté again. Stir in the turkey and spinach and simmer for 3–5 minutes, stirring so the bottom doesn't stick, until the greens wilt and the soup is steaming hot all the way through.
+7. **Season and serve.** Turn off the heat and stir in the lemon juice. Taste, then add more salt and pepper if it needs it. If the soup is thicker than you like, stir in a splash of broth. Top with parsley.
+
+### Slow Cooker
+
+1. **Boil the beans first.** Put the soaked, drained beans in a pot, cover with fresh water, and boil hard for 10 minutes, then drain. Cannellini are a type of white kidney bean, and slow cookers may not get hot enough to break down the natural toxin in raw kidney beans. A short, hard boil takes care of it.
+2. **Brown the vegetables (recommended).** Heat the oil in a large skillet over medium heat. Cook the onion, celery, and carrots for 5 minutes, until softened, then add the garlic for the last 30 seconds. Scrape it all into a 6-quart slow cooker. In a hurry? Skip the skillet and add the raw vegetables and oil straight to the cooker. The soup will taste a little less deep, but it still works.
+3. **Add the base.** Add the boiled beans, broth, thyme, sage, rosemary, bay leaf, salt, and pepper. Stir. Leave out the turkey and greens for now.
+4. **Slow cook.** Cover and cook on Low for 8–9 hours or on High for 4–5 hours, until the beans are very soft and mash easily.
+5. **Blend to thicken.** Take out the bay leaf. Blend until about half of the soup is smooth, like step 5 of the Instant Pot method. If your crock is ceramic, tilt the immersion blender so its blades don't scrape the bottom, or use a regular blender.
+6. **Add the turkey.** Stir in the turkey and spinach. Cover and cook on High for 20–30 minutes, until the soup is steaming hot all the way through.
+7. **Season and serve.** Stir in the lemon juice, then taste and adjust the salt and pepper. Thin with a splash of broth if needed. Top with parsley.
+
+## Notes
+
+- **Nutrition:** Per 1/6 of the pot, about 1 3/4 cups, made with low-sodium broth, dried beans cooked without salt, and turkey meat without the skin. Net carbs are about 20g per serving. Sodium depends a lot on your turkey and broth. The numbers assume unsalted roast turkey. Dry-brined leftovers like the [Herb-Mayo Roast Turkey](/recipes/thanksgiving-herb-mayo-roast-turkey/) can add up to 250mg more per serving, so taste before adding any salt at the end.
+- **Why it's diabetes-friendly:** Most creamy soups get their body from flour, potatoes, or rice, which raise blood sugar quickly. Here, blended white beans do the thickening. Their fiber and plant protein slow down how fast the carbs are absorbed, and the turkey brings plenty of protein. Each bowl has about 30g protein and 8g fiber.
+- **Why the turkey goes in last:** It's already cooked. Pressure cooking it or simmering it for hours makes it stringy and dry. Stirring it in at the end just warms it through and keeps it tender.
+- **How thick:** Blending half the pot gives a thick, stew-like soup. For a smooth, creamy soup, blend all of it before adding the turkey. For a brothier soup, blend less or add another cup of broth.
+- **Make it creamier:** Stir in 1/4 cup (60g) heavy cream or 2 oz (57g) cream cheese with the turkey. It adds about 70 calories and 7g fat per serving and almost no carbs. A handful of grated Parmesan on top is good too.
+- **Use the carcass:** If you saved the turkey frame, make broth with it first. Break it up, cover with about 12 cups of water in an Instant Pot (or a slow cooker), add an onion, a carrot, celery, and a bay leaf, and cook on High Pressure for 90 minutes (or 10–12 hours on Low). Strain it, and skim the fat if you like. Homemade broth has no salt, so you'll probably need another 1/2 tsp at the end.
+- **No pressure cooker? Soak them in a bowl or on the stove.** *Overnight soak:* Cover the rinsed beans with about 3 inches of cold water and leave them on the counter for 8–12 hours, then drain and rinse. *Quick soak:* Bring the beans and 6 cups of water to a boil in a pot, boil for 2 minutes, then cover, take off the heat, and let sit for 1 hour. Drain and rinse. Either way, carry on with the Slow Cooker method, including the 10-minute boil in step 1.
+- **Using canned beans:** Swap in 2 cans (15 oz / 425g each) of cannellini or great northern beans, drained and rinsed, and skip the soaking. Cut the broth back to 5 cups, cook on High Pressure for 5 minutes with a 10-minute natural release, or slow cook on Low for 6–7 hours or on High for 3–4 hours. Rinsed canned beans add about 180mg sodium per serving; no-salt-added cans add almost none.
+- **Old beans:** Dried beans that have sat in the pantry for over a year can stay firm no matter how long they cook. Buy them from a store that sells a lot of them, and use them within a year.
+- **Add more vegetables:** Diced zucchini, mushrooms, or green beans can go in with the beans.
+- **Gluten-free:** Everything here is naturally gluten-free. Check your broth's label to be sure.
+- **Leftover safety:** Use leftover turkey within 3–4 days of cooking it, or freeze it for later. Reheat the soup until it's steaming hot, 165°F (74°C).
+- **Storage:** Refrigerate within 2 hours and use within 3–4 days. It freezes well for up to 3 months. The soup thickens as it cools, so add a splash of broth or water when you reheat it.

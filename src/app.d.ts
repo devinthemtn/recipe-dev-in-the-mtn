@@ -9,6 +9,9 @@ declare global {
 		// interface Platform {}
 	}
 
+	/** The build's date in the site's time zone, "YYYY-MM-DD". Set in vite.config.js. */
+	const __BUILD_DATE__: string;
+
 	interface Window {
 		/** Set by the Google Analytics snippet, when analytics is enabled. */
 		gtag?: (...args: unknown[]) => void;

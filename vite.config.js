@@ -10,8 +10,25 @@ import { mdsvex } from 'mdsvex';
 import rehypeExternalLinks from 'rehype-external-links';
 const dirname = import.meta.dirname;
 
+// Content dated after this day is scheduled and stays hidden (see src/lib/content/drafts.js).
+// It's fixed when the build starts, rather than read from the visitor's clock, so the
+// lists in the browser always match the pages that were actually built. A scheduled
+// entry goes live on the first build on or after its date.
+// The date is taken in this time zone, so a build server running on UTC
+// doesn't publish things early in the evening the day before.
+const SITE_TIME_ZONE = 'America/Denver';
+const buildDate = new Intl.DateTimeFormat('en-CA', {
+	timeZone: SITE_TIME_ZONE,
+	year: 'numeric',
+	month: '2-digit',
+	day: '2-digit'
+}).format(new Date()); // "YYYY-MM-DD"
+
 // More info at: https://storybook.js.org/docs/next/writing-tests/integrations/vitest-addon
 export default defineConfig({
+	define: {
+		__BUILD_DATE__: JSON.stringify(buildDate)
+	},
 	plugins: [
 		tailwindcss(),
 		sveltekit({
