@@ -1,9 +1,9 @@
 ---
 title: "Unsweetened Milks and Creamers for Coffee: Carbs Compared"
 description: "Dairy, cream, oat, soy, coconut and pea milks compared by carbs, taste and how they work in coffee, plus what to watch for on creamer labels."
-date: "2026-11-10"
+date: "2026-11-25"
 tags: ["guide", "low-carb", "milk"]
-draft: true
+draft: false
 series: "Low-Carb Coffee & Milk"
 part: 2
 ---

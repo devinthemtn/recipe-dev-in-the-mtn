@@ -1,9 +1,9 @@
 ---
 title: "Frothing Milk at Home"
 description: "Handheld wands, electric frothers, a French press and steam wands compared, which milks froth best, and how to make a low-carb latte at home."
-date: "2026-11-10"
+date: "2026-11-25"
 tags: ["guide", "low-carb", "milk", "gear"]
-draft: true
+draft: false
 series: "Low-Carb Coffee & Milk"
 part: 3
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Coffee Brew Methods: Finding the Right One for You"
 description: "Pour-over, French press, AeroPress, cold brew, drip, capsules and espresso compared by body, effort, gear and time."
-date: "2026-11-10"
+date: "2026-11-15"
 tags: ["guide", "brewing", "gear"]
-draft: true
+draft: false
 series: "Brew Methods"
 part: 0
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Water and Temperature for Brewing Coffee"
 description: "What kind of water to brew with, how hot it should be, and why lighter roasts are worth experimenting with."
-date: "2026-11-10"
+date: "2026-11-12"
 tags: ["guide", "brewing", "water", "gear"]
-draft: true
+draft: false
 series: "Brewing Basics"
 part: 3
 ---

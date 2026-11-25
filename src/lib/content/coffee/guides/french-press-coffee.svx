@@ -1,9 +1,9 @@
 ---
 title: "French Press Coffee: Full-Bodied, Forgiving and Low on Sludge"
 description: "How the French press works, why it's so forgiving, and a simple way to brew it without a mouthful of grounds."
-date: "2026-11-10"
+date: "2026-11-16"
 tags: ["guide", "brewing", "french press"]
-draft: true
+draft: false
 series: "Brew Methods"
 part: 2
 ---

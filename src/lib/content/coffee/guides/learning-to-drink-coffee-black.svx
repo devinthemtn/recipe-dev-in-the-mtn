@@ -1,9 +1,9 @@
 ---
 title: "Learning to Drink Coffee Black"
 description: "How to pick beans and roasts that taste sweet on their own, brew them so they're not bitter, and ease off sugar without missing it."
-date: "2026-11-10"
+date: "2026-11-24"
 tags: ["guide", "low-carb", "beans", "brewing"]
-draft: true
+draft: false
 series: "Low-Carb Coffee & Milk"
 part: 1
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Reading a Specialty Coffee Bag: What Every Line Means"
 description: "What the origin, producer, altitude, variety, process, roast and tasting notes on a coffee bag tell you about what's inside."
-date: "2026-11-10"
+date: "2026-11-21"
 tags: ["guide", "beans", "buying"]
-draft: true
+draft: false
 series: "Buying & Storing Beans"
 part: 1
 ---

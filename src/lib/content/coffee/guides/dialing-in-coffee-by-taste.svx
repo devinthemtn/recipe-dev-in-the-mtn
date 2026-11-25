@@ -1,9 +1,9 @@
 ---
 title: "Dialing In Coffee by Taste: Sour, Bitter and What to Change"
 description: "How to tell if your coffee is under- or over-extracted by taste, and what to adjust to fix it."
-date: "2026-11-10"
+date: "2026-11-13"
 tags: ["guide", "brewing", "extraction"]
-draft: true
+draft: false
 series: "Brewing Basics"
 part: 4
 ---

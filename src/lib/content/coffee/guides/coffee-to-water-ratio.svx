@@ -3,7 +3,7 @@ title: "Coffee-to-Water Ratios: How Much Coffee to Use"
 description: "Starting ratios for pour-over, French press, AeroPress, cold brew and more, and why weighing beats scooping."
 date: "2026-11-10"
 tags: ["guide", "brewing", "ratio"]
-draft: true
+draft: false
 series: "Brewing Basics"
 part: 1
 ---

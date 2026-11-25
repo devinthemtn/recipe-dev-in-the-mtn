@@ -1,9 +1,9 @@
 ---
 title: "Pour-Over Coffee: V60, Kalita and Chemex Basics"
 description: "How pour-over works, how the V60, Kalita Wave and Chemex differ, and a simple recipe to start from."
-date: "2026-11-10"
+date: "2026-11-15"
 tags: ["guide", "brewing", "pour-over"]
-draft: true
+draft: false
 series: "Brew Methods"
 part: 1
 ---

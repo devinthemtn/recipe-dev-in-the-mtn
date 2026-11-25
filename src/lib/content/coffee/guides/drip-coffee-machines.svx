@@ -1,9 +1,9 @@
 ---
 title: "Drip Coffee Machines: Getting a Good Pot"
 description: "Why drip machines range from great to awful, what to look for in a good one, and how to get the best pot out of the one you have."
-date: "2026-11-10"
+date: "2026-11-19"
 tags: ["guide", "brewing", "drip", "gear"]
-draft: true
+draft: false
 series: "Brew Methods"
 part: 5
 ---

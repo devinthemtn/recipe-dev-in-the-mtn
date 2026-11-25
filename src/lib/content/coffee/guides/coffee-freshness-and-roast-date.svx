@@ -1,9 +1,9 @@
 ---
 title: "Coffee Freshness and Roast Dates: When Beans Peak and Fade"
 description: "Why the roast date matters more than the best-by date, why fresh beans need to rest, and how long coffee stays at its best."
-date: "2026-11-10"
+date: "2026-11-22"
 tags: ["guide", "beans", "freshness", "roast"]
-draft: true
+draft: false
 series: "Buying & Storing Beans"
 part: 2
 ---

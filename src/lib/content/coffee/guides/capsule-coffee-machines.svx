@@ -1,9 +1,9 @@
 ---
 title: "Capsule Coffee Machines: When Pods Make Sense"
 description: "When a capsule machine is the right call, the main pod formats, and why the pods matter more than the machine."
-date: "2026-11-10"
+date: "2026-11-19"
 tags: ["guide", "brewing", "capsule", "gear"]
-draft: true
+draft: false
 series: "Brew Methods"
 part: 6
 ---

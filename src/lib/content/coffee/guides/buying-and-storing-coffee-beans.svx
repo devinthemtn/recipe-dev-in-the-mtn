@@ -1,9 +1,9 @@
 ---
 title: "Buying and Storing Coffee Beans: Getting Good Coffee Home and Keeping It Good"
 description: "How to read a bag, why the roast date matters, how to store and freeze beans, and how to pick a roaster."
-date: "2026-11-10"
+date: "2026-11-21"
 tags: ["guide", "beans", "buying", "storage"]
-draft: true
+draft: false
 series: "Buying & Storing Beans"
 part: 0
 ---

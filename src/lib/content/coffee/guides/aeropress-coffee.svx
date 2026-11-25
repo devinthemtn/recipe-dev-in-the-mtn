@@ -1,9 +1,9 @@
 ---
 title: "AeroPress Coffee: Standard and Inverted Methods"
 description: "Why the AeroPress is unlike any other brewer, and simple recipes for the standard and inverted methods."
-date: "2026-11-10"
+date: "2026-11-17"
 tags: ["guide", "brewing", "aeropress"]
-draft: true
+draft: false
 series: "Brew Methods"
 part: 3
 ---

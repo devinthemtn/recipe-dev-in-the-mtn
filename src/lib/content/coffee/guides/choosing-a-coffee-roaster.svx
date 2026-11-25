@@ -1,9 +1,9 @@
 ---
 title: "Choosing a Coffee Roaster or Subscription"
 description: "What makes a good coffee roaster, the trade-offs of buying local vs. online, and how coffee subscriptions work."
-date: "2026-11-10"
+date: "2026-11-23"
 tags: ["guide", "beans", "buying", "subscription"]
-draft: true
+draft: false
 series: "Buying & Storing Beans"
 part: 4
 ---

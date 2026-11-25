@@ -1,9 +1,9 @@
 ---
 title: "Storing and Freezing Coffee Beans"
 description: "What makes coffee go stale, the best containers and places to keep it, and how to freeze beans in portions without ruining them."
-date: "2026-11-10"
+date: "2026-11-23"
 tags: ["guide", "beans", "storage", "freezing"]
-draft: true
+draft: false
 series: "Buying & Storing Beans"
 part: 3
 ---

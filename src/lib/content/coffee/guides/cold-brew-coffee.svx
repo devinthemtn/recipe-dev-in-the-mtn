@@ -1,9 +1,9 @@
 ---
 title: "Cold Brew Coffee: Ratios, Steep Times and Storing Concentrate"
 description: "How to make cold brew concentrate at home, how long to steep it, how to dilute it, and how long it keeps."
-date: "2026-11-10"
+date: "2026-11-18"
 tags: ["guide", "brewing", "cold brew"]
-draft: true
+draft: false
 series: "Brew Methods"
 part: 4
 ---

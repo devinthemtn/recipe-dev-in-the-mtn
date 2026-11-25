@@ -3,7 +3,7 @@ title: "Brewing Basics: The Few Things That Matter Most"
 description: "Ratio, grind, water and taste. The handful of variables that make the biggest difference in your cup, whatever you brew with."
 date: "2026-11-10"
 tags: ["guide", "brewing"]
-draft: true
+draft: false
 series: "Brewing Basics"
 part: 0
 ---

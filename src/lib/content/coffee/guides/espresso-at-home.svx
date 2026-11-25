@@ -1,9 +1,9 @@
 ---
 title: "Espresso at Home: A Whole Different Game"
 description: "What makes espresso different from every other brew method, what it takes in gear, time and money, and how to pull a first shot."
-date: "2026-11-10"
+date: "2026-11-20"
 tags: ["guide", "brewing", "espresso", "gear"]
-draft: true
+draft: false
 series: "Brew Methods"
 part: 7
 ---

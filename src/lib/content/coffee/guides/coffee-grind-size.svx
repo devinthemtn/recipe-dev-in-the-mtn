@@ -1,9 +1,9 @@
 ---
 title: "Grind Size: From Fine to Coarse by Brew Method"
 description: "Why grind size matters so much, which grind each brew method likes, and how to tell when you've got it wrong."
-date: "2026-11-10"
+date: "2026-11-11"
 tags: ["guide", "brewing", "grind", "gear"]
-draft: true
+draft: false
 series: "Brewing Basics"
 part: 2
 ---
