@@ -1,0 +1,172 @@
+---
+title: "Sugar Alternatives and Diabetes: What's Actually in the Packet"
+description: "Which sweeteners hold up for blood sugar, which fillers quietly don't, and why I lean on monk fruit, stevia and allulose in my recipes."
+date: "2026-11-25"
+draft: false
+author: "DevInTheMtn"
+tags: ["diabetes", "sweeteners", "pantry"]
+---
+
+<script>
+	import SweetenerChart from '$lib/components/SweetenerChart.svelte';
+</script>
+
+A lot of the recipes on this site call for [monk fruit](/ingrts/monk-fruit-sweetener/) or allulose instead of sugar. I use them because they don't move my blood sugar. But "sugar-free" covers a lot of products, and they don't all behave the same. Some of the popular ones have research behind them that made me use them less. Others come mixed with fillers that raise blood sugar faster than table sugar does.
+
+This is what I've learned reading the labels and the research. I'm not a doctor, and none of this is medical advice. It's what I check before something goes in my cart.
+
+## The short version
+
+- **Pure monk fruit, pure stevia and allulose** are the ones I use. None of them raise blood sugar in a meaningful way.
+- **Read the ingredient list, not the front of the box.** Many "zero-calorie" packets are mostly dextrose or maltodextrin, which are fast carbs.
+- **Go easy on sugar alcohols,** especially maltitol, which does raise blood sugar. Keep erythritol and xylitol to modest amounts while the heart research gets sorted out.
+- **Use sucralose (Splenda) sparingly,** keep it out of the oven, and don't make a habit of pairing it with carb-heavy meals.
+- **Check with your meter or CGM.** People respond differently, so test anything new for yourself.
+
+## What the guidelines say
+
+The American Diabetes Association's Standards of Care say people with diabetes can swap sugar-sweetened foods and drinks for ones made with zero-calorie sweeteners, **in moderation and for the short term**. Water is still the first choice. The idea is that sweeteners are a step away from sugar, not a permanent replacement for it.
+
+In 2023 the World Health Organization went further and advised against using non-sugar sweeteners for weight control. That's often reported as "WHO says sweeteners are bad," but the guideline specifically left out people who already have diabetes. It was also based on low-certainty evidence, much of it observational. People who are already gaining weight or developing diabetes are more likely to switch to diet products, which makes it hard to tell cause from effect.
+
+So nobody is saying sweeteners are off-limits. The advice is to use them, not to lean on them.
+
+## The packet problem: fillers and label rounding
+
+Pure monk fruit and stevia extracts are hundreds of times sweeter than sugar. The amount that matches a teaspoon of sugar is a tiny pinch of powder. To make a packet you can tear open and pour, or a bag that measures cup-for-cup like sugar, manufacturers mix the extract with a **bulking agent**. Often that filler matters more than the sweetener on the label.
+
+**Dextrose** is glucose, the sugar the glycemic index is measured against (GI 100). **Maltodextrin** is a starch-based carb with a GI usually listed around 85 to 110. Both raise blood sugar faster than table sugar (GI about 65), and one of them is often the first ingredient in tabletop packets of sucralose, stevia and monk fruit blends.
+
+The label still says zero because of FDA rounding rules:
+
+- A serving with **under 5 calories** can be labeled "0 calories."
+- Carbs **under 1 gram** can be listed as "less than 1 g," and **under 0.5 g** can be listed as 0.
+- "Sugar free" only means less than 0.5 g of *sugars* per serving. Maltodextrin is a starch, not a sugar, so it doesn't count toward that limit.
+
+A typical 1-gram packet of Splenda has close to a gram of carbs and about 3 calories, almost all from dextrose and maltodextrin. One packet doesn't matter much. Three or four in a big coffee, or several servings of a "sugar-free" snack built on maltodextrin, start to add up to a real amount you're not counting.
+
+<SweetenerChart />
+
+## Sugar alcohols
+
+Cup-for-cup baking blends, sugar-free chocolate, candy and "keto" ice cream mostly use **sugar alcohols** (polyols). They're only partly absorbed, so they have fewer calories than sugar, but they're not all alike.
+
+**Maltitol** is the one I avoid. It's common in sugar-free chocolate and candy, and it has a GI around 35, higher for maltitol syrup. That's well below sugar, but it's not blood-sugar neutral, and the part you don't absorb ferments in your gut, which is where the gas, bloating and "sugar-free gummy bear" stories come from.
+
+**Sorbitol, isomalt and lactitol** barely raise blood sugar, but they're strong laxatives in larger amounts. US products with added sorbitol or mannitol that could add up to a lot in a day have to carry a laxative warning.
+
+**Erythritol** is the most common bulking agent in monk fruit and stevia blends, including the granulated monk fruit I've called for in some recipes. It has a GI of zero, almost no calories, and causes fewer stomach problems than the others, because most of it is absorbed and passed in urine unchanged. **Xylitol** has a small effect on blood sugar (GI around 12) and causes loose stools in larger amounts. Xylitol is also **very toxic to dogs**, even in small amounts, so keep it well out of reach if you have one.
+
+### The heart question
+
+In 2023 and 2024, researchers at the Cleveland Clinic published studies linking higher blood levels of erythritol (*Nature Medicine*) and xylitol (*European Heart Journal*) to more heart attacks and strokes. In small follow-up experiments, drinking 30 g of either one, about what's in a pint of keto ice cream, raised blood levels for hours (xylitol) to days (erythritol) and made platelets more prone to clotting. A small 2024 trial found the same platelet effect with erythritol but not with an equal amount of glucose.
+
+There are good reasons not to panic. The body makes both erythritol and xylitol on its own, so blood levels in the observational studies don't tell you what people ate. Some of the blood samples were collected before erythritol was even in the food supply. A small trial in people with diabetes found blood vessel function *improved* with erythritol. A direct cause hasn't been shown, and larger trials are underway.
+
+People with diabetes already have a higher risk of heart disease, so I've landed on moderation: a sprinkle in coffee or a few tablespoons spread through a whole recipe is fine by me, but I don't eat a 20 to 30 g serving of erythritol or xylitol every day. That's part of why I've moved toward allulose and pure monk fruit drops.
+
+## What the research says about sucralose, saccharin and aspartame
+
+For a long time zero-calorie sweeteners were assumed to pass through without affecting anything. Newer studies make that harder to believe for some of them.
+
+**Gut bacteria and glucose tolerance.** In a 2022 randomized trial in *Cell*, healthy adults took saccharin, sucralose, stevia or aspartame for two weeks at well under the daily limits. All four changed people's gut bacteria. **Saccharin and sucralose made glucose tolerance worse**, and how much depended on the person's gut bacteria. Stevia and aspartame didn't significantly affect it.
+
+**Sucralose plus carbs.** A 2020 trial in *Cell Metabolism* gave people drinks over two weeks with sucralose alone, sugar alone, or sucralose mixed with a carb. Sucralose alone didn't change insulin sensitivity. **Sucralose with a carb did**, along with how the brain responded to sweet taste. One trial isn't the final word, but a diet soda with a sandwich and fries is exactly that combination.
+
+**Hunger signals.** A 2025 brain-scan study in *Nature Metabolism* found that sucralose-sweetened water increased activity in the hypothalamus, the part of the brain that controls appetite, compared with real sugar. People also reported feeling hungrier. The effect was stronger in people with insulin resistance. That doesn't prove anyone ate more afterward, and the sweetener industry has pointed that out, but it fits with the idea that sweetness without calories can confuse appetite signals.
+
+**Heat.** Sucralose starts breaking down around 120°C (248°F), and when it's heated with fats or other food ingredients it can form chlorinated compounds. Germany's Federal Institute for Risk Assessment (BfR) advises against baking, roasting or frying with it and suggests adding it after cooking. Europe's food safety agency hasn't found a safety problem with sucralose in approved uses, but there are better options for baking anyway. A 2023 lab study also raised questions about sucralose-6-acetate, an impurity and breakdown product. It's early and unconfirmed, but it's one more reason I keep sucralose to a minimum.
+
+**Aspartame** loses its sweetness when heated, so it mostly ends up in cold drinks. In 2023 the WHO's cancer agency (IARC) classified it as "possibly carcinogenic" (Group 2B), based on limited evidence. A separate WHO/FAO expert committee looked at the same evidence and kept its daily limit, which a 70 kg adult would only exceed by drinking around 9 to 14 cans of diet soda a day. Anyone with phenylketonuria (PKU) must avoid it.
+
+**Saccharin** is heat-stable but has a bitter aftertaste, and it was one of the two sweeteners that worsened glucose tolerance in the 2022 study. **Acesulfame potassium (Ace-K)** is heat-stable and usually blended with sucralose or aspartame in diet drinks. There isn't much diabetes-specific research on it alone.
+
+## The ones I use
+
+### Pure monk fruit
+
+Monk fruit (*Siraitia grosvenorii*, or luo han guo) is a small melon from southern China. Its extract is roughly 150 to 250 times sweeter than sugar, and the sweetness comes from compounds called mogrosides, not from sugar. Your body doesn't digest mogrosides like carbs; gut bacteria break them down instead. So pure monk fruit has no calories and doesn't raise blood sugar.
+
+You'll see claims that monk fruit actually *lowers* blood sugar or inflammation. Some animal and lab studies point that way, and there are a few small human studies, but nothing strong enough to treat it as anything more than a sweetener. I'd call it neutral, which is all I want from it.
+
+It's considered safe (GRAS) in the US and allowed in several other countries, including China, where the fruit has been eaten for centuries. Purified monk fruit extract isn't approved as a sweetener in the EU, where regulators said they didn't have enough safety data to decide, and a new application is under review.
+
+In the kitchen, pure monk fruit is heat-stable but adds no bulk, browning or moisture. That's why most granulated "monk fruit sweetener" is actually mostly erythritol or allulose with a little monk fruit. **Liquid monk fruit drops** are usually just the extract and water, so they're what I use in coffee and tea.
+
+### Purified stevia
+
+Purified stevia extracts (Reb A, Reb M) are 200 to 400 times sweeter than sugar, don't raise blood sugar, and are approved in both the US and EU with a long safety record. In the 2022 *Cell* study it changed gut bacteria but didn't worsen glucose tolerance. Some people find it bitter or licorice-like, especially Reb A; Reb M tastes cleaner. Skip whole or crude stevia leaf, which isn't approved as a sweetener in the US, and check packets for dextrose and erythritol.
+
+### Allulose
+
+Allulose is a "rare sugar," found in tiny amounts in figs, raisins and maple syrup. Your body absorbs most of it but doesn't use it for energy, and passes it out in urine. It has about 0.4 calories per gram and doesn't raise blood sugar or insulin.
+
+There's some evidence it does a little better than neutral. A 2024 review of small trials in people with type 2 diabetes found that 5 to 8.5 g of allulose with a meal modestly lowered the blood sugar rise after eating and reduced time spent above range on a CGM. It didn't change fasting blood sugar or insulin, and there's no good evidence yet on A1c, so it's a small help, not a treatment.
+
+Allulose is the best sugar alternative I've found for cooking. It browns, caramelizes and keeps ice cream soft in the freezer, which is why it's in my [spiced apple cider syrup](/recipes/spiced-apple-cider-syrup/), [cottage cheese berry ice cream](/recipes/diabetic-cottage-cheese-berry-ice-cream/) and [pumpkin pie](/recipes/thanksgiving-pumpkin-pie/). It's about 70% as sweet as sugar, and large amounts at once can cause stomach upset. It's approved in the US but not in the EU or UK.
+
+## Side by side
+
+FDA's daily limits (the Acceptable Daily Intake, or ADI) are set with a big safety margin, and most people never get near them. The packet counts are FDA's own estimates for a 132 lb (60 kg) adult.
+
+| Sweetener | Sweetness vs. sugar | FDA daily limit | Heat | What I'd say |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pure monk fruit** | ~150–250x | No limit set | Heat-stable, no browning | My first choice. Buy pure drops, or check what the granulated kind is mixed with. |
+| **Purified stevia** (Reb A, Reb M) | 200–400x | 4 mg/kg (~9 packets) | Heat-stable | A good option. Didn't worsen glucose tolerance in the 2022 study. |
+| **Allulose** | ~0.7x | No limit set | Browns and caramelizes like sugar | Best for baking. Can slightly blunt the blood sugar rise from a meal. |
+| **Erythritol** | ~0.7x | No limit set | Heat-stable, can recrystallize | Fine in small amounts. Avoid big daily doses while heart research continues. |
+| **Sucralose** (Splenda) | ~600x | 5 mg/kg (~23 packets) | Breaks down above ~120°C | Use sparingly. Worsened glucose tolerance in 2022; don't bake with it. |
+| **Aspartame** (Equal, NutraSweet) | ~200x | 50 mg/kg (~75 packets) | Loses sweetness when heated | Limit it. Not for anyone with PKU. |
+| **Saccharin** (Sweet'N Low) | 300–500x | 15 mg/kg (~45 packets) | Heat-stable | Use sparingly. Worsened glucose tolerance in 2022. |
+| **Ace-K** (Sunett) | ~200x | 15 mg/kg (~23 packets) | Heat-stable | Usually in blends. Not much diabetes-specific research. |
+
+## What about honey, maple syrup and agave?
+
+"Natural" sugars are still sugar. **Honey and maple syrup** raise blood sugar much like table sugar, gram for gram. **Agave** has a low glycemic index only because it's mostly fructose, which goes to the liver instead of raising blood sugar right away. Large amounts of fructose are linked to fatty liver and insulin resistance in the liver, which already tend to come along with type 2 diabetes, so a low GI here isn't a good thing. **Coconut sugar** is marketed as low-GI, but it's mostly sucrose and acts a lot like brown sugar.
+
+If a recipe really needs one of these for flavor, I use a small amount and treat it as sugar in my carb count.
+
+## Baking and cooking with sugar alternatives
+
+A few things I've learned swapping them into recipes:
+
+- **Allulose browns faster than sugar.** Lower the oven about 25°F or tent with foil partway through, and expect softer, moister baked goods.
+- **Allulose is less sweet.** Use about a third more than the sugar called for, or mix it with a little monk fruit to make up the difference.
+- **Erythritol has a cooling taste** and can turn gritty or crystallize as things cool, like in a glaze or a syrup. Powdered erythritol or an allulose blend works better for those.
+- **Pure monk fruit and stevia add no bulk.** They work in drinks, dressings, sauces and anything where sugar is only there for sweetness. In baking, where sugar adds structure and moisture, use a granulated blend instead.
+- **Add sucralose after cooking,** if you use it at all, and skip it for baking.
+- **Start low.** Most people's taste for sweetness drops after a few weeks with less sugar. I use less sweetener now than I did when I started this site.
+
+## Counting them in your carbs
+
+US labels don't handle these consistently, so here's how I count them:
+
+- **Allulose** doesn't count toward "Total Sugars" or "Added Sugars," but it's still included in "Total Carbohydrate." Since it doesn't raise blood sugar, I subtract it, the same way you might subtract fiber. That's why my recipes that use allulose leave it out of the carb totals.
+- **Erythritol** can be subtracted in full for the same reason.
+- **Other sugar alcohols** are only partly absorbed. A common rule of thumb is to subtract half of them, but count maltitol closer to full if you see it affect you.
+- **Ignore "net carbs" and "keto" on the front of the package.** Those terms aren't regulated, so check the ingredient list and do the math yourself.
+
+Your meter or CGM is the real test. Check your blood sugar one to two hours after trying something new.
+
+## My checklist
+
+1. **Use pure liquid drops for drinks.** Pure monk fruit or stevia drops skip the fillers entirely.
+2. **Read the ingredient list first.** If dextrose, maltodextrin, sugar or maltitol is near the top, expect a blood sugar effect, whatever the front says.
+3. **Keep sucralose out of the oven** and away from carb-heavy meals.
+4. **Keep sugar alcohols modest.** Skip maltitol, avoid big daily servings of erythritol and xylitol, and keep xylitol away from dogs.
+5. **Bake with allulose,** or an allulose and monk fruit blend, and test small amounts first if your stomach is sensitive.
+6. **Test it yourself** with your meter or CGM, and treat even the good sweeteners as a way to want less sweetness over time.
+
+## Sources
+
+- American Diabetes Association, *Standards of Care in Diabetes*, Section 5: Facilitating Positive Health Behaviors (2025 and 2026).
+- World Health Organization, *Use of Non-Sugar Sweeteners: WHO Guideline* (2023).
+- Suez et al., "Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance," *Cell* (2022).
+- Dalenberg et al., "Short-term consumption of sucralose with, but not without, carbohydrate impairs neural and metabolic sensitivity to sugar in humans," *Cell Metabolism* (2020).
+- Chakravartti et al., "Non-caloric sweetener effects on brain appetite regulation in individuals across varying body weights," *Nature Metabolism* (2025).
+- Witkowski et al., "The artificial sweetener erythritol and cardiovascular event risk," *Nature Medicine* (2023); "Xylitol is prothrombotic and associated with cardiovascular risk," *European Heart Journal* (2024); and the erythritol platelet trial in *Arteriosclerosis, Thrombosis, and Vascular Biology* (2024).
+- German Federal Institute for Risk Assessment (BfR), opinion on heating sucralose (2019).
+- IARC and JECFA assessments of aspartame (2023).
+- US FDA, *Aspartame and Other Sweeteners in Food* (ADI and packet estimates), and food labeling rules in 21 CFR 101.9 and 101.60; FDA guidance on allulose labeling (2020).
+
+*This is for information only and isn't medical advice. Talk to your doctor or a registered dietitian before changing how you manage your diabetes.*
